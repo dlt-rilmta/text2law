@@ -91,7 +91,7 @@ def extract_legislations(p, files):
                     is_legislation = True
                     if len(legislation) != 0:
                         title_words = leg_title.split("_")
-                        endword = title_words[len(title_words)-1]
+                        endword = title_words[-1]
                         Path("legislations/"+endword).mkdir(parents=True, exist_ok=True)
                         with open("legislations/" + endword + "/" + leg_title + ".txt", "w", encoding="utf-8") as f:
                             f.write("\n".join(legislation))
