@@ -1,0 +1,219 @@
+A Kormány 361/2009. (XII. 30.) Korm. rendelete
+a körültekintõ lakossági hitelezés feltételeirõl és a hitelképesség vizsgálatáról
+
+A Kormány a hitelintézetekrõl és pénzügyi vállalkozásokról  szóló 1996. évi CXII. törvény 235.  § (1) bekezdésének a) és g) pontjában,
+és a fogyasztónak nyújtott hitelrõl  szóló 2009. évi CLXII. tör vény 30.  §-ának b) pontjában foglalt felhatalmazás alapján, az Alkotmány
+35.  § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva a következõket rendeli el.
+
+A rendelet hatálya
+
+1.  § (1) E rendelet rendelkezéseit kell alkalmazni a hitelnyújtó Magyar Köztársaság területén hitel és pénzkölcsön nyújtási
+tevékenysége keretében természetes személlyel kötött szerzõdéseire.
+
+(2) E rendelet rendelkezéseit kell alkalmazni a természetes személynek nyújtott pénzügyi lízingre azzal, hogy ahol
+e rendelet hitelt említ, ott pénzügyi lízinget, ahol törlesztõrészletet említ, ott lízingdíjat kell érteni, kivéve, ha e rendelet
+ettõl eltérõen rendelkezik.
+
+M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám 49567
+
+
+
+(3) E rendelet hatálya nem terjed ki:
+a) a természetes személy fizetési nehézsége és késedelme  miatt a meglévõ hitelei módosítására, átütemezésére,
+
+amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik és az új hitel nem tartozik
+aa) a 4.  § (2) bekezdésének b) pontjában kezelt kategóriába, ha az eredeti hitel euró alapú hitel vagy euróhitel,
+ab) a 4.  § (2) bekezdésében kezelt kategóriákba, ha az eredeti hitel forinthitel;
+
+b) a már fennálló hitellel rendelkezõ természetes személy fizetõképességének biztosítása érdekében ugyanazon
+hitelnyújtónál történõ új hitel nyújtására, ha az további eladósodottságot csak a fizetõképesség helyreállításával
+indokolt mértékig eredményez;
+
+c) kézizálog fedezetû kölcsön nyújtására;
+d) értékpapír vagy betét fedezete mellett nyújtott kölcsönre, valamint
+e) a Nemzeti Fejlesztési és Gazdasági Minisztérium egyes fejezeti kezelésû elõirányzatai kezelésérõl és
+
+támogatásainak lebonyolításáról 19/2008. (X. 8.) NFGM rendelet 66.  §-a szerinti Széchenyi Kártya konstrukcióra.
+(4) E rendelet hatálya – a 6.  § kivételével – nem terjed ki az olyan ingatlanra alapított jelzálogjog fedezete mellett nyújtott
+
+hitelre, amelynél a szerzõdés alapján fennálló hitel tõkeösszege folyamatosan növekszik, és a hitel visszafizetésének
+esedékessége a természetes személy halálát, ille tõ leg a fedezetként szolgáló ingatlan életvitelszerû használatának
+felhagyását vagy értékesítését köve tõen áll be.
+
+(5) E rendelet 6.  §-át nem kell alkalmazni az állami kezességvállalással biztosított lakáscélú kölcsönökre.
+(6) E rendelet hatálya – a 4.  § (1) és (2) bekezdésében meghatározott belsõ szabályzati korlátok alkalmazásának
+
+kivételével – nem terjed ki a hatálybalépésekor fennálló hitelek más hitelnyújtónál történõ kiváltására, ha
+a) ezáltal a hiteltartozás kiváltáskor fennálló összege – devizahitel esetén a hitel eredeti devizanemében
+
+meghatározott összeg – nem növekszik, és
+b) az új hitel nem tartozik
+
+ba) a 4.  § (2) bekezdésének b) pontjában kezelt kategóriába, ha az eredeti hitel euró alapú hitel vagy euróhitel,
+bb) a 4.  § (2) bekezdésében kezelt kategóriákba, ha az eredeti hitel forinthitel.
+
+Értelmezõ rendelkezések
+
+2.  § E rendelet alkalmazásában:
+1. csoport: a hitelintézetekrõl és pénzügyi vállalkozásokról  szóló 1996. évi CXII. tör vény ben (a továb biak ban: Hpt.)
+
+meghatározott fogalom;
+2. devizahitel:
+
+a) forinttól eltérõ pénznemben folyósított hitel,
+b) devizában nyilvántartott, de forintban folyósított hitel;
+
+3. gépjármû piaci értéke: új gépjármû esetén a gépjármû bruttó vételára, használt gépjármû esetén a nemzetközi
+kereskedelmi jármûadatbázissal rendelkezõ, Európában és Magyarországon is a teljes gépjármûszegmens által
+használt és elfogadott gépjármû értékelõ rendszer felhasználásával számított eladási érték;
+
+4. hitel: a Hpt.-ben meghatározott hitel és pénzkölcsön;
+5. hitelnyújtó: a pénzügyi intézmény és a pénzforgalmi intézmény;
+6. hitelezhetõségi limit: a hitelnyújtó belsõ szabályzata alapján forintban meghatározott maximális havi
+
+hiteltörlesztési képességet kifejezõ összeg;
+7. ingatlan forgalmi értéke: a termõföldnek nem minõsülõ ingatlanok hitelbiztosítéki értékének meghatározására
+
+vonatkozó módszertani elvekrõl  szóló 25/1997. (VIII. 1.) PM rendelet 2.  § (2) bekezdésének a) pontjában és
+a termõföld hitelbiztosítéki értéke meghatározásának módszertani elveirõl  szóló 54/1997. (VIII. 1.) FM rendelet 3.  §
+(2) bekezdésének a) pontjában meghatározott, a piaci összehasonlító adatok elemzésén alapuló értékelés szerint
+meghatározott érték;
+
+8. kitettség: a Hpt.-ben meghatározott fogalom;
+9. pénzforgalmi intézmény: az a Hpt.-ben meghatározott pénzforgalmi intézmény, aki engedéllyel rendelkezik
+
+a pénzforgalmi szolgáltatásához kapcsolódóan hitel- és pénzkölcsönnyújtási tevékenység végzésére;
+10. pénzügyi intézmény: a Hpt.-ben meghatározott fogalom, ideértve az Európai Unió más tagállamában vagy
+
+az Európai Gazdasági Térségrõl  szóló megállapodásban részes más államban székhellyel rendelkezõ és ott
+jogszerûen tevékenységet végzõ, a Magyar Köztársaság területén határon átnyúló szolgáltatást nyújtó pénzügyi
+intézményt is;
+
+11. pénzügyi lízing: a Hpt.-ben meghatározott fogalom.
+
+49568 M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám
+
+
+
+A körültekintõ lakossági hitelezés általános követelményei
+
+3.  § (1) A hitelnyújtó nem nyújthat hitelt kizárólag a hitelkockázati fedezet figye lembe véte lével, a természetes személy
+hitelképességét,  illetve hitelezhetõségét minden egyes hitelbírálatkor meg kell vizsgálnia.
+
+(2) A hitelképesség,  illetve hitelezhetõség vizsgálatának a 4.  § (1) bekezdésének alapján elkészített belsõ szabályzat
+szerint a természetes személy vagy a természetes személy háztartása jövedelmi helyzetén és az ez alapján
+meghatározott hitelezhetõségi limiten kell alapulnia.
+
+(3) A hitelnyújtó gondoskodik arról, hogy a Magyar Nemzeti Bank és a Pénzügyi Szervezetek Állami Felügyelete által
+a honlapján közzétett, a túlzott eladósodottság kockázatairól  szóló tájékoztatót a hitelnyújtóval – ideértve annak
+közvetítõivel is – kapcsolatba kerülõ hiteligénylõ természetes személyek a hitelképesség vizsgálatát megelõzõen
+kézhez kapják.
+
+4.  § (1) A hitelnyújtó a belsõ szabályzatában rögzíti:
+a) a hitelezhetõségi vizsgálat alanyi körét, amely a természetes személyre vagy a természetes személy háztartására
+
+terjedhet ki, utóbbi esetben a háztartás fogalmának meghatározását is;
+b) az egyes hiteltípusoknál a hitelezhetõségi limit kiszámítása szempontjából figye lembe vehetõ jövedelmi
+
+tételeket és azok igazolásának módját;
+c) a hitelnyújtó által megkívánt igazolások meghatározását,  illetve a nyilatkozat tartalmát a természetes személy
+
+más hitelnyújtóval szemben fennálló egyéb hiteleirõl;
+d) a természetes személy meglévõ hitelei beszámításának technikáját a hitelezhetõségi limit kiszámításakor;
+e) a hitelezhetõségi limit kiszámításának módszerét az egyes hiteltípusoknál.
+
+(2) A devizahitel havi törlesztõrészlete folyósításkor nem lehet magasabb:
+a) euró alapú hiteleknél és euróhiteleknél a hitelezhetõségi limit 80%-ánál;
+b) más devizahiteleknél a hitelezhetõségi limit 60%-ánál.
+
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni, ha a természetes személy dokumentálhatóan a hitel
+devizanemében fennálló rendszeres jövedelemmel rendelkezik, amennyiben a természetes személy ezen jövedelme
+eléri legalább a természetes személy összes devizában fennálló hitele törlesztõrészleteinek összegét.
+
+(4) Az egy csoportba tartozó hitelnyújtóknál az (1) bekezdésben meghatározott belsõ szabályzatok tartalmát egységes
+elvek alapján kell megállapítani.
+
+(5) A hitelnyújtónak figye lembe kell venni a hitelezhetõségi limit meghatározásakor a természetes személy összes ismert
+hiteltartozását, amely a hitelnyújtóval vagy más hitelnyújtóval szemben áll fenn.
+
+(6) A hitelnyújtó köteles a hitelezés körében a hitelnyújtótól elvárható körültekintéssel eljárni annak érdekében, hogy
+a természetes személy pénzügyi helyzetét feltárja, ideértve minden olyan hitelinformációs rendszer lekérdezést,
+amelyhez csatlakozott vagy amelynek tagja.
+
+5.  § (1) Lakás-elõtakarékossági szerzõdéssel vagy életbiztosítási szerzõdéssel kombinált lakáscélú hitel esetén a kapcsolódó
+befizetési kötelezettséget figye lembe kell venni a hitelezhetõségi limit meghatározásánál, mint törlesztõrészlet
+növelõ tényezõt.
+
+(2) Lakás-elõtakarékossági szerzõdéssel kombinált lakáscélú hitel esetén nem vehetõ figye lembe a hitel összegének
+meghatározásánál a lakás-takarékpénztári hitel.
+
+(3) Életbiztosítási szerzõdéssel kombinált lakáscélú hitel esetén a hitel összegének meghatározásánál csak a tõkegarantált
+összeg és a hozamgarancia, az eléréses életbiztosítás esetén csak a biztosítási összeg vehetõ figye lembe.
+
+(4) Ha a hitelnyújtó egy kedvezményes idõtartamra alacsonyabb kamatot és díjakat számít fel vagy a tõketörlesztés
+megkezdésére haladékot nyújt, a kedvezményes idõtartam lejárta utáni legmagasabb törlesztõrészletet kell
+figye lembe venni a hitelezhetõségi limitnek  való megfelelés vizsgálatánál.
+
+Ingatlanra alapított jelzálogjog fedezete mellett nyújtott hitelre, pénzügyi lízingre vonatkozó szabályok
+
+6.  § (1) Az ingatlanra alapított jelzálogjog fedezete mellett nyújtott forinthiteleknél a kitettség vállaláskori értéke nem
+haladhatja meg az ingatlan forgalmi értékének 75%-át, pénzügyi lízingnél 80%-át. Építés alatt lévõ létesítményre
+nyújtott hitelnél a korlát az ingatlan teljes készültségének elérésekori forgalmi értékre vonatkoztatva értendõ.
+
+(2) Az ingatlanra alapított jelzálogjog fedezete mellett nyújtott euró alapú hiteleknél és euróhiteleknél a kitettség
+vállaláskori értéke nem haladhatja meg az ingatlan forgalmi értékének 60%-át, pénzügyi lízingnél 65%-át.
+
+M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám 49569
+
+
+
+(3) Az ingatlanra alapított jelzálogjog fedezete mellett nyújtott, a (2) bekezdéstõl eltérõ pénznemben meghatározott
+devizahitelek kitettségének vállaláskori értéke nem haladhatja meg az ingatlan forgalmi értékének 45%-át, pénzügyi
+lízingnél 50%-át.
+
+(4) Az (1)–(3) bekezdésben meghatározott arányok számításánál figye lembe kell venni az ingatlan-nyilvántartásba már
+bejegyzett jelzáloggal fedezett követelésnek az ingatlan-nyilvántartásba bejegyzett értékét.
+
+(5) Ha a hitelnyújtó ugyanannak a természetes személynek ugyanazon ingatlanára többféle pénznemben nyújt hitelt,
+akkor az (1)–(3) bekezdésben meghatározott limitek közül az alacsonyabbat kell alkalmazni a teljes kitettségre.
+
+A gépjármûvásárláshoz nyújtott hitelekre vonatkozó szabályok
+
+7.  § (1) Gépjármûvásárláshoz nyújtott forinthitel esetén a kitettség vállaláskori értéke nem haladhatja meg a gépjármû piaci
+értékének 75%-át, pénzügyi lízing esetén 80%-át.
+
+(2) Gépjármûvásárláshoz nyújtott euró alapú hitel és euróhitel esetén a kitettség vállaláskori értéke nem haladhatja meg
+a gépjármû piaci értékének 60%-át, pénzügyi lízing esetén 65%-át.
+
+(3) Gépjármûvásárláshoz nyújtott a (2) bekezdéstõl eltérõ pénznemben meghatározott devizahitel esetén a kitettség
+vállaláskori értéke nem haladhatja meg a gépjármû piaci értékének 45%-át, pénzügyi lízing esetén 50%-át.
+
+(4) Ha a hitelnyújtó ugyanannak a természetes személynek ugyanazon gépjármûre többféle pénznemben nyújt
+gépjármûvásárláshoz hitelt, akkor az (1)–(3) bekezdésben meghatározott limitek közül az alacsonyabbat kell
+alkalmazni a teljes kitettségre.
+
+(5) A gépjármûvásárláshoz nyújtott hitelek szerzõdéskötéskori futamideje nem lehet több, mint 84 hónap.
+
+Átmeneti és záró rendelkezések
+
+8.  § (1) E rendelet – a (2) bekezdésben meghatározott kivétellel – 2010. március 1-jén lép hatályba.
+(2) E rendelet 3–5.  §-a 2010. június 11-én lép hatályba.
+(3) E rendelet rendelkezéseit a hatálybalépésüket köve tõen kötött szerzõdésekre kell alkalmazni.
+
+9.  § A hitelezési kockázat kezelésérõl és tõkekövetelményérõl  szóló 196/2007. (VII. 30.) Korm. rendelet 12.  § (3) bekezdés
+d) pontjában a „hetven” szövegrész helyébe a „hetvenöt” szöveg lép.
+
+10.  § E rendelet 9.  §-a 2010. március 2-án hatályát veszti. E § 2010. március 3-án hatályát veszti.
+
+A miniszterelnök helyett:
+
+Kiss Péter s. k.,
+a társadalompolitika összehangolásáért felelõs
+
+tárca nélküli miniszter
+
+49570 M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám
+
+
+
+V. A Kor mány tag ja i nak ren de le tei

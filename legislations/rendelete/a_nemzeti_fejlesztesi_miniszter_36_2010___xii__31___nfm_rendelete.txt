@@ -1,0 +1,836 @@
+A nemzeti fejlesztési miniszter 36/2010. (XII. 31.) NFM rendelete
+
+a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos
+
+üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól
+
+A megújuló energia közlekedési célú felhasználásának elõmozdításáról és a közlekedésben felhasznált energia üvegházhatású
+
+gázkibocsátásának csökkentésérõl szóló 2010. évi CXVII. törvény 13. § (2) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+az egyes miniszterek, valamint a Miniszterelnökséget vezetõ államtitkár feladat- és hatáskörérõl szóló 212/2010. (VII. 1.) Korm.
+
+rendelet (a továbbiakban: Kr.) 84. § f) pontjában meghatározott feladatkörömben eljárva, a Kr. 94. § a) pontjában meghatározott
+
+feladatkörében eljáró vidékfejlesztési miniszterrel egyetértésben a következõket rendelem el:
+
+1. § A bioüzemanyag teljes életciklusra számított üvegházhatású gáz kibocsátás (a továbbiakban: ÜHG kibocsátás) értékét
+
+és az ÜHG kibocsátás elkerülést az 1. mellékletben foglaltak alapján kell meghatározni.
+
+2. § (1) Az azonos típusú, de eltérõ mennyiségû, kibocsátási értékû termékek összevonása, összekeverése során
+
+az összekeveréssel elõállított összevont termékmennyiség kibocsátási komponenseit, vagy az ÜHG kibocsátás
+
+elkerülését tömegmérleg módszerrel kell meghatározni.
+
+(2) Az (1) bekezdésben foglalt módszer
+
+a) megengedi az eltérõ fenntarthatósági jellemzõkkel rendelkezõ nyersanyag-szállítmányok vagy bioüzemanyagok
+
+összekeverését,
+
+b) elõírja, hogy a fenntarthatósági jellemzõkkel kapcsolatos információk és az egyes szállítmányok mérete
+
+a keverékhez rendelve megmaradjon, és
+
+c) biztosítja, hogy a keverékbõl kivett minden szállítmány összege azonos fenntarthatósági jellemzõkkel kerüljön
+
+leírásra és ugyanolyan mennyiségben, mint a keverékhez adott összes szállítmány összege.
+
+3. § Tényleges érték alkalmazása esetén a számítás megfelelõségét a fenntartható bioüzemanyag-termelés
+
+követelményeirõl és igazolásáról szóló jogszabályban meghatározott auditor nyilatkozatával kell igazolni.
+
+4. § (1) Ez a rendelet 2011. január 1. napján lép hatályba.
+
+(2) Ez a rendelet
+
+a) a megújuló energiaforrásból elõállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv
+
+módosításáról és azt követõ hatályon kívül helyezésérõl szóló, 2009. április 23-i 2009/28/EK európai parlamenti és
+
+tanácsi irányelv 18. cikk (1) bekezdésének, 19. cikk (1) és (3) bekezdésének, valamint V. mellékletének, és
+
+b) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetõleg az üvegházhatású kibocsátott gázok
+
+mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK
+
+irányelv módosításáról, a belvízi hajókban felhasznált tüzelõanyagokra vonatkozó követelmények tekintetében
+
+az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezésérõl szóló, 2009.
+
+április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv 1. cikk 5–6. pontjának és IV. mellékletének
+
+való megfelelést szolgálja.
+
+Dr. Fellegi Tamás s. k.,
+nemzeti fejlesztési miniszter
+
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32189
+
+
+
+1. melléklet a 36/2010. ( XII. 31.) NFM rendelethez
+
+I. A bioüzemanyagok ÜHG kibocsátásának és ÜHG kibocsátás elkerülésének számítási eljárása
+
+1. A közlekedési célú üzemanyagok, a bioüzemanyagok elõállítása és használata által kiváltott üvegházhatású
+
+gázkibocsátást a következõk szerint kell kiszámítani:
+
+32190 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+
+
+ahol:
+
+
+
+E  = az üzemanyag használata során keletkező összes kibocsátás;
+
+eec  = a nyersanyagok kinyerése vagy termelése során keletkező kibocsátások;
+
+el  = a földhasználat megváltozása által okozott szénkészlet-változásokból eredő éves
+kibocsátások;
+
+ep  = a feldolgozás során keletkező kibocsátások;
+
+etd  = a szállítás és az elosztás során keletkező kibocsátások;
+
+eu  = a használt üzemanyagból eredő kibocsátások;
+
+esca  = a talajban lévő szén-dioxid-felhalmozódásból származó kibocsátás-megtakarítás jobb
+mezőgazdasági gazdálkodás révén;
+
+eccs  = a szén megkötéséből és geológiai tárolásából eredő kibocsátás-megtakarítások;
+
+eccr  = a szén megkötéséből és helyettesítéséből eredő kibocsátás-megtakarítások;
+
+eee  = a kogenerációból származó villamosenergia-többletből eredő kibocsátás-
+megtakarítások.
+
+ A gépek és berendezések gyártása során keletkező kibocsátásokat nem kell figyelembe venni.
+
+
+2.   Az üzemanyagokból eredő üvegházhatású gázkibocsátást, E, az egy MJ üzemanyagra jutó CO2
+
+grammjának egyenértékében kell kifejezni, gCO2eq/MJ.
+3.  A 2. ponttól eltérően a közlekedési célú üzemanyagok esetében a gCO2eq/MJ-ban kiszámított értékek
+
+kiigazíthatók a hasznos üzem tekintetében az üzemanyagok között tapasztalható különbségek
+figyelembevétele érdekében, km/MJ-ban kifejezve. Ilyen kiigazítás kizárólag akkor lehetséges, ha a
+hasznos üzem tekintetében fennálló különbségek igazolhatók.
+
+
+4.  A bioüzemanyagok használatából eredő, az üvegházhatású gázkibocsátás-megtakarítást a következők
+
+szerint kell kiszámítani:
+MEGTAKARÍTÁS = (EF – EB)/EF,
+
+ahol
+
+ EB  = a bioüzemanyagok használatából eredő összes kibocsátás; és
+
+  EF =  a fosszilisüzemanyag-komparátor használatából eredő összes kibocsátás
+
+
+5.  Az 1. pont alkalmazásában a CO2, N2O és CH4 üvegházhatású gázokat kell figyelembe venni.
+
+A CO2-egyenérték kiszámításához e gázokat a következő értékekkel kell CO2 egyenértékre átszámítani:
+
+ CO2 : 1
+N2O:  296
+CH4: 23
+
+
+6. A nyersanyagok kinyerése vagy termelése során keletkező kibocsátásokba (eec) beletartoznak
+
+a) a kinyerési vagy a mezőgazdasági termelési eljárás során keletkező kibocsátások;
+b) a nyersanyagok begyűjtése során keletkező kibocsátások;  
+
+
+
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32191
+
+c) a hulladékokból és a szivárgásokból eredő kibocsátások; és
+d) a kinyeréshez vagy a termeléshez használt vegyszerek vagy egyéb termékek előállítása során
+
+keletkező kibocsátások.
+A nyersanyagtermelés vonatkozásában a szén-dioxid-megkötést nem kell figyelembe venni.
+Az olajkitermelést kísérő fáklyázásból származó üvegházhatású gázkibocsátásnak a világ bármely
+
+pontján bekövetkező bizonyított csökkenését le kell vonni.
+A termelésből eredő kibocsátásokra vonatkozó, a tényleges értékek használatának alternatíváját jelentő
+
+becslések levezethetők az alapértelmezett értékek kiszámításánál figyelembe vett földrajzi területeknél
+kisebb területekre kiszámított átlagokból.
+
+
+7. A földhasználat megváltozása által okozott szénkészlet-változásokból eredő éves kibocsátások (el )
+
+kiszámításához az összes kibocsátást egyenlően el kell osztani húsz évre. Ezen kibocsátások kiszámítása
+során a következő szabályt kell alkalmazni:
+
+
+
+el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB,
+ahol
+
+el
+
+= a földhasználat megváltozása által okozott szénkészlet-változásokból eredő éves
+kibocsátások (a bioüzemanyagból származó energia egy egységére jutó
+CO2-egyenérték tömegeként számítva);
+
+CSR
+
+= a referencia-földhasználathoz hozzárendelt területegységenkénti szénkészlet (a
+területegységre jutó szén tömegében mérve, beleértve a talajt és a vegetációt
+is). A referencia-földhasználat a 2008  januárjában, vagy a nyersanyag előállítása
+előtt húsz évvel aktuális földhasználat, bármelyik is a későbbi;
+
+CSA
+
+= az aktuális földhasználathoz hozzárendelt területegységenkénti szénkészlet (a
+területegységre jutó szén tömegében mérve, beleértve a talajt és a vegetációt
+is). Azokban az esetekben, ahol a szénkészlet egy évnél hosszabb ideig
+halmozódik fel, a CSA-hoz rendelt érték a húsz év elteltével vagy a gabona
+beérésekor becsült területegységenkénti szénkészlet, a korábban bekövetkező
+figyelembevételével;
+
+P
+
+= a növény produktivitása (a bioüzemanyagokból egységnyi területen évente
+előállított energia); és
+
+eB
+
+= 29 gCO2eq/MJ értékű bónusz olyan bioüzemanyagokra vagy a folyékony bio-
+energiahordozókra, amelyek esetében a biomasszát helyreállított degradálódott
+földterületről nyerik, és a 8. pontban felsorolt feltételek teljesülnek.
+
+
+8. A 29 gCO2eq/MJ értékű bónusz akkor adható meg, ha bizonyított, hogy az adott földterület 2008
+
+januárjában nem állt mezőgazdasági vagy más célú használat alatt, és az alábbi kategóriák
+valamelyikébe tartozik:
+
+a) súlyosan degradálódott földterültet, beleértve a korábban mezőgazdasági célra használt
+földterületeket is, vagy
+
+b) erősen szennyezett földterület.
+A 29 gCO2eq/MJ értékű bónusz a földterület mezőgazdasági használatra való átállításának időpontjától
+
+számított legfeljebb tíz évig érvényes, feltéve, hogy az a) alpontba tartozó földterületek esetében
+biztosított a szénkészlet folyamatos növekedése és az erózió jelentős csökkentése, vagy a b)  alpontba
+tartozó földterületek esetében pedig a talajszennyeződés mértéke csökken.
+
+
+9. A 8. pontban említett kategóriák fogalom-meghatározása a következő:
+
+a) „súlyosan degradálódott földterület”: olyan földterület, amelynek esetében hosszabb időszak
+során jelentős szikesedés volt tapasztalható, vagy amelynek a szervesanyag-tartalma különösen
+alacsony, és súlyosan erodálódott; 
+
+
+
+32192 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+
+b) „erősen szennyezett földterület”: olyan földterület, amely a talajszennyeződés mértéke miatt
+élelmiszer- vagy takarmánytermelésre nem alkalmas.
+
+ Ide tartoznak azok a földterületek is, amelyekről a Bizottság a megújuló energiaforrásból előállított
+energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő
+hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és a tanácsi irányelv
+18. cikk (4) bekezdés negyedik albekezdésének megfelelően határozatot hozott.
+
+
+10.  A talajban lévő szén-dioxid-készletek kiszámításának alapja a 2009/28/EK irányelv V. mellékletének
+
+alkalmazásában a talajban lévő kötöttszén-készletek kiszámításával kapcsolatos iránymutatásról szóló,
+2010. június 10-i 2010/335/EU bizottsági határozat.
+
+11.  A feldolgozás során keletkező kibocsátásokba (ep, ) beletartoznak
+a) a feldolgozás során keletkező kibocsátások;
+b) a hulladékokból és a szivárgásokból eredő kibocsátások; és
+c) a feldolgozáshoz használt vegyszerek vagy egyéb termékek előállítása során keletkező kibocsátások.
+
+ A nem az üzemanyag-előállító üzemben előállított villamosenergia-fogyasztás elszámolásához ennek a
+villamos energiának az előállítására és elosztására jellemző üvegházhatású gázkibocsátás-intenzitást
+úgy kell tekinteni, hogy az megegyezik az egy meghatározott régióban a villamos energia előállítására
+és elosztására jellemző átlagos kibocsátási intenzitással. E helyett a termelők átlagértéket is
+alkalmazhatnak egy egyedi villamosenergia-előállító üzem esetében az ebben az üzemben megtermelt
+villamos energiára, ha ez az üzem nem csatlakozik a villamos energia távvezeték-hálózathoz.
+
+
+12. A szállítás és az elosztás során keletkező kibocsátásokba (etd) beletartoznak a nyersanyagok és a félkész
+
+anyagok szállítása és tárolása során keletkező kibocsátások és a késztermékek tárolása és elosztása
+során keletkező kibocsátások. A közlekedésből és az áruszállításból származó, a 6. pont értelmében
+figyelembe veendő kibocsátás nem tartozik e pontba.
+
+
+13. A használt üzemanyagból eredő kibocsátásokat (eu) a bioüzemanyagok és folyékony bio-
+
+energiahordozók esetében nullának kell tekintetni.
+14. A szén megkötéséből és geológiai tárolásából eredő, az ep értékbe még nem beszámított kibocsátás-
+
+megtakarításokba (eccs) csak azok a kibocsátott CO2 megkötésével és tárolásával elkerült kibocsátások
+számíthatók bele, amelyek közvetlenül összefüggnek az üzemanyag kinyerésével, szállításával,
+feldolgozásával és elosztásával.
+
+
+15.  A szén megkötéséből és helyettesítéséből eredő kibocsátás-megtakarításokba (eccr) csak az olyan CO2
+
+megkötéssel elkerült kibocsátások számíthatók bele, amelyek esetében a szén biomassza eredetű és azt
+a fosszilis CO2 helyettesítésére használják kereskedelmi termékekben és szolgáltatásokban.
+
+
+16.  A kogenerációból származó villamosenergia-többletből eredő kibocsátás-megtakarításokat (eee) csak az
+
+olyan üzemanyag-előállító rendszerek által termelt többlet villamos energia vonatkozásában lehet
+figyelembe venni, amelyek kogenerációs elven működnek, kivéve, ha a kogenerációhoz használt
+üzemanyag a mezőgazdasági növény maradványon kívüli társtermék. Ennek a többlet villamos
+energiának az elszámolásához a kogenerációs egység méretét úgy kell tekinteni, hogy az megegyezik az
+ahhoz szükséges minimális mérettel, hogy a kogenerációs egység szolgáltatni tudja az üzemanyag
+termeléshez szükséges hőt. Az ezzel a többlet villamos energiával összefüggésben keletkező
+üvegházhatású gázkibocsátás-megtakarítást úgy kell tekinteni, hogy az megegyezik azzal a mennyiségű
+üvegházhatású gázzal, amelyet megegyező mennyiségű villamos energiának a kogenerációs
+egységben használttal azonos üzemanyaggal történő előállítása során bocsátanának ki.
+
+
+17.  Ha az üzemanyag-előállítási eljárás kombinálva állítja elő azt az üzemanyagot, amelynek
+
+vonatkozásában a kibocsátást számítják és egy vagy több egyéb terméket („társtermékek”), akkor az
+üvegházhatású gázkibocsátást meg kell osztani az üzemanyag vagy annak köztes terméke és a
+társtermékek között azok energiatartalmának arányában (ez utóbbit a villamos energián kívüli
+társtermékek esetében az alsó fűtőértéken kell meghatározni). 
+
+
+
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32193
+
+
+18.  A 17. pontban említett számítás alkalmazásában a szétosztandó kibocsátások az
+
+eec +  el, + az ep, etd és eee azon hányada, amelyre az előállítási folyamat azon lépésében kerül sor, amikor
+a társtermékeket állítják elő. Ha az életciklus során a folyamat egy korábbi lépésében a társtermékekhez
+való hozzárendelésre került sor, akkor azoknak a kibocsátásoknak azt a hányadát kell az összes
+kibocsátás helyett erre a célra felhasználni, amelyet az utolsó ilyen folyamatlépésben a közbenső
+üzemanyagtermékhez kiosztottak.
+
+ A bioüzemanyagok esetében minden társterméket, beleértve a 16. pontba nem tartozó villamos
+energiát is, e számításhoz figyelembe kell venni, kivéve a mezőgazdasági növényi maradványokat,
+ideértve a szalmát, a kipréselt cukornádat, a héjakat, a kukoricacsöveket és a dióhéjat. A negatív
+energiatartalmú társtermékeket nulla energiatartalommal rendelkezőnek kell tekinteni a számítás során.
+
+ A hulladékokat, a mezőgazdasági növénymaradványokat, beleértve a szalmát, a kipréselt cukornádat, a
+héjakat, a kukoricacsöveket és a dióhéjat, és a feldolgozás során keletkező maradványokat, beleértve a
+nyers glicerint (a nem finomított glicerint), az életciklus alatti üvegházhatású gázkibocsátásuk
+tekintetében nulla értékkel kell figyelembe venni ezen anyagok begyűjtési folyamatáig.
+
+ A finomítókban előállított üzemanyagok esetében a 17. pontban említett számítás alkalmazásában az
+elemzés egysége a finomító.
+
+
+II.      A bioüzemanyagok részekre bontott alapértelmezett ÜHG kibocsátási értékei
+1. táblázat: a termelésre vonatkozó alapértelmezett értékek: „eec” az I. részben meghatározottak szerint
+
+A bioüzemanyag előállítási módja
+
+Jellemző
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+Alapértelmezett
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+cukorrépa-etanol 12 12
+
+búza-etanol 23 23
+
+a Közösségben előállított kukorica-etanol 20 20
+
+cukornád-etanol 14 14
+
+az ETBE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+a TAEE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+Repcebiodízel 29 29
+
+Napraforgó-biodízel 18 18
+
+szójabab-biodízel 19 19
+
+pálmaolaj-biodízel 14 14
+
+hulladék növényi vagy állati eredetű olajokból gyártott
+biodízel (*)
+
+0 0
+
+hidrogénnel kezelt növényi olaj repcéből 30 30
+
+hidrogénnel kezelt növényi olaj napraforgóból 18 18
+
+hidrogénnel kezelt növényi olaj pálmaolajból 15 15
+
+tiszta növényi olaj repcéből 30 30
+
+biogáz organikus háztartási hulladékból sűrített földgázként 0 0 
+
+
+
+32194 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+
+biogáz nedves trágyából sűrített földgázként 0 0
+
+biogáz száraz trágyából sűrített földgázként 0 0
+
+(*) A 1774/2002/EK rendelet szerint 3. kategóriájú anyagként besorolt állati eredetű melléktermékből
+előállított állati zsiradék kivételével
+búzaszalma-etanol 3 3
+Hulladékfa-etanol 1 1
+termesztettfa-etanol 6 6
+Hulladékfa alapú Fischer–Tropsch-dízelolaj 1 1
+termesztettfa alapú Fischer–Tropsch-dízelolaj 4 4
+Hulladékfa-DME 1 1
+termesztettfa-DME 5 5
+Hulladékfa-metanol 1 1
+termesztettfa-metanol 5 5
+az MTBE megújuló energiaforrásokból előállított része a metanol előállítási módjával megegyező
+2. táblázat:  a feldolgozásra vonatkozó alapértelmezett értékek (beleértve a villamosenergia-többletet is)
+
+„ep – eee” az I. részben meghatározottak szerint
+
+A bioüzemanyag előállítási módja
+
+Jellemző
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+Alapértelmezett
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+cukorrépa-etanol  19
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+megjelölése nélkül)
+
+ 32
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+lignit kogenerációs erőműben)
+
+32 45
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+földgáz hagyományos kazánban)
+
+21 30
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+földgáz kogenerációs erőműben)
+
+14 19
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+szalma kogenerációs erőműben)
+
+1 1
+
+a Közösségben előállított kukoricaetanol (a
+feldolgozáshoz használt üzemanyag földgáz
+kogenerációs erőműben)
+
+15 21
+
+Cukornádetanol 1 1
+
+az ETBE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+a TAEE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+Repcebiodízel 16 22
+
+Napraforgó-biodízel 16 22
+
+szójabab-biodízel 18 26
+
+pálmaolaj-biodízel (meg nem határozott eljárás) 35 49
+
+pálmaolaj-biodízel (az eljárás során metánmegkötés
+történik az olajsajtolóban)
+
+13 18
+
+hulladék növényi  vagy állati eredetű olajokból
+előállított biodízel
+
+9 13
+
+hidrogénnel kezelt növényi olaj repcéből 10 13
+
+hidrogénnel kezelt növényi olaj napraforgóból 10 13 
+
+
+
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32195
+
+hidrogénnel kezelt növényi olaj pálmaolajból (meg
+nem határozott eljárás)
+
+30 42
+
+hidrogénnel kezelt növényi olaj pálmaolajból (az
+eljárás során metánmegkötés történik az
+olajsajtolóban)
+
+7 9
+
+tiszta növényi olaj repcéből 4 5
+
+biogáz organikus háztartási hulladékból sűrített
+földgázként
+
+14 20
+
+biogáz nedves trágyából sűrített földgázként 8 11
+
+biogáz száraz trágyából sűrített földgázként 8 11
+
+búzaszalma-etanol 5 7
+
+Faetanol 12 17
+
+fa alapú Fischer–Tropsch-dízelolaj 0 0
+
+fa-DME 0 0
+
+Fametanol 0 0
+az MTBE megújuló energiaforrásokból előállított része a metanol előállítási módjával megegyező
+3. táblázat: a szállításra és elosztásra vonatkozó alapértelmezett értékek: „etd” az I. részben
+
+meghatározottak szerint
+
+A bioüzemanyag  előállítási módja
+
+Jellemző
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+Alapértelmezett
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+cukorrépa-etanol 2 2
+
+búzaetanol 2 2
+
+a Közösségben előállított kukorica etanol 2 2
+
+cukornád etanol 9 9
+
+az ETBE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+a TAEE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+repce-biodízel 1 1
+
+napraforgó-biodízel 1 1
+
+szójabab-biodízel 13 13
+
+pálmaolaj-biodízel 5 5
+
+hulladék növényi vagy állati eredetű olajokból
+előállított biodízel
+
+1 1
+
+hidrogénnel kezelt növényi olaj repcéből 1 1
+
+hidrogénnel kezelt növényi olaj napraforgóból 1 1
+
+hidrogénnel kezelt növényi olaj pálmaolajból 5 5
+
+tiszta növényi olaj repcéből 1 1
+
+biogáz organikus háztartási hulladékból sűrített
+földgázként
+
+3 3
+
+biogáz nedves trágyából sűrített földgázként 5 5 
+
+
+
+32196 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+
+biogáz száraz trágyából sűrített földgázként 4 4
+
+búzaszalma-etanol 2 2
+
+Hulladékfa-etanol 4 4
+
+termesztettfa-etanol 2 2
+
+Hulladékfa alapú Fischer–Tropsch-dízelolaj 3 3
+
+termesztettfa alapú Fischer–Tropsch-dízelolaj 2 2
+
+Hulladékfa-DME 4 4
+
+termesztettfa-DME 2 2
+
+Hulladékfa-metanol 4 4
+
+termesztettfa-metanol 2 2
+
+az MTBE megújuló energiaforrásokból előállított része a metanol előállítási módjával megegyező
+
+III.      A bioüzemanyagok  termelésre, feldolgozásra, szállításra és elosztásra vonatkozó
+ÜHG kibocsátási összértéke
+
+A bioüzemanyag előállítási módja
+
+Jellemző
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+Alapértelmezett
+üvegházhatású
+gázkibocsátás
+(gCO2eq/MJ)
+
+cukorrépa-etanol 33 40
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+megjelölése nélkül)
+
+57 70
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+lignit kogenerációs erőműben)
+
+57 70
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+földgáz hagyományos kazánban)
+
+46 55
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+földgáz kogenerációs erőműben)
+
+39 44
+
+
+
+búzaetanol (a feldolgozáshoz használt üzemanyag
+szalma kogenerációs erőműben)
+
+26 26
+
+a Közösségben előállított kukoricaetanol (a
+feldolgozáshoz használt üzemanyag földgáz
+kogenerációs erőműben)
+
+37 43
+
+cukornádetanol 24 24
+
+az ETBE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+a TAEE megújuló energiaforrásokból előállított része az etanol előállítási módjával megegyező
+
+repcebiodízel 46 52
+
+Napraforgó-biodízel 35 41
+
+szójabab-biodízel 50 58
+
+pálmaolaj-biodízel (meg nem határozott eljárás) 54 68
+
+pálmaolaj-biodízel (az eljárás során metánmegkötés
+történik az olajsajtolóban)
+
+32 37 
+
+
+
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32197
+
+hulladék növényi  vagy állati eredetű olajokból
+előállított biodízel
+
+10 14
+
+hidrogénnel kezelt növényi olaj repcéből 41 44
+
+hidrogénnel kezelt növényi olaj napraforgóból 29 32
+
+hidrogénnel kezelt növényi olaj pálmaolajból (meg nem
+határozott eljárás)
+
+50 62
+
+hidrogénnel kezelt növényi olaj pálmaolajból (az eljárás
+során metánmegkötés történik az olajsajtolóban)
+
+27 29
+
+tiszta növényi olaj repcéből 35 36
+
+biogáz organikus háztartási hulladékból sűrített
+földgázként
+
+17 23
+
+biogáz nedves trágyából sűrített földgázként 13 16
+
+biogáz száraz trágyából sűrített földgázként 12 15
+
+búzaszalma-etanol 11 13
+
+Hulladékfa-etanol 17 22
+
+termesztettfa-etanol 20 25
+
+Hulladékfa alapú Fischer–Tropsch-dízelolaj 4 4
+
+termesztettfa alapú Fischer–Tropsch-dízelolaj 6 6
+
+Hulladékfa-DME 5 5
+
+termesztettfa-DME 7 7
+
+Hulladékfa-metanol 5 5
+
+termesztettfa-metanol 7 7
+
+az MTBE megújuló energiaforrásokból előállított része a metanol előállítási módjával megegyező
+IV.     Jellemző és alapértelmezett értékek a bioüzemanyagok esetében, ha az alapanyagokat
+földhasználat-változásból származó nettó széndioxid-kibocsátás nélkül állítják elő
+Bioüzemanyag-előállítási mód Az üvegházhatású
+
+gázkibocsátás-
+megtakarítás
+
+jellemző értéke
+
+Az üvegházhatású
+gázkibocsátás-
+megtakarítás
+
+alapértelmezett
+értéke
+
+cukorrépa-etanol 61 % 52 %
+búza-etanol (a feldolgozáshoz használt üzemanyag
+megjelölése nélkül)
+
+32 % 16 %
+
+búza-etanol (a feldolgozáshoz használt üzemanyag lignit
+kogenerációs erőműben)
+
+32% 16 %
+
+búza-etanol (a feldolgozáshoz használt üzemanyag földgáz
+hagyományos kazánban)
+
+45 % 34 %
+
+búza-etanol (a feldolgozáshoz használt üzemanyag földgáz
+kogenerációs erőműben)
+
+53 % 47 %
+
+búza-etanol (a feldolgozáshoz használt üzemanyag szalma
+kogenerációs erőműben)
+
+69 % 69 %
+
+a Közösségben előállított kukorica-etanol (a feldolgozáshoz
+használt üzemanyag földgáz kogenerációs erőműben)
+
+56 % 49 %
+
+cukornád-etanol 71 % 71 % 
+
+
+
+32198 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+
+az etil-terc-butiléter (ETBE) megújuló energiaforrásokból
+előállított része
+
+az etanol előállítási módjával megegyező
+
+a tercier-amil-etil-éter (TAEE) megújuló energiaforrásokból
+előállított része
+
+az etanol előállítási módjával megegyező
+
+repce-biodízel 45 % 38 %
+Napraforgó-biodízel 58 % 51 %
+szójabab-biodízel 40 % 31 %
+pálmaolaj-biodízel (meg nem határozott eljárás) 36 % 19 %
+pálmaolaj-biodízel (az eljárás során metánmegkötés
+történik az olajsajtolóban)
+
+62 % 56 %
+
+zöldséghulladékból vagy állati eredetű olajokból
+(*)előállított biodízel
+
+88 % 83 %
+
+hidrogénnel kezelt növényi olaj repcéből 51 % 47 %
+hidrogénnel kezelt növényi olaj napraforgóból 65 % 62 %
+hidrogénnel kezelt növényi olaj pálmaolajból (meg nem
+határozott eljárás)
+
+40 % 26 %
+
+hidrogénnel kezelt növényi olaj pálmaolajból (az eljárás
+során metánmegkötés történik az olajsajtolóban)
+
+68 % 65 %
+
+tiszta növényi olaj repcéből 58 % 57 %
+biogáz organikus háztartási hulladékból sűrített földgázként 80 % 73 %
+biogáz nedves trágyából sűrített földgázként 84 % 81 %
+biogáz száraz trágyából sűrített földgázként 86 % 82 %
+búzaszalma-etanol 87 % 85 %
+Hulladékfa-etanol 80 % 74 %
+termesztettfa-etanol 76 % 70 %
+Hulladékfa alapú Fischer–Tropsch-dízel 95 % 95 %
+termesztettfa alapú Fischer–Tropsch-dízel 93 % 93 %
+Hulladékfa-dimetil-éter (DME) 95 % 95 %
+termesztettfa-dimetil-éter (DME) 92 % 92 %
+Hulladékfa-metanol 94 % 94 %
+termesztettfa-metanol 91 % 91 %
+a metil-terc-butiléter (MTBE) megújuló
+
+energiaforrásokból előállított része
+a metanol előállítási módjával megegyező
+
+
+* A nem emberi fogyasztásra szánt állati melléktermékekre vonatkozó egészségügyi előírások
+megállapításáról szóló 2002. október 3-i 1774/2002/EK európai parlamenti és tanácsi rendelet szerinti 3.
+kategóriába tartozó anyagként besorolt állati melléktermékekből előállított, állati eredetű olaj kivételével
+
+
+
