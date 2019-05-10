@@ -2,6 +2,25 @@ import os
 import re
 from glob import glob
 from pathlib import Path
+from traceback import format_exc
+
+
+def read_file(p, finp):
+    text = ""
+    try:
+        f = open(p + "/" + finp, "r", encoding="utf-8")
+        text = f.read()
+    except FileNotFoundError or UnicodeDecodeError or IOError:
+        print(format_exc())
+    finally:
+        return text
+
+
+def write_out(list, finp, fname):
+
+    Path(finp).mkdir(parents=True, exist_ok=True)
+    with open(finp+"/"+fname, "w", encoding="utf-8") as f:
+        f.write("\n".join(list))
 
 
 def remove_accent(s):
@@ -16,12 +35,16 @@ def remove_accent(s):
     return s
 
 
-def write_out(list, fname):
-    with open(fname, "w", encoding="utf-8") as f:
-        f.write("\n".join(list))
+def making_temp_title_dict_and_title_dict(titles):
+    temp_title_dict = {}
+    title_dict = {}
+    for i, title in enumerate(titles):
+        temp_title_dict[title.replace(" ", "")] = i
+        title_dict[i] = title
+    return temp_title_dict, title_dict
 
 
-def extract_titles(p, finp):
+def extract_titles(text):
     """
     Extracting titles from magyar közlöny's html version.
 
@@ -38,78 +61,67 @@ def extract_titles(p, finp):
 
     """
 
-    pat2 = re.compile(r'<li>(.+?)</li>')
+    pat_litag = re.compile(r'< *li *>(.+?)< */ *li *>')
+    lines = text.split("\n")
     titles = []
-    with open(p+ "/" + finp, "r", encoding="utf-8") as f:
-        for line in f:
-            s = pat2.search(line)
-            if s:
-                firstchar = s.group(1)[0]
-                if firstchar != "M" and (firstchar.isupper() or firstchar.isdigit()):
-                    # print(s.group(1))
-                    titles.append(s.group(1))
+    for line in lines:
+        s = pat_litag.search(line)
+        if s:
+            firstchar = s.group(1)[0]
+            if firstchar != "M" and (firstchar.isupper() or firstchar.isdigit()):
+                # print(s.group(1))
+                titles.append(s.group(1))
 
     # print("\nPDF:", finp, ",CÍMEK SZÁMA: ", len(titles))
     # print("\n###########################################\n")
     return titles
 
 
-def making_temp_title_dict_and_title_dict(titles):
-    temp_title_dict = {}
-    title_dict = {}
-    for i, title in enumerate(titles):
-        temp_title_dict[title.replace(" ", "")] = i
-        title_dict[i] = title
-    return temp_title_dict, title_dict
-
-
-def extract_legislations(p, files):
-    """
-
-    """
-    legislation = []
-    Path("legislations").mkdir(parents=True, exist_ok=True)
+def extract_legislation(titles, splittext):
     pat_non_chars = re.compile(r'\W')
+    pat_ptag = re.compile(r'<p>(.+)')
+    pat_tags = re.compile(r'<.*?>')
+    legislation = []
+    legislations = []
     is_legislation = False
     leg_title = ""
-    pat_ptag = re.compile(r'<p>(.+)')
-    pat_tags = re.compile(r'< */? *(p|div) *(class="page")?/? *>')
-    # check_titles = []
-    for fname in files:
-        titles = extract_titles(p, fname)
-        temp_title_dict, title_dict = making_temp_title_dict_and_title_dict(titles)
-        with open(p + "/" + fname, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line == "":
-                    continue
-                nospace_line = line.replace(" ", "")
-                ptag_line = pat_ptag.search(nospace_line)
-                if "<p>" in nospace_line and ptag_line and ptag_line.group(1) in temp_title_dict.keys():
-                    title = title_dict[temp_title_dict[ptag_line.group(1)]]
-                    # check_titles.append(title)
-                    is_legislation = True
-                    if len(legislation) != 0:
-                        title_words = leg_title.split("_")
-                        endword = title_words[-1]
-                        Path("legislations/"+endword).mkdir(parents=True, exist_ok=True)
-                        with open("legislations/" + endword + "/" + leg_title + ".txt", "w", encoding="utf-8") as f:
-                            f.write("\n".join(legislation))
-                    leg_title = remove_accent(pat_non_chars.sub(r'_', title)).lower()
-                    legislation = []
+    temp_title_dict, title_dict = making_temp_title_dict_and_title_dict(titles)
+    for line in splittext:
+        line = line.strip()
+        raw_line = pat_tags.sub("", line)
+        if raw_line == "":
+            continue
+        ptag_line = pat_ptag.search(line.replace(" ", ""))
+        if ptag_line and ptag_line.group(1) in temp_title_dict.keys():
+            title = title_dict[temp_title_dict[ptag_line.group(1)]]
+            is_legislation = True
+            if len(legislation) != 0:
+                legislations.append((leg_title.split("_")[-1], leg_title+".txt", legislation))
+            leg_title = remove_accent(pat_non_chars.sub(r'_', title)).lower()
+            legislation = []
 
-                if is_legislation:
-                    legislation.append(pat_tags.sub("", line))
+        if is_legislation:
+            legislation.append(raw_line)
+    legislations.append((leg_title.split("_")[-1], leg_title, legislation))
 
-    # print("\n".join(check_titles))
-    # print("CÍMEK SZÁMA:", len(check_titles))
+    return legislations
 
 
 def main():
     p = 'pdf2text/output/tika-html'
+    basp = "legislations/"
     files = glob(p + "/*txt")
     files = [os.path.basename(x) for x in files]
-    extract_legislations(p, files)
+    # leg_count = []
+    Path(basp).mkdir(parents=True, exist_ok=True)
+    for finp in files:
+        text = read_file(p, finp)
+        titles = extract_titles(text)
+        legislations = extract_legislation(titles, text.split("\n"))
+        for legislation in legislations:
+            # leg_count.append(legislation)
+            write_out(legislation[2], basp+legislation[0], legislation[1]+".txt")
+    # print(len(leg_count))
 
 
 if __name__ == "__main__":
