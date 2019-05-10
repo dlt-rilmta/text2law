@@ -2,23 +2,17 @@ import os
 import re
 from glob import glob
 from pathlib import Path
-from traceback import format_exc
 
 
-def read_file(p, finp):
-    text = ""
-    try:
-        f = open(p + "/" + finp, "r", encoding="utf-8")
+def read_file(finp):
+    with open(finp, encoding="utf-8") as f:
         text = f.read()
-    except FileNotFoundError or UnicodeDecodeError or IOError:
-        print(format_exc())
-    finally:
         return text
 
 
 def write_out(list, finp, fname):
     Path(finp).mkdir(parents=True, exist_ok=True)
-    with open(finp+"/"+fname, "w", encoding="utf-8") as f:
+    with open(os.path.join(finp, fname), "w", encoding="utf-8") as f:
         f.write("\n".join(list))
 
 
@@ -92,7 +86,7 @@ def extract_legislation(titles, splittext):
             title = title_dict[temp_title_dict[ptag_line.group(1)]]
             is_legislation = True
             if len(legislation) != 0:
-                legislations.append((leg_title.split("_")[-1], leg_title+".txt", legislation))
+                legislations.append((leg_title.split("_")[-1], leg_title, legislation))
             leg_title = remove_accent(pat_non_chars.sub(r'_', title)).lower()
             legislation = []
 
@@ -104,19 +98,19 @@ def extract_legislation(titles, splittext):
 
 
 def main():
-    p = 'pdf2text/output/tika-html'
-    basp = "legislations/"
-    files = glob(p + "/*txt")
+    p = os.path.join("pdf2text", "output", "tika-html")
+    basp = "legislations"
+    files = glob(p + "\*txt")
     files = [os.path.basename(x) for x in files]
     # leg_count = []
     Path(basp).mkdir(parents=True, exist_ok=True)
     for finp in files:
-        text = read_file(p, finp)
+        text = read_file(os.path.join(p, finp))
         titles = extract_titles(text)
         legislations = extract_legislation(titles, text.split("\n"))
         for legislation in legislations:
             # leg_count.append(legislation)
-            write_out(legislation[2], basp+legislation[0], legislation[1]+".txt")
+            write_out(legislation[2], os.path.join(basp,legislation[0]), legislation[1]+".txt")
     # print(len(leg_count))
 
 
