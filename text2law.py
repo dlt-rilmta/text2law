@@ -17,7 +17,6 @@ def read_file(p, finp):
 
 
 def write_out(list, finp, fname):
-
     Path(finp).mkdir(parents=True, exist_ok=True)
     with open(finp+"/"+fname, "w", encoding="utf-8") as f:
         f.write("\n".join(list))
@@ -47,7 +46,6 @@ def making_temp_title_dict_and_title_dict(titles):
 def extract_titles(text):
     """
     Extracting titles from magyar közlöny's html version.
-
     1, searching for a line starting with <li> and ending with </li> tag.
         - could not rely on <ul> tags, because the following pattern occured much:
             <ul>	<li>Title</li>
@@ -58,9 +56,7 @@ def extract_titles(text):
           most of the time. Some description starts with uppercase, like:
           Magyarország Kormánya és Türkmenisztán Kormánya közötti gazdasági együttműködésről
           szóló Megállapodás kihirdetéséről
-
     """
-
     pat_litag = re.compile(r'< *li *>(.+?)< */ *li *>')
     lines = text.split("\n")
     titles = []
