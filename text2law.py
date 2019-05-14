@@ -1,7 +1,9 @@
+import argparse
 import os
 import re
 from glob import glob
 from pathlib import Path
+from bs4 import BeautifulSoup
 
 
 def read_file(finp):
@@ -76,6 +78,7 @@ def extract_legislation(titles, splittext):
     is_legislation = False
     leg_title = ""
     temp_title_dict, title_dict = making_temp_title_dict_and_title_dict(titles)
+
     for line in splittext:
         line = line.strip()
         raw_line = pat_tags.sub("", line)
@@ -98,20 +101,38 @@ def extract_legislation(titles, splittext):
 
 
 def main():
-    p = os.path.join("pdf2text", "output", "tika-html")
-    basp = "legislations"
-    files = glob(p + "\*txt")
-    files = [os.path.basename(x) for x in files]
-    # leg_count = []
-    Path(basp).mkdir(parents=True, exist_ok=True)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('filepath', help='Path to file', nargs="*")
+    parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
+    args = parser.parse_args()
+    files = []
+    basp = 'legislations'
+    pat_slash = re.compile(r'\\|/')
+
+    if args.filepath:
+        for p in args.filepath:
+            poss_files = glob(p)
+            if len(poss_files) > 1:
+                new_files = [os.path.join(*pat_slash.split(x)[0:-1], os.path.basename(x)) for x in poss_files]
+                files += new_files
+            else:
+                fname = os.path.basename(p)
+                raw_p = pat_slash.split(p.replace(fname, ""))
+                files.append(os.path.join(*raw_p, fname))
+
+    if args.directory:
+        basp = os.path.join(*pat_slash.split(args.directory))
+
     for finp in files:
-        text = read_file(os.path.join(p, finp))
+        text = read_file(finp)
         titles = extract_titles(text)
         legislations = extract_legislation(titles, text.split("\n"))
+        # print(len(titles))
+        # print("\n".join(titles))
         for legislation in legislations:
+            pass
             # leg_count.append(legislation)
-            write_out(legislation[2], os.path.join(basp,legislation[0]), legislation[1]+".txt")
-    # print(len(leg_count))
+            write_out(legislation[2], os.path.join(basp, legislation[0]), legislation[1]+".txt")
 
 
 if __name__ == "__main__":
