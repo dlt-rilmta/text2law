@@ -30,14 +30,12 @@ def remove_accent(s):
     return s
 
 
-def making_temp_title_dict_and_title_dict(titles):
+def making_temp_title_dict(titles):
+    pat_non_chars = re.compile(r'\W')
     temp_title_dict = {}
-    title_dict = {}
-    for i, title in enumerate(titles):
-        temp_title_dict[title.replace(" ", "")] = i
-        title_dict[i] = title
-    return temp_title_dict, title_dict
-
+    for title in titles:
+        temp_title_dict[pat_non_chars.sub("", title).lower()] = title
+    return temp_title_dict
 
 def extract_titles(text):
     """
@@ -47,56 +45,61 @@ def extract_titles(text):
             <ul>	<li>Title</li>
             <ul>	<li>description</li>
             </ul>
-    2, the first letter has to be an upper character (except for M) or a number
+    2, the first letter has to be an upper character or a number
         - Titles are starts with uppercase, while description starts with lowercase
           most of the time. Some description starts with uppercase, like:
           Magyarország Kormánya és Türkmenisztán Kormánya közötti gazdasági együttműködésről
           szóló Megállapodás kihirdetéséről
     """
-    pat_litag = re.compile(r'< *li *>(.+?)< */ *li *>')
-    lines = text.split("\n")
-    titles = []
-    for line in lines:
-        s = pat_litag.search(line)
-        if s:
-            firstchar = s.group(1)[0]
-            if firstchar != "M" and (firstchar.isupper() or firstchar.isdigit()):
-                # print(s.group(1))
-                titles.append(s.group(1))
 
-    # print("\nPDF:", finp, ",CÍMEK SZÁMA: ", len(titles))
-    # print("\n###########################################\n")
+    keywords = ["határozata", "rendelete", "törvény", "végzése", "helybenhagyásáról",
+                "közleménye", "követelmények", "rendelkezések", "rendelet", "állásfoglalása",
+                "határozat", "módosítása", "nyilatkozata", "nyivánításáról"]
+    pat_litag = re.compile(r'< *li *>(.+?)< */ *li *>')
+    li_conts = pat_litag.findall(text)
+    titles = []
+    for cont in li_conts:
+        cont = cont.strip()
+        if len(cont) < 1:
+            continue
+        firstchar = cont[0]
+        if firstchar.isupper() or firstchar.isdigit():
+            for keyword in keywords:
+                if keyword in cont:
+                    titles.append(cont)
+                    break
     return titles
 
 
 def extract_legislation(titles, splittext):
     pat_non_chars = re.compile(r'\W')
-    pat_ptag = re.compile(r'<p>(.+)')
     pat_tags = re.compile(r'<.*?>')
     legislation = []
     legislations = []
     is_legislation = False
     leg_title = ""
-    temp_title_dict, title_dict = making_temp_title_dict_and_title_dict(titles)
+    temp_title_dict = making_temp_title_dict(titles)
 
     for line in splittext:
         line = line.strip()
-        raw_line = pat_tags.sub("", line)
-        if raw_line == "":
+        line = pat_tags.sub("", line)
+        if line == "":
             continue
-        ptag_line = pat_ptag.search(line.replace(" ", ""))
-        if ptag_line and ptag_line.group(1) in temp_title_dict.keys():
-            title = title_dict[temp_title_dict[ptag_line.group(1)]]
-            is_legislation = True
-            if len(legislation) != 0:
-                legislations.append((leg_title.split("_")[-1], leg_title, legislation))
-            leg_title = remove_accent(pat_non_chars.sub(r'_', title)).lower()
-            legislation = []
+        raw_line = pat_non_chars.sub("", line.lower())
+        for raw_title in temp_title_dict:
+            if raw_title in raw_line or raw_line in raw_title:
+                title = temp_title_dict[raw_title]
+                is_legislation = True
+                if len(legislation) != 0:
+                    legislations.append((leg_title.split("_")[-1], leg_title, legislation))
+                leg_title = remove_accent(pat_non_chars.sub(r'_', title)).lower()
+                legislation = []
+                del temp_title_dict[raw_title]
+                break
 
         if is_legislation:
-            legislation.append(raw_line)
+            legislation.append(line)
     legislations.append((leg_title.split("_")[-1], leg_title, legislation))
-
     return legislations
 
 
@@ -106,34 +109,34 @@ def get_args_inpfi_outfo(basp):
     parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
     args = parser.parse_args()
     files = []
-    pat_slash = re.compile(r'\\|/')
 
     if args.filepath:
         for p in args.filepath:
             poss_files = glob(p)
-            new_files = [os.path.join(*pat_slash.split(x)[0:-1], os.path.basename(x)) for x in poss_files]
+            new_files = [os.path.abspath(x) for x in poss_files]
             files += new_files
     else:
         files = glob(os.path.join(os.getcwd(), "*html"))
 
     if args.directory:
-        basp = os.path.join(*pat_slash.split(args.directory))
+        basp = os.path.abspath(args.directory)
     return basp, files
-
 
 def main():
     basp = 'legislations'
     basp, files = get_args_inpfi_outfo(basp)
+    prefix_dict = {"hatarozata": "hat", "rendelete": "rnd", "torveny": "trv",
+                   "vegzese": "veg", "kozlemenye": "koz","rendelet": "rnd",
+                   "hatarozat": "hat", "modositasa": "mod", "nyilatkozata": "nyil"}
 
     for finp in files:
         text = read_file(finp)
         titles = extract_titles(text)
-        legislations = extract_legislation(titles, text.split("\n"))
+        legislations = extract_legislation(titles, text.split("<p>"))
         for legislation in legislations:
             prefix = ""
-            if legislation[0] in ["hatarozata", "torveny", "rendelete"]:  # teszt
-                prefix = {"hatarozata": "hat", "torveny": "trv", "rendelete": "rnd"}[legislation[0]]  # teszt
-
+            if legislation[0] in prefix_dict.keys():
+                prefix = prefix_dict[legislation[0]]
             write_out(legislation[2], basp, prefix+"_"+legislation[1]+".txt")
 
 

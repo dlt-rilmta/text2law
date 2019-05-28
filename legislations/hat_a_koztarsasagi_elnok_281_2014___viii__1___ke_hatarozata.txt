@@ -1,0 +1,26 @@
+
+
+
+
+11908 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
+
+2.2.2. Ha a gyártó tevékenységét év közben kezdi meg, a törtév minden hónapjában képzendő 
+vagyoni biztosíték számításának módja: 
+ 
+
+B= mi × bi 
+ 
+
+ahol 
+ B: a képzendő vagyoni biztosíték összege; 
+ bi: az 1. pontban foglalt táblázatban berendezés-kategóriánként vagy egyes 
+
+berendezések esetében KN-kódonként meghatározott, kilogrammra vetített 
+vagyoni biztosíték összege; 
+
+mi: a gyártó által a tárgyhónapban gyártott vagy importált, adott berendezés-
+kategóriába vagy KN-kód alá tartozó berendezés mennyisége (kilogrammban 
+megadva), az mi értékébe nem kell beleszámolni azoknak a berendezéseknek a 
+mennyiségét, amelyekről a gyártó igazolni tudja, hogy azokat kizárólag a 
+háztartásokon kívül használják vagy azokat általában nem háztartásokban 
+használják. 
