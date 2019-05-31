@@ -9007,43 +9007,6 @@ a szerv gazdasági vezet je  a szerv vezet je
 Készítette, ill. felvilágosítást nyújt: Az irányító szerv részér l ellen rizte:
 .........................................................................( név) .............................................................................(név)
 ....................................................................(telefon) .......................................................................(telefon)
-49778 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám
-TARTALOMJEGYZÉK AZ "A" RLAPGARNITÚRÁHOZ
-A) rlapok Jelzés
-száma megnevezése
-02 Személyi juttatások és a munkaadókat terhel  járulékok
-el irányzata és teljesítése
-03 Dologi kiadások és egyéb folyó kiadások el irányzata és teljesítése
-04 Támogatás, támogatásérték  kiadás, végleges pénzeszközátadás, egyéb támogatás
-és az ellátottak pénzbeli juttatásainak el irányzata és teljesítése
-05 Felhalmozási kiadások és befektetési célú részesedések vásárlásának
-el irányzata és teljesítése
-06 Hitelek, kölcsönök nyújtása és törlesztése, értékpapírok beváltása és vásárlása,
-pénzforgalom nélküli kiadások, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú kiadások el irányzata és teljesítése
-(Támogatási célú kölcsönök nyújtásának, törlesztésének részletezése)
-07 M ködési bevételek el irányzata és teljesítése
-08 Felhalmozási és t ke jelleg  bevételek el irányzata és teljesítése
-09 Támogatások, támogatásérték  bevételek, kiegészítések
-el irányzata és teljesítése
-10 Hitelek, értékpapírok, támogatási kölcsönök visszatérülése és igénybevétele,
-pénzforgalom nélküli bevételek, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú bevételek el irányzata és teljesítése
-(Támogatási célú kölcsönök visszatérülésének és igénybevételének részletezése)
-21 Kiadások tevékenységenként
-(m ködési és felhalmozási célú teljesített pénzeszközátadások részletezése)
-22 Bevételek tevékenységenként
-(m ködési célra kapott juttatások és felhalmozási célú végleges pénzeszközátvételek
-teljesítésének részletezése)
-34 Költségvetési szerveknél teljes- és részmunkaid ben foglalkoztatottak létszáma
-és keresetbe tartozó személyi juttatásai
-35 Költségvetési szerveknél foglalkoztatottak létszáma és személyi juttatásai
-36
-37 Mutatószámok
-70 Kutatás-fejlesztés kiadásai és egyes bevételei társadalmi-gazdasági célok szerint
-98 Központi költségvetési jelentés
-funkciócsoportonkénti megoszlásáról
-Tajékoztató adatok a költségvetési engedélyezett létszámkeret
 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám 49779
 A megye megnevezése, székhelye:
 ...................................................................
@@ -9064,55 +9027,6 @@ a szerv gazdasági vezet je  a szerv vezet je
 Készítette, ill. felvilágosítást nyújt:
 .........................................................................( név)
 ....................................................................(telefon)
-49780 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám
-TARTALOMJEGYZÉK A "B" RLAPGARNITÚRÁHOZ
-B) rlapok Jelzés
-száma megnevezése
-02 Személyi juttatások és a munkaadókat terhel  járulékok 
-el irányzata és teljesítése
-03 Dologi kiadások és egyéb folyó kiadások el irányzata és teljesítése
-04 Támogatás, támogatásérték  kiadás, végleges pénzeszközátadás, egyéb támogatás
-és az ellátottak pénzbeli juttatásainak el irányzata és teljesítése
-05 Felhalmozási kiadások és befektetési célú részesedések vásárlásának
-el irányzata és teljesítése
-06 Hitelek, kölcsönök nyújtása és törlesztése, értékpapírok beváltása és vásárlása,
-pénzforgalom nélküli kiadások, függ , átfutó, kiegyenlít , illetve továbbadási  
-(lebonyolítási) célú kiadások el irányzata és teljesítése
-(Támogatási célú kölcsönök nyújtásának, törlesztésének részletezése)
-07 M ködési bevételek el irányzata és teljesítése
-08 Felhalmozási és t ke jelleg  bevételek el irányzata és teljesítése
-09 Támogatások, támogatásérték  bevételek, kiegészítések
-el irányzata és teljesítése
-10 Hitelek, értékpapírok, támogatási kölcsönök visszatérülése és igénybevétele,
-pénzforgalom nélküli bevételek, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú bevételek el irányzata és teljesítése
-(Támogatási célú kölcsönök visszatérülésének és igénybevételének részletezése)
-12 Önkormányzatok által folyósított ellátások részletezése
-16 Helyi önkormányzatok sajátos bevételeinek részletezése
-17
-21 Kiadások tevékenységenként
-(m ködési és felhalmozási célú teljesített pénzeszközátadások részletezése)
-22 Bevételek tevékenységenként
-(m ködési célra kapott juttatások és felhalmozási célú végleges pénzeszközátvételek
-teljesítésének részletezése)
-25
-26
-34 Költségvetési szerveknél teljes- és részmunkaid ben foglalkoztatottak létszáma 
-és keresetbe tartozó személyi juttatásai
-35 Költségvetési szerveknél foglalkoztatottak létszáma és személyi juttatásai
-36
-37 Mutatószámok
-43 A m ködési és felhalmozási célú bevételek és kiadások 2010-2011-2012. évi
-alakulását külön bemutató mérleg
-80 Önkormányzati költségvetési jelentés
-funkciócsoportonkénti megoszlásáról
-Tajékoztató adatok a költségvetési engedélyezett létszámkeret
-Települési és területi kisebbségi önkormányzatok kiadásai és bevételei
-A helyi önkormányzat adósságot keletkeztet  Ötv. 88. § (2) bekezdése szerinti éves 
-kötelezettségvállalásának (hitelképességének) fels  határa
-tevékenységenként
-Települési és területi kisebbségi önkormányzatok kiadásainak és 
-bevételeinek alakulása
 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám 49781
 A megye megnevezése, székhelye:  Az irányító szerv:
 ................................................................... ...................................................................
@@ -9133,42 +9047,6 @@ a szerv gazdasági vezet je  a szerv vezet je
 Készítette, ill. felvilágosítást nyújt: Az irányító szerv részér l ellen rizte:
 .........................................................................( név) .............................................................................(név)
 ....................................................................(telefon) .......................................................................(telefon)
-49782 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám
-TARTALOMJEGYZÉK A "C" RLAPGARNITÚRÁHOZ
-C) rlapok Jelzés
-száma megnevezése
-02 Személyi juttatások és a munkaadókat terhel  járulékok
-el irányzata és teljesítése
-03 Dologi kiadások és egyéb folyó kiadások el irányzata és teljesítése
-04 Támogatás, támogatásérték  kiadás, végleges pénzeszközátadás, egyéb támogatás
-és az ellátottak pénzbeli juttatásainak el irányzata és teljesítése
-05 Felhalmozási kiadások és befektetési célú részesedések vásárlásának
-el irányzata és teljesítése
-06 Hitelek, kölcsönök nyújtása és törlesztése, értékpapírok beváltása és vásárlása,
-pénzforgalom nélküli kiadások, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú kiadások el irányzata és teljesítése
-(Támogatási célú kölcsönök nyújtásának, törlesztésének részletezése)
-07 M ködési bevételek el irányzata és teljesítése
-08 Felhalmozási és t ke jelleg  bevételek el irányzata és teljesítése
-09 Támogatások, támogatásérték  bevételek, kiegészítések
-el irányzata és teljesítése
-10 Hitelek, értékpapírok, támogatási kölcsönök visszatérülése és igénybevétele,
-pénzforgalom nélküli bevételek, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú bevételek el irányzata és teljesítése
-(Támogatási célú kölcsönök visszatérülésének és igénybevételének részletezése)
-21 Kiadások tevékenységenként
-(m ködési és felhalmozási célú teljesített pénzeszközátadások részletezése)
-22 Bevételek tevékenységenként
-(m ködési célra kapott juttatások és felhalmozási célú végleges pénzeszközátvételek
-teljesítésének részletezése)
-34 Költségvetési szerveknél teljes- és részmunkaid ben foglalkoztatottak létszáma
-és keresetbe tartozó személyi juttatásai
-35 Költségvetési szerveknél foglalkoztatottak létszáma és személyi juttatásai
-36
-37 Mutatószámok
-80 Önkormányzati költségvetési jelentés
-funkciócsoportonkénti megoszlásáról
-Tajékoztató adatok a költségvetési engedélyezett létszámkeret
 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám 49783
 A megye megnevezése, székhelye:
 ...................................................................
@@ -9189,50 +9067,6 @@ a szerv gazdasági vezet je  a szerv vezet je
 Készítette, ill. felvilágosítást nyújt:
 .........................................................................( név)
 ....................................................................(telefon)
-49784 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám
-TARTALOMJEGYZÉK AZ "I" RLAPGARNITÚRÁHOZ
-I) rlapok Jelzés
-száma megnevezése
-02
-03
-04 Támogatás, támogatásérték  kiadás, végleges pénzeszközátadás, egyéb támogatás
-és az ellátottak pénzbeli juttatásainak el irányzata és teljesítése
-05 Felhalmozási kiadások és befektetési célú részesedések vásárlásának
-el irányzata és teljesítése
-06 Hitelek, kölcsönök nyújtása és törlesztése, értékpapírok beváltása és vásárlása,
-pénzforgalom nélküli kiadások, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú kiadások el irányzata és teljesítése
-(Támogatási célú kölcsönök nyújtásának, törlesztésének részletezése)
-07
-08
-09 Támogatások, támogatásérték  bevételek, kiegészítések
-el irányzata és teljesítése
-10 Hitelek, értékpapírok, támogatási kölcsönök visszatérülése és igénybevétele,
-pénzforgalom nélküli bevételek, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú bevételek el irányzata és teljesítése
-(Támogatási célú kölcsönök visszatérülésének és igénybevételének részletezése)
-11
-21 Kiadások tevékenységenként
-(m ködési és felhalmozási célú teljesített pénzeszközátadások részletezése)
-22 Bevételek tevékenységenként
-(m ködési célra kapott juttatások és felhalmozási célú végleges pénzeszközátvételek
-teljesítésének részletezése)
-34 Költségvetési szerveknél teljes- és részmunkaid ben foglalkoztatottak létszáma
-és keresetbe tartozó személyi juttatásai
-35
-36
-37
-80
-Személyi juttatások és a munkaadókat terhel  járulékok el irányzata és teljesítése
-Dologi kiadások és egyéb folyó kiadások el irányzata és teljesítése
-M ködési bevételek el irányzata és teljesítése
-Felhalmozási és t ke jelleg  bevételek el irányzata és teljesítése
-Önkormányzati költségvetési jelentés
-Többcélú kistérségi társulások bevételeinek részletezése
-Tajékoztató adatok a költségvetési engedélyezett létszámkeret
-Költségvetési szerveknél foglalkoztatottak létszáma és személyi juttatásai
-Mutatószámok
-funkciócsoportonkénti megoszlásáról
 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám 49785
 A megye megnevezése, székhelye:
 ...................................................................
@@ -9253,39 +9087,6 @@ a szerv gazdasági vezet je  a szerv vezet je
 Készítette, ill. felvilágosítást nyújt:
 .........................................................................( név)
 ....................................................................(telefon)
-49786 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám
-TARTALOMJEGYZÉK A "J" RLAPGARNITÚRÁHOZ
-J) rlapok Jelzés
-száma megnevezése
-02 Személyi juttatások és a munkaadókat terhel  járulékok
-el irányzata és teljesítése
-03 Dologi kiadások és egyéb folyó kiadások el irányzata és teljesítése
-04 Támogatás, támogatásérték  kiadás, végleges pénzeszközátadás, egyéb támogatás
-és az ellátottak pénzbeli juttatásainak el irányzata és teljesítése
-05 Felhalmozási kiadások és befektetési célú részesedések vásárlásának
-el irányzata és teljesítése
-06 Hitelek, kölcsönök nyújtása és törlesztése, értékpapírok beváltása és vásárlása,
-pénzforgalom nélküli kiadások, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú kiadások el irányzata és teljesítése
-(Támogatási célú kölcsönök nyújtásának, törlesztésének részletezése)
-07 M ködési bevételek el irányzata és teljesítése
-08 Felhalmozási és t ke jelleg  bevételek el irányzata és teljesítése
-09 Támogatások, támogatásérték  bevételek, kiegészítések
-el irányzata és teljesítése
-10 Hitelek, értékpapírok, támogatási kölcsönök visszatérülése és igénybevétele,
-pénzforgalom nélküli bevételek, függ , átfutó, kiegyenlít , illetve továbbadási
-(lebonyolítási) célú bevételek el irányzata és teljesítése
-(Támogatási célú kölcsönök visszatérülésének és igénybevételének részletezése)
-21 Kiadások tevékenységenként
-(m ködési és felhalmozási célú teljesített pénzeszközátadások részletezése)
-22 Bevételek tevékenységenként
-(m ködési célra kapott juttatások és felhalmozási célú végleges pénzeszközátvételek
-teljesítésének részletezése)
-34 Költségvetési szerveknél teljes- és részmunkaid ben foglalkoztatottak létszáma
-és keresetbe tartozó személyi juttatásai
-35 Költségvetési szerveknél foglalkoztatottak létszáma és személyi juttatásai
-37 Mutatószámok
-80 Önkormányzati költségvetési jelentés
 M A G Y A R K Ö Z L Ö N Y • 2009. évi 196. szám 49787
 lapszám
 szerv megnevezése

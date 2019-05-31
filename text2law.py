@@ -37,6 +37,7 @@ def making_temp_title_dict(titles):
         temp_title_dict[pat_non_chars.sub("", title).lower()] = title
     return temp_title_dict
 
+
 def extract_titles(text):
     """
     Extracting titles from magyar közlöny's html version.
@@ -89,7 +90,6 @@ def extract_legislation(titles, splittext):
         raw_line = pat_non_chars.sub("", line.lower())
         for raw_title in temp_title_dict:
             if raw_title in raw_line:
-                # or raw_line in raw_title:
                 title = temp_title_dict[raw_title]
                 is_legislation = True
                 if len(legislation) != 0:
@@ -126,33 +126,27 @@ def get_args_inpfi_outfo(basp):
 
 
 def main():
-    """
-    TODO: 1, bs-t használni a li-k és p-k megkereséséhez
-          2, extracting_leg-nél megnézni a törvényfelismerést
-          3, subproccess alkalmazása tika comm. line alkalmazására"""
-
     basp = 'legislations'
     basp, files = get_args_inpfi_outfo(basp)
     prefix_dict = {"hatarozata": "hat", "rendelete": "rnd", "torveny": "trv",
                    "vegzese": "veg", "kozlemenye": "koz","rendelet": "rnd",
                    "hatarozat": "hat", "modositasa": "mod", "nyilatkozata": "nyil"}
-    # sum_titles = 0
 
+    pat_non_chars = re.compile(r'\W')
     for finp in files:
-        text = read_file(finp)
-        soup = BeautifulSoup(text, 'lxml')
-        lines = [line.text for line in soup.find_all('p')]
-        titles = extract_titles(text)
-        # print("\n#######################", "\n".join(titles), len(titles))
-        # sum_titles += len(titles)
-        legislations = extract_legislation(titles, lines)
+        txt = read_file(finp)
+        soup = BeautifulSoup(txt, 'lxml')
+        divs = [div.find_all("p") for div in soup.find_all('div')
+                if "tartalomjegyzék" not in pat_non_chars.sub("", div.text).lower()]
+
+        p_parts = [p.text for div in divs for p in div]
+        titles = extract_titles(txt)
+        legislations = extract_legislation(titles, p_parts)
         for legislation in legislations:
             prefix = ""
             if legislation[0] in prefix_dict.keys():
                 prefix = prefix_dict[legislation[0]]
             write_out(legislation[2], basp, prefix+"_"+legislation[1]+".txt")
-
-    # print("sum of titles:", sum_titles)
 
 
 if __name__ == "__main__":
