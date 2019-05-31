@@ -1,6 +1,168 @@
-83/2009. (XII. 30.) IRM
-rendelet
-
-Az Élettársi Nyilatkozatok Nyilvántartásának vezetésérõl, az abból történõ
-adatszolgáltatás szabályairól, valamint az egyes kapcsolódó rendeletek
-módosításáról 49591
+Az igazságügyi és rendészeti miniszter 83/2009. (XII. 30.) IRM rendelete
+az Élettársi Nyilatkozatok Nyilvántartásának vezetésérõl, az abból történõ adatszolgáltatás
+szabályairól, valamint az egyes kapcsolódó rendeletek módosításáról
+Az egyes közjegyzõi nemperes eljárásokról  szóló 2008. évi XLV. törvény 38.  § d) és e) pontjaiban, valamint a közjegyzõkrõl  szóló
+1991. XLI. törvény 183.  § d)–f) pontjaiban kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és
+hatáskörérõl  szóló 164/2006. (VII. 28.) Korm. rendelet 1.  § h) pontjában meghatározott feladatkörömben eljárva, a 16., 17. és 21.  §
+tekintetében a pénzügyminiszter feladat- és hatáskörérõl  szóló 169/2006. (VII. 28.) Korm. rendelet 1.  § b) pontjában foglalt
+feladatkörében eljáró pénzügyminiszterrel egyetértésben, a következõket rendelem el:
+Értelmezõ rendelkezések
+1.  § E rendelet alkalmazásában:
+a) felhasználó: az a közjegyzõ és közjegyzõ-helyettes (a továb biak ban együtt: közjegyzõ), aki az egyes közjegyzõi
+nemperes eljárásokról  szóló 2008. évi XLV. törvény (a továb biak ban: Kjnp.) szerinti Élettársi Nyilatkozatok
+Nyilvántartásába (a továb biak ban: élettársi nyilvántartás) adatot bejegyez, továbbá az a közjegyzõ vagy a Magyar
+Országos Közjegyzõi Kamara (a továb biak ban: országos kamara) tagja vagy alkalmazottja, aki az élettársi
+nyilvántartásból adatot igényel;
+b) üzemzavar: az élettársi nyilvántartás tartós vagy átmeneti meghibásodása vagy ezt eredményezõ egyéb technikai 
+problémája, ami a szolgáltatásainak igénybevételét korlátozza vagy lehetetlenné teszi;
+c) üzemszerû karbantartás: az élettársi nyilvántartás tervszerû és rendkívüli esetekben végzett, elõ ze tes tájékoztatás
+alapján, elõre meghatározott idõtartamig tartó karbantartása, ami alatt az élettársi nyilvántartás szolgáltatásai
+nem érhetõk el.
+Az Élettársi Nyilatkozatok Nyilvántartásának vezetése
+2.  § Az élettársi nyilvántartásban az adatok bejegyzésére, tárolására, törlésére és az élettársi nyilvántartásból történõ
+adatigénylések teljesítésére szolgáló, valamint a Kjnp. 36/G.  § (4) bekezdésében meghatározott adatok
+vonatkozásában naplót készítõ informatikai alkalmazást (a továb biak ban: informatikai alkalmazás) – folyamatos
+rendelkezésre állással – az országos kamara e rendelet szerint mûködteti.
+3.  § Az informatikai alkalmazás létrehozásának, mûködésének és fejlesztésének költségeit az országos kamara viseli.
+4.  § Az országos kamara az informatikai alkalmazás mûködtetésének technikai feltételeit biztosító üzemeltetésével
+összefüggõ feladatok ellátására szerzõdést köthet.
+5.  § (1) A közjegyzõ köteles az irodájának megnyitásától kezdve az élettársi nyilvántartásba  való bejegyzést és
+a nyilvántartásból  való adatigénylést lehetõvé tévõ elektronikus adatkapcsolat kialakításának feltételeit irodájában
+biztosítani.
+(2) Az országos kamara a közjegyzõ számára az (1) bekezdés szerinti kötelezettség teljesítéséhez az informatikai
+alkalmazást, valamint az adatok megõrzését és törlését biztosítja, továbbá az informatikai alkalmazás használatához
+szükséges ismereteket elérhetõvé teszi.
+M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám 49591
+(3) A közjegyzõ az informatikai alkalmazás élettársi nyilvántartásba történõ bejegyzésre és az abból történõ
+adatigénylésre szolgáló mûveleteinek elvégzéséhez a közjegyzõi tör vény szerinti, az országos kamara által
+a közjegyzõk részére rendszeresített minõsített elektronikus aláírását használja.
+6.  § (1) Az élettársi nyilvántartásba történõ bejegyzés és az abból történõ adatigénylés céljára az informatikai alkalmazás
+rendelkezésre állását évente legalább 95,5%-ban kell biztosítani akként, hogy az informatikai alkalmazás
+a felhasználók számára munkanapokon legalább 8 órától 18 óráig elérhetõ legyen, az üzemszerû karbantartást pedig
+ezen idõszakon kívül kell elvégezni .
+(2) Az informatikai alkalmazás üzemszerû karbantartási idejérõl az informatikai alkalmazás mûködtetõje az élettársi
+nyilvántartás rendszerfelületén elõ ze tesen, legalább 72 órával annak kezdetét megelõzõen és a karbantartási ideje
+alatt tájékoztatást ad.
+(3) Az elõre nem látható üzemzavarról a (2) bekezdésben foglaltak megfelelõ alkalmazásával kell tájékoztatást adni.
+(4) Ha az élettársi nyilvántartásba történõ adatrögzítés idõpontjában az informatikai alkalmazás nem elérhetõ a közjegyzõ
+számára, a nyilvántartásba történõ bejegyzést az újbóli rendelkezésre álláskor haladéktalanul, de legkésõbb
+a rendelkezésre állás következõ napján 12 óráig teljesíteni kell.
+7.  § A közjegyzõ az élettárs értesítési címének megállapítása érdekében kiadott, a Kjnp. 36/F.  § (5) bekezdése szerinti
+elektronikus adatigénylési megkeresésében az élettársi nyilvántartás vezetésével kapcsolatos eljárás ügyszámát
+feltünteti.
+8.  § (1) Az élettársi nyilvántartás tör vény ben meghatározott adatainak bejegyzését a közjegyzõ az országos kamara által
+rendelkezésre bocsátott informatikai alkalmazás használatával végzi. Az informatikai alkalmazás helyes mûködéséért
+az országos kamara, a bejegyzett adatok helyességéért a közjegyzõ felel.
+(2) A közjegyzõ a felelõsségi körében gondoskodik az élettársi nyilvántartásba továbbított adatok helyességérõl,
+idõszerûségérõl, valamint utólag értesíti az országos kamarát a késõbb felfedett adathiba tényérõl és a rendelkezésre
+álló helyes adatról.
+(3) Az élettársi nyilvántartásba adat bejegyzése az erre szolgáló elektronikus adatlap kitöltésével történik.
+9.  § Az informatikai alkalmazást úgy kell kialakítani, hogy
+a) ha a bejegyzésre szolgáló elektronikus adatlap tartalmazza a tör vény ben rögzített valamennyi adatot, akkor
+azokat az élettársi nyilvántartásban automatikusan rögzítse,
+b) hiányosan kitöltött adatlap alapján ne rögzítsen adatot az élettársi nyilvántartásban; errõl a hiányosság
+megjelölésével hibaüzenetet küldjön a közjegyzõ részére,
+c) az adat rögzítését köve tõen annak megtörténtérõl és tartalmáról  szóló rendszerüzenet felhasználói felületen
+történõ megjelenítésével értesítse a közjegyzõt,
+d) a kérelmezõk Kjnp. 36/E.  § (4) bekezdés a) pontja szerinti adataiban bekövetkezett változást a kérelmezõk összes
+korábban bejegyzett adatai mellett rögzítse,
+e) a Kjnp. 36/E.  § (4) bekezdés c) és d) pontja szerinti adatot a kérelmezõk egymással fennálló élettársi kapcsolatáról
+szóló adatai mellett rögzítse.
+10.  § A közjegyzõ az élettársi nyilvántartásból történõ adatigényléssel állapítja meg
+a) az élettársi nyilvántartás tartalmáról  szóló tanúsítvány kiállításához szükséges adatokat,
+b) azt, hogy – attól függõen, hogy a kérelmezõkre vonatkozó adat szerepel-e már az élettársi nyilvántartásban –
+fennállnak-e az élettársi kapcsolat fennállásáról  szóló nyilatkozat élettársi nyilvántartásba történõ bejegyzésének
+feltételei.
+11.  § (1) Az élettársi nyilvántartásból történõ adatigénylés az erre szolgáló elektronikus adatlapnak az érintett személy
+Kjnp. 36/E.  § (4) bekezdés a) pontjában foglalt adataival  való kitöltésével történik.
+(2) Az informatikai alkalmazást úgy kell kialakítani, hogy
+a) az adatigénylést ne teljesítse, ha az adatlap nem tartalmazza legalább az érintett személy családi és utónevét,
+valamint – a születési családi és utónév kivételével – egy további természetes személyazonosító adatát; errõl
+a hiányosság megjelölésével hibaüzenetet küldjön a lekérdezõ részére,
+49592 M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám
+b) ha az adatigénylés során kitöltött adatokkal részben egyezõen az érintett személy adatai szerepelnek az élettársi
+nyilvántartásban, errõl az adatok (ideértve az élettársnak az érintett személlyel fennálló vagy fennállt élettársi
+kapcsolatával összefüggésben nyilvántartott adatait is) képernyõn  való megjelenítésével értesítse az
+adatigénylõt,
+c) ha az érintett személy a lekérdezés során kitöltött adatokkal nem szerepel az élettársi nyilvántartásban,
+az adatigénylést ezen eredmény közlésével teljesítse,
+d) tegye lehetõvé az adatszolgáltatásban szereplõ adatok szerkesztésre alkalmas formátumban történõ exportálását 
+és nyomtatását.
+12.  § (1) Az informatikai alkalmazást úgy kell kialakítani, hogy a polgárok személyi adatainak és lakcímének nyilvántartása által
+közölt,
+a) az élettársi nyilvántartásban szereplõ személyek adataiban bekövetkezett változásra és
+b) a Kjnp. 36/E.  § (4) bekezdés d) pontjában foglalt tényre
+vonatkozó adatokat automatikusan átvezesse az élettársi nyilvántartásban.
+(2) Az országos kamara az (1) bekezdésben foglalt adatokat online adatigénylés útján szerzi be a polgárok személyi
+adatainak és lakcímének nyilvántartását vezetõ szervtõl. Az országos kamara és a polgárok személyi adatainak
+és lakcímének nyilvántartását vezetõ szerv együttmûködési megállapodásban rögzíti a rendszeres adatigénylés
+teljesítésének rendjét és technikai szabályait.
+13.  § Az informatikai alkalmazást úgy kell kialakítani, hogy
+a) az élettársi kapcsolatra vonatkozó adatokat az élettársi kapcsolat fennállásáról  szóló nyilatkozat bejegyzésének
+idõpontjától számított 100 év elteltével automatikusan törölje az élettársi nyilvántartásból, továbbá
+b) az informatikai alkalmazás részét képezõ naplóban tárolt adatokat azok keletkezésétõl számított 100 év elteltével
+automatikusan törölje.
+Az élettársi nyilvántartásból történõ adatszolgáltatás
+14.  § Az országos kamara az élettársi nyilvántartásból történõ adatszolgáltatáshoz szükséges adatokat az élettársi
+nyilvántartásból történõ adatigényléssel állapítja meg.
+15.  § (1) Ha az élettársi nyilvántartásban szereplõ személy adataira irányul az adatszolgáltatás, az annak teljesítéséhez
+szükséges adatigénylés az erre szolgáló elektronikus adatlapnak az érintett személy Kjnp. 36/E.  § (4) bekezdés
+a) pontjában foglalt adataival  való kitöltésével történik.
+(2) Az informatikai alkalmazást úgy kell kialakítani, hogy
+a) az (1) bekezdés szerinti adatlap kitöltõjének nevét és az adatigénylés idõpontját az élettársi nyilvántartásban
+automatikusan rögzítse,
+b) ha az élettársi nyilvántartásban szereplõ személy adataira irányul az adatszolgáltatás, az adatigénylést ne
+teljesítse, ha az adatlap nem tartalmazza legalább az érintett személy családi és utónevét, valamint – a születési
+családi és utónév kivételével – egy további természetes személyazonosító adatát; errõl a hiányosság
+megjelölésével hibaüzenetet küldjön a lekérdezõ részére,
+c) ha az adatigénylés során kitöltött adatokkal részben egyezõen az érintett személy adatai szerepelnek az élettársi
+nyilvántartásban, errõl az adatok (ideértve az élettársnak az érintett személlyel fennálló vagy fennállt élettársi
+kapcsolatával összefüggésben nyilvántartott adatait is, amennyiben az adatszolgáltatás iránti megkeresés erre
+is irányult) felhasználói felületen történõ megjelenítésével értesítse a lekérdezõt,
+d) ha az adatigénylés során kitöltött adatokkal nem szerepel az élettársi nyilvántartásban bejegyzett személy, ennek
+közlésével teljesítse az adatigénylést,
+e) tegye lehetõvé az igényelt adatok szerkesztésre alkalmas formátumban történõ exportálását és nyomtatását.
+16.  § (1) Az országos kamara által végzett, az élettársi nyilvántartásból történõ adatszolgáltatás ellenértéke – a (2) és
+a (3) bekezdésben foglalt kivétellel –
+a) élettársi kapcsolatonként,
+b) ha pedig valamely személynek az élettársi nyilvántartásban rögzített adatainak szolgáltatására irányul, úgy
+személyenként
+2000 Ft (a továb biak ban: adatszolgáltatási díj).
+M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám 49593
+(2) A büntetõügyben eljáró nyomozó hatóság, ügyészség és bíróság, a nemzetbiztonsági szolgálat, az apaság vélelme
+fennállásának megállapítása érdekében eljáró anyakönyvvezetõ, valamint a közjegyzõ tevékenységének szakmai
+felügyeletét ellátó szerv számára – jogszabályban meghatározott feladataik teljesítésével összefüggésben – az
+élettársi nyilvántartásból történõ adatszolgáltatás díjmentes.
+17.  § (1) Az adatszolgáltatási díjat az országos kamara részére – az annak kezelésére és nyilvántartására elkülönített –
+10918001-00000007-15030161 számú fizetési számlájára kell megfizetni.
+(2) Az adatszolgáltatási díj megfizetését az adatigénylés iránti kérelem és megkeresés elõ ter jesz tésekor kell igazolni.
+A adatszolgáltatási díj megfizetésérõl  szóló igazolást a kérelemhez, megkereséshez mellékelni kell.
+Záró rendelkezések
+18.  § (1) E rendelet – a (2) bekezdésben foglalt kivétellel – 2010. január 1. napján lép hatályba.
+(2) A 16.  §, a 17.  § és a 21.  § a rendelet a kihirdetését követõ 45. napon lép hatályba.
+19.  § (1) A közjegyzõi ügyvitel szabályairól  szóló 37/2003. (X. 29.) IM rendelet (a továb biak ban: KÜSZ) 1.  § (1) bekezdése
+a következõ h) ponttal egészül ki:
+[A rendelet hatálya a közjegyzõ hatáskörébe tartozó]
+„h) az Élettársi Nyilatkozatok Nyilvántartásának vezetésével kapcsolatos eljárás”
+[során a közjegyzõk ügyvitelére terjed ki.]
+(2) Hatályát veszti a KÜSZ 1.  § (1) bekezdés f) pontjában az „és” szövegrész.
+20.  § A közjegyzõkrõl  szóló 1991. évi XLI. törvény végrehajtásáról  szóló 13/1991. (XI. 26.) IM rendelet 27.  § (8) bekezdésében
+a „Ktv. 122.  §-a” szövegrész helyébe a „Ktv. 122.  §-a és az egyes közjegyzõi nemperes eljárásokról  szóló 2008. évi
+XLV. törvény 36/F.  § (3) bekezdése” szöveg lép.
+21.  § (1) A közjegyzõi díjszabásról  szóló 14/1991. (XI. 26.) IM rendelet (továb biak ban: R.) 22.  §-a a következõ (2) bekezdéssel
+egészül ki és a § eredeti szövegének számozása (1) bekezdésre változik.
+„(2) Az élettársi kapcsolat fennállásáról  szóló nyilatkozatnak az Élettársi Nyilatkozatok Nyilvántartásába (továb biak ban: 
+élettársi nyilvántartás) történõ bejegyzésére irányuló eljárás esetén a munkadíjnak megfelelõ összegû költségátalányt
+kell fizetni.”
+(2) Az R. 29.  §-a a következõ e) ponttal egészül ki:
+[A közjegyzõt a hagyatéki és az egyéb nemperes eljárás lefolyatásáért]
+„e) az élettársi kapcsolat fennállásáról vagy fenn nem állásáról  szóló nyilatkozatnak az élettársi nyilvántartásba történõ
+bejegyzésére irányuló eljárás esetén bejegyzésenként a 12.  § (2) bekezdés d) pontjában egy órára megállapított
+munkadíjnak megfelelõ összegû munkadíj illeti meg, helyszíni eljárás esetén pedig a 13.  § rendelkezéseit is
+meg fele lõen alkalmazni kell.”
+22.  § (1) A 19.  § és a 20.  § a rendelet hatályba lépését követõ napon a hatályát veszti.
+(2) A 21.  § e rendelet kihirdetését követõ negyvenhatodik napon a hatályát veszti.
+(3) Ez a § a rendelet kihirdetését követõ negyvenhetedik napon a hatályát veszti.
+Dr. Forgács Imre s. k.,
+igazságügyi és rendészeti miniszter
+49594 M A G Y A R   K Ö Z L Ö N Y • 2009. évi 196. szám

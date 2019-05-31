@@ -1,25 +1,9 @@
-(A B
-
-1. Előirányzat Kezelő szerv)
-
-34. Európai Hálózatfinanszírozási Eszköz (CEF) projektek közlekedésért felelős miniszter
-
-
-
-2150 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 
-
-IV. A Magyar Nemzeti Bank elnökének rendeletei, 
- valamint az önálló szabályozó szerv vezetőjének 
- rendeletei
-
 A Magyar Energetikai és Közmű-szabályozási Hivatal elnökének 4/2019. (IV. 12.) MEKH rendelete
 a földgáz rendszerhasználati díjak, a külön díjak, valamint a csatlakozási díjak alkalmazásának szabályairól 
 szóló 11/2016. (XI. 14.) MEKH rendelet módosításáról
-
 A földgázellátásról szóló 2008. évi XL. törvény 133/A.  § 2.  pontjában kapott felhatalmazás alapján, a  Magyar Energetikai 
 és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12.  § b)  pontjában meghatározott feladatkörömben eljárva 
 a következőket rendelem el:
-
 1. §  A földgáz rendszerhasználati díjak, a  külön díjak, valamint a  csatlakozási díjak alkalmazásának szabályairól szóló 
 11/2016. (XI. 14.) MEKH rendelet (a továbbiakban: R.) 1. § (1) bekezdése a következő y) és z) ponttal egészül ki:
 [A földgázellátásról szóló 2008. évi XL. törvény (a  továbbiakban: GET) 105.  § (1)  bekezdése szerinti rendszerhasználati 
@@ -28,12 +12,10 @@ díjak tekintetében a rendelet alkalmazásában]
 létrehozásáról szóló, 2017. november 23-i 2017/2195/EU bizottsági rendelet (a  továbbiakban: 2017/2195/EU 
 bizottsági rendelet) 18. cikk (1) bekezdése alapján meghatározott kapacitás (a továbbiakban: mFRR kapacitás),
 z) kiegyenlítő szabályozási szolgáltató: a 2017/2195/EU bizottsági rendelet 2. cikk 6. pontja szerinti szolgáltató.”
-
 2. §  Az R. 6. §-a helyébe a következő rendelkezés lép:
 „6. § A rendszerüzemeltetők által az átadási-átvételi pontokra meghirdetett kapacitástermékeket a rendszerhasználó 
 lekötheti a már meglévő lekötésektől függetlenül, amennyiben a kapacitástermék az adott átadási-átvételi ponton 
 az adott gáznapot is tartalmazó szerződési időszakra vonatkozik.”
-
 3. §  Az R. a következő 11/A. §-sal egészül ki:
 „11/A. § (1) A Hivatal hatósági bizonyítványt állít ki az mFRR kapacitást nyújtó erőmű mint kiegyenlítő szabályozási 
 szolgáltató kérelmére az  mFRR kapacitásnak a  villamos energiáról szóló törvény 3.  § 22.  pontja szerinti átviteli 
@@ -56,18 +38,13 @@ megállapodást a hatósági bizonyítvány kiállítása iránti kérelemmel e
 A kérelmet első alkalommal 2019. július 1-jétől lehet benyújtani a Hivatalhoz.
 (5) Az érintett erőmű a napi szállítási kapacitásdíjat köteles megfizetni – hónapot követő utólagos elszámolással – 
 az általa az mFRR kapacitás behívása során a lekötött kapacitását meghaladóan igénybe vett kapacitás után.”
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 2151
-
 4. §  Az R. 23. § (2b) bekezdése helyébe a következő rendelkezés lép:
 „(2b) A  földgázelosztó a  (2a)  bekezdésben szereplő feltétel teljesülését az  adott gázév április 30-áig ellenőrzi. 
 A  felhasználó a  (2a) bekezdésben szereplő feltétel nem teljesülése esetén a  (2a) bekezdésben szereplő feltételhez 
 tartozó éves díjat pótdíjként köteles megfizetni a  földgázelosztó részére az  adott gázév június 30-áig. Az  így 
 meghatározott pótdíj és a  rendszerhasználó lekötése alapján számlázott kapacitásdíj együttes összege nem 
 haladhatja meg a (2a) bekezdés szerinti kategóriánkénti minimális lekötés alapján meghatározott éves díjat.”
-
 5. §  Az R. 33/A. §-a helyébe a következő rendelkezés lép:
 „33/A.  § (1) A  rendszerhasználó gázéven belüli nem téli fogyasztási időszaki kapacitásterméket köthet le az  általa 
 ellátott azon felhasználási helyre – az 1. § (1) bekezdés a) pont ab) alpont aba) alpontjában meghatározott átadási-
@@ -113,11 +90,7 @@ igénybevételével kapcsolatban részletes beszámolót készít a  Hivatal r�
 december 31-ig.
 (9) Átadási-átvételi pontonként a  kapacitások lekötését a  Vhr.-ben és az  ÜKSZ-ben meghatározottak szerint kell 
 megtenni.”
-
-
-
-2152 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 
-
+2152 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám
 6. §  Az R. 70. §-a helyébe a következő rendelkezés lép:
 „70.  § (1) A  2018/2019-es gázévre vonatkozóan kiállított igazolásokban meghatározott felhasználási helyekre 
 – az  1.  § (1)  bekezdés a)  pont aa)  alpont aaa)  alpontjában meghatározott átadási-átvételi pontra vonatkozóan  – 
@@ -159,7 +132,6 @@ adatszolgáltatás ismeretében állapítja meg, és számlázza ki az  (5)  b
 az  érintett földgázelosztó adatszolgáltatását követő 30 napon belül. A  határidő jogvesztő hatályú. A  szállítási 
 rendszerüzemeltető a  jogosulatlan kapacitástermék igénybevételével kapcsolatban részletes beszámolót készít 
 a Hivatal részére legkésőbb 2019. december 31-ig.”
-
 7. §  Az R. a következő 71. §-sal egészül ki:
 „71.  § (1) A  2018/2019-es gázévre vonatkozóan kiállított igazolással rendelkező, elosztási kapacitásdíj fizetésére 
 kötelezett rendszerhasználó a  nem téli fogyasztási időszakra lekötött kapacitás után kiszámított éves elosztási 
@@ -172,11 +144,7 @@ időszakra lekötött kapacitásnak és az éves elosztási kapacitásdíj (3)�
 megfizetni – az  (1)  bekezdés szerinti összegen felül – azokra az  októberi, novemberi és decemberi napokra, 
 amelyeken az  átadási-átvételi ponton földgázt vételez, és a  gáznapon mért óracsúcs meghaladja a  gáznapra 
 lekötött kapacitást.
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 2153
-
 (3) A (2) bekezdés szerinti szorzatnál
 a) október havi igénybevétel esetén az éves elosztási kapacitásdíj 1/365 részét,
 b) november havi igénybevétel esetén az éves elosztási kapacitásdíj 2/365 részét,
@@ -209,31 +177,22 @@ lekötött éves és negyedéves legnagyobb összkapacitás a  nem téli fogyas
 kapacitás felénél nagyobb.
 (8) Átadási-átvételi pontonként a  kapacitások lekötését a  Vhr.-ben és az  ÜKSZ-ben meghatározottak szerint kell 
 megtenni.”
-
 8. §  Az R.
 a) 8. § (2) bekezdés b) pontjában a „bértároló” szövegrész helyébe a „bértároltató” szöveg,
 b) 22. § (2a) bekezdésében a „névleges” szövegrész helyébe a „túlnyomással korrigált névleges” szöveg,
-c) 23.  § (2a)  pontjában a  „valamely nap esetén” szövegrész helyébe a  „legalább egy gáznapon”, a  „napra” 
-
+c) 23.  § (2a)  pontjában a  „valamely nap esetén” szövegrész helyébe a  „legalább egy gáznapon”, a  „napra”
 szövegrész helyébe a „gáznapra” szöveg,
 d) 23. § (2a) pont a) alpontjában a „210” szövegrész helyébe a „190” szöveg,
 e) 23. § (2a) pont b) alpontjában az „1050” szövegrész helyébe a „950” szöveg,
 f ) 23. § (2a) pont c) alpontjában az „5250” szövegrész helyébe a „4750” szöveg
 lép.
-
 9. §  Hatályát veszti az R.
 a) 1. § (1) bekezdés m) pontjában az „a földgázelosztó” szövegrészek,
 b) 5. §-a, 16. §-a, 24. §-a és 34. §-a,
 c) 4. melléklete.
-
 10. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
  (2) A 4. § és a 8. § b)–f ) pontja 2019. október 1-jén lép hatályba.
-
 Dr. Dorkota Lajos s. k.,
   elnök
-
-
-
-2154 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 
-
+2154 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám
 V. A Kormány tagjainak rendeletei

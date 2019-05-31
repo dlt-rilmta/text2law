@@ -55,11 +55,12 @@ def extract_titles(text):
     keywords = ["határozata", "rendelete", "törvény", "végzése", "helybenhagyásáról",
                 "közleménye", "követelmények", "rendelkezések", "rendelet", "állásfoglalása",
                 "határozat", "módosítása", "nyilatkozata", "nyivánításáról"]
-    pat_litag = re.compile(r'< *li *>(.+?)< */ *li *>')
-    li_conts = pat_litag.findall(text)
+
+    soup = BeautifulSoup(text, 'lxml')
+    li_conts = soup.find_all('li')
     titles = []
     for cont in li_conts:
-        cont = cont.strip()
+        cont = cont.text
         if len(cont) < 1:
             continue
         firstchar = cont[0]
@@ -87,7 +88,8 @@ def extract_legislation(titles, splittext):
             continue
         raw_line = pat_non_chars.sub("", line.lower())
         for raw_title in temp_title_dict:
-            if raw_title in raw_line or raw_line in raw_title:
+            if raw_title in raw_line:
+                # or raw_line in raw_title:
                 title = temp_title_dict[raw_title]
                 is_legislation = True
                 if len(legislation) != 0:
@@ -122,22 +124,35 @@ def get_args_inpfi_outfo(basp):
         basp = os.path.abspath(args.directory)
     return basp, files
 
+
 def main():
+    """
+    TODO: 1, bs-t használni a li-k és p-k megkereséséhez
+          2, extracting_leg-nél megnézni a törvényfelismerést
+          3, subproccess alkalmazása tika comm. line alkalmazására"""
+
     basp = 'legislations'
     basp, files = get_args_inpfi_outfo(basp)
     prefix_dict = {"hatarozata": "hat", "rendelete": "rnd", "torveny": "trv",
                    "vegzese": "veg", "kozlemenye": "koz","rendelet": "rnd",
                    "hatarozat": "hat", "modositasa": "mod", "nyilatkozata": "nyil"}
+    # sum_titles = 0
 
     for finp in files:
         text = read_file(finp)
+        soup = BeautifulSoup(text, 'lxml')
+        lines = [line.text for line in soup.find_all('p')]
         titles = extract_titles(text)
-        legislations = extract_legislation(titles, text.split("<p>"))
+        # print("\n#######################", "\n".join(titles), len(titles))
+        # sum_titles += len(titles)
+        legislations = extract_legislation(titles, lines)
         for legislation in legislations:
             prefix = ""
             if legislation[0] in prefix_dict.keys():
                 prefix = prefix_dict[legislation[0]]
             write_out(legislation[2], basp, prefix+"_"+legislation[1]+".txt")
+
+    # print("sum of titles:", sum_titles)
 
 
 if __name__ == "__main__":

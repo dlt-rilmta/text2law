@@ -1,5 +1,553 @@
-rendelet
-
-A hagyatéki eljárás egyes cselekményeirõl 32130
-
-30/2010. (XII. 31.) KIM
+A közigazgatási és igazságügyi miniszter 30/2010. (XII. 31.) KIM rendelete
+az egyes miniszteri rendeleteknek az államigazgatási szervek területi integrációjával összefüggõ
+módosításáról
+Az igazságügyi dolgozók igazolványáról szóló 6/1991. (IV. 19.) IM rendelet tekintetében a kormánytisztviselõk jogállásáról szóló
+2010. évi LVIII. törvény 64. § (4) bekezdés a) pontjában foglalt felhatalmazás alapján,
+a szabadságvesztés és az elõzetes letartóztatás végrehajtásának szabályairól szóló 6/1996. (VII. 12.) IM rendelet tekintetében –
+a legfõbb ügyész véleményének kikérésével – a büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejû
+rendelet 127. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a közszolgálati nyilvántartás egyes kérdéseirõl szóló 7/2002. (III. 12.) BM rendelet tekintetében a köztisztviselõk jogállásáról szóló
+1992. évi XXIII. törvény 80. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+a pártfogó ügyvéd és a kirendelt védõ részére megállapítható díjról és költségekrõl szóló 7/2002. (III. 30.) IM rendelet tekintetében
+az ügyvédekrõl szóló 1998. évi XI. törvény 131. § (1) bekezdés a) és b) pontjában kapott felhatalmazás alapján,
+a büntetõügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 9/2002.
+(IV. 9.) IM rendelet tekintetében a büntetõeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés l) pontjában foglalt
+felhatalmazás alapján,
+a Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri rendeletek
+módosításáról szóló 17/2003. (VI. 24.) IM rendelet tekintetében – a legfõbb ügyész véleményének kikérésével – a büntetések és
+az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejû rendelet 127. § (1) bekezdés b) pontjában kapott felhatalmazás
+alapján,
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32135
+a bûnügyi költségek elõlegezésérõl szóló 21/2003. (VI. 24.) IM-PM-BM együttes rendelet tekintetében – az egyes miniszterek, valamint
+a Miniszterelnökséget vezetõ államtitkár feladat- és hatáskörérõl szóló 212/2010. (VII. 1). Korm. rendelet 73. § b) pontjában meghatározott
+feladatkörében eljáró nemzetgazdasági miniszterrel, továbbá az egyes miniszterek, valamint a Miniszterelnökséget vezetõ államtitkár
+feladat- és hatáskörérõl szóló 212/2010. (VII. 1.) Korm. rendelet 37. § n) pontjában foglalt feladatkörében eljáró belügyminiszterrel
+egyetértésben – a büntetõeljárásról szóló 1998. évi XIX. törvény 604. § (2) bekezdés c) pontjában kapott felhatalmazás alapján,
+a jogi segítõi névjegyzék vezetésének részletes szabályairól szóló 42/2003. (XII. 19.) IM rendelet tekintetében a jogi
+segítségnyújtásról szóló 2003. évi LXXX. törvény 75. § c) pontjában kapott felhatalmazás alapján,
+a jogi segítõ díjazásáról szóló 11/2004. (III. 30.) IM rendelet tekintetében – az egyes miniszterek, valamint a Miniszterelnökséget
+vezetõ államtitkár feladat- és hatáskörérõl szóló 212/2010. (VII. 1). Korm. rendelet 73. § c) pontjában meghatározott feladatkörében
+eljáró nemzetgazdasági miniszterrel egyetértésben – a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 75. § b) pontjában
+kapott felhatalmazás alapján,
+a jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet tekintetében a jogi
+segítségnyújtásról szóló 2003. évi LXXX. törvény 75. § a) pontjában foglalt felhatalmazás alapján,
+a büntetõ ügyekben közvetítõi tevékenységet végzõ ügyvéd képesítési követelményeirõl, díjazásáról és iratkezelésérõl szóló
+58/2007. (XII. 23.) IRM rendelet tekintetében a büntetõ ügyekben alkalmazható közvetítõi tevékenységrõl szóló 2006. évi
+CXXIII. törvény 24. § (4) bekezdésében foglalt felhatalmazás alapján,
+az egyes miniszterek, valamint a Miniszterelnökséget vezetõ államtitkár feladat- és hatáskörérõl szóló 212/2010. (VII. 1.) Korm.
+rendelet 12. § a) pontjában foglalt feladatkörömben eljárva a következõket rendelem el:
+1. Az igazságügyi dolgozók igazolványáról szóló 6/1991. (IV. 19.) IM rendelet módosítása
+1. § Az igazságügyi dolgozók igazolványáról szóló 6/1991. (IV. 19.) IM rendelet a következõ 4/A. §-sal egészül ki:
+„4/A. § Az e rendelet alapján az Igazságügyi Hivatal vagy jogelõdjének dolgozói részére kiadott igazolványok
+bevonásig érvényesek.”
+2. § Hatályát veszti az igazságügyi dolgozók igazolványáról szóló 6/1991. (IV. 19.) IM rendelet
+a) 1. §-ában az „ , az Igazságügyi Minisztérium Pártfogó Felügyelõi és Jogi Segítségnyújtó Szolgálat dolgozói részére
+a rendelet 3. számú melléklete szerinti „Igazságügyi Minisztérium Pártfogó Felügyelõi és Jogi Segítségnyújtó
+Szolgálat dolgozója igazolványá”-t” szövegrész,
+b) 3. §-ában „Az Igazságügyi Minisztérium Pártfogó Felügyelõi és Jogi Segítségnyújtó Szolgálat dolgozói részére
+kiállított igazolvány elvesztését a dolgozó haladéktalanul jelenteni köteles az Igazságügyi Minisztérium Pártfogó
+Felügyelõi és Jogi Segítségnyújtó Szolgálat Országos Hivatala fõigazgatójának, illetve a megyei (fõvárosi) hivatala
+igazgatójának.” szövegrész,
+c) 4. § (3) bekezdésében „Az Igazságügyi Minisztérium Pártfogó Felügyelõi és Jogi Segítségnyújtó Szolgálat
+dolgozóinak igazolványa tekintetében a fõigazgató, illetve az igazgató gyakorolja a (2) bekezdésben
+meghatározott jogkört,” szövegrész,
+d) 3. számú melléklete.
+2. A szabadságvesztés és az elõzetes letartóztatás végrehajtásának szabályairól szóló 6/1996. (VII. 12.) IM
+rendelet módosítása
+3. § A szabadságvesztés és az elõzetes letartóztatás végrehajtásának szabályairól szóló 6/1996. (VII. 12.) IM rendelet
+5/A. §-a helyébe az alábbi rendelkezés lép:
+„5/A. § (1) A büntetés-végrehajtási feladatok teljesítését a pártfogó felügyelõi szolgálat segíti és támogatja
+a jogszabályok, valamint a bv. szervezettel kötött együttmûködési megállapodás alapján.
+(2) Együttmûködési megállapodást a parancsnok a fõvárosi, megyei igazságügyi szolgálat vezetõjével, az országos
+parancsnok a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatának fõigazgatójával köthet.
+A parancsnok, illetve a fõvárosi, megyei igazságügyi szolgálat vezetõje által kötött együttmûködési megállapodást
+az országos parancsnok, illetve a fõigazgató hagyják jóvá.”
+4. § A szabadságvesztés és az elõzetes letartóztatás végrehajtásának szabályairól szóló 6/1996. (VII. 12.) IM rendelet 18. §
+(1) bekezdése helyébe az alábbi rendelkezés lép:
+„(1) Ha az elítélttel szemben más ügyben közérdekû munka büntetés vagy pártfogó felügyelet intézkedés
+végrehajtása van folyamatban, az intézet a befogadásról hetvenkét órán belül tájékoztatja az elítélt lakóhelye
+32136 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+(tartózkodási helye) szerint illetékes fõvárosi, megyei igazságügyi szolgálatot (a továbbiakban: pártfogó felügyelõi
+szolgálat).”
+3. A közszolgálati nyilvántartás egyes kérdéseirõl szóló 7/2002. (III. 12.) BM rendelet módosítása
+5. § A közszolgálati nyilvántartás egyes kérdéseirõl szóló 7/2002. (III. 12.) BM rendelet 2. és 4. számú melléklete az alábbiak
+szerint módosul:
+A rendelet
+a) 2. számú mellékletének 2.2-es bekezdésében a „közigazgatási hivatal” szövegrész helyébe „kormányhivatal”
+szöveg,
+b) 4. számú melléklet általános szabályok részében a „közigazgatási hivatalokban” szövegrész helyébe
+a „kormányhivatalokban” szöveg,
+c) 4. számú melléklet elsõ rész II. cím 3. pont ca) alpontjában a „közigazgatási hivatalnak” szövegrész helyébe
+a „kormányhivatalnak” szöveg és a „közigazgatási hivatalhoz” szövegrész helyébe a „kormányhivatalhoz” szöveg,
+d) 4. számú melléklet második rész 1. pontjában és a második rész 3. pontjában a „közigazgatási hivatal”
+szövegrészek helyébe a „kormányhivatal” szöveg,
+e) 4. számú melléklet második rész 7. pontjában és 8. pontjában a „közigazgatási hivatalok” szövegrész helyébe
+a „kormányhivatalok” szöveg,
+f) 4. számú melléklet harmadik rész I. cím 1. pontjában a „közigazgatási hivatalokban” szövegrész helyébe
+a „kormányhivatalokban” szöveg,
+g) 4. számú melléklet 1. számú függelékében a „közigazgatási hivatalhoz” szövegrész helyébe
+a „kormányhivatalhoz” szöveg,
+h) 4. számú melléklet 2. számú és 3. számú függelékében a „közigazgatási hivatalnak” szövegrész helyébe
+a „kormányhivatalnak” szöveg
+lép.
+4. A pártfogó ügyvéd és a kirendelt védõ részére megállapítható díjról és költségekrõl szóló 7/2002.
+(III. 30.) IM rendelet módosítása
+6. § A pártfogó ügyvéd és a kirendelt védõ részére megállapítható díjról és költségekrõl szóló 7/2002. (III. 30.) IM rendelet
+3. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+„(1) A kirendelt védõnek az eljárásban felmerült készkiadásait a bíróság, a pártfogó ügyvéd készkiadásait a fõvárosi,
+megyei igazságügyi szolgálat és a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatának jogi
+segítségnyújtási feladatokat ellátó szervezeti egysége (a továbbiakban együtt: jogi segítségnyújtó szolgálat) állapítja
+meg az ügyvéd által benyújtott tételes kimutatás alapján.”
+7. § A pártfogó ügyvéd és a kirendelt védõ részére megállapítható díjról és költségekrõl szóló 7/2002. (III. 30.) IM rendelet
+a) 5. § (4) bekezdésében az „az Igazságügyi Hivatal” szövegrész helyébe az „a jogi segítségnyújtó szolgálat” szöveg,
+b) 5. § (7) bekezdésében a „hivatalnak” szövegrész helyébe a „fõvárosi megyei igazságügyi szolgálatnak” szöveg,
+c) 5. § (7) és (8) bekezdésében a „hivatal” szövegrészek helyébe a „jogi segítségnyújtó szolgálat” szöveg
+lép.
+5. A büntetõügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló
+feladatokról szóló 9/2002. (IV. 9.) IM rendelet módosítása
+8. § A büntetõügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló
+9/2002. (IV. 9.) IM rendelet 4. § (9) bekezdése helyébe az alábbi rendelkezés lép:
+„(9) Ha perújítás, vagy felülvizsgálat folytán indult eljárásban a bíróság az alapügyben hozott bármely rendelkezés
+végrehajtását felfüggeszti vagy félbeszakítja [Be. 413. § (1) bek., 423. § (6) bek.], errõl – határozatának megküldésével –
+haladéktalanul értesíti az illetékes büntetés-végrehajtási csoportot, a fogvatartást foganatosító bv. intézetet,
+a bírósági gazdasági hivatalt, bûnjelkezelõt, vagyonelkobzás esetén a megyei (fõvárosi) bírósági végrehajtói irodát,
+közérdekû munka, illetõleg pártfogó felügyelet esetén a fõvárosi, megyei igazságügyi szolgálatot (a továbbiakban:
+pártfogó felügyelõi szolgálat).”
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32137
+9. § A büntetõügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló
+9/2002. (IV. 9.) IM rendelet 314/b. pont „Felhívás a közérdekû munka megkezdésére” címû része helyébe e rendelet 1.
+melléklete lép.
+6. A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes
+igazságügyminiszteri rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet módosítása
+10. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 1. §-a helyébe az alábbi rendelkezés lép:
+„1. § A rendelet hatálya a fõvárosi, megyei igazságügyi szolgálatokra, és a Közigazgatási és Igazságügyi Minisztérium
+Igazságügyi Szolgálatának (a továbbiakban: KIMISZ) pártfogó felügyelõi feladatokat ellátó szervezeti egységeire
+terjed ki.”
+11. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 2. §-a helyébe az alábbi rendelkezés lép:
+„2. § Ha az ügyész vagy a bíróság, illetve a büntetés-végrehajtási bíró (a továbbiakban a bíróság és
+a büntetés-végrehajtási bíró együtt: bíróság) pártfogó felügyelõi vélemény beszerzését rendeli el, annak elkészítésére
+a terhelt lakóhelye (tartózkodási helye) szerint illetékes fõvárosi, megyei igazságügyi szolgálatot rendeli ki, azt
+a fõvárosi, megyei igazságügyi szolgálat vezetõje által kijelölt pártfogó felügyelõ készíti el.”
+12. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 3. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) Az ügyre vonatkozóan a pártfogó felügyelõi vélemény rögzíti
+a) a vélemény beszerzését elrendelõ hatóságot, székhelyét, ügyszámát, az elrendelés idejét, a vélemény
+elkészítésének határidejét,
+b) a büntetõeljárás jellegét,
+c) a cselekmény Btk. szerinti minõsítését,
+d) az elkövetés idõpontját,
+e) az illetékes fõvárosi, megyei igazságügyi szolgálat megnevezését, annak címét, az érkeztetés idõpontját,
+f) a véleményben közremûködõ fõvárosi, megyei igazságügyi szolgálat megnevezését,
+g) a véleményt készítõ pártfogó felügyelõ nevét,
+h) a beszerzett okiratokat, igazolásokat, egyéb mellékleteket.”
+13. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 8. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+„(1) Ha a nyomozó hatóság, az ügyész vagy a bíróság környezettanulmány beszerzését rendeli el, azt a terhelt
+lakóhelye (tartózkodási helye) szerint illetékes fõvárosi, megyei igazságügyi szolgálat pártfogó felügyelõje készíti el.”
+14. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 9/A. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) Ha a büntetõ ügyben a pártfogó felügyelõi vélemény elkészítésére és a közvetítõi eljárás lefolytatására ugyanaz
+a fõvárosi, megyei igazságügyi szolgálat az illetékes, a közvetítõi feladatok ellátására az ügyben pártfogó felügyelõi
+véleményt készítõ pártfogó felügyelõ nem jelölhetõ ki.”
+15. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 9/B. § (3) bekezdése helyébe az alábbi rendelkezés lép:
+„(3) Ha a büntetõ ügyekben alkalmazható közvetítõi tevékenységrõl szóló 2006. évi CXXIII. törvény (a továbbiakban:
+Bkt.) 3. § (2) bekezdése alapján egy közvetítõi eljárásban több közvetítõ kijelölésére kerül sor, akkor a területi
+illetékességtõl eltérõ más megyébõl is kijelölhetõ közvetítõ. A kijelölésrõl az érintett fõvárosi, megyei igazságügyi
+szolgálat vezetõje megkeresés alapján dönt.”
+16. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 9/C. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) Ha a megállapodásban foglaltak indokolják, úgy az ellenõrzésre
+32138 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+a) más – fõvárosi, megyei igazságügyi szolgálat által foglalkoztatott – pártfogó felügyelõ vagy
+b) más – elsõsorban a terhelt vagy a sértett lakóhelye (tartózkodási helye), illetve a teljesítés helye szerinti – fõvárosi,
+megyei igazságügyi szolgálat pártfogó felügyelõje
+jelölhetõ ki, amelyrõl az érintett fõvárosi, megyei igazságügyi szolgálat vezetõje – a b) pontban meghatározott
+esetben megkeresésre – dönt.”
+17. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 17. § (2) bekezdése helyébe az alábbi rendelkezés lép:
+„(2) Ha az új munkahely kijelölése folytán a közérdekû munka végrehajtásának ellenõrzésére más fõvárosi, megyei
+igazságügyi szolgálat illetékes, az ügy iratait a 10. §-ban foglaltak teljesítésére és a közérdekû munka végrehajtásának
+ellenõrzésére az addig eljáró fõvárosi, megyei igazságügyi szolgálat ahhoz a fõvárosi, megyei igazságügyi szolgálathoz
+teszi át, amelynek illetékességi területén az új munkahely mûködik.”
+18. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet 41. § (4) bekezdése helyébe az alábbi rendelkezés lép:
+„(4) A fõvárosi, megyei igazságügyi szolgálatok – a 39. § (2) bekezdés a) pontjában meghatározott célok megvalósítása
+érdekében, nem vállalkozási tevékenység keretében – programok szervezésére közösségi foglalkoztatókat és irodákat
+mûködtethetnek.”
+19. § A Pártfogó Felügyelõi Szolgálat tevékenységérõl, valamint ehhez kapcsolódóan egyes igazságügyminiszteri
+rendeletek módosításáról szóló 17/2003. (VI. 24.) IM rendelet:
+a) 9/B. § (2) bekezdésében, 20. § (4) és (5) bekezdésében, 33. §-ában, valamint 39. § (1) bekezdésében a „megyei
+hivatal” szövegrészek helyébe a „fõvárosi, megyei igazságügyi szolgálat” szövegrész,
+b) 9/D. § (2), (3) és (5) bekezdésében „az Igazságügyi Hivatal” szövegrész helyébe „a KIMISZ” szövegrész,
+c) 10. § (1) bekezdésében a „megyei hivatalnak” szövegrész helyébe a „fõvárosi, megyei igazságügyi szolgálatnak”
+szövegrész,
+d) 41. § (3) bekezdésében a „Központi Igazságügyi Hivatal és a megyei hivatal” szövegrész helyébe a „KIMISZ és
+fõvárosi, megyei igazságügyi szolgálat” szöveg
+lép.
+7. A bûnügyi költségek elõlegezésérõl szóló 21/2003. (VI. 24.) IM–PM–BM együttes rendelet módosítása
+20. § A bûnügyi költségek elõlegezésérõl szóló 21/2003. (VI. 24.) IM-PM-BM együttes rendelet 2. § (1) bekezdés c) pontja
+helyébe az alábbi rendelkezés lép:
+[Az egyes költségeket a következõ személyek elõlegezik:]
+„c) a pótmagánvádló készkiadását, valamint a pótmagánvádló képviselõjének készkiadását és díját a pótmagánvádló,
+a személyes költségmentességben részesült pótmagánvádló esetében ezen költségeket a jogi segítségnyújtó
+szolgálat,”
+8. A jogi segítõi névjegyzék vezetésének részletes szabályairól szóló 42/2003. (XII. 19.) IM rendelet
+módosítása
+21. § A jogi segítõi névjegyzék vezetésének részletes szabályairól szóló 42/2003. (XII. 19.) IM rendelet 1. § (1) bekezdése
+helyébe az alábbi rendelkezés lép:
+„(1) A jogi segítõi névjegyzékbe (a továbbiakban: névjegyzék) történõ felvétel iránti kérelmet (a továbbiakban:
+kérelem) egy példányban kell benyújtani a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálatánál
+(a továbbiakban: hivatal).”
+9. A jogi segítõ díjazásáról szóló 11/2004. (III. 30.) IM rendelet módosítása
+22. § A jogi segítõ díjazásáról szóló 11/2004. (III. 30.) IM rendelet 4. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+„(1) A jogi segítõ a jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet 2.
+melléklete szerinti teljesítésigazolások – legalább hathavonta egy alkalommal történõ – megküldésével igazolja a jogi
+szolgáltatás nyújtásának megtörténtét a támogatást engedélyezõ fõvárosi, megyei igazságügyi szolgálatnak.”
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32139
+23. § A jogi segítõ díjazásáról szóló 11/2004. (III. 30.) IM rendelet 6. §-a helyébe az alábbi rendelkezés lép:
+„6. § (1) A támogatást engedélyezõ fõvárosi, megyei igazságügyi szolgálat a hozzá érkezett, az e rendelet szerinti
+összegre kiállított számlák, továbbá a teljesítésigazolások és az ügy egyéb iratai alapján a számla beérkezésétõl
+számított 8 munkanapon belül megvizsgálja a jogi segítõi díj felszámításának helyességét.
+(2) Ha a jogi segítõi díj felszámítása a jogszabályoknak megfelelõen történt, a támogatást engedélyezõ fõvárosi,
+megyei igazságügyi szolgálat – határozat hozatala nélkül – megkeresi a Közigazgatási és Igazságügyi Minisztérium
+Igazságügyi Szolgálatát a jogi segítõi díj megfizetése érdekében.”
+10. A jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet
+módosítása
+24. § A jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet 2. § 6–9. pontja
+helyébe az alábbi rendelkezések lépnek:
+[E rendelet alkalmazásában:]
+„6. jogi segítségnyújtó szolgálat: a fõvárosi, megyei igazságügyi szolgálat és a Közigazgatási és Igazságügyi
+Minisztérium Igazságügyi Szolgálatának jogi segítségnyújtási feladatokat ellátó szervezeti egysége;
+7. központi hivatal: a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata;
+8. területi hivatal: a fõvárosi, megyei igazságügyi szolgálat;
+9. fél: a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet elõterjesztõ
+személy vagy szervezet;”
+25. § A jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet
+a) 41. § (4) és (5) bekezdésében a „Központi Igazságügyi Hivatal” szövegrész helyébe a „központi hivatal” szöveg,
+b) 50. §-ában és 108. §-ában a „Hivatal” szövegrész helyébe a „jogi segítségnyújtó szolgálat” szöveg,
+c) 83. § (2) bekezdésében a „hivatal” szövegrész helyébe a „jogi segítségnyújtó szolgálat” szöveg
+lép.
+26. § A jogi segítségnyújtás igénybevételének részletes szabályairól szóló 56/2007. (XII. 22.) IRM rendelet 1–3. melléklete
+helyébe e rendelet 2–4. mellékletei lépnek.
+11. A büntetõ ügyekben közvetítõi tevékenységet végzõ ügyvéd képesítési követelményeirõl, díjazásáról
+és iratkezelésérõl szóló 58/2007. (XII. 23.) IRM rendelet módosítása
+27. § A büntetõ ügyekben közvetítõi tevékenységet végzõ ügyvéd képesítési követelményeirõl, díjazásáról és
+iratkezelésérõl szóló 58/2007. (XII. 23.) IRM rendelet 2. § (3) és (4) bekezdése helyébe az alábbi rendelkezések lépnek:
+„(3) Az eljárási díj (1) bekezdésben meghatározott összege, vagy a (2) bekezdésben meghatározott részösszege
+az ügyvédi tevékenység ellenértékét terhelõ általános forgalmi adó összegét nem tartalmazza, azt az e rendeletben
+meghatározott összegeken mint adóalapon felül kell felszámítani. A közvetítõként eljáró ügyvédnek a szerzõdés
+megkötésekor nyilatkoznia kell a Közigazgatási és Igazságügyi Minisztérium Igazságügyi Szolgálata (a továbbiakban:
+KIMISZ) felé arról, hogy általános forgalmi adó fizetésére köteles-e.
+(4) Az ügyvéd részére az eljárási díjat a közvetítõi eljárás befejezésekor, az arról kiállított számla ellenében – az illetékes
+fõvárosi, megyei igazságügyi szolgálat teljesítésigazolását követõen – a KIMISZ fizeti meg. A számlán a felszámított díj
+összegét ügyenkénti bontásban kell feltüntetni, és meg kell jelölni a közvetítõi eljárás végzésére a KIMISZ-szel kötött
+szerzõdés számát is.”
+28. § A büntetõ ügyekben közvetítõi tevékenységet végzõ ügyvéd képesítési követelményeirõl, díjazásáról és
+iratkezelésérõl szóló 58/2007. (XII. 23.) IRM rendelet 4. §-ában „az Igazságügyi Hivatal fõigazgatója” szövegrész helyébe
+„a KIMISZ fõigazgatója” szöveg lép.
+29. § Ez a rendelet 2011. január 1-jén lép hatályba és a hatálybalépését követõ napon hatályát veszti.
+Dr. Navracsics Tibor s. k.,
+közigazgatási és igazságügyi miniszter
+32140 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+1. melléklet a 30/2010. (XII. 31.) KIM rendelethez
+„Melléklet a 9/2002. (IV. 9.) IM rendelethez
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32141
+314/b.
+Felhívás a közérdekű munka megkezdésére.
+A közérdekű munka végrehajtását a ............................................................................a megyei 
+(fővárosi) igazságügyi szolgálat ellenőrzi.
+Kérem, hogy a közérdekű munka kijelölt napon való megkezdését a ................................................. 
+megyei (fővárosi) igazságügyi szolgálattal közölje.”
+2. melléklet a 30/2010. (XII. 31.) KIM rendelethez
+„1. melléklet az 56/2007. (XII. 22.) IRM rendelethez
+32142 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+NYOMTATVÁNY
+Jogi segítségnyújtás engedélyezése iránti kérelemhez
+A fővárosi, megyei igazságügyi szolgálat érkeztető 
+bélyegzője
+A) SZEMÉLYI ADATOK, JÖVEDELMI, VAGYONI HELYZET
+I. A kérelmező személyi adatai
+1. Neve:  2. Születési neve: 
+ 3. Születési helye és ideje: 
+ 4. Anyja születési neve: 
+ 5. Személyi igazolványának (ha azzal nem rendelkezik, egyéb személyazonosító okmányának típusa 
+megjelölésével) száma: 
+ 6. Lakó- vagy tartózkodási helyének címe: 
+ 7. Értesítési címe, telefonszáma, e-mail címe: 
+ 8. Állampolgársága:  9. Családi állapota: 
+ 10. Jogi szakvizsgával                     _ rendelkezik                     _ nem rendelkezik 
+ 11. Vállalkozási 
+tevékenységet folytat
+_ társas vállalkozás tagjaként _ egyéni vállalkozóként _ mezőgazdasági őstermelőként 
+_ mezőgazdasági őstermelőként és a kérelem előterjesztését megelőző naptári évben 
+adóbevallásra és egyszerűsített adóbevallási nyilatkozatra nem volt köteles
+12. Ha a kérelmező e 
+pontban foglalt valamely 
+ellátásra jogosult, ezt 
+igazolnia kell és a 
+nyomtatvány A) részének 
+további rovatait nem kell 
+kitöltenie!
+- aktív korúak ellátására jogosult, vagy aktív korúak ellátására jogosult, a szociális 
+igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény szerinti közeli 
+hozzátartozójával él közös háztartásban 
+- közgyógyellátásban részesül vagy egészségügyi szolgáltatásra való jogosultságát 
+állapították meg 
+- átmeneti szállást igénybevevő hajléktalan személy 
+- menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti 
+elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő 
+személy, és a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára 
+biztosított ellátásra és támogatásra jogosult 
+- vízum kiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve 
+honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a 
+felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló 
+eljárásban részt vevő személy 
+- családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi 
+kedvezményre való jogosultságát megállapították 
+- kiemelkedően közhasznú szervezet vagy munkavállalói érdek-képviseleti szervezet, 
+ha közérdekből, külön jogszabály felhatalmazása alapján indít pert
+II. A kérelmező jövedelme 
+(Aki az A) I. 12. pontja, C) I. 7., valamint a 8.1-8.10. pontjai alapján kéri a támogatást, továbbá ha kiskorú sértett vagy
+kiskorú magánfél kéri a D) rész szerinti támogatást, vagyoni, jövedelmi viszonyait nem kell igazolnia  
+és a nyomtatvány A) részének II-V. rovatait nem kell kitöltenie)
+1.1. A munkáltató (járandóságot folyósító szerv) neve: 
+ 1.2. A munkáltató címe: 
+ 1.3. Havi nettó jövedelem:  1.4. A munkáltató aláírása, bélyegzőlenyomata, dátum: 
+ 2.1. A munkáltató (járandóságot folyósító szerv) neve: 
+ 2.2. A munkáltató címe: 
+ 2.3. Havi nettó jövedelem:  2.4. A munkáltató aláírása, bélyegzőlenyomata, dátum:
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32143
+3. A kérelmező összes havi nettó jövedelme: 
+ III. A kérelmezővel közös háztartásban élők adatai
+1.1. Házastárs, élettárs neve (születési név is): 
+ 1.2. Születési helye és ideje: 
+ 1.3. Anyja születési neve: 
+ 1.4. Munkáltatójának neve és címe: 
+ 1.5. Havi nettó jövedelme: 
+ 1.6. A munkáltató aláírása, bélyegzőlenyomata, dátum:  1.7. Házastárs (élettárs) aláírása: 
+ 2.1. Gyermek neve (születési név is): 
+ 2.2. Születési helye és ideje: 
+ 2.3. Anyja születési neve: 
+ 2.4. Munkáltatójának neve és címe: 
+ 2.5. Havi nettó jövedelme: 
+ 2.6. A munkáltató aláírása, bélyegzőlenyomata, dátum:  2.7. Gyermek (törvényes képviselő) aláírása: 
+ 3.1. Gyermek neve (születési név is): 
+ 3.2. Születési helye és ideje: 
+ 3.3. Anyja születési neve: 
+ 3.4. Munkáltatójának neve és címe: 
+ 3.5. Havi nettó jövedelme: 
+ 3.6. A munkáltató aláírása, bélyegzőlenyomata, dátum:  3.7. Gyermek (törvényes képviselő) aláírása: 
+ 4.1. Egyéb hozzátartozó neve (születési név is): 
+ 4.2. Születési helye és ideje: 
+ 4.3. Anyja születési neve: 
+ 4.4. Munkáltatójának neve és címe: 
+ 4.5. Havi nettó jövedelme: 
+ 4.6. A munkáltató aláírása, bélyegzőlenyomata, dátum:  4.7. Egyéb hozzátartozó aláírása:
+IV. A kérelmezőnek a támogatás engedélyezésénél figyelembe vehető jövedelme 
+(A 2. pont kivételével a fővárosi, megyei igazságügyi szolgálat tölti ki)
+1. A kérelmező és a vele közös háztartásban élő személyek havi összes nettó jövedelme: 
+ 2. Havi összes nettó 
+jövedelemből levonható 
+összegek
+2.1.  Havonta fizetett tartásdíj vagy járadék összege:
+A tartásra jogosult neve: 
+     A tartásdíj fizetését elrendelő hatóság neve és a határozat száma: 
+   2.2.  A lakáshitel havi törlesztő részletének összege: 
+     A lakáshitelt folyósító hitelintézet neve, címe: 
+ 3. Levonások után fennmaradó összeg: 
+ 4. A közös háztartásban élő személyek száma összesen: 
+ 5. Egy főre eső havi nettó jövedelem:
+V. A kérelmező vagyoni helyzete
+1. Ingatlantulajdona  1.1. Lakhatását szolgáló ingatlanának adatai (cím vagy helyrajzi szám, tulajdoni 
+hányad, alapterület, terhek):
+1.2. Egyéb ingatlanának adatai (cím, helyrajzi szám, művelési ág, tulajdoni 
+hányad, alapterület, terhek, becsült forgalmi érték):
+2. Gépjárműve  2.1. Típusa, rendszáma, évjárata, becsült forgalmi értéke: 
+   2.2. Típusa, rendszáma, évjárata, becsült forgalmi értéke: 
+ 3. Egyéb vagyona (értékpapír, 
+ingó vagyontárgy, követelés, 
+vagyoni értékű jog, 
+százharmincezer forintot 
+meghaladó összegű készpénz, 
+pénzügyi intézménnyel 
+szemben fennálló követelés) és 
+a vagyon értéke:
+32144 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+B) PEREN KÍVÜLI JOGI SEGÍTSÉGNYÚJTÁS IGÉNYLÉSE
+I. Tájékoztatás, tanácsadás
+_ jogvitával összefüggésben 
+_ közigazgatási (önkormányzati) 
+eljárással kapcsolatban
+A jogvita (ügy, bűncselekmény) rövid leírása, a közigazgatási eljárás tárgya:
+_ jogszabályi rendelkezésről   
+ _ peren kívüli közvetítéssel 
+összefüggésben 
+_ bűncselekmény sértettjének
+Milyen kérdésben kér tanácsadást:
+II. Okiratkészítés
+1. Keresetlevél, nemperes 
+eljárás
+A jogvita, vitás ügy rövid leírása:
+kezdeményezése iránti kérelem  Ellenérdekű fél: 
+ 2. felülvizsgálati, perújítási 
+kérelem
+A per (nemperes eljárás) tárgya:
+A pert lefolytató bíróság, a jogerős határozat száma: 
+   Peres felek, eljárásban részt vevő személyek: 
+ 3. beadvány közigazgatási 
+ügyben
+Az eljárás tárgya (ha még nem indult meg, az eljárás megindításának 
+szükségessége):
+Az eljárást lefolytató hatóság, és az ügy száma (ha az eljárás már folyamatban 
+van):
+Az eljárásban részt vevő felek: 
+   Beadvány tárgya: 
+ 4. feljelentés megtétele  A bűncselekmény leírása: 
+ 5. Szerződés  A szerződés tárgya:
+Másik szerződő fél neve: 
+ 6. Egyéb  Az okirat készítésének célja, annak tartalma:
+C) PÁRTFOGÓ ÜGYVÉDI KÉPVISELET IGÉNYLÉSE POLGÁRI ELJÁRÁSBAN
+Polgári per, nemperes eljárás (a továbbiakban: per)
+1. Az eljáró (eljárásra illetékes) bíróság: 
+ 2. A per ügyszáma:  _ A per még nem indult meg 
+ 4. Az ügyben korábban kapott-
+e támogatást
+_ igen, _ nem
+5. A kérelmező _ felperes (kérelmező) _ alperes (kérelmezett) _ beavatkozó, perbehívott _ végrehajtást kérő _ a 
+végrehajtást kérő, ha a megelőző perben pártfogó ügyvéddel rendelkezett 
+ 6. Ellenfél neve, címe: 
+ 7. A bíróság a perben a pártfogó ügyvédi képviselet költségeire is kiterjedő költségmentességet engedélyezett _ 
+ 8. A per tárgya (ha még nem 
+indult meg, az érvényesítendő 
+igény)
+8.1. a nyugellátás, hozzátartozói nyugellátás iránti igények érvényesítésével 
+kapcsolatos per
+8.2. az egészségbiztosítási igények érvényesítésével kapcsolatos per 
+   8.3. az apasági és a származás megállapítása iránti egyéb per 
+   8.4. a szülői felügyelet megszüntetése vagy visszaállítása iránti per 
+   8.5. a gondnokság alá helyezés iránti, és a gondnoksággal kapcsolatos egyéb
+per 
+   8.6. gyermek elhelyezésével és átadásával, valamint a kapcsolattartással
+összefüggő per 
+   8.7. a törvényen alapuló tartással kapcsolatos per, ideértve a tartásdíjnak a
+kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a 
+tartásdíj megszüntetése vagy összegének megváltoztatása, továbbá a tartásdíjra 
+irányuló végrehajtás megszüntetése vagy korlátozása iránti per is
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32145
+8.8. a munkaviszonnyal, a közszolgálati és a közalkalmazotti jogviszonnyal, más 
+szolgálati viszonnyal, valamint a szövetkezeti tagsági viszony alapján létrejött 
+munkaviszony jellegű jogviszonnyal kapcsolatos per (a továbbiakban: 
+munkaügyi per), kivéve azokat a munkaügyi pereket, amelyekben a feleket 
+tárgyi illetékfeljegyzési jog illeti meg
+8.9. a bányakár megtérítése iránti per 
+   8.10. bűncselekménnyel a személy életében, testi épségében vagy
+egészségében okozott kár megtérítése iránti igény érvényesítése 
+   8.11. Egyéb: 
+ 9. Az eljárás melyik szakaszában kéri a támogatást:
+D) JOGI SEGÍTSÉGNYÚJTÁS IGÉNYLÉSE BÜNTETŐELJÁRÁSBAN
+1. A büntetőügyben eljáró (eljárásra illetékes) bíróság: 
+ 2. A büntetőügy száma: 
+ 3. A büntetőügy tárgya: 
+ 4. Az eljárás melyik szakaszában kéri a támogatást: 
+ 5. Az ügyben korábban kapott-e támogatást                   _ igen,                   _ nem 
+ 6. A kérelmező _ sértett, _ magánvádló, _ magánfél, _ egyéb érdekelt, _ pótmagánvádló 
+ 7. Az igényelt támogatás  _ pártfogó ügyvédi képviselet
+pótmagánvádló részére  _ személyes költségmentesség 
+     _ személyes költségmentesség és
+pártfogó ügyvédi képviselet
+Mellékletek felsorolása 
+ 1. .............................................................................................................................................................................................................. 
+ 2. .............................................................................................................................................................................................................. 
+ 3. .............................................................................................................................................................................................................. 
+ 4. .............................................................................................................................................................................................................. 
+ 5. .............................................................................................................................................................................................................. 
+ 6. .............................................................................................................................................................................................................. 
+ 7. .............................................................................................................................................................................................................. 
+ 8. ..............................................................................................................................................................................................................
+Közlemény
+Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a 
+valóságnak. A jogi segítségnyújtó szolgálat által lefolytatott, a támogatás engedélyezése és a jogi 
+segítői, pártfogó ügyvédi díj megállapítása iránti eljárásában felmentem a jogi segítőt, pártfogó 
+ügyvédet a jogi szolgáltatás nyújtásával kapcsolatban fennálló titoktartási kötelezettsége alól.
+.........................................., ........... év ............................................ hó .......... nap.
+................................................................ 
+kérelmező aláírása
+”
+3. melléklet a 30/2010. (XII. 31.) KIM rendelethez
+„2. melléklet az 56/2007. (XII. 22.) IRM rendelethez
+32146 M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám
+Átadandó a határozattal együtt a jogi segítőnek!
+IGAZOLÁS 
+Peren kívüli jogi szolgáltatás nyújtásának teljesítéséről
+(Az 1. és 2. pontot a fővárosi, megyei igazságügyi szolgálat tölti ki)  
+ 1. A támogatás engedélyezése 
+ügyében eljárt fővárosi, megyei 
+igazságügyi szolgálat
+2. A támogatást jogerősen 
+engedélyező határozat száma:
+3. A jogi segítő  neve: 
+   címe: 
+ 4. A jogi segítő szervezet 
+megbízásából a
+neve:
+jogi szolgáltatást teljesítő ügyvéd  irodájának címe: 
+ 5. A jogi szolgáltatás nyújtása elvállalásának napja: 
+ 6. A jogi szolgáltatás nyújtására fordított órák száma: 
+ 7. A jogi szolgáltatás nyújtása megtörtént. A fél a jogi szolgáltatás nyújtása érdekében más jogi segítő 
+közreműködését nem vette igénybe. 
+ .........................................., ......... év ..................................... hó ........... nap
+.......................................... 
+ fél aláírása
+8. A jogi segítő ÁFA fizetésére    köteles    nem köteles
+9. 
+Közlemény
+.........................................., ......... év ..................................... hó ........... nap 
+ ............................................................................................. 
+ jogi segítő aláírása, bélyegzőjének lenyomata
+”
+4. melléklet a 30/2010. (XII. 31.) KIM rendelethez
+„3. melléklet az 56/2007. (XII. 22.) IRM rendelethez
+M A G Y A R K Ö Z L Ö N Y • 2010. évi 202. szám 32147
+................. számú példány  Két példány átadandó a meghatalmazott jogi segítőnek! 
+ Pártfogó ügyvédi meghatalmazás
+I. A fél részére engedélyezett pártfogó ügyvédi képviselet adatai (a fővárosi, megyei igazságügyi szolgálat 
+tölti ki)
+1. A fél neve és lakcíme:  
+ 2. A támogatás engedélyezése ügyében eljárt fővárosi, megyei igazságügyi szolgálat megnevezése: 
+ 3. A támogatást jogerősen engedélyező határozat száma: 
+ 4. A határozattal engedélyezett támogatás formája:
+előlegező/költségfeljegyzéses (Jst. 11/B. §) 
+ állam által átvállalt/költségmentes (Jst. 11/A. §)
+5. Az eljáró bíróság megnevezése, a bírósági eljárás száma: 
+ ................................................., ......... év .................................. hó ......... nap
+aláírás, a fővárosi, megyei igazságügyi szolgálat bélyegzőjének lenyomata
+II. A meghatalmazott jogi segítő adatai (a jogi segítő tölti ki)
+1. Név:
+2. Iroda címe:
+3. A jogi segítő szervezet megbízásából a 
+pártfogó
+3.1. Név:
+ügyvédi képviseletet ellátó ügyvéd adatai:  3.2. Iroda címe: 
+ 4. A sértett pártfogó ügyvédi képviseletét
+ellátó, a 
+ 4.1. Név:
+büntetőeljárásról szóló 1998. évi XIX. 
+törvény
+4.2. Szervezet vezetőjének neve:
+58. §-ának (3) bekezdése szerinti szervezet 
+adatai:
+4.3. Címe:
+III. Meghatalmazás
+Alulírott meghatalmazom a II. pont alatti jogi segítőt a ............................................. bíróság előtti ................................... 
+számú, ...................................... elleni ................................... tárgyú ügyben a pártfogó ügyvédi képviseletem ellátására.
+................................................., ......... év .................................. hó ......... nap
+..............................................................  
+meghatalmazó fél aláírása
+............................................................................  
+meghatalmazott jogi segítő
+(jogi segítő szervezet nevében eljáró ügyvéd)  
+aláírása, bélyegzőlenyomata
+”

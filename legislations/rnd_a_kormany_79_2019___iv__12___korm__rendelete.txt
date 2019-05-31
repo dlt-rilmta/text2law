@@ -1,10 +1,8 @@
 A Kormány 79/2019. (IV. 12.) Korm. rendelete
 az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 
 549/2013. (XII. 30.) Korm. rendelet módosításáról
-
 A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15b. pontjában kapott felhatalmazás alapján, 
 az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
-
 1. § (1) Az  Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 
 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 2. § (1) bekezdés 1b. pontja 
 helyébe a következő rendelkezés lép, és a bekezdés a következő 1c–1e. ponttal egészül ki:
@@ -21,11 +19,7 @@ megállapodás,
 1e. elfogadó nyilatkozat: a szállítói teljesítés megfelelőségét igazoló, a szállító, a kedvezményezett, a közreműködő 
 és a  támogató képviselői által a  támogatás kifizetésének előfeltételeként aláírandó dokumentum, mely 
 a felülvizsgálatra illetékes szervek és személyek megjelölésével a támogatási szerződés részét képezi,”
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 2147
-
 (2) Az 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdés 9a. és 9b. pontja helyébe a következő rendelkezések lépnek, 
 és a bekezdés a következő 9c. ponttal egészül ki:
 (E rendelet alkalmazásában)
@@ -36,19 +30,16 @@ időszakának végrehajtására vonatkozó szabályzat, valamint a  Norvég Fin
 9c. pénzügyi befejezés: a  projekt megvalósítása során keletkezett elszámoló bizonylatoknak az  egységes működési 
 kézikönyvről szóló 547/2013. (XII. 30.) Korm. rendelet 1. melléklet 74. alcíme vagy a 272/2014. (XI. 5.) Korm. rendelet 
 3. § (1) bekezdés 42. pontja szerinti kiegyenlítése,”
-
 (3) Az 549/2013. (XII. 30.) Korm. rendelet 2. § (1) bekezdése a következő 18a. ponttal egészül ki:
 (E rendelet alkalmazásában)
 „18a. végrehajtó szerv: az 1316/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti vállalkozás 
 vagy szerv,”
-
 (4) Az 549/2013. (XII. 30.) Korm. rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) Nem minősül az  (1)  bekezdés 2.  pontja szerinti jogosulatlan forrásfelhasználásnak vagy az  (1)  bekezdés 
 14.  pontja szerinti szabálytalanságnak, ha a  kedvezményezett a  pénzügyi közvetítővel szemben fennálló fizetési 
 kötelezettségének gazdasági tevékenysége körében felmerülő üzleti kockázatból eredő fizetési nehézség révén 
 nem képes eleget tenni, vagy ha a pénzügyi közvetítő egy adott pénzügyi eszköz hitelkockázatának révén realizált 
 hitelezési vagy befektetési veszteséget szenved el.”
-
 2. §  Az 549/2013. (XII. 30.) Korm. rendelet 6. §-a a következő (1c) bekezdéssel egészül ki:
 „(1c) Az EGT, Norvég Alap támogatásból megvalósuló projektek 2014–2021 előirányzat (XIX. fejezet 2. cím 6. alcím 
 8. jogcímcsoport) felhasználása lehetséges az  EGT Finanszírozási Mechanizmus és a  Norvég Finanszírozási 
@@ -56,7 +47,6 @@ Mechanizmus 2014–2021-es időszakának a norvég szabályzat 8.11. cikk 2. 
 kapcsolódóan a  nemzeti kapcsolattartónál az  együttműködési megállapodás aláírásáig felmerülő azon költség 
 finanszírozására, amely a  norvég szabályzat 8.11.  cikk 8.  pontja alapján az  együttműködési megállapodás aláírása 
 esetén a donor ország felé elszámolhatóvá válik.”
-
 3. §  Az 549/2013. (XII. 30.) Korm. rendelet II. fejezete a következő 4/A. alcímmel egészül ki:
 „4/A. Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek előirányzat felhasználási szabályai
 11/A.  § (1) Az  Európai Hálózatfinanszírozási Eszköz (CEF) projektek előirányzat (ezen alcím alkalmazásában 
@@ -81,22 +71,16 @@ szóló megállapodással bocsátható a  kedvezményezett rendelkezésére, a�
 meghatározása mellett.
 (5) A támogatás a beszámoló elfogadását követően utófinanszírozással vagy szállítói kifizetéssel, időarányosan vagy 
 teljesítésarányosan folyósítható.
-
-
-
-2148 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 
-
+2148 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám
 (6) A megítélt támogatás terhére támogatási előleg, illetve szállítói előleg folyósítható.
 (7) A támogatási összeg 10%-át meghaladó mértékű támogatási előleg csak az államháztartásért felelős miniszter 
 előzetes jóváhagyásával folyósítható.
 (8) Szállítói előleg a kedvezményezett és a szállító közötti szerződés összege 30%-áig biztosítható a szállító részére, 
 a szállítói előlegnek közvetlenül a szállító fizetési számlájára történő folyósítással.”
-
 4. §  Az 549/2013. (XII. 30.) Korm. rendelet 21. §-a a következő (8) bekezdéssel egészül ki:
 „(8) Az  irányító hatóság a  követeléskezelést az  (1)  bekezdés c), e) és f )  pontja szerinti esetben a  finanszírozási 
 igényről történő döntés meghozataláig, az  (1)  bekezdés g)  pontja szerinti esetben a  jogerős határozat 
 meghozataláig felfüggesztheti.”
-
 5. §  Az 549/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) Az  I. Nemzeti Fejlesztési Terv előirányzat-maradványai (XIX. fejezet 2. cím 1. alcím), a  Nemzeti Stratégiai 
 Referenciakeret előirányzatai (XIX. fejezet 2. cím 4. alcím), valamint a  2014–2020 közötti kohéziós politikai 
@@ -109,7 +93,6 @@ c) teljesítés igazoló: az OP IH vezetője vagy az általa írásban kijelö
 vagy az általa írásban kijelölt személy,
 d) érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kijelölt személy,
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.”
-
 6. §  Az 549/2013. (XII. 30.) Korm. rendelet 11. alcíme a következő 40/B. §-sal egészül ki:
 „40/B.  § Az  Európai Hálózatfinanszírozási Eszköz (CEF) projektek előirányzata (XIX. fejezet 2. cím 13. alcím 
 1. jogcímcsoport) vonatkozásában
@@ -118,7 +101,6 @@ b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője 
 c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
 d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
 e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.”
-
 7. §  Az 549/2013. (XII. 30.) Korm. rendelet a következő 58. §-sal egészül ki:
 „58.  § (1) E  rendeletnek az  Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának 
 rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 79/2019. (IV. 12.) Korm. rendelettel 
@@ -126,49 +108,38 @@ rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szól
 Korm. rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 (2) E  rendeletnek a  79/2019. (IV. 12.) Korm. rendelettel megállapított 32.  § (1)  bekezdését a  79/2019. (IV. 12.) 
 Korm. rendelet hatálybalépését követően keletkezett támogatási jogviszonyokra kell alkalmazni.”
-
 8. §  Az 549/2013. (XII. 30.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
-
 9. §  Az 549/2013. (XII. 30.) Korm. rendelet
-a) 2.  § (1)  bekezdés 2.  pontjában a  „pénzügyi eszközök” szövegrész helyébe a  „2007–2013 programozási 
-
+a) 2.  § (1)  bekezdés 2.  pontjában a  „pénzügyi eszközök” szövegrész helyébe a  „2007–2013 programozási
 időszakban a pénzügyi eszközök” szöveg,
-b) 2.  § (1)  bekezdés 14.  pontjában a  „továbbá a  82/2007. (IV. 25.) Korm. rendelet” szövegrész helyébe 
-
+b) 2.  § (1)  bekezdés 14.  pontjában a  „továbbá a  82/2007. (IV. 25.) Korm. rendelet” szövegrész helyébe
 az „a 82/2007. (IV. 25.) Korm. rendelet, továbbá az Európai Hálózatfinanszírozási Eszközből származó források 
 felhasználásáról szóló 75/2016. (IV. 5.) Korm. rendelet [a továbbiakban: 75/2016. (IV. 5.) Korm. rendelet] 3. § 
 (1) bekezdés 7. pontja” szöveg,
-
 c) 3. § (3) bekezdésében a „mezőgazdasági és vidékfejlesztési támogatási szerv” szövegrész helyébe a „kifizető 
 ügynökség” szöveg,
-
 d) 5. § (3) bekezdés nyitó szövegrészében a „köztestület vagy közalapítvány” szövegrész helyébe a „köztestület, 
 közalapítvány vagy végrehajtó szerv” szöveg,
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám 2149
-
 e) 5. § (3) bekezdés c) pontjában az „ötszázmillió” szövegrész helyébe az „ötvenmillió” szöveg,
 f ) 21. § (1) bekezdés i) pontjában a „kamat” szövegrész helyébe az „ügyleti kamat” szöveg,
-g) 21.  § (2)  bekezdésében a „vagy” szövegrész helyébe a „vagy – 100%-os állami tulajdonban lévő nonprofit 
-
+g) 21.  § (2)  bekezdésében a „vagy” szövegrész helyébe a „vagy – 100%-os állami tulajdonban lévő nonprofit
 gazdasági társaság kivételével –” szöveg,
-h) 38.  § a)  pont aa)  alpontjában az „operátor” szövegrész helyébe az „operátor vagy a  végrehajtó ügynökség” 
-
+h) 38.  § a)  pont aa)  alpontjában az „operátor” szövegrész helyébe az „operátor vagy a  végrehajtó ügynökség”
 szöveg,
-i) 38.  § c)  pont ca)  alpontjában az „operátor” szövegrész helyébe az „operátor vagy a  végrehajtó ügynökség” 
-
+i) 38.  § c)  pont ca)  alpontjában az „operátor” szövegrész helyébe az „operátor vagy a  végrehajtó ügynökség”
 szöveg
 lép.
-
 10. §  Hatályát veszti az 549/2013. (XII. 30.) Korm. rendelet 38. § c) pont cb) alpontja.
-
 11. §  Ez a rendelet a kihirdetését követő ötödik napon lép hatályba.
-
 Orbán Viktor s. k.,
   miniszterelnök
-
 1. melléklet a 79/2019. (IV. 12.) Korm. rendelethez
-
 Az 549/2013. (XII. 30.) Korm. rendelet 1. mellékletében foglalt táblázat a következő 34. sorral egészül ki:
+(A B
+1. Előirányzat Kezelő szerv)
+34. Európai Hálózatfinanszírozási Eszköz (CEF) projektek közlekedésért felelős miniszter
+2150 M A G Y A R  K Ö Z L Ö N Y  •  2019. évi 64. szám
+IV. A Magyar Nemzeti Bank elnökének rendeletei, 
+ valamint az önálló szabályozó szerv vezetőjének 
+ rendeletei

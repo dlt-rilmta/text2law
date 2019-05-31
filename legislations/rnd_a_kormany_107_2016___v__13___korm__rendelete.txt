@@ -2,7 +2,6 @@ A Kormány 107/2016. (V. 13.) Korm. rendelete
 a Linamar Hungary Autóipari és Gépgyártó Zártkörűen Működő Részvénytársaság beruházásával 
 összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé 
 nyilvánításáról
-
 A Kormány
 a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 
 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és e) pontjában,
@@ -10,52 +9,37 @@ a 4. § tekintetében az épített környezet alakításáról és védelmér�
 24. pontjában
 kapott felhatalmazás alapján, az  Alaptörvény 15.  cikk (1)  bekezdésében meghatározott feladatkörében eljárva a  következőket 
 rendeli el:
-
 1. § (1) A  Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az  1.  mellékletben 
 felsorolt közigazgatási hatósági ügyeket, amelyek a Békéscsaba közigazgatási területén elhelyezkedő, az  ingatlan-
 nyilvántartás szerinti 6269/4 helyrajzi számon, valamint az  Orosháza közigazgatási területén elhelyezkedő, 
 az  ingatlan-nyilvántartás szerinti 5028 helyrajzi számon nyilvántartott földrészleteken megvalósításra kerülő, 
 üzemcsarnok bővítésével és az  ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására 
 irányuló beruházással függenek össze.
-
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági 
 ügyeket, amelyek az  (1)  bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének 
 beindításához szükségesek.
-
 2. §  A Kormány az  1.  § (1)  bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó 
 kormánymegbízottként a Békés Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
-
 3. § (1) Az  ügyfélnek az  eljárás megindítása előtt benyújtott kérelmére az  1.  § (1)  bekezdése szerinti közigazgatási 
 hatósági ügyekben a  szakhatóság – a  hatóság határozatának meghozataláig felhasználható – előzetes 
 szakhatósági állásfoglalást ad ki azzal, hogy a kérelemhez benyújtott előzetes szakhatósági hozzájárulást a hatóság 
 a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 44. § (8) bekezdése 
 szerint használja fel.
-
 (2) Az  1.  § (1)  bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül 
 végrehajtható.
-
 4. §  Az 1. § (1) bekezdése szerinti beruházással összefüggésben
 a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
 b) településképi véleményezési eljárást nem kell lefolytatni és
 c) településképi bejelentési eljárásnak nincs helye.
-
 5. §  Ez a rendelet a kihirdetését követő napon lép hatályba.
-
 6. §  E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
 Orbán Viktor s. k.,
   miniszterelnök
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5365
-
 1. melléklet a 107/2016. (V. 13.) Korm. rendelethez
-
 A Linamar Hungary Autóipari és Gépgyártó Zártkörűen Működő Részvénytársaság beruházásával 
 összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási 
 hatósági ügyek
-
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
  2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
  3. környezetvédelmi hatósági eljárások,
@@ -64,8 +48,7 @@ hatósági ügyek
  6. vasúti és szalagpálya hatósági engedélyezési eljárás,
  7. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
  8. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
- 9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági 
-
+ 9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági
 engedélyezési eljárások,
 10. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 11. telekalakításra irányuló hatósági eljárások,
@@ -78,56 +61,10 @@ engedélyezési eljárások,
 18. élelmiszerlánc-felügyeleti eljárás,
 19. közegészségügyi hatósági eljárások,
 20. erdővédelmi hatósági eljárások,
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi 
-
+21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi
 engedélyezési eljárások,
-22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti 
-
+22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti
 beruházás megvalósításához és használatbavételéhez, üzemeltetésének beindításához szükségesek,
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-
-
-5366 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5366 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 V. A Kormány tagjainak rendeletei
-
-A belügyminiszter 17/2016. (V. 13.) BM rendelete
-a fejezeti kezelésű előirányzatok felhasználásának rendjéről
-
-Az államháztartásról szóló 2011.  évi CXCV.  törvény 109.  § (5)  bekezdésében kapott felhatalmazás alapján, az  államháztartásról 
-szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1.  melléklet 13.  pontjában meghatározott 
-feladatkörömben eljárva, – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. pontjában 
-meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben – a következőket rendelem el:
-
-1. §  A központi költségvetésről szóló törvénynek a  Belügyminisztérium fejezetében eredeti előirányzatként 
-megállapított fejezeti kezelésű előirányzatok, a  költségvetési évet megelőző évek központi költségvetéséről 
-szóló törvényeiben Belügyminisztérium fejezetet irányító szerv vezetője által vezetett minisztérium és annak 
-jogelődjei költségvetési fejezetében megállapított fejezeti kezelésű előirányzatok költségvetési maradványai, 
-az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet alapján a költségvetési 
-év során megállapított új fejezeti kezelésű előirányzatok – az államháztartásról szóló 2011. évi CXCV. törvény 109. § 
-(5) bekezdése szerinti – felhasználási szabályait az 1. melléklet tartalmazza.
-
-2. § (1) Az  1.  melléklet 34. sora alapján az  Európai Bizottság SA.34770 (2012/N-2). számú határozata hatálya alá tartozó 
-kulturális célú támogatás (a továbbiakban: kulturális célú támogatás) nyújtható.
-
-(2) Kulturális célú támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról 
-és a  regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 27.  §-ában meghatározottak szerint 
-nyújtható.
-
-(3) Kulturális célú támogatás esetén támogatási döntést 2018. szeptember 1-ig lehet hozni.
-
-3. §  Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-4. §  Ez a rendelet az Európai Bizottság SA.34770 (2012/N-2). számú határozata hatálya alá tartozó támogatást tartalmaz.
-
-5. §  Hatályát veszti a  fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 19/2015. (V. 29.) 
-BM rendelet.
-
-Dr. Pintér Sándor s. k.,
-  belügyminiszter
-
-
-
-M
-A

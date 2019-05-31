@@ -1,6 +1,5 @@
 A Kormány 100/2016. (V. 13.) Korm. rendelete
 az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról
-
 A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
 az 1. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés e) pontjában, valamint a közigazgatási 
 hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában és b) pont 
@@ -16,9 +15,7 @@ a 7. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. t�
 a 8. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés g) és j) pontjában
 kapott felhatalmazás alapján, az  Alaptörvény 15.  cikk (1)  bekezdésében meghatározott feladatkörében eljárva a  következőket 
 rendeli el:
-
 1. A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet módosítása
-
 1. §  A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet (a továbbiakban: R1.) 3. §-a 
 a következő (3b) bekezdéssel egészül ki:
 „(3b) Nem szükséges a  (2)  bekezdés szerinti személy hozzájárulása a  környezet védelmének általános szabályairól 
@@ -27,7 +24,6 @@ szóló kormányrendelet szerinti környezeti kármentesítési célú vízilét
 során. Ebben az  esetben a  vízjogi létesítési engedély idegen ingatlan birtokbavételére nem jogosít, az  építéssel 
 összefüggésben támasztható polgári jogi igényt nem dönti el és nem mentesít egyéb engedély megszerzésének 
 kötelezettsége alól.”
-
 2. §  Az R1. a következő 4/A. §-sal egészül ki:
 „4/A.  § (1) A  vízilétesítmény megszüntetéséhez szükséges vízjogi megszüntetési engedélyt a  tulajdonos, 
 a  vagyonkezelő vagy a  vízilétesítmény üzemeltetésével eddig járó jogokat és kötelezettségeket közvetlenül 
@@ -50,11 +46,7 @@ c) a  tervezett megszüntetési tevékenység nem veszélyezteti-e a  csatlako
 (5) A  megszüntetési engedély az  abban meghatározott jogok gyakorlása és kötelezettségek teljesítése mellett 
 feljogosít az  engedélyben meghatározott vízilétesítmény teljes vagy részleges elbontására, leszerelésére, 
 eltávolítására vagy eltömedékelésére.
-
-
-
-5344 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5344 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 (6) A  vízilétesítmény megszüntetése esetén a  megszüntetéssel érintett területet rendezni kell. Amennyiben 
 jogszabály rekultivációsterv-készítési kötelezettséget ír elő, a  vízilétesítmény megszüntetését, valamint a  terület 
 rendezését a rekultivációs tervben foglaltakkal összhangban kell megvalósítani.
@@ -68,12 +60,10 @@ került-e végrehajtásra és a  vizsgálat eredményétől függően intézked
 vízhasználat vízikönyvi nyilvántartásból való törléséről.
 (9) Ha a  vízilétesítmény és a  kapcsolódó vízhasználat megszüntetése az  ingatlan-nyilvántartás módosításának 
 szükségességét vonja maga után, a vízügyi hatóság hivatalból megkeresi az ingatlanügyi hatóságot.”
-
 3. §  Az R1. 5. § (4) bekezdése a következő e) ponttal egészül ki:
 (Az eljárás tárgyától és a létesítmény jellegétől függően a vízjogi üzemeltetési engedélyben rendelkezni kell, különösen:)
 „e) a  vízhasználat gyakorlása vonatkozásában a  vízkészletjárulék fizetési kötelezettség fennállására, a  fizetési 
 mentességre vagy a részleges mentesség feltételeire vonatkozó jogszabályi követelményekről.”
-
 4. § (1) Az R1. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) A települési önkormányzat jegyzőjének engedélye szükséges
 a) olyan kút létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez, amely a következő feltételeket 
@@ -89,7 +79,6 @@ b) az  ab)  pontban szereplő házi ivóvízigény kielégítését szolgáló
 vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez;
 c) az  500  m3/év mennyiséget meg nem haladó, kizárólag háztartási szennyvíz tisztítását és a  tisztított szennyvíz 
 elszikkasztását szolgáló vízilétesítmény létesítéséhez, üzemeltetéséhez, fennmaradásához és megszüntetéséhez.”
-
 (2) Az R1. 24. § (3) bekezdése helyébe a következő rendelkezés lép:
 „(3) Az (1) bekezdés a) pontjában megjelölt kút engedélyezésének feltétele
 a) a kitermelt víz használata során keletkező szennyvíznek a környezetet nem veszélyeztető módon való elhelyezése,
@@ -98,7 +87,6 @@ vonatkozó általános szabályokról szóló kormányrendelet szerinti követel
 c) a  fúrt kút fennmaradásának engedélyezése esetén – az  illetékes vízügyi hatóságnak szakértőként történő 
 bevonásával – annak megállapítása, hogy a  kút az  (1)  bekezdés a)  pontjának hatálya alá tartozik, és az  nem 
 veszélyezteti a vízkészletek védelméhez fűződő érdekeket.”
-
 (3) A R1. 24. §-a a következő (9) és (10) bekezdésekkel egészül ki:
 „(9) A Kormány az (1) bekezdés a) és b) pontjában megjelölt házi ivóvízigény kielégítésére irányuló vízilétesítmény- 
 és vízhasználat-engedélyezés esetén azon szakkérdés elbírálására, hogy az  ivóvízkivétel és a  vízellátás során 
@@ -111,44 +99,31 @@ szóló törvény és a  törvény végrehajtására kiadott kormányrendelet s
 nyilvántartott, épülettel vagy annak építésére jogosító hatósági határozattal, egyszerű bejelentéssel rendelkező 
 ingatlanon a magánszemély részéről emberi fogyasztás céljából a személyes szükségletek kielégítéséhez szükséges, 
 saját célú ivóvízműből biztosított, nem gazdasági célú vízigény.”
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5345
-
 5. §  Az R1. 27. §-a a következő (14) bekezdéssel egészül ki:
 „(14) E  rendeletnek az  egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 
 100/2016. (V. 13.) Korm. rendelettel (a  továbbiakban: Mód. Kr. 8.) megállapított 3.  § (1), (3b) és (12)  bekezdését, 
 4/A. §-át, 5. § (4) bekezdés e) pontját, 24. § (1)–(4), (6), (9) és (10) bekezdését a Mód. Kr. 8. hatálybalépésekor első 
 fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.”
-
 6. §  Az R1.
-a) 3. § (12) bekezdésében a „CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével” 
-
+a) 3. § (12) bekezdésében a „CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések kivételével”
 szövegrész helyébe a  „CE megfelelőségi jelöléssel rendelkező szennyvízkezelő berendezések, valamint 
 a 24. § (1) bekezdés c) pontjában foglaltak kivételével”,
-
 b) 24. § (2) bekezdésében a „b) pontjában” szövegrész helyébe a „c) pontjában”,
 c) 24. § (4) bekezdésében a „c) pontjában” szövegrész helyébe az „a) pontjában”,
 d) 24. § (6) bekezdésében az „(1) bekezdés b) és c) pontjában” szövegrész helyébe az „(1) bekezdésben”
 szöveg lép.
-
 7. §  Hatályát veszti az R1. 3. § (1) bekezdésében a „ , megszüntetéséhez” szövegrész.
-
 2. Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló  
 201/2001. (X. 25.) Korm. rendelet módosítása
-
 8. §  Az ivóvíz minőségi követelményeiről és az  ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 1.  § 
 (2a) bekezdésének nyitó szövegrésze helyébe a következő rendelkezés lép:
 „(2a) Ha e  rendelet vagy a  vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és 
 létesítményekre vonatkozó általános szabályokról szóló kormányrendelet másként nem rendelkezik, e  rendeletet 
 nem kell alkalmazni”
-
 9. §  Az ivóvíz minőségi követelményeiről és az  ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 2. számú 
 melléklete az 1. melléklet szerint módosul.
-
 3. A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet módosítása
-
 10. §  A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet 3.  § 28.  pontja helyébe a  következő 
 rendelkezés lép:
 „28. magánszemélyek háztartási igényeit meg nem haladó tevékenység: a tevékenység akkor, ha
@@ -156,44 +131,33 @@ a) a  vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányre
 jegyzőjének vízgazdálkodási hatáskörébe tartozik, vagy
 b) a vegyes állattartás esetében összesen 5 számosállat/ingatlan, baromfi esetében 3 számosállat/ingatlan mértéket 
 egyidejűleg nem haladja meg;”
-
 4. A felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet 
 módosítása
-
 11. §  A felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet (a  továbbiakban: R2.) 
 34. §-a a következő (6) bekezdéssel egészül ki:
 „(6) Azon szolgáltató esetében, aki a 2003. évi uniós csatlakozási szerződés X. melléklet 8. Környezetvédelem fejezet 
 B.  Vízminőség alcím 1.  pontjában foglalt derogációval összefüggő kötelezettsége teljesítésének végrehajtását 
 az Európai Unió társfinanszírozásával valósítja meg, 2018. december 31-ig a fizetendő vízszennyezési bírság összege 
 – a szennyező anyag kibocsátási határérték feletti kibocsátása után – a számított teljes bírság 3%-a.”
-
 12. §  Az R2. 33.  § (1)  bekezdésében „a tárgyévet követő év június 30-áig” szövegrész helyébe a „tárgyévet követő év 
 december 31-ig” szöveg lép.
-
-
-
-5346 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5346 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 5. A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és 
 létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet módosítása
-
 13. § (1) A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó 
 általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet (a  továbbiakban: R3.) 2.  § 9.  pontja helyébe 
 a következő rendelkezés lép:
 „9. egyedi zárt szennyvíztároló: olyan egy vagy több, zártan és vízzáróan kialakított tartályból, illetve medencéből 
 álló közműpótló műtárgy, amely a szennyvizek időszakos ártalommentes gyűjtésére és tárolására szolgál,”
-
 (2) Az R3. 2. §-a a következő 28a. ponttal egészül ki:
 „28a. saját célú ivóvízmű: a  házi ivóvízigényt szolgáló víztermelő létesítmény, a  hozzá tartozó csatlakozó és házi 
 ivóvízhálózat, illetve a víztisztítási feladatokat ellátó vízilétesítmény, amely a víziközmű-szolgáltatásról szóló törvény 
 szerint nem minősül víziközműnek, és amely kevesebb, mint 50 személy ivóvízellátását biztosítja,”
-
 (3) Az R3. 2. §-a a következő 30a. ponttal egészül ki:
 „30a. szennyvíziszap-kezelés: fizikai, biológiai, kémiai, hőkezeléses vagy egyéb olyan megfelelő eljárás – beleértve 
 a  biogáz-előállítást, komposztálást is – vagy eljárások sora, melynek célja a  szennyvíziszap hasznosíthatóságának, 
 ártalmatlanításának a  biztosítása, valamint fertőzőképességének a  megszüntetése, hogy minősége a  hatósági 
 előírásoknak megfeleljen.”
-
 14. §  Az R3. a 16. §-t követően a következő 6a. alcímmel egészül ki:
 „6a. Saját célú ivóvízellátás
 16/A.  § (1) A  saját célú ivóvízmű mint vízilétesítmény engedélyezésére – a  csatlakozó- és házi ivóvízhálózatok 
@@ -229,12 +193,8 @@ feladatkörében eljáró fővárosi és megyei kormányhivatal mint szakértő 
 belül megküldeni. A  vizsgálati eredmények alapján a  népegészségügyi feladatkörében eljáró fővárosi és megyei 
 kormányhivatal 15 napon belül kiértékeli és dönt a további szükséges intézkedések megtételéről.
 (3) Ha a hatóság vagy az üzemeltető által végzett vizsgálati eredmények alapján a népegészségügyi feladatkörében 
-eljáró fővárosi és megyei kormányhivatal az  ivóvíz minőségi követelményeinek való megfelelést nem tudja 
-
-
-
+eljáró fővárosi és megyei kormányhivatal az  ivóvíz minőségi követelményeinek való megfelelést nem tudja
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5347
-
 megállapítani, eljárást kezdeményez az engedélyező hatóságnál. Az eljárás kezdeményezésével egy időben csatolja 
 a szakmai javaslatát indokolással ellátva, a megfelelő minőségű ivóvíz biztosítása érdekében.
 (4) Ha az ivóvíz minőségi követelmények a (3) bekezdés szerint nem teljesülnek, az engedélyező hatóság mérlegeli 
@@ -252,10 +212,8 @@ engedélye érvényességi idejének lejártát követően a vízhasználó kö
 (2) Az  (1)  bekezdés b)  pontja esetében, ha az  ivóvízmű más célra nem kerül továbbhasznosításra, az  engedély 
 érvényességi idejének lejártától számított 2 éven belül gondoskodni kell – ide nem értve a  csatlakozó házi- és 
 ivóvízhálózat – szakszerű eltömedékeléséről, bontásáról.”
-
 15. §  Az R3. 18. §-a a következő (5) bekezdéssel egészül ki:
 „(5) Az egyedi zárt szennyvíztároló üzemeltetése során gondoskodni kell a szennyvíz ártalmatlanításáról.”
-
 16. §  Az R3. 24. §-a a következő (3) bekezdéssel egészül ki:
 „(3) Ha az  ingatlant határoló közterületen a  szennyvízelvezető mű műszakilag elérhető és rendelkezésre áll 
 a megfelelő szennyvíztisztító-telepi kapacitás, akkor
@@ -263,44 +221,31 @@ a) jelen rendelkezés hatálybalépésétől számítva új szennyvízkezelő be
 b) a jelen rendelkezés hatálybalépését megelőzően telepített hatósági engedéllyel rendelkező egyedi 
 szennyvízkezelő berendezés engedélye érvényességi idejének lejártát követően a  mű üzemeltetője köteles 
 a víziközmű-szolgáltatást igénybe venni.”
-
 17. §  Az R3. a következő 80. §-sal egészül ki:
 „80.  § E  rendeletnek az  egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 
 100/2016. (V. 13.) Korm. rendelettel (a  továbbiakban: Mód. Kr. 1.) megállapított 2.  § 9., 28a. és 30a.  pontját, 
 16/A–16/C. §-át, valamint 18. § (5) bekezdését a Mód. Kr. 1. hatálybalépésekor folyamatban lévő első fokon még el 
 nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell azzal, hogy a 16/A. § (6) bekezdésében foglalt 
 ellenőrzést első alkalommal 2019. június 30-ig kell elvégezni.”
-
 18. §  Az R3.
-a) a 2.  § 7.  pontjában, a  20.  § (2)  bekezdés b)  pont bb)  alpontjában, a  13. alcímében a „szennyvízkezelés” 
-
+a) a 2.  § 7.  pontjában, a  20.  § (2)  bekezdés b)  pont bb)  alpontjában, a  13. alcímében a „szennyvízkezelés”
 szövegrész helyébe a „szennyvíztisztítás” szöveg,
-b) a 2. § 7. és 8. pontjaiban, 20. § (2) bekezdés b) pont be) alpontjában, a 25. § (1)–(3) bekezdéseiben, a 26. § 
-
+b) a 2. § 7. és 8. pontjaiban, 20. § (2) bekezdés b) pont be) alpontjában, a 25. § (1)–(3) bekezdéseiben, a 26. §
 (1)  és (2)  bekezdéseiben, a  26.  § (3)  bekezdés nyitó szövegrészében és a  26.  § (3)  bekezdés a)  pontjában, 
 a  26.  § (4) és (5)  bekezdéseiben, a  27.  § (1)  bekezdés nyitó szövegrészében és a  27.  § (1)  bekezdés 
 a)–c)  pontjaiban, a  27.  § (2) és (3)  bekezdéseiben, a  28.  § (1) és (1a)  bekezdéseiben a „szennyvízkezelő” 
 szövegrész helyébe a „szennyvíztisztító” szöveg,
-
 c) a 20.  § (2)  bekezdés a)  pont ab)  alpontjában és a  25.  § (2)  bekezdésében a „szennyvízkezelési” szövegrész 
 helyébe a „szennyvíztisztítási” szöveg,
-
 d) 20. § (2) bekezdés b) pont bb) pontjában és a 24. § (1) és (2) bekezdéseiben a „szennyvízkezelésre” szövegrész 
 helyébe a „szennyvíztisztításra” szöveg,
-
 e) a 24. § (2) bekezdésében a „kezeléséről” szövegrész helyébe a „tisztításáról” szöveg
 lép.
-
 19. §  Hatályát veszti az R3. 2. § 34. pontjában az „anaerob” szövegrész.
-
-
-
-5348 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5348 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 6. A nagyvízi meder, a parti sáv, a vízjárta és a fakadó vizek által veszélyeztetett területek 
 használatáról, hasznosításáról, valamint a folyók esetében a nagyvízi mederkezelési terv készítésének 
 rendjére és tartalmára vonatkozó szabályokról szóló 83/2014. (III. 14.) Korm. rendelet módosítása
-
 20. § (1) A  nagyvízi meder, a  parti sáv, a  vízjárta és a  fakadó vizek által veszélyeztetett területek használatáról, 
 hasznosításáról, valamint a  folyók esetében a  nagyvízi mederkezelési terv készítésének rendjére és tartalmára 
 vonatkozó szabályokról szóló 83/2014. (III. 14.) Korm. rendelet (a  továbbiakban: R4.) 1.  § 9.  pontja helyébe 
@@ -310,32 +255,26 @@ amely tartalmazza a  nagyvízi meder kezelésének módját és feltételeit r�
 célállapot elérése, illetve fenntartása érdekében szükséges előírásokat és intézkedéseket, helyszínrajzokat és 
 térképi mellékleteket, továbbá meghatározza a  levezető sávokat és az  ingatlanok egyes sávok által való tényleges 
 érintettségét;”
-
 (2) Az R4. 1. §-a a következő 9a. ponttal egészül ki:
 „9a. nagyvízi mederkezelési tervdokumentáció: a nagyvízi mederkezelési terv alapjául szolgáló, az 1. melléklet szerint 
 elkészítendő dokumentáció;”
-
 21. §  Az R4. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) Azokon a vízfolyásszakaszokon, amelyekre a nagyvízi mederkezelési terv hatálya kiterjed, a parti sávba tartozó 
 területek használatát és az építmények elhelyezését a nagyvízi mederkezelési terv adott mederszakaszra vonatkozó 
 rendelkezései határozzák meg.”
-
 22. § (1) Az R4. 5. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
 [Az (1)  bekezdés szerinti vizsgálatot követően az  építmény nagyvízi mederben történő elhelyezéséhez a  folyószakasz 
 mederkezelője akkor járulhat hozzá, ha]
 „a) a  nagyvízi mederkezelési terv hatálya az  igénybe vett területre kiterjed, és annak figyelembevételével 
 az építmény megvalósítható, és”
-
 (2) Az R4. 5. § (4) bekezdés felvezető részének helyébe a következő rendelkezés lép:
 „(4) Amennyiben az adott folyószakaszra nem terjed ki a nagyvízi mederkezelési terv hatálya, az (1) bekezdés szerinti 
 vizsgálatot követően a folyószakasz mederkezelője akkor járulhat hozzá az építmény elhelyezéshez, ha a kérelem”
-
 23. §  Az R4. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) A  nagyvízi mederkezelési tervet megalapozó tervdokumentációt (a  továbbiakban: tervdokumentáció) 
 a szabályozni kívánt vízfolyás kezelését végző vízügyi igazgatóság (a továbbiakban: készítő) készíti vagy készítteti el. 
 A több vízügyi igazgatóság működési területét érintő vízfolyás vagy állóvíz esetén a tervdokumentáció elkészítését 
 az OVF koordinálja.”
-
 24. §  Az R4. 15. §-a helyébe a következő rendelkezés lép:
 „15. § (1) A tervdokumentációban foglaltakhoz kapcsolódó tevékenységek:
 a) a tervdokumentáció elkészítéséhez szükséges térinformatikai adatállomány beszerzése,
@@ -350,63 +289,46 @@ feltéve, hogy a  védmű létesítéséhez a  működési terület szerinti v
 kifejezetten hozzájárult, valamint
 b) a működési területével érintett vízügyi igazgatási szerv árvízvédelmi tervében szereplő, ideiglenes védmű által 
 mentesített terület.”
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5349
-
 25. §  Az R4. a következő 24. §-sal egészül ki:
 „24.  § E rendeletnek az  egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 
 100/2016. (V. 13.) Korm. rendelettel (a  továbbiakban: Mód. Kr. 1.) megállapított 1.  § 9. és 9a.  pontját, 3.  § 
 (1)  bekezdését, 5.  § (3)  bekezdés a)  pontját, (4) és (5)  bekezdését, 13.  § (2)–(12)  bekezdését, 14. és 15.  §-át, 16.  § 
 (1) és (3)  bekezdését, valamint 17.  § (1)  bekezdését a  Mód. Kr. 1. hatálybalépésekor folyamatban lévő nagyvízi 
 mederkezelési tervdokumentációk összeállítása során is alkalmazni kell.”
-
 26. §  Az R4.
-a) 5.  § (5)  bekezdésében a „fennmaradási engedélyezési” szövegrész helyébe a „fennmaradási engedélyezési, 
-
+a) 5.  § (5)  bekezdésében a „fennmaradási engedélyezési” szövegrész helyébe a „fennmaradási engedélyezési,
 valamint a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány kiadása iránti”,
-b) 13.  § (3)  bekezdésében a  „nagyvízi mederkezelési terv tervezetére” szövegrész helyébe 
-
+b) 13.  § (3)  bekezdésében a  „nagyvízi mederkezelési terv tervezetére” szövegrész helyébe
 a „tervdokumentációra”,
-c) 13.  § (4)  bekezdésében a  „nagyvízi mederkezelési terv tervezetével” szövegrész helyébe 
-
+c) 13.  § (4)  bekezdésében a  „nagyvízi mederkezelési terv tervezetével” szövegrész helyébe
 a „tervdokumentációval”,
-d) 13.  § (5) és (9)  bekezdésében a  „nagyvízi mederkezelési terv tervezetét” szövegrész helyébe 
-
+d) 13.  § (5) és (9)  bekezdésében a  „nagyvízi mederkezelési terv tervezetét” szövegrész helyébe
 a „tervdokumentációt”,
-e) 13.  § (5)  bekezdésében a  „nagyvízi mederkezelési tervek tervezetét” szövegrész helyébe 
-
+e) 13.  § (5)  bekezdésében a  „nagyvízi mederkezelési tervek tervezetét” szövegrész helyébe
 a „tervdokumentációt”,
 f ) 13. § (5) bekezdésében a „tervezet” szövegrész helyébe a „tervdokumentáció”,
-g) 13. § (6) bekezdésében a „hirdetőtábláján hirdetményt tesz közzé arról, hogy a nagyvízi mederkezelési tervek 
-
+g) 13. § (6) bekezdésében a „hirdetőtábláján hirdetményt tesz közzé arról, hogy a nagyvízi mederkezelési tervek
 megtekinthetők” szövegrész helyébe a „hirdetőtábláján a készítő általi megkereséstől számított 5 napon belül 
 hirdetményt tesz közzé arról, hogy a tervdokumentációk megtekinthetők”,
-
 h) 13. § (7) bekezdésében a „tervezetre” szövegrész helyébe a „tervdokumentációra”,
-i) 13.  § (8)  bekezdésében a  „nagyvízi mederkezelési terv tervezetének” szövegrész helyébe 
-
+i) 13.  § (8)  bekezdésében a  „nagyvízi mederkezelési terv tervezetének” szövegrész helyébe
 a „tervdokumentáció”,
 j) 13. § (10) bekezdésében a „tervet” szövegrész helyébe a „tervdokumentációt”,
 k) 13. § (10) bekezdésében a „tervezettel” szövegrész helyébe a „tervdokumentációval”,
-l) 13.  § (12)  bekezdésében, 16.  § (1) és (3)  bekezdésében, valamint 17.  § (1)  bekezdésében a  „nagyvízi 
-
+l) 13.  § (12)  bekezdésében, 16.  § (1) és (3)  bekezdésében, valamint 17.  § (1)  bekezdésében a  „nagyvízi
 mederkezelési terv” szövegrész helyébe a „tervdokumentáció”,
 m) 14. § (1) bekezdésében a „nagyvízi mederkezelési tervet” szövegrész helyébe a „tervdokumentációt”,
 n) 14. § (2) bekezdésében a „nagyvízi mederkezelési tervvel” szövegrész helyébe a „tervdokumentációval”,
 o) 14. § (2) bekezdésében a „mederkezelési tervnek” szövegrész helyébe a „tervdokumentációnak”
 szöveg lép.
-
 27. §  Hatályát veszti az R4.
 a) 13. § (11) bekezdése,
 b) 3. mellékletében foglalt táblázat C:4 és E:4 mezőjében az „A 2. és 3. pont szerint, továbbá:” szövegrész,
 c) 3. mellékletében foglalt táblázat D:4 mezőjében a „2. és 3. pont szerint, de a” szövegrész,
 d) 3. mellékletében foglalt táblázat C:5 és D:5 mezőjében az „A 2–4. pont szerint, továbbá” szövegrész.
-
 7. A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek 
 kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet módosítása
-
 28. §  A vízügyi igazgatási és a  vízügyi, valamint a  vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 
 223/2014. (IX. 4.) Korm. rendelet (a továbbiakban: R5.) a következő 4a. alcímmel egészül ki:
 „4a. A vízügyi őrszemélyzet feladatai
@@ -417,11 +339,7 @@ beosztottak (a továbbiakban: vízügyi őr) útján gondoskodik a vagyonkezel
 létesítmények és azok tartozékai, valamint az erdők felügyeletéről, fenntartásáról, üzemeltetéséről, karbantartásáról 
 és állagvédelméről, az  egyéb vízgazdálkodási létesítmények felügyeletéről, vagyonvédelméről, továbbá az  egyes 
 vízrajzi elemek észleléséről.
-
-
-
-5350 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5350 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 (2) A vízügyi őrnek szolgálati feladata az (1) bekezdésben foglaltakon túl továbbá, hogy
 a) ellenőrizi a szabályozási, a geodéziai, valamint a birtokhatárjeleket és létesítményeket,
 b) ellenőrizi a vízilétesítmények, azok tartozékai és a parti sáv használatát,
@@ -441,49 +359,34 @@ c) közreműködik a belvizek elvezetésében, a vízvisszatartásban és a s
 (4) A  területi vízügyi igazgatóság vízügyi őrszemélyzetének tagjai más őrjárásba, valamint más területi vízügyi 
 igazgatóság működési területére is átirányíthatók vízkár-elhárítási, valamint egyéb szolgálati feladatok elvégzése 
 céljából.”
-
 29. §  Az R5. a következő 20/A. §-sal egészül ki:
 „20/A.  § E rendeletnek az  egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 
 100/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 11. § (1) bekezdés nyitó szövegrészét, 
 i), j) és k)  pontját, valamint a  12.  § (6)  bekezdését a  Mód. Kr. 1. hatálybalépésekor első fokon még el nem bírált 
 ügyekben és megismételt eljárásokban is alkalmazni kell.”
-
 30. §  Az R5.
-a) 11.  § (1)  bekezdés nyitó szövegrészében a „vízjogi létesítési engedélyezési” szövegrész helyébe a „vízjogi 
-
+a) 11.  § (1)  bekezdés nyitó szövegrészében a „vízjogi létesítési engedélyezési” szövegrész helyébe a „vízjogi
 létesítési engedélyezési, vízjogi megszüntetési engedélyezési”,
-b) 11.  § (1)  bekezdés i), j) és k)  pontjában a  „vízjogi létesítési engedélyezés” szövegrész helyébe a  „vízjogi 
-
+b) 11.  § (1)  bekezdés i), j) és k)  pontjában a  „vízjogi létesítési engedélyezés” szövegrész helyébe a  „vízjogi
 létesítési vagy vízjogi megszüntetési engedélyezés”,
 c) 12. § (6) bekezdésben a „vízjogi létesítési” szövegrész helyébe a „vízjogi létesítési, vízjogi megszüntetési”
 szöveg lép.
-
 8. Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros 
 Jegyzékről és Tájékoztató Jegyzékről, valamint a szennyvíz-elvezetési agglomerációk lehatárolásáról 
 szóló 379/2015. (XII. 8.) Korm. rendelet módosítása
-
 31. §  Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros Jegyzékről és 
 Tájékoztató Jegyzékről, valamint a  szennyvíz-elvezetési agglomerációk lehatárolásáról szóló 379/2015. (XII. 8.) 
 Korm. rendelet (a továbbiakban: R6.) 5. § (3) bekezdése helyébe a következő rendelkezés lép:
 „(3) A  működési területével érintett vízügyi igazgatóság a  szennyvíz-elvezetési agglomeráció lehatárolásának 
 felülvizsgálatára vonatkozó szakmai véleményét az  illetékes Területi Vízgazdálkodási Tanács (a  továbbiakban: TVT) 
 illetékes szakmai bizottságának állásfoglalására figyelemmel alakítja ki.”
-
 32. §  Hatályát veszti az R6. 5. § (5) bekezdésében a „– (3) bekezdés szerinti esetben –” szövegrész.
-
 9. Záró rendelkezés
-
 33. §  Ez a rendelet 2016. június 15-én lép hatályba.
-
 Orbán Viktor s. k.,
   miniszterelnök
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5351
-
 1. melléklet a 100/2016. (V. 13.) Korm. rendelethez
-
 1. Az  ivóvíz minőségi követelményeiről és az  ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 2. számú 
 mellékletének A) része a következő 4. ponttal egészül ki:
 „4. A saját célú ivóvízművek esetén vizsgálandó vízminőségi paraméterek:

@@ -1,14 +1,11 @@
 A Kormány 103/2016. (V. 13.) Korm. rendelete
 a Kormánytisztviselői Döntőbizottságról szóló 168/2012. (VII. 20.) Korm. rendelet módosításáról
-
 A Kormány a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 9. pontjában kapott felhatalmazás 
 alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
-
 1. § (1) A  Kormánytisztviselői Döntőbizottságról szóló 168/2012. (VII. 20.) Korm. rendelet (a továbbiakban: R.) 
 2. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) A Döntőbizottság legfeljebb tizenöt közszolgálati biztosból álló testület, amelynek – a Kttv. 191. § (1) bekezdése 
 alapján – tagja az elnök és az elnökhelyettes.”
-
 (2) Az R. 2. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
 „(4) A  Döntőbizottság tagjának összeférhetetlenségére alkalmazni kell a  Kttv. 85.  § (4)  bekezdés a) és b)  pontját. 
 Összeférhetetlenség esetén a  Kttv. 86.  § (1)  bekezdésében foglaltak szerint kell eljárni azzal, hogy a  munkáltatói 
@@ -21,56 +18,43 @@ meghatározott feltétel teljesülését a  kinevezést követő harminc napon 
 szükséges igazolni a miniszter által vezetett minisztériumnál kormányzati szolgálati jogviszonyban állókra irányadó 
 rendelkezések szerint. Ha határidőben az  érintett nem tesz eleget az  e  bekezdés szerinti kötelezettségének, 
 döntőbizottsági tagsága megszűnik.”
-
 (3) Az R. 2. § (7) bekezdése helyébe a következő rendelkezés lép:
 „(7) A  Döntőbizottság tagja köteles törvényben meghatározott vagyonnyilatkozatot tenni. A  vagyonnyilatkozat 
 kezelésére és őrzésére a  miniszter által vezetett minisztériumnál kormányzati szolgálati jogviszonyban állókra 
 irányadó rendelkezéseket kell alkalmazni.”
-
 2. § (1) Az R. 3. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 (A Döntőbizottság elnökének feladatai:)
 „a) dönt a Kttv. 191. § (4) bekezdésében, valamint a 8. § (6) bekezdésében meghatározott kizárási ok fennállásának 
 kérdésében;”
-
 (2) Az R. 3. § (1) bekezdés f ) pontja helyébe a következő rendelkezés lép:
 (A Döntőbizottság elnökének feladatai:)
 „f ) kijelöli az eljáró tanács tagjait és a véleményt kiadmányozó közszolgálati biztost;”
-
 (3) Az R. 3. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
 (A Döntőbizottság elnökének feladatai:)
 „j) ellátja azokat a feladatokat, amelyeket jogszabály és a Döntőbizottság ügyrendje számára előír.”
-
 3. §  Az R. 6. §-a helyébe a következő rendelkezés lép:
 „6. § (1) Ha az eljáró tanács elvi kérdésekre is kiterjedő határozatot hozott, arról az eljáró tanács elnöke tájékoztatja 
 a  Döntőbizottság elnökét, aki indokolt esetben dönthet a  határozat Elvi Döntőbizottsági Határozatként történő 
 közzétételéről a Döntőbizottság honlapján.
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5355
-
 (2) Vitás jogalkalmazási kérdés esetén – a  jogorvoslati gyakorlat egységességének biztosítása érdekében – 
 a  Döntőbizottság elnöke teljes ülést hív össze. Az  ülésen a  közszolgálati biztosok kétharmados többséggel 
 a  Döntőbizottság gyakorlatának elemzését követően Döntőbizottsági Állásfoglalást hozhatnak. Az  erre vonatkozó 
 részletszabályokat a Döntőbizottság ügyrendje állapítja meg.”
-
 4. §  Az R. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) A  Döntőbizottság ügyviteli és döntéselőkészítési feladatait – a  Döntőbizottság iránymutatása mellett – 
 a Titkárság látja el. A Titkárság a miniszter által vezetett minisztérium szervezetében működő főosztálynak megfelelő 
 szintű szervezeti egység, amelyet titkárságvezető vezet. A Titkárságon foglalkoztatottak a  minisztériummal állnak 
 kormányzati szolgálati jogviszonyban.”
-
 5. § (1) Az R. 8. § (6) bekezdése helyébe a következő rendelkezés lép:
 „(6) A  közszolgálati panasz (a továbbiakban: panasz) előkészítésében, elbírálásában, valamint a  véleményezési 
 eljárásban nem vehet részt
 a) az, aki a panaszos vagy véleménykérő által sérelmezett intézkedés meghozatalában részt vett;
 b) a panaszos vagy véleménykérő hozzátartozója;
 c) az, akitől az ügy tárgyilagos megítélése egyéb okból nem várható el.”
-
 (2) Az R. 8. §-a a következő (7) bekezdéssel egészül ki:
 „(7) A  közszolgálati biztos a  Döntőbizottság elnökének köteles haladéktalanul bejelenteni, ha vele szemben 
 a (6) bekezdés a)–c) pontja szerinti kizárási ok áll fenn. A kizárás tárgyában az elnök soron kívül dönt.”
-
 6. §  Az R. 9. §-a helyébe a következő rendelkezés lép:
 „9.  § (1) A  Döntőbizottság eljárása a  panasz benyújtásával indul. A  panaszt írásban – az  igényt alátámasztó 
 okiratokkal együtt – három példányban kell benyújtani. A panasz szóban is előterjeszthető a Titkárságon, amelyről 
@@ -102,11 +86,7 @@ b) a  Kttv. 177.  § (2)  bekezdése szerinti célból a  közszolgálati al
 – az eljáró tanács által meghatározott – bizonyítékokat szerezhet be;
 c) a  (9)  bekezdésben meghatározottakhoz képest a  panasz kivizsgálásához szükséges további cselekményeket 
 végezhet, így nyilatkozattételre hívhat fel.
-
-
-
-5356 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5356 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 (8) A  Kttv. 190.  § (9)  bekezdése szerinti eljárási határidő (a továbbiakban: eljárási határidő) meghosszabbításáról 
 – a  titkárságvezető javaslatára – az  eljáró tanács elnöke dönt. Az  eljáró tanács elnökének döntését a  Titkárság 
 megküldi a panaszosnak és a munkáltatónak.
@@ -160,14 +140,9 @@ d) azon okokra történő utalást, amelyek miatt a  Döntőbizottság valamely
 amelyek miatt a felajánlott bizonyítást mellőzte;
 e) a jogvita elbírálása szempontjából jelentőséggel bíró jogszabályokat; és
 f ) a Kttv. 190. § (13) bekezdésével összhangban az eljárási költség viselésére vonatkozó indokokat.
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5357
-
 (18) Az indokolással ellátott határozatot – annak meghozatalától számított – nyolc napon belül írásba kell foglalni, 
 amelyet az írásba foglalást követő öt napon belül a Titkárság megküld a panaszos és a munkáltató részére.”
-
 7. §  Az R. a következő 9/A. §-sal egészül ki:
 „9/A.  § (1) A  panasz benyújtására nyitva álló igényérvényesítési határidő elmulasztása esetén, az  elmulasztott 
 határidő utolsó napjától számított tizenöt napon belül igazolási kérelem terjeszthető elő, amellyel egyidejűleg 
@@ -187,10 +162,8 @@ félbeszakadásával minden határidő megszakad, a félbeszakadás megszűnés
 a  határidő számítása újrakezdődik. A  félbeszakadásról szóló döntést a  Titkárság megküldi a  panaszosnak, aki 
 –  a  döntés kézbesítésétől számított tizenöt napon belül – köteles bejelenteni új munkáltatóját. E  bejelentést 
 követően a Döntőbizottság az eljárást a jogutód munkáltatóval szemben folytatja le.”
-
 8. §  Az R. 10. § (3) bekezdése helyébe a következő rendelkezés lép:
 „(3) A panaszos a panaszt a Döntőbizottság határozatának meghozataláig módosíthatja, visszavonhatja.”
-
 9. §  Az R. 11. §-a helyébe a következő rendelkezés lép:
 „11.  § (1) Ha a  Döntőbizottság a  panaszt részben vagy egészben alaposnak találja, a  munkáltatót részben vagy 
 egészben kötelezheti a  panaszos szükséges és igazolt költségei (a továbbiakban: eljárási költség) megtérítésére. 
@@ -205,7 +178,6 @@ megfizetésére.
 a ténylegesen elvégzett ügyvédi tevékenységgel.
 (4) A Titkárság a felhívásra megjelent kormánytisztviselő, valamint a tanú részére és kérelmére – a munkából kiesett 
 idő igazolására – igazolást állít ki a megjelenés napjáról és időtartamáról.”
-
 10. §  Az R. 12.  § (1) és (2)  bekezdése helyébe a  következő rendelkezések lépnek, és a  § a  következő (2a)  bekezdéssel 
 egészül ki:
 „(1) A  Döntőbizottság határozatának kiegészítését a  panaszos, illetve a  munkáltató a  határozat közlésétől 
@@ -218,14 +190,9 @@ a) névcsere vagy hibás névírás,
 b) szám- vagy számítási hiba, továbbá
 c) az a) és b) pontban nem említett más elírás
 esetén.
-
-
-
-5358 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5358 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 (2a) A  kijavítás iránt előterjesztett kérelemnek a  határozat elleni keresetlevél benyújtására halasztó hatálya nincs, 
 a Titkárság a keresetlevél továbbításakor a kijavítás iránti kérelemről köteles a bíróságot tájékoztatni.”
-
 11. §  Az R. 13. §-a helyébe a következő rendelkezés lép:
 „13.  § (1) A  Döntőbizottsághoz beérkezett véleménykérő ügyiratot a  Titkárság nyilvántartásba veszi. 
 A  titkárságvezető kijelöli a  Titkárság kormánytisztviselőjét a  véleménykérő ügyirat befogadhatóságának 
@@ -241,12 +208,10 @@ a véleményt kiadmányozó közszolgálati biztost.
 iratokat kérhet be, őt nyilatkozattételre hívhatja fel.
 (5) A  közszolgálati biztos az  ügyirat tárgyában véleményt ad ki, amelyet a  Titkárság küld meg a  véleménykérő 
 részére. A kiadott vélemény nem terjedhet túl a véleménykérő ügyiratban foglaltakon.”
-
 12. §  Az R. a következő 15. §-sal egészül ki:
 „15. § E rendeletnek a Kormánytisztviselői Döntőbizottságról szóló 168/2012. (VII. 20.) Korm. rendelet módosításáról 
 szóló 103/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a  Módr. 
 hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
-
 13. §  Az R.
 a) 3. § (1) bekezdés i) pontjában a „kollégium” szövegrész helyébe a „Döntőbizottság”,
 b) 8. § (2) bekezdésében a „tájékoztatni” szövegrész helyébe a „haladéktalanul tájékoztatni”,
@@ -254,22 +219,15 @@ c) 8. § (3) bekezdésében az „a panaszossal” szövegrész helyébe az 
 d) 10. § (2) bekezdésében az „eljárása során” szövegrész helyébe az „az eljárása során a Titkárság útján”,
 e) 12. § (3) bekezdésében az „indít munkaügyi jogvitát” szövegrész helyébe a „terjeszt elő keresetet”
 szöveg lép.
-
 14. § (1) Hatályát veszti az R.
 a) 4. §-ában a „közigazgatási minőségpolitikáért és személyzetpolitikáért felelős”,
 b) 8. § (1) bekezdésében a „jogorvoslati feladatainak teljesítését nem tagadhatja meg,”
 szövegrész.
-
 (2) Hatályát veszti az R.
 a) 3. § (1) bekezdés e) és g) pontja,
 b) 5. § (3) bekezdése, valamint
 c) 7. § (3) és (4) bekezdése.
-
 15. §  Ez a rendelet a kihirdetését követő napon lép hatályba.
-
 Orbán Viktor s. k.,
   miniszterelnök
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5359

@@ -1,1070 +1,245 @@
-
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11875
-
-III. Kormányrendeletek
-
-A Kormány 197/2014. (VIII. 1.) Korm. rendelete
-az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről
-
-A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 5., 12. és 19. pontjában kapott felhatalmazás alapján, 
-az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
-
-1. A rendelet hatálya
-
-1. § (1) E rendelet hatálya
-a) az 1.  melléklet 1.  pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolható 
-
-elektromos, elektronikus berendezésre,
-b) az a) pont szerinti hulladékká vált elektromos, elektronikus berendezésre,
-c) az a) pont szerinti elektromos, elektronikus berendezések visszavételére, valamint
-d) a hulladékká vált elektromos, elektronikus berendezések átvételére, gyűjtésére, szállítására, hasznosítására és 
-
-ártalmatlanítására
-terjed ki.
-
-(2) Nem terjed ki e rendelet hatálya
-a) az olyan elektromos, elektronikus berendezésre, amely Magyarország alapvető biztonsági érdekeinek 
-
-védelmével kapcsolatos, továbbá a  fegyverekre, a  lőszerekre, a  hadianyagokra, ide nem értve a  nem 
-kifejezetten katonai célokra szánt termékekben használt elektromos, elektronikus berendezést,
-
-b) az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e  rendelet hatálya alá 
-nem tartozó berendezés Polgári Törvénykönyv szerinti alkotórészeként lett tervezve és beszerelve, és amely 
-csak az adott elektromos, elektronikus berendezés részeként töltheti be funkcióját, valamint
-
-c) az izzólámpára.
-
-2. Értelmező rendelkezések
-
-2. §  E rendelet alkalmazásában:
- 1. aktív beültethető orvostechnikai eszköz: az  orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet 
-
-4. § (1) bekezdés 5. pontja szerinti elektromos vagy elektronikus berendezés;
- 2. átvételi hely: olyan, a gyártó, a forgalmazó által fenntartott gyűjtőhely, amely az e rendeletben meghatározott 
-
-gyártói kötelezettséggel érintett hulladék átvétele és azt követő gyűjtése céljából lett kialakítva;
- 3. elektromos, elektronikus berendezés: legfeljebb 1000 V váltakozó feszültségű, valamint legfeljebb 1500 V 
-
-egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses 
-mezőtől vagy elektromos áramtól függ, ideértve az elektromágneses mező vagy elektromos áram előállítását, 
-mérését, átvitelét biztosító eszközöket is;
-
-4. elektromos, elektronikus berendezés háztartásban képződő hulladéka: olyan hulladékká vált elektromos, 
-elektronikus berendezés, amely a háztartásban képződik, továbbá amely kereskedelmi, ipari, intézményi vagy 
-egyéb forrásból származik, ha jellegénél és mennyiségénél fogva az elektromos, elektronikus berendezések 
-olyan hulladékához hasonló, amely háztartásból származik, továbbá az  olyan hulladékká vált elektromos, 
-elektronikus berendezés, amelyet feltehetően háztartások és egyéb felhasználók egyaránt használnak;
-
-5. eltávolítás: olyan kézi, gépi, vegyi vagy kohászati eljárás útján végzett kezelés, amelynek eredményeképpen 
-a  hulladékká vált elektromos, elektronikus berendezésből a  veszélyes anyagok, valamint azok keverékei és 
-összetevői egy elkülöníthető anyagáramba kerülnek vagy valamely anyagáram egy elkülöníthető részévé 
-válnak; egy anyag, keverék vagy összetevő akkor tekinthető elkülöníthetőnek, ha ellenőrzés útján igazolható, 
-hogy a kezelés környezetvédelmi szempontból biztonságos;
-
-6. export: az elektromos, elektronikus berendezés kereskedelmi vagy egyéb célú, az Európai Gazdasági Térségen 
-kívülre történő szállítása;
-
-
-
-11876 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-7. finanszírozási megállapodás: valamilyen elektromos, elektronikus berendezéssel kapcsolatos bérleti, 
-haszonbérleti vagy részletfizetési szerződés vagy megállapodás, függetlenül attól, hogy a  szerződés vagy 
-megállapodás, illetve bármely kiegészítő szerződés vagy megállapodás rendelkezik-e az  elektromos, 
-elektronikus berendezés tulajdonjogának átruházásáról vagy annak lehetőségéről;
-
-8. forgalmazó: a  hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2.  § 14.  pontjában 
-meghatározott forgalmazó, amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
-
-9. forgalomba hozatal: valamely elektromos, elektronikus berendezés piaci hozzáférhetőségének első 
-alkalommal történő üzletszerű biztosítása Magyarország területén;
-
-10. gyártó: a Ht. 2. § 16. pontjában meghatározott gyártó, aki (amely)
-a) Magyarország területén letelepedett, és ott saját neve vagy védjegye alatt elektromos, elektronikus 
-
-berendezéseket gyárt, vagy elektromos, elektronikus berendezéseket terveztet vagy gyártat, 
-és a  gyártott, illetve terveztetett vagy gyártatott berendezéseket saját neve vagy védjegye alatt 
-forgalmazza,
-
-b) Magyarország területén letelepedett, és ott saját neve vagy védjegye alatt más beszállítók által 
-gyártott berendezések viszonteladásával foglalkozik, ahol a viszonteladó nem tekintendő gyártónak 
-abban az esetben, ha a berendezés gyártójának márkaneve az a) pontban foglaltaknak megfelelően 
-a berendezéseken megjelenik,
-
-c) Magyarország területén letelepedett, és Magyarországon harmadik országból vagy egy másik 
-tagállamból származó elektromos, elektronikus berendezéseket hoz üzletszerűen forgalomba, vagy
-
-d) Magyarországon távközlő eszközök révén elektromos, elektronikus berendezéseket értékesít 
-közvetlenül háztartások vagy egyéb felhasználók részére, de egy másik EGT-tagállamban vagy 
-harmadik országban telepedett le;
-
-nem tekintendő gyártónak az, aki (amely) valamely finanszírozási megállapodás értelmében kizárólagos 
-finanszírozást nyújt, kivéve, ha egyúttal az a)–d) pontok szerinti gyártóként is működik;
-
-11. hulladékká vált elektromos, elektronikus berendezés: a Ht. 2. § (1) bekezdés 23. pontja szerinti hulladék, ideértve 
-valamennyi alkatrészt, készülékrészt és fogyóanyagot, amely a  berendezés részét képezi, amikor attól 
-megválnak;
-
-12. import: elektromos, elektronikus berendezés vámjogszabályok szerinti, az Európai Unió vámterületén kívülről 
-történő behozatala;
-
-13. in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. 
-(III. 13.) ESZCSM rendelet 2.  § (1)  bekezdés a)  pontja szerinti orvostechnikai eszköz vagy 2.  § (1)  bekezdés 
-b) pontja szerinti tartozék, amely elektromos vagy elektronikus berendezésnek minősül;
-
-14. közvetítő szervezet: az  a  Ht. 2.  § 38a.  pontja szerinti közvetítő szervezet, amely törvényben vagy 
-kormányrendeletben meghatározott hulladékgazdálkodási feladatokat lát el, kivéve azokat a  feladatokat, 
-amelyek a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) hatálya alá 
-tartozó termékdíjköteles termékekre vonatkoznak;
-
-15. nagyméretű, helyhez kötött elektromos, elektronikus berendezés: különböző típusú készülékek vagy eszközök 
-nagyméretű összessége,
-a) amelyek összeszerelését, beüzemelését és leszerelését szakemberek végzik,
-b) amelyeket állandó jelleggel egy előre meghatározott és kifejezetten e  célra kijelölt területen lévő 
-
-épület vagy egyéb létesítmény részeként kívánnak használni, és
-c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel helyettesíthetők;
-
-16. nagyméretű, rögzített ipari szerszám: gépek, berendezések, illetve azok alkatrészeinek nagyméretű összessége, 
-amelyek egy adott alkalmazás céljából működnek együtt, és amelyeket szakemberek állandó jelleggel egy 
-adott helyen szakemberek beüzemelnek, leszerelnek, használnak, illetve karbantartanak valamely ipari 
-gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
-
-17. nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép, amelynek működtetése folyamatos vagy 
-részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között;
-
-18. orvostechnikai eszköz: az  egészségügyről szóló 1997. évi CLIV. törvény 3.  § h)  pontja szerinti eszköz vagy 
-tartozék, amely elektromos vagy elektronikus berendezésnek minősül;
-
-19. piaci hozzáférhetőség biztosítása: Magyarország piacán egy termék gazdasági tevékenység keretében történő 
-rendelkezésre bocsátása forgalmazás, fogyasztás vagy használat céljára, függetlenül attól, hogy az  fizetés 
-ellenében vagy ingyenesen történik;
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11877
-
-20. speciális gyűjtőhely: az elektromos, elektronikus berendezés háztartásban képződő hulladékának elkülönített 
-gyűjtésére szolgáló hulladékgyűjtő pont, ahol az elektromos, elektronikus berendezés háztartásban képződő 
-hulladéka gyűjtőedényben vagy konténerben térítésmentesen elhelyezhető;
-
-21. történelmi hulladék: a 2005. augusztus 13. napján vagy azt megelőzően gyártott hulladékká vált elektromos, 
-elektronikus berendezés.
-
-3. A gyártó visszavételi, átvételi, gyűjtési és kezelési kötelezettsége
-
-3. § (1) A gyártó
-a) az általa forgalomba hozott, használt elektromos, elektronikus berendezést, valamint
-b) a más gyártó által forgalomba hozott, használt elektromos, elektronikus berendezést, amely a  gyártó által 
-
-forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
-– különösen a  használt elektromos, elektronikus berendezés újrahasználatának biztosítása érdekében – 
-a fogyasztótól visszaveszi, ha azt a fogyasztó a részére visszavételre felajánlja (visszavételi kötelezettség).
-
-(2) A  gyártó a  fogyasztótól visszavett használt elektromos, elektronikus berendezés mennyiségét – ha annak 
-újrahasználata nem biztosítható – a  2.  melléklet 1.  pontjában meghatározottak szerint gyűjtési mennyiségként 
-elszámolhatja.
-
-(3) A  gyártó a  használt elektromos, elektronikus berendezés visszavételét a  fogyasztót terhelő fizetési kötelezettség 
-teljesítéséhez nem kötheti.
-
-(4) A  gyártó a  használt elektromos, elektronikus berendezés visszavételét megtagadhatja, ha az  elektromos, 
-elektronikus berendezés az emberi egészségre, testi épségre vagy a környezetre súlyos veszélyt jelent.
-
-(5) Ha a  gyártó a  (4)  bekezdésben meghatározott eset valamelyikére hivatkozva a  használt elektromos, elektronikus 
-berendezés visszavételét megtagadja, a  berendezést hulladéknak kell tekinteni. Ebben az  esetben a  Ht. 31.  § 
-(2) bekezdése alapján gondoskodni kell a hulladék kezeléséről.
-
-4. § (1) A gyártó
-a) az általa forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést,
-b) a más gyártó által forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést, amely a gyártó 
-
-által forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
-c) a történelmi hulladékká vált elektromos, elektronikus berendezés háztartásban képződő hulladékát, valamint
-d) az új, az  azonos vagy az  azonos jellegű és funkciójú termékkel helyettesített történelmi hulladékká vált 
-
-elektromos, elektronikus berendezés háztartásban képződő hulladékát
-– a hulladék átadásának ösztönzése érdekében – a hulladékbirtokostól átveszi és gyűjti, ha a hulladékbirtokos azt 
-a részére átvételre felajánlja (átvételi és gyűjtési kötelezettség).
-
-(2) A gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét – a 25. § (2) bekezdésében meghatározott 
-kivétellel – a hulladékbirtokost terhelő fizetési kötelezettség teljesítéséhez nem kötheti.
-
-(3) A  gyártónak a  hulladékot abban az  esetben is át kell vennie, ha a  hulladékká vált elektromos, elektronikus 
-berendezés az  elektromos, elektronikus berendezésre jellemző alapvető alkotórészeket nem tartalmazza vagy 
-az elektromos, elektronikus berendezést megbontották.
-
-(4) A  gyártó a  hulladékká vált elektromos, elektronikus berendezés átvételét abban az  esetben tagadhatja meg, ha 
-a  hulladékká vált elektromos, elektronikus berendezés az  emberi egészségre, testi épségre vagy a  környezetre 
-súlyos veszélyt jelent.
-
-(5) Ha a  gyártó a  hulladékká vált elektromos, elektronikus berendezés átvételét megtagadja, jegyzőkönyvet vesz fel. 
-A  jegyzőkönyvben a  berendezés azonosítására alkalmas adatokat, továbbá az  átvétel megtagadásának indokát, 
-helyét és időpontját kell rögzíteni. A  jegyzőkönyvet a  gyártónak és a  hulladékbirtokosnak alá kell írnia. A  gyártó 
-az aláírt jegyzőkönyv egy példányát a hulladékbirtokosnak átadja.
-
-(6) Ha a  gyártó a  hulladékká vált elektromos, elektronikus berendezés átvételét a  (4)  bekezdés szerinti indok 
-valamelyikére hivatkozva megtagadja, a  hulladékbirtokost a  helyszínen tájékoztatja arról, hogy a  hulladék hol és 
-kinek adható át annak környezetvédelmi szempontból biztonságos kezelése érdekében. Szükség esetén a  gyártó 
-a  környezetvédelmi hatóságot, illetve egy – a  hulladék kezelésére jogosult – gazdálkodó szervezetet a  hulladék 
-elszállítása és annak környezetvédelmi szempontból biztonságos kezelése érdekében haladéktalanul tájékoztatja.
-
-(7) Az átvétel megtagadása miatti eljárásban a (4) bekezdésben foglaltak bizonyítása a gyártót terheli. Ha az eljárásban 
-a  gyártó az  (5)  bekezdés szerinti jegyzőkönyvet nem mutatja be, az  átvétel megtagadásának jogtalanságát 
-vélelmezni kell.
-
-
-
-11878 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-(8) A  gyártó a  hulladékká vált elektromos, elektronikus berendezés gyűjtéséről elektromos-, elektronikusberendezés-
-kategóriánként legalább a  2.  melléklet 1.1.  pontjában foglalt táblázatban meghatározott gyűjtési aránynak 
-megfelelő mértékben gondoskodik.
-
-(9) A  gyártó a  tárgyévben gyűjtendő hulladékmennyiséget a  tárgyév február 20. napjáig elektromos-, 
-elektronikusberendezés-kategóriánként maga állapítja meg.
-
-5. § (1) Ha a gyártó az átvétel helyén megállapítja vagy – a 3. melléklet szerinti minimumkövetelményekre figyelemmel – 
-a  körülményekhez képest alapos okkal feltételezi, hogy a  hulladékká vált elektromos, elektronikus berendezés 
-újrahasználata – újrahasználatra történő előkészítés útján – gazdaságosan biztosítható, a gyártó az újrahasználatra 
-történő előkészítésnek a  hasznosítással és az  újrafeldolgozással szemben elsőbbséget biztosít. Ebben az  esetben 
-a gyártó a hulladékká vált elektromos, elektronikus berendezés újrahasználatra előkészítésre történő továbbításáról 
-az elektromos, elektronikus berendezés átvételétől számított 30 napon belül gondoskodik.
-
-(2) Ha a  hulladékká vált elektromos, elektronikus berendezés újrahasználata – újrahasználatra történő előkészítés 
-útján – gazdaságosan nem biztosítható, a gyártó a hulladék hasznosításáról és újrafeldolgozásáról – elektromos- és 
-elektronikusberendezés-kategóriánként – legalább a 2. melléklet 2.1. pontjában foglalt táblázatban meghatározott 
-hasznosítási és újrafeldolgozási aránynak megfelelő mértékben gondoskodik (hasznosítási kötelezettség).
-
-(3) Az olyan hulladékká vált elektromos, elektronikus berendezés vagy alkotórésze esetében, amelynek hasznosítására 
-Magyarországon nem áll rendelkezésre hasznosítási kapacitás, a  hasznosítási kötelezettség teljesítésének minősül 
-a  hulladékká vált elektromos, elektronikus berendezés vagy alkotórészének az  Európai Gazdasági Térségről szóló 
-megállapodásban részes más államban történő, az országhatárt átlépő hulladékszállításról szóló kormányrendelet 
-szerint igazolt hasznosítása is.
-
-(4) Az olyan hulladékká vált elektromos, elektronikus berendezés vagy alkotórésze esetében, amelynek hasznosítására 
-Magyarországon nem áll rendelkezésre hasznosítási kapacitás, a  hulladékká vált elektromos, elektronikus 
-berendezés vagy alkotórészének hasznosítási célú exportja abban az  esetben tekinthető a  hasznosítási 
-kötelezettség teljesítésének, ha az exportot végző az országhatárt átlépő hulladékszállításról szóló kormányrendelet 
-alapján igazolja, hogy az  adott országban a  hasznosítás az  e  rendeletben foglaltakkal egyenértékű vagy jobb 
-feltételekkel történik.
-
-(5) Ha a  gyártó a  hulladék kezeléséről nem saját maga gondoskodik, a  visszavitt használt és újrahasználatra nem 
-alkalmas elektromos, elektronikus berendezést és annak valamennyi alkotóelemét, illetve az átvett hulladékká vált 
-elektromos, elektronikus berendezést és annak valamennyi alkotóelemét elkülönítetten és hiánytalanul kell átadnia 
-az átvételre hulladékgazdálkodási engedéllyel rendelkező jogosult részére.
-
-6. §  Ha az  elektromos, elektronikus berendezés újrahasználatra alkalmatlan, illetve a  hulladékká vált elektromos, 
-elektronikus berendezés hasznosítása, újrafeldolgozása gazdaságosan nem biztosítható, a  gyártó gondoskodik 
-a hulladék ártalmatlanításáról (ártalmatlanítási kötelezettség).
-
-4. A gyártó tájékoztatási kötelezettsége
-
-7. § (1) A  gyártó a  visszavételi, átvételi, gyűjtési, hasznosítási és ártalmatlanítási kötelezettségéről a  fogyasztót, 
-a forgalmazót és a hulladékbirtokost tájékoztatja.
-
-(2) A  gyártó gondoskodik arról, hogy a  2005. augusztus 13. napját követően gyártott elektromos, elektronikus 
-berendezésen vagy – ha azon a termék mérete vagy rendeltetése miatt nem lehetséges – a termék csomagolásán, 
-a használati útmutatóban vagy a garanciajegyen
-a) a 4. mellékletben feltüntetett ábra,
-b) a gyártó azonosításra alkalmas megjelölés, valamint
-c) a forgalomba hozatal időpontja
-jól látható, felismerhető, olvasható és letörölhetetlen legyen.
-
-(3) A gyártó a fogyasztókat magyar nyelven tájékoztatja arról, hogy
-a) az elektromos, elektronikus berendezésekben található veszélyes anyagok a  környezetre és az  emberi 
-
-egészségre milyen káros hatást gyakorolnak, ha azokat nem a  vonatkozó környezetvédelmi előírásoknak 
-megfelelően használják, működtetik;
-
-b) az elektromos, elektronikus berendezés tartalmaz-e olyan alkatrészt, amely hulladékká válását követően 
-veszélyes hulladéknak minősülne;
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11879
-
-c) a hulladékká vált elektromos, elektronikus berendezést elkülönítetten kell gyűjteni, és az  a  települési 
-hulladékkal együtt nem helyezhető el azonos gyűjtőedényben, továbbá települési hulladékként nem 
-ártalmatlanítható;
-
-d) a 4.  mellékletben szereplő ábra azt a  jelentést hordozza magában, hogy a  hulladékká vált elektromos, 
-elektronikus berendezést elkülönítetten kell gyűjteni;
-
-e) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 
-kormányrendelet hatálya alá tartozó elemet, akkumulátort tartalmazó elektromos, elektronikus berendezés 
-milyen típusú elemet, akkumulátort tartalmaz, és az  milyen módon távolítható el az  elektromos vagy 
-elektronikus berendezésből biztonságosan;
-
-f ) a használt és a hulladékká vált elektromos, elektronikus berendezést a forgalmazás helyén, illetve valamennyi 
-olyan forgalmazónak, amely a  használt és a  hulladékká vált elektromos, elektronikus berendezéssel 
-jellegében és funkciójában azonos elektromos, elektronikus berendezést értékesít, térítésmentesen átadható;
-
-g) tevékenységével milyen szerepet vállal az  elektromos, elektronikus berendezés újrahasználatában, 
-újrahasználatra történő előkészítésében, valamint a  hulladékká vált elektromos, elektronikus berendezés 
-mennyiségének csökkentésében, hasznosításában és az újrafeldolgozás egyéb formáiban; valamint
-
-h) a 12. § (1)–(5) bekezdése szerinti kötelezettségeinek teljesítésével kapcsolatban felmerült költségeket viseli, 
-és erre garanciát vállal.
-
-(4) A gyártó a  (3) bekezdésben meghatározott tájékoztatási kötelezettségét a  fogyasztók részére a következő módon 
-teljesíti:
-a) az általa gyártott elektromos, elektronikus berendezésre vonatkozó hirdetést tartalmazó szórólapon, 
-
-reklámújságban, termékismertetőben, továbbá katalógusban, ha ilyeneket saját maga előállít vagy előállíttat;
-b) az általa gyártott vagy forgalomba hozott elektromos, elektronikus berendezésre vonatkozó használati 
-
-útmutatóban, ismertetőben;
-c) a honlapján; valamint
-d) a fogyasztók részére küldött hírlevélben és az  általa üzemeltetett webáruház honlapján, ha ilyen 
-
-tevékenységeket saját maga végez.
- (5) A  (4)  bekezdés szerinti tájékoztatásnak az  adott elektromos, elektronikus berendezésre vonatkozó teljes 
-
-médiafelület legalább 5%-át kell kitennie. A hirdetést tartalmazó szórólap, reklámújság, termékismertető, továbbá 
-katalógus médiafelületén a  tájékoztatást az  adott elektromos, elektronikus berendezés vonatkozásában addig 
-az  időpontig kell megjeleníteni, amíg az  adott berendezésre vonatkozó bármilyen jellegű hirdetés azon szerepel. 
-A gyártó az általa gyártott elektromos, elektronikus berendezésre vonatkozó használati útmutatóban, ismertetőben, 
-továbbá honlapjának, a  fogyasztók részére küldött hírlevelének és az  általa üzemeltetett webáruház honlapjának 
-médiafelületén a  tájékoztatást az  adott elektromos, elektronikus berendezés vonatkozásában addig az  időpontig 
-kell megjeleníteni, amíg az adott berendezést a gyártó gyártja, illetve forgalmazza.
-
-(6) A  gyártó az  új elektromos, elektronikus berendezés értékesítésekor a  gyűjtéssel, a  szállítással és a  kezeléssel 
-kapcsolatban felmerülő becsült költségeiről a  fogyasztókat a  számlán, a  terméken, illetve annak csomagolásán 
-tájékoztathatja. Ebben az esetben a  ténylegesen felmerülő költségek nem haladhatják meg a  tájékoztatás szerinti 
-becsült költségeket.
-
-(7) A  gyártó kezelési kötelezettségével összefüggő, az  elektromos, elektronikus berendezés alkatrészeinek és 
-alapanyagainak meghatározására, veszélyes anyag tartalmára vonatkozó műszaki dokumentációt, kezelési utasítást 
-az elektromos, elektronikus berendezés forgalomba hozatalától számított 1 hónapon belül az átvállalónak, az OHÜ 
-Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: OHÜ), 
-továbbá a hasznosítást végző hulladékkezelőnek elektronikus formában hozzáférhetővé teszi.
-
-8. § (1) A  gyártó az  elektromos, elektronikus berendezés forgalomba hozatalát követő 1 éven belül az  Európai Unió 
-területén első alkalommal forgalomba hozott elektromos, elektronikus berendezés valamennyi típusát illetően 
-az  újrahasználatra, az  újrahasználatra előkészítésre és a  kezelésre vonatkozó ingyenes tájékoztatást mindenki 
-számára hozzáférhetővé teszi. A  tájékoztatást különösen kézikönyvekben, valamint az  elektronikus hírközlés 
-szolgáltatásain keresztül kell biztosítani.
-
-(2) A tájékoztatásnak legalább a következőkre kell kiterjednie:
-a) az elektromos, elektronikus berendezésben található különböző alkatrészek és anyagok meghatározására, 
-
-ideértve a berendezés működése szempontjából nem jelentős tartó és hordozó alkatrészeket is;
-b) az elektromos, elektronikus berendezésben található veszélyes anyagok és keverékek meghatározására; 
-
-valamint
-
-
-
-11880 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-c) arra, hogy a kezelés során a hulladékká vált elektromos, elektronikus berendezésből valamennyi folyadékot 
-és legalább a 26. § (1) bekezdése szerinti anyagot, alkatrészt, tartozékot, összetevőt el kell távolítani.
-
-5. A gyártó kötelezettségeinek átruházása
-
-9. § (1) A gyártó a használt elektromos, elektronikus berendezés visszavételére és a hulladékká vált elektromos, elektronikus 
-berendezés átvételére vonatkozó kötelezettségét – a  forgalmazás helyén történő visszavételi és átvételi 
-kötelezettség kivételével –
-a) megállapodás alapján a 10. § (1) bekezdése szerinti átvállalóra (a továbbiakban: átvállaló) vagy
-b) nem termékdíjköteles termék esetén közvetítő szervezetre
-átruházhatja.
-
-(2) A gyártó a gyűjtési, kezelési kötelezettségének teljesítését
-a) megállapodás alapján azt részben vagy együttesen átvállalóra vagy
-b) közvetítő szervezetre
-átruházhatja.
-
-(3) A  gyártó a  Ktdt. hatálya alá tartozó, termékdíjköteles, hulladékká vált elektromos, elektronikus berendezés 
-gyűjtésére, kezelésére vonatkozó kötelezettségének a Ktdt.-ben meghatározott
-a) egyéni teljesítés,
-b) OHÜ-n keresztül történő kollektív teljesítés vagy
-c) termékdíjátalány-fizetés
-útján tehet eleget.
-
-10. § (1) Átvállaló – a  (2)  bekezdésben foglalt kivétellel – lehet, aki (amely) az  átruházni kívánt hulladékgazdálkodási 
-tevékenység végzésére hulladékgazdálkodási engedélye folytán jogosult.
-
-(2) Nem lehet átvállaló az, aki (amely) gazdasági tevékenységével vagy gazdasági tevékenysége körében a  gyűjtési, 
-kezelési kötelezettség átruházása céljából a gyártóval megkötött megállapodást megelőző 3 éven belül
-a) a környezet védelmének általános szabályairól szóló törvény, valamint
-b) a Ht.
-előírásainak megsértésével kapcsolatban meghozott jogerős hatósági határozatban vagy bírósági ítéletben 
-megállapított jogszabálysértést követett el.
-
-(3) Az  átruházott kötelezettség tekintetében az  átvállalóra a  gyártóra vonatkozó szabályokat kell megfelelően 
-alkalmazni.
-
-11. § (1) Ha a gyártó a gyűjtési, kezelési kötelezettségének teljesítését az átvállalóra átruházza, a gyártó és az átvállaló között 
-létrejött megállapodásnak a következőket kell tartalmaznia:
-a) az átvállalt kötelezettség megjelölését,
-b) az átvállalt kötelezettséggel érintett elektromos-, elektronikusberendezés-kategóriát,
-c) az átvállalt kötelezettséggel érintett elektromos, elektronikus berendezés mennyiségét (kilogrammban), 
-
-valamint
-d) az átvállalóra átruházott kötelezettség ellátásához kapcsolódó tevékenységének leírását.
-
-(2) A  gyártó az  átvállalóval kötött megállapodást a  megállapodás létrejöttét követő 15 napon belül az  Országos 
-Környezetvédelmi és Természetvédelmi Főfelügyelőségnek (a továbbiakban: OKTF) jóváhagyásra megküldi.
-
-(3) A  gyártó a  megállapodás módosítását vagy megszűnését a  módosítást vagy megszűnést követő 15 napon belül 
-az OKTF-nek bejelenti.
-
-(4) Az  OKTF a  megállapodást vagy annak módosítását határozatban jóváhagyja, ha a  megállapodás vagy 
-a megállapodás módosításának tartalma megfelel a 10. §-ban és az (1) bekezdésben előírt követelményeknek.
-
-6. A gyártó által viselt költségek
-
-12. § (1) A  gyártó – az  (5) és (6)  bekezdésben meghatározott eltéréssel – viseli a  visszavételre, az  átvételre, a  gyűjtésre és 
-a kezelésre vonatkozó kötelezettségek teljesítésével kapcsolatos költségeket.
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11881
-
-(2) Ha a  gyártó a  forgalmazóval értékesítési szerződést kötött, a  gyártó a  22.  §-ban és a  23.  §-ban foglaltaknak 
-megfelelően
-a) a forgalmazó által visszavett elektromos, elektronikus berendezés tárolásának és a  forgalmazótól történő 
-
-elszállításának,
-b) a forgalmazó által átvett hulladékká vált elektromos, elektronikus berendezés gyűjtésének,
-c) a gyűjtőedények elhelyezésének, valamint
-d) az elektromos, elektronikus berendezés háztartásban képződő hulladékának a háztartásokból a gyűjtőhelyre, 
-
-továbbá a gyűjtőhelyről a hulladékkezelő létesítménybe történő elszállításának
-költségeit viseli.
-
-(3) A  gyártó viseli a  2005. augusztus 13-át követően forgalomba hozott elektromos, elektronikus berendezésből 
-képződött, nem háztartásból származó elektromos, elektronikus berendezés hulladékának gyűjtésével, 
-környezetkímélő kezelésével kapcsolatban felmerült költségeket.
-
-(4) A gyártó a  forgalmazó kérésére az értékesítési szerződésben meghatározott mennyiségnek megfelelő elektromos, 
-elektronikus berendezés háztartásban képződő hulladékát a  forgalmazótól átveszi, és viseli az  ezzel kapcsolatos 
-költségeket.
-
-(5) Ha az  elektromos, elektronikus berendezés háztartásban képződő hulladéka történelmi hulladéknak minősül, 
-a gyártó a történelmi hulladék átvételének, gyűjtésének és kezelésének költségeihez az adott kategóriába tartozó 
-elektromos, elektronikus berendezés – amelyből a  történelmi hulladék képződött – forgalomba hozatalának 
-arányában járul hozzá.
-
-(6) A  gyártó vagy a  nevében eljáró harmadik személy a  gyártó által viselt költségek visszatérítésére visszafizetési 
-eljárást alakíthat ki abban az esetben, ha az adott elektromos, elektronikus berendezést forgalomba hozatal céljából 
-Magyarországon kívülre szállítják.
-
-7. A gyártó biztosítékadási kötelezettsége
-
-13. § (1) A gyártó a gyűjtési, kezelési kötelezettségei ellátásának biztosítására – a (4) bekezdésben meghatározott kivétellel – 
-vagyoni biztosítékot képez.
-
-(2) A vagyoni biztosíték mértékét és számításának módját az 5. melléklet határozza meg.
- (3) A tárgyévre vonatkozó vagyoni biztosítékot a tárgyév február 20. napjáig kell képezni. Ha a gyártó a tevékenységét 
-
-a tárgyévben kezdi meg, a vagyoni biztosítékot a tárgyév végéig havonta kell képeznie.
- (4) A gyártónak nem kell vagyoni biztosítékot képeznie:
-
-a) ha a gyűjtési, kezelési kötelezettségének közvetítő szervezet útján tesz eleget vagy
-b) a Ktdt. hatálya alá tartozó termékdíjköteles termékek vonatkozásában.
-
-14. § (1) A vagyoni biztosíték típusa a következő lehet:
-a) a gyártói részvétel a  hulladékká vált elektromos, elektronikus berendezésekkel történő gazdálkodásra 
-
-szolgáló finanszírozási rendszerben,
-b) környezetvédelmi biztosítás,
-c) hitelintézet vagy biztosító intézet által vállalt garancia vagy ezzel egyenértékű banki kötelezettségvállalás,
-d) biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény,
-e) hitelintézetnél garanciavállalás céljából elhelyezett, elkülönítetten kezelt és zárolt pénzösszeg vagy
-f ) biztosítási szerződés.
-
-(2) A  vagyoni biztosíték létrehozására vonatkozó igazolást a  gyártó az  adatszolgáltatási kötelezettség teljesítésével 
-egyidejűleg megküldi az OKTF részére.
-
-(3) A  gyártó a  tárgyévi vagyoni biztosíték felett az  OKTF által kiadott engedély birtokában rendelkezhet. A  vagyoni 
-biztosíték feletti rendelkezés engedélyezését a  gyártó a  tárgyévet követő év adatszolgáltatási kötelezettségének 
-teljesítésével egyidejűleg kezdeményezheti.
-
-(4) A tárgyévi vagyoni biztosítékkal az OKTF jóváhagyását követően a gyártó szabadon rendelkezhet.
- (5) A  tárgyévi vagyoni biztosíték feletti rendelkezés jogát az  OKTF a  tárgyévet követő év szeptember 1-jéig akkor 
-
-engedélyezi, ha a gyártó
-a) a tárgyévi visszavételi, átvételi, gyűjtési, hasznosítási és ártalmatlanítási, valamint
-b) az éves adatszolgáltatási
-kötelezettségét teljesítette.
-
-
-
-11882 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-8. A gyártók és a közvetítő szervezetek nyilvántartásba vétele
-
-15. § (1) A  gyártó a  6.  melléklet szerinti adatlap kitöltésével és az  OKTF részére történő megküldésével kérelmezi 
-a  nyilvántartásba vételét, egyidejűleg vállalja, hogy a  6.  mellékletben meghatározott adataiban bekövetkezett 
-változásokat – a változás bekövetkezését követő 15 napon belül – az  OKTF-nek az  adatváltozás tényét igazoló 
-dokumentum egyidejű csatolásával írásban bejelenti. A  nyilvántartásba vétel iránti kérelmet legkésőbb 
-az elektromos, elektronikus berendezés forgalomba hozatalának megkezdéséig kell benyújtani.
-
-(2) A  2.  § 10.  pont d)  alpontja szerinti gyártót az  elektromos, elektronikus berendezés forgalomba hozatalának helye 
-szerinti európai uniós tagállamban kell nyilvántartásba venni.
-
-(3) Ha a gyártó a gyűjtési, hasznosítási és ártalmatlanítási kötelezettségének teljesítését az átvállalóra vagy a közvetítő 
-szervezetre átruházza, a  nyilvántartásba vétel iránti kérelemhez – az  (1)  bekezdésben meghatározottakon túl – 
-csatolni kell az átvállalóval vagy a közvetítő szervezettel kötött megállapodást is.
-
-(4) Az OKTF a gyártó nyilvántartásba vételével egyidejűleg a gyártónak nyilvántartási számot ad.
- (5) A gyártó e rendelet szerinti tevékenysége megszüntetését az OKTF-nek bejelenti, és ezzel egyidejűleg a tárgyévre 
-
-vonatkozó adatszolgáltatási kötelezettségét teljesíti. A bejelentést és az adatszolgáltatási kötelezettség teljesítését 
-követően az OKTF a gyártót a nyilvántartásból törli.
-
-16. § (1) A  hulladékká vált elektromos, elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységek 
-közvetítését végző közvetítő szervezetnek a tevékenysége megkezdéséhez, folytatásához szükséges nyilvántartásba 
-vétel iránti kérelmét az OKTF részére kell benyújtania.
-
-(2) A nyilvántartásba vétel iránti kérelemnek a következő adatokat és dokumentumokat kell tartalmaznia:
-a) a gyártó és a közvetítő szervezet cégjegyzékszáma;
-b) a kötelezettség teljesítésének módja;
-c) az üzletszabályzat tervezete, ideértve az általános szerződési feltételeket is;
-d) a közvetítő szervezettel szerződésben álló gyártók és forgalmazók listája; valamint
-e) igazolás a (3) bekezdésben foglaltakról.
-
-(3) A nyilvántartásba az a Ktdt. hatálya alá nem tartozó nonprofit gazdasági társaságként bejegyzett közvetítő szervezet 
-vehető,
-a) amelynek szolgáltatásait bárki igénybe veheti az alapszabályában vagy az alapító okiratában meghatározott 
-
-feltételek teljesítése esetén;
-b) amely az  alaptevékenységéhez szükséges mértékű – legalább 30 millió forint összegű – alaptőkével 
-
-rendelkezik; valamint
-c) amely gazdasági tevékenységével vagy a  környezet védelmének általános szabályairól szóló törvény 
-
-előírásainak megsértésével kapcsolatban a nyilvántartásba vétel iránti kérelem benyújtását megelőző 3 éven 
-belül meghozott jogerős hatósági határozatban vagy bírósági ítéletben megállapított jogszabálysértést nem 
-követett el.
-
-(4) Az OKTF a közvetítő szervezet nyilvántartásba vételével egyidejűleg a közvetítő szervezetnek nyilvántartási számot 
-ad.
-
-(5) A  közvetítő szervezet a  nyilvántartásba vételt követően a  (2) és (3)  bekezdésben meghatározott adatokban vagy 
-körülményekben bekövetkezett változásokat – a változás bekövetkeztétől számított 15 napon belül – az OKTF-nek 
-a  változás tényét igazoló dokumentum csatolásával egyidejűleg bejelenti. A  bejelentés tényéről az  OKTF 
-a bejelentéstől számított 30 napon belül a környezetvédelmi és természetvédelmi felügyelőséget (a továbbiakban: 
-felügyelőség) tájékoztatja.
-
-(6) Az OKTF a közvetítő szervezetet törli a nyilvántartásból, ha a nyilvántartás feltételei már nem állnak fenn.
- (7) A nyilvántartásba vételi, az adatmódosítási és a nyilvántartásból történő törlés iránti kérelmet a 6. melléklet szerinti 
-
-formanyomtatványon vagy elektronikus űrlapon kell benyújtani. A  formanyomtatványt és az  elektronikus űrlapot 
-az OKTF honlapján és a kormányzati portálon kell közzétenni.
-
-9. A gyártó, az átvállaló és a közvetítő szervezet nyilvántartási és adatszolgáltatási kötelezettsége
-
-17. § (1) A  gyártó – a  (2)  bekezdés szerinti adattartalommal – nyilvántartást vezet, és – a  (2)  bekezdésben meghatározott 
-határidőn belül és tartalommal – az OKTF részére adatot szolgáltat.
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11883
-
-(2) A gyártó az OKTF részére adatot szolgáltat a tárgyév február 20. napjáig
-a) a tárgyévet megelőző évben Magyarországon forgalomba hozott elektromos, elektronikus berendezés 
-
-mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-b) a tárgyévben Magyarországon forgalomba hozni tervezett elektromos, elektronikus berendezés 
-
-mennyiségéről (tömeg szerint, berendezés-kategóriánként);
-c) a tárgyévet megelőző évben Magyarországon teljesített gyűjtési kötelezettségének mennyiségéről (tömeg 
-
-szerint, berendezés-kategóriánként);
-d) a tárgyévben Magyarországon teljesített gyűjtési kötelezettségének mennyiségéről (tömeg szerint, 
-
-berendezés-kategóriánként);
-e) azokról a hulladékká vált elektromos, elektronikus berendezések mennyiségéről (tömeg szerint, berendezés-
-
-kategóriánként), amelyeket a tárgyévet megelőző évben
-ea) az átvételi helyeken és gyűjtőhelyeken összesen átvett, gyűjtött,
-eb) közvetítő szervezetnek, kereskedőnek, előkezelőnek, hasznosítónak, ártalmatlanítónak kezelésre 
-
-összesen átadott,
-ec) hulladékkezelőtől, illetve hulladékkezelő létesítményből további hasznosítás vagy ártalmatlanítás 
-
-céljából elszállított;
-f ) a tárgyévben gyűjteni, kezelni tervezett hulladékká vált elektromos, elektronikus berendezés mennyiségéről 
-
-(tömeg szerint, berendezés-kategóriánként);
-g) a tárgyévi visszavételi, átvételi, gyűjtési és kezelési kötelezettségei ellátásának módjáról;
-h) a 14. § (1) bekezdése szerinti tárgyévi vagyoni biztosíték összegéről és típusáról.
-
-(3) A  gyártó a  (2)  bekezdés a)–f )  pontja szerinti adatszolgáltatási kötelezettségét a  7.  mellékletben, a  (2)  bekezdés 
-g)  és  h)  pontja szerinti adatszolgáltatási kötelezettségét a  6.  mellékletben foglalt adatlap kitöltésével teljesíti 
-az OKTF részére.
-
-(4) Ha a gyártó termékdíjátalány-fizetés, illetve OHÜ-n keresztül történő kollektív teljesítés útján tesz eleget a gyűjtési, 
-kezelési kötelezettségének, kizárólag a (2) bekezdés a)–d) és g) pontjában foglaltakról kell adatot szolgáltatnia.
-
-(5) A  gyártó a  nyilvántartását a  számvitelről szóló 2000. évi C. törvény 169.  § (1)  bekezdésében meghatározott ideig 
-megőrzi.
-
-18. § (1) Az  átvállaló és a  közvetítő szervezet – a  (2)  bekezdés szerinti adattartalommal – nyilvántartást vezet, és 
-– a (2) bekezdésben meghatározott határidőn belül és tartalommal – az OKTF részére adatot szolgáltat.
-
-(2) Az átvállaló és a közvetítő szervezet az OKTF részére adatot szolgáltat a tárgyév február 20. napjáig
-a) a tárgyévet megelőző évben az  általa kötött megállapodások alapján visszavett elektromos, elektronikus 
-
-berendezés tömegéről (kilogrammban);
-b) a tárgyévet megelőző évben az általa kötött megállapodások alapján átvett és gyűjtött hulladék tömegéről 
-
-(kilogrammban);
-c) arról, hogy mely gyártókkal, forgalmazókkal, gazdálkodó szervezetekkel milyen mennyiségre kötött 
-
-megállapodást visszavételre, átvételre, gyűjtésre, kezelésre.
- (3) Az  átvállaló és a  közvetítő szervezet az  adatszolgáltatási kötelezettségét az  OKTF felé a  8.  mellékletben foglalt 
-
-adatlapok kitöltése útján teljesíti.
- (4) Ha a  gyártó termékdíjátalány-fizetés, illetve az  OHÜ-n keresztül történő kollektív teljesítés útján tesz eleget 
-
-a  gyűjtési, kezelési kötelezettségének, a  17.  § (2)  bekezdés e) és f )  pontjában foglaltakról a  tárgyév február 
-20. napjáig az OKTF részére az OHÜ szolgáltat adatot.
-
-(5) Az OHÜ az adatszolgáltatási kötelezettségét az OKTF felé a 7. mellékletben foglalt adatlapok kitöltése útján teljesíti.
- (6) Az átvállalóra, a közvetítő szervezetre és az OHÜ-re a 17. § (5) bekezdését is alkalmazni kell.
- (7) Az  átvállalónak és a  közvetítő szervezetnek a  8.  mellékletben, az  OHÜ-nek a  7.  mellékletben foglalt adatlapok 
-
-alapján összesített adatokra vonatkozóan kell az adatszolgáltatást teljesítenie.
-
-19. § (1) Az  adatszolgáltatás során közölt adatok teljeskörűségéért, az  adatszolgáltatásra kötelezettre vonatkozó számviteli 
-szabályokkal, statisztikai rendszerrel, valamint a  saját egyéb nyilvántartási rendszereivel, mérési, megfigyelési 
-adataival való egyezésért az adatszolgáltatásra kötelezett felel.
-
-(2) Az  adatszolgáltatás nyomtatványon vagy elektronikus úton, az  elektronikus aláírásról szóló törvényben 
-meghatározottak szerinti minősített elektronikus aláírással ellátott elektronikus okirat útján is teljesíthető.
-
-
-
-11884 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-20. § (1) Az  OKTF minden év szeptember 1-jéig feldolgozza a  teljesített adatszolgáltatások adatait, és azokat 30 napon 
-belül elektronikus úton megküldi az  OHÜ-nek. Az  adatszolgáltatásból származó feldolgozott adatok nyilvánosak, 
-és az  OKTF honlapján keresztül folyamatosan, térítésmentesen hozzáférhetők. A  gyártók és a  nevükben eljáró 
-harmadik személyek nyilvántartásba vételének megkönnyítése érdekében, az  OKTF az  európai uniós tagállamok 
-nyilvántartási rendszeréhez történő hozzáférés lehetőségét az elérhetőség megjelölésével a honlapján biztosítja.
-
-(2) A tartalmilag vagy formailag hibás adatot szolgáltató kötelezettet az OKTF az adatszolgáltatás legfeljebb 30 napon 
-belül történő hiánypótlásra szólítja fel.
-
-10. A meghatalmazott képviselő
-
-21. § (1) Az  Európai Gazdasági Térséghez tartozó államban székhellyel rendelkező gyártó az  e  rendeletben meghatározott 
-valamennyi kötelezettségét meghatalmazott képviselője útján teljesíti, ha Magyarországon ezt a  tevékenységet 
-nem a külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény 3. § (1) bekezdése szerinti valamelyik 
-letelepedési formában végzi.
-
-(2) A  meghatalmazott képviselő írásbeli, állandó meghatalmazással jelölhető ki. A  meghatalmazott képviselőnek 
-magyar adószámmal kell rendelkeznie.
-
-11. A forgalmazó kötelezettségei
-
-22. § (1) A  forgalmazónak felajánlott használt elektromos, elektronikus berendezés visszavételére a  3.  § rendelkezéseit, 
-a  forgalmazónak felajánlott hulladékká vált elektromos, elektronikus berendezés átvételére és gyűjtésére a  4.  § 
-rendelkezéseit kell megfelelően alkalmazni.
-
-(2) A forgalmazó a hulladékbirtokos által felajánlott olyan elektromos, elektronikus berendezés háztartásban képződő 
-hulladékát, amelynek egyik oldala sem haladja meg a  25 cm-t, a  legalább 400 m2 alapterületű elektromos, 
-elektronikus berendezés értékesítésére alkalmas eladótérrel rendelkező kiskereskedelmi tevékenységet végző 
-üzletében vagy közvetlenül az üzlet előtt, mellett a hulladékbirtokostól átveszi és gyűjti, ha a hulladékbirtokos azt 
-a részére átvételre felajánlja.
-
-(3) A  forgalmazó a  (2)  bekezdésben meghatározott kötelezettségét a  hulladékká vált elektromos, elektronikus 
-berendezés közvetlen átvétele vagy speciális gyűjtőhelyre telepített gyűjtőedényben történő gyűjtés útján teljesíti. 
-A gyűjtőedényt jól látható és könnyen hozzáférhető helyen kell elhelyezni.
-
-(4) Ha a fogyasztó a forgalmazótól új elektromos, elektronikus berendezést vásárol, és azt a forgalmazó a fogyasztónak 
-házhoz szállítja, a  forgalmazó a  fogyasztó által felajánlott, a  vásárolt berendezéssel azonos mennyiségű és 
-azonos használati célú elektromos, elektronikus berendezés háztartásban képződő hulladékát a  fogyasztótól, 
-hulladékbirtokostól átveszi és elszállítja.
-
-(5) Ha a  forgalmazó a  hulladék kezeléséről nem saját maga gondoskodik, a  visszavitt elektromos, elektronikus 
-berendezést és annak valamennyi alkotóelemét, illetve az  átvett, hulladékká vált elektromos, elektronikus 
-berendezést és annak valamennyi alkotóelemét elkülönítetten és hiánytalanul át kell adnia a  gyártó vagy 
-az átvételre hulladékgazdálkodási engedéllyel rendelkező jogosult részére.
-
-23. § (1) A forgalmazó az e rendelet szerinti kötelezettségéről a fogyasztót, a hulladékbirtokost tájékoztatja.
- (2) A  fogyasztók, hulladékbirtokosok forgalmazó általi tájékoztatására a  7.  § (3)–(6)  bekezdésében foglaltakat kell 
-
-megfelelően alkalmazni.
-
-12. Az újrahasználatra vonatkozó szabályok
-
-24. § (1) Használt elektromos, elektronikus berendezés kizárólag a  3.  mellékletben meghatározott feltételek teljesülése 
-esetén hozható ismételten forgalomba.
-
-(2) A hulladékká vált elektromos, elektronikus berendezés csak azt követően hozható forgalomba, hogy a hulladékká 
-vált elektromos, elektronikus berendezést tisztítás, javítás és ellenőrzés útján újrahasználatra megfelelően 
-előkészítettek, és az a Ht. 9. § (1) bekezdésében és 3. mellékletében meghatározott valamennyi feltételt teljesíti.
-
-(3) Ha a  3.  mellékletben meghatározott feltételek nem teljesülnek, az  újrahasználatra előkészíteni kívánt használt 
-elektromos, elektronikus berendezést hulladéknak kell tekinteni, és a Ht. 31. § (2) bekezdésében meghatározottak 
-szerint gondoskodni kell annak kezeléséről.
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11885
-
-13. A gyűjtésre, a szállításra és a kezelésre vonatkozó szabályok
-
-25. § (1) A  hulladékká vált elektromos, elektronikus berendezést – különösen az  ózonlebontó anyagokat és fluorozott, 
-üvegházhatást okozó gázokat tartalmazó hőcserélő berendezések hulladékát, a  higanyt tartalmazó fénycsövek 
-hulladékát és a fotovoltaikus panelek hulladékát – elkülönítetten kell gyűjteni.
-
-(2) Ha az elektromos, elektronikus berendezés nem háztartásban képződő hulladéka történelmi hulladéknak minősül, 
-és a  nem természetes személy hulladékbirtokos a  hulladékká vált elektromos, elektronikus berendezést nem 
-helyettesíti új, azonos vagy azonos funkciójú elektromos, elektronikus berendezéssel, a hulladékká vált elektromos, 
-elektronikus berendezést a  hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezet által üzemeltetett 
-gyűjtőhelyen a jogosultnak átadja, és annak kezelési költségeit megfizeti.
-
-(3) A hulladékká vált elektromos, elektronikus berendezést az átvételi helyhez, valamint az átvételi helytől a hulladék 
-kezelésének helyére történő szállítása során nem kell veszélyes hulladékként szállítani.
-
-(4) A  hulladékká vált elektromos, elektronikus berendezés szállítását és gyűjtését úgy kell végezni, hogy 
-a  berendezésben lévő veszélyes anyagok elkülönítése, újrahasználatra előkészítése, újrafeldolgozása 
-maradéktalanul biztosítható legyen. Az  újrahasználatra előkészítés és az  újrafeldolgozás különösen akkor 
-biztosítható, ha a hulladékká vált elektromos, elektronikus berendezés szállítása és gyűjtése során a hulladék nem 
-károsodik, szennyeződik, és nincs kitéve az időjárás hatásainak.
-
-(5) A  hulladékká vált elektromos, elektronikus berendezés szállítását a  9.  mellékletben meghatározott 
-minimumkövetelményeknek megfelelően kell végezni.
-
-26. § (1) A  kezelés során a  hulladékká vált elektromos, elektronikus berendezésből valamennyi folyadékot és legalább 
-a következő anyagokat, alkatrészeket, tartozékokat, összetevőket kell eltávolítani (eltávolítás):
-a) a PCB, valamint PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló miniszteri 
-
-rendeletben meghatározott PCB-t tartalmazó berendezéseket;
-b) a higanyt tartalmazó összetevőket, így különösen a kapcsolókat, a háttérvilágítást biztosító lámpákat;
-c) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 
-
-kormányrendelet hatálya alá tartozó elemeket, akkumulátorokat;
-d) a mobiltelefonok nyomtatott áramköri lapjait általánosan, továbbá egyéb eszközök nyomtatott áramköreit, 
-
-ha a nyomtatott áramköri lap felülete nagyobb, mint 10 cm2;
-e) a tonereket (a folyadékos, zselés és színes tonereket egyaránt);
-f ) a brómtartalmú gyulladásgátló szert tartalmazó műanyagokat;
-g) az azbeszthulladékot, valamint az azbeszttartalmú összetevőket;
-h) a katódsugárcsöveket;
-i) a fluorozott-klórozott szénhidrogéneket (CFC), a  részlegesen halogénezett fluorozott-klórozott 
-
-szénhidrogéneket (HCFC), a fluorozott szénhidrogéneket (HFC), a szénhidrogéneket (HC);
-j) a gázkisülés elvén működő lámpákat;
-k) a 100 cm2-nél nagyobb felületű folyadékkristályos kijelzőket (lehetőség szerint burkolattal együtt), valamint 
-
-az összes olyan kijelzőt, amelynek háttérvilágítását gázkisüléses lámpával oldották meg;
-l) a külső elektromos vezetékeket;
-m) a külön jogszabály szerint meghatározott nehezen feldolgozható kerámiaszálakat tartalmazó összetevőket;
-n) a radioaktív alkotókat tartalmazó összetevőket, kivéve a határérték alattiakat;
-o) a 25 mm-nél nagyobb magasságú, 25 mm-nél nagyobb átmérőjű vagy hasonló méretű, veszélyes anyagokat 
-
-tartalmazó elektrolitikus kondenzátorokat.
- (2) Az  elkülönítetten gyűjtött, hulladékká vált elektromos, elektronikus berendezésből a  következő alkatrészeket és 
-
-összetevőket kell eltávolítani:
-a) a katódsugárcsövek esetében a fluoreszkáló réteget;
-b) az ózont lebontó gázokat tartalmazó elektromos, elektronikus berendezések és az  olyan elektromos, 
-
-elektronikus berendezések esetében, amelyek globális felmelegedési potenciálja a 15-ös értéket meghaladja, 
-így különösen a  habokat és hűtőberendezéseket, a  gázokat ki kell vonni és azokat kezelni kell; az  ózont 
-lebontó gázokat az  ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai 
-parlamenti és tanácsi rendeletében előírtaknak megfelelően kell kezelni;
-
-c) a gázkisüléses lámpák esetében a higanyt.
- (3) Az elkülönítetten gyűjtött, hulladékká vált elektromos, elektronikus berendezés kizárólag az (1) és (2) bekezdésben 
-
-meghatározott előkezelést követően kezelhető.
-
-
-
-11886 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-(4) Az  (1) és (2)  bekezdésben foglaltakat úgy kell alkalmazni, hogy az  ne akadályozza az  elektromos, elektronikus 
-berendezés vagy a  berendezés egyes összetevőinek környezetvédelmi szempontból megfelelő újrahasználatát és 
-újrafeldolgozását.
-
-(5) A  hulladékká vált elektromos, elektronikus berendezés tömegét a  kezelést megelőzően, a  képződött 
-hulladékfrakciók tömegét a kezelés befejezését követően meg kell mérni.
-
-(6) A hulladékká vált elektromos, elektronikus berendezés kezelése során az elérhető legjobb technikát kell alkalmazni.
-
-27. §  A hulladékká vált elektromos, elektronikus berendezés kezelésére – a  tárolást is ideértve – szolgáló helyen 
-a következő feltételeket kell biztosítani:
-a) mérleg a kezelt hulladék tömegének mérésére,
-b) át nem eresztő felületek és víz-, illetve időjárásálló borítás a  megfelelő területeken, a  kiömlő anyag 
-
-összegyűjtésére alkalmas eszközökkel, szükség esetén ülepítőkkel és tisztító-zsírtalanító berendezésekkel,
-c) megfelelő hulladéktároló hely a szétszerelt alkatrészekhez, összetevőkhöz,
-d) megfelelő tartályok a  szárazelemek, a  PCB/PCT tartalmú kondenzátorok és egyéb veszélyes hulladék, így 
-
-különösen a radioaktív hulladék tárolására, valamint
-e) vízkezelő berendezések, az egészségügyi és környezetvédelmi rendelkezéseknek megfelelően.
-
-14. A hatósági ellenőrzésre vonatkozó szabályok
-
-28. §  A gyártó az  e  rendeletben meghatározott kötelezettségeinek teljesítését, valamint az  átvállalónak és a  közvetítő 
-szervezetnek az e kötelezettségek átvállalása alapján végzett tevékenységét az OKTF ellenőrzi.
-
-29. §  Ha a gyártó és az átvállaló között létrejött megállapodás alapján a gyártó, az átvállaló a tárgyévi átvételi és gyűjtési 
-kötelezettséggel érintett hulladékmennyiséget nem igazolja, az  átvételi, gyűjtési, hasznosítási és ártalmatlanítási 
-kötelezettségét nem teljesíti, az OKTF a kötelezettséggel érintett hulladék kezeléséről a gyártó vagy az átvállaló által 
-nyújtott vagyoni biztosíték terhére, az arra feljogosított hulladékkezelő útján gondoskodik.
-
-15. Tájékoztatás a tagállamok részére és jelentés az Európai Bizottság felé
-
-30. § (1) A  környezetvédelemért felelős miniszter gondoskodik az  elkülönítetten gyűjtött elektromos, elektronikus 
-berendezések olyan hulladékára vonatkozó információknak az Európai Unió tagállamainak részére történő ingyenes 
-átadásáról, amelyet
-a) a gyártók, illetve a nevükben eljáró harmadik személyek,
-b) a forgalmazók vagy
-c) gyűjtőhelyek és hulladékkezelő létesítmények üzemeltetői
-vettek át, illetve gyűjtöttek össze.
-
-(2) Az  elektromos és elektronikus berendezések hulladékairól szóló, 2012. július 4-i 2012/19/EU európai parlamenti 
-és  tanácsi irányelv 16.  cikk (5)  bekezdésében meghatározott jelentéstételi kötelezettség végrehajtásáról 
-– a 2004/249/EK bizottsági határozat, valamint a 2005/369/EK bizottsági határozat alapján – a környezetvédelemért 
-felelős miniszter gondoskodik.
-
-16. Igazgatási együttműködés és információcsere
-
-31. § (1) Annak érdekében, hogy a  kötelezettek megfeleljenek e  rendelet előírásainak, a  környezetvédelemért felelős 
-miniszter együttműködik az Európai Unió tagállamaival és az Európai Unió Bizottságával.
-
-(2) Az együttműködés különösen a környezetvédelmi hatóság részére szolgáltatott adatokhoz, valamint a kötelezettek 
-ellenőrzésének eredményeihez történő hozzáférés engedélyezésére terjed ki.
-
-17. Záró rendelkezések
-
-32. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
- (2) A 36–39. §, a 10. melléklet és a 11. melléklet 2015. január 1-jén lép hatályba.
- (3) A 40–43. §, a 12. melléklet és a 13. melléklet 2018. január 1-jén lép hatályba.
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11887
-
-33. §  E rendelet rendelkezéseit a rendelet hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell 
-alkalmazni.
-
-34. § (1) A  gyártó 2015. december 31-éig biztosítja, hogy az  elkülönítetten gyűjtött elektromos, elektronikus berendezés 
-háztartásban képződő hulladékának tekintetében az  összegyűjtött hulladékmennyiség lakosonkénti éves átlagos 
-aránya elérje a tárgyévet megelőző 3 évben összegyűjtött, hulladékká vált elektromos, elektronikus berendezések 
-átlagos tömegét, ha az éves gyűjtési arány meghaladja a 4 kilogramm mennyiséget.
-
-(2) A  gyártó 2016. január 1-jétől biztosítja, hogy az  összegyűjtött, hulladékká vált elektromos, elektronikus 
-berendezések össztömege eléri a  tárgyévet megelőző 3 évben forgalomba hozott elektromos, elektronikus 
-berendezések átlagos tömegének legalább 45%-át. A  gyártó biztosítja továbbá, hogy ez  a  gyűjtési arány 
-2018. december 31-éig folyamatosan növekedjen.
-
-(3) A  gyártó 2019. január 1-jétől biztosítja, hogy az  összegyűjtött, hulladékká vált elektromos, elektronikus 
-berendezések össztömege eléri
-a) a tárgyévet megelőző 3 évben forgalomba hozott elektromos, elektronikus berendezések átlagos tömegének 
-
-legalább 65%-át vagy
-b) a Magyarországon képződött, hulladékká vált elektromos, elektronikus berendezések legalább 85%-át.
-
-(4) Az  (1)–(3)  bekezdésben meghatározottak teljesítése érdekében a  gyártónak gondoskodnia kell a  hasznosítási 
-arányok teljesítéséről az Országos Hulladékgazdálkodási Tervvel összhangban.
-
-35. § (1) Ez a rendelet
-a) az elektromos és elektronikus berendezések hulladékairól szóló, 2012. július 4-i 2012/19/EU európai 
-
-parlamenti és tanácsi irányelvnek;
-b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK 
-
-európai parlamenti és tanácsi irányelvnek;
-c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi 
-
-irányelvnek
-való megfelelést szolgálja.
-
-(2) Ez a rendelet
-a) a Cseh Köztársaság, Észtország, Magyarország, Lettország, Litvánia, Szlovákia és Szlovénia részére 
-
-az  elektromos és elektronikus berendezések hulladékairól szóló 2002/96/EK irányelvtől való ideiglenes 
-eltérések engedélyezéséről szóló, 2004. március 30-i 2004/312/EK tanácsi határozat 1. cikkének;
-
-b) az elektromos és elektronikus berendezések hulladékairól szóló 2002/96/EK európai parlamenti és tanácsi 
-irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 2004. március 11-i 
-2004/249/EK bizottsági határozat 1. cikkének;
-
-c) az elektromos és elektronikus berendezések hulladékairól szóló 2002/96/EK európai parlamenti és 
-tanácsi irányelv betartásának tagállami ellenőrzését és adatformáinak megállapítását célzó végrehajtási 
-szabályainak megállapításáról szóló, 2005. május 3-i 2005/369/EK bizottsági határozat 1.  cikkének, 2.  cikk  
-(1)–(3) bekezdésének, 3. cikkének, valamint mellékletének
-
-végrehajtásához szükséges rendelkezéseket állapít meg.
- (3) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti 
-
-és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
- (4) E  rendelet tervezetének a  műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és 
-
-az  információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK 
-európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
-
-36. § (1) A 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-„(1) A gyártó
-a) az általa forgalomba hozott, használt elektromos, elektronikus berendezést, valamint
-b) a más gyártó által forgalomba hozott, használt elektromos, elektronikus berendezést, amely a  gyártó által 
-forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
-az elektromos, elektronikus berendezés újrahasználatának biztosítása érdekében a  nem természetes személy 
-fogyasztótól legalább ingyenesen, a  természetes személy fogyasztótól legalább az  1.  melléklet 2.  pontjában 
-meghatározott összegű és legalább 1 évre szóló, a  Magyarországon forgalmazott termékekre vonatkozó vásárlási 
-utalvány ellenében visszaveszi, ha azt a  fogyasztó a  részére visszavételre felajánlja (visszavételi kötelezettség). 
-
-
-
-11888 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-A gyártó naponta legfeljebb 20 darab használt elektromos, elektronikus berendezés után köteles vásárlási utalványt 
-adni a természetes személy fogyasztó részére. A vásárlási utalvány nem átruházható, összege nem áthárítható.”
-
-(2) A 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-„(1) A gyártó
-a) az általa forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést,
-b) a más gyártó által forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést, amely a gyártó által 
-forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
-c) a történelmi hulladékká vált elektromos, elektronikus berendezés háztartásban képződő hulladékát, valamint
-d) az új, az  azonos vagy az  azonos jellegű és funkciójú termékkel helyettesített történelmi hulladékká vált 
-elektromos, elektronikus berendezés háztartásban képződő hulladékát
-a hulladék átadásának ösztönzése érdekében a nem természetes személy hulladékbirtokostól legalább ingyenesen, 
-a természetes személy hulladékbirtokostól az 1. melléklet 2. pontjában meghatározott összegű és legalább 1 évre 
-szóló, a  Magyarországon forgalmazott termékekre vonatkozó vásárlási utalvány ellenében átveszi és gyűjti, ha 
-a hulladékbirtokos azt a részére átvételre felajánlja (átvételi és gyűjtési kötelezettség). A gyártó naponta legfeljebb 
-20 darab hulladékká vált elektromos, elektronikus berendezés után köteles vásárlási utalványt adni a  természetes 
-személy hulladékbirtokos részére. A vásárlási utalvány nem átruházható, összege nem áthárítható.”
-
-(3) A 4. § (3) bekezdése a következő mondattal egészül ki:
-„Ezekben az esetekben a gyártónak nem kell a hulladékbirtokos részére vásárlási utalványt adnia.”
-
-(4) A 22. § a következő (6) bekezdéssel egészül ki:
-„(6) A forgalmazó a vásárlási utalvány összegét a gyártóra nem háríthatja át.”
-
-37. § (1) A  22.  § (2)  bekezdésében az „a hulladékbirtokostól átveszi és gyűjti” szövegrész helyébe az „a nem természetes 
-személy hulladékbirtokostól legalább ingyenesen, a  természetes személy hulladékbirtokostól vásárlási utalvány 
-ellenében átveszi és gyűjti” szöveg lép.
-
-(2) A  22.  § (4)  bekezdésében a  „fogyasztótól, hulladékbirtokostól átveszi és elszállítja” szövegrész helyébe a  „nem 
-természetes személy fogyasztótól (hulladékbirtokostól) legalább ingyenesen, a  természetes személy fogyasztótól, 
-hulladékbirtokostól vásárlási utalvány ellenében átveszi és elszállítja” szöveg lép.
-
-38. §  Az 1. melléklet helyébe a 10. melléklet lép.
-
-39. §  A 2. melléklet a 11. melléklet szerint módosul.
-
-40. §  Az 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-„(2) Nem terjed ki e rendelet hatálya
-a) az olyan elektromos, elektronikus berendezésre, amely Magyarország alapvető biztonsági érdekeinek védelmével 
-kapcsolatos, továbbá a fegyverekre, a lőszerekre, a hadianyagokra, ide nem értve a nem kifejezetten katonai célokra 
-szánt termékekben használt elektromos és elektronikus berendezést,
-b) az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e  rendelet hatálya alá 
-nem tartozó elektromos, elektronikus berendezés részeként lett tervezve és elhelyezve, és amely csak az  adott 
-elektromos, elektronikus berendezés részeként töltheti be funkcióját,
-c) az izzószálas villanykörtére,
-d) a világűrben való felhasználásra tervezett elektromos, elektronikus berendezésre,
-e) a nagyméretű, rögzített ipari szerszámra,
-f ) a nagyméretű, helyhez kötött elektromos, elektronikus berendezésre, kivéve azt az  elektromos, elektronikus 
-berendezést, amely nem kifejezetten e berendezés részeként lett tervezve és elhelyezve,
-g) a személy- és áruszállítási eszközre, kivéve a típusjóváhagyással nem rendelkező kétkerekű elektromos járművet,
-h) a kizárólag szakmai használat céljából rendelkezésre bocsátott nem közúti mozgó gépre,
-i) a kifejezetten csak kutatás és fejlesztés céljából tervezett, kizárólag vállalkozások által egymás rendelkezésére 
-bocsátott berendezésre,
-j) az életciklusuk vége előtt várhatóan fertőzővé váló orvostechnikai eszközökre és in vitro diagnosztikai 
-orvostechnikai eszközökre, valamint az aktív beültethető orvostechnikai eszközökre.”
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11889
-
-41. §  A 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-„(1) A  hulladékká vált elektromos, elektronikus berendezést – különösen az  ózonlebontó anyagokat és fluorozott, 
-üvegházhatást okozó gázokat tartalmazó hőcserélő berendezések hulladékát, a  higanyt tartalmazó fénycsövek 
-hulladékát, a fotovoltaikus panelek hulladékát, valamint az 1. melléklet 2. pontjában foglalt táblázat 5. és 6. pontja 
-szerinti elektromos-, elektronikusberendezés-kategóriában meghatározott kisgépek és berendezések hulladékát – 
-elkülönítetten kell gyűjteni.”
-
-42. §  Az 1. melléklet helyébe a 12. melléklet lép.
-
-43. §  A 2. melléklet a 13. melléklet szerint módosul.
-
-44. §  Hatályát veszti az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről 
-szóló 443/2012. (XII. 29.) Korm. rendelet.
-
+A Kormány 198/2014. (VIII. 1.) Korm. rendelete
+Magyarország Kormánya és Türkmenisztán Kormánya közötti gazdasági együttműködésről szóló 
+Megállapodás kihirdetéséről
+1. §  A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Türkmenisztán Kormánya közötti gazdasági 
+együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+2. §  A Kormány a Megállapodást e rendelettel kihirdeti.
+3. §  A Megállapodás hiteles magyar és orosz nyelvű szövege a következő:
+„MAGYARORSZÁG KORMÁNYA ÉS  TÜRKMENISZTÁN KORMÁNYA  KÖZÖTTI  
+GAZDASÁGI EGYÜTTMŰKÖDÉSRŐL SZÓLÓ  MEGÁLLAPODÁS
+Magyarország Kormánya és Türkmenisztán Kormánya, a továbbiakban Felek,  
+attól az óhajtól vezérelve, hogy erősítsék az országaik között fennálló baráti kapcsolatokat; 
+attól a szándéktól vezetve, hogy fejlesszék és intenzívebbé tegyék a kölcsönös előnyökön 
+nyugvó gazdasági, ipari, tudományos és műszaki együttműködést; 
+azzal a meggyőződéssel, hogy a jogi-szerződéses keretek bővítése megfelelő és kedvező alapot 
+teremt a további együttműködéshez; 
+az alábbiakban állapodnak meg: 
+ 
+1. cikk 
+A Felek előmozdítják a kölcsönösen előnyös gazdasági együttműködés bővítését és 
+diverzifikálását a Felek államaiban hatályos jogszabályokkal és azon nemzetközi szerződésekkel 
+összhangban, amelyekben a Felek államai részesek.  
+ 
+2. cikk 
+Figyelembe véve a gazdasági kapcsolataik jelenlegi helyzetét és azok fejlesztésének 
+perspektíváit, a Felek egyetértenek abban, hogy a hosszú távú együttműködés feltételei többek 
+között, de nem kizárólag, a következő területeken kedvezőek: 
+ 
+a) energetikai szektor; 
+b) bányászat; 
+c) mezőgazdaság, élelmiszer- és feldolgozóipar; 
+d) építőipar, valamint építőanyag- és berendezésgyártás; 
+e) vegyipar; 
+f) textilipar;  
+g) környezetvédelem, a vízkészletek racionális felhasználása és védelme; 
+h) oktatás; 
+i) egészségügyi szolgáltatások nyújtása, gyógyászati technológiák és a gyógyszeripar; 
+j) turizmus, sport és üdültetés; 
+k) együttműködés a kis- és középvállalkozási szektor terén; 
+l) távközlés; 
+m) számítástechnika és információs technológia; 
+n) közlekedés és logisztika; 
+o) együttműködés a tudomány és technológia terén; 
+p) kultúra.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11971
+3. cikk 
+A Felek támogatják az együttműködés bővítését és intenzívebbé tételét az alábbiak 
+segítségével: 
+a) a jelen Megállapodás 2. cikkében felsorolt kérdésekben illetékes kormányzati szervek,
+szakmai szövetségek, kereskedelmi és iparkamarák, valamint regionális szervek 
+képviselőinek kölcsönös látogatásai;
+b) a két ország üzleti körei közötti kapcsolatok létrejöttének és javításának elősegítése, 
+vállalkozók látogatásainak és találkozóinak támogatása;
+c) vásárok és kiállítások megtartásának, valamint szemináriumok, szimpóziumok, 
+konferenciák és egyéb találkozók megszervezésének támogatása;
+d) a kis- és közepes magánvállalkozások ösztönzése a kétoldalú gazdasági kapcsolatokban 
+történő részvételre;
+e) az együttműködés támogatása a konzultációs, marketing célú és szakértői szolgáltatások 
+nyújtása terén;
+f) a pénzügyi intézmények és a bankszektor tevékenységének elősegítése kapcsolataik 
+szorosabbá tétele céljából;
+g) a Felek országaiban a beruházási tevékenység ösztönzése, vegyesvállalatok, vállalati 
+képviseletek és fiókirodák létrehozásának elősegítése;
+h) a régióközi és a nemzetközi szintű együttműködés előmozdítása a kölcsönös 
+érdeklődésre számot tartó kérdésekben.
+4. cikk 
+Jelen Megállapodás megvalósítása céljából a Felek Magyar-Türkmén Gazdasági Együttműködési 
+Kormányközi Bizottságot hoznak létre (a továbbiakban: Bizottság), amely a Felek illetékes állami 
+szerveinek képviselőiből áll. A Bizottság üléseire a Felek egyeztetései alapján Magyarországon és 
+Türkmenisztánban felváltva kerül sor. 
+A Bizottság feladatai a következők: 
+a) a kétoldalú gazdasági kapcsolatok fejlesztésének megvitatása, 
+b) új lehetőségek meghatározása a gazdasági együttműködés továbbfejlesztésére, 
+c) javaslatok kidolgozása a két ország vállalatai közötti gazdasági együttműködés
+feltételeinek javítására, 
+d) a kétoldalú gazdasági együttműködés helyzetének elemzése és értékelése, 
+e) javaslatok kidolgozása a jelen Megállapodás végrehajtása tekintetében. 
+Amennyiben szükséges, a Bizottság az együttműködés meghatározott területeivel foglalkozó 
+munkacsoportokat hoz létre. 
+A Bizottság munkarendje annak első ülésén kerül meghatározásra. A Felek államaik hatályos 
+jogszabályaival összhangban a Bizottság tevékenységével kapcsolatos költségeket önállóan 
+viselik. 
+ 
+5. cikk 
+Jelen Megállapodás nem befolyásolhatja Magyarország Európai Uniós tagságából fakadó 
+kötelezettségeit. Ennek megfelelően a Megállapodás rendelkezései sem együttesen, sem 
+önmagukban nem alkalmazhatók, illetve értelmezhetők olyan módon, mint amelyek 
+érvénytelenítik, módosítják vagy bármely más módon befolyásolják Magyarországnak 
+különösen az Európai Unió alapját képező szerződésekből, valamint az Európai Unió jogából 
+származó kötelezettségeit.
+11972 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Jelen Megállapodás rendelkezései nem érintik a Felek nemzetközi szerződésekben való 
+részvételéből, valamint nemzetközi szervezetekben való tagságából eredő jogait és 
+kötelezettségeit.
+6. cikk 
+A jelen Megállapodás a Felek kölcsönös egyetértésével módosítható és kiegészíthető, a 
+módosítások és kiegészítések a jelen Megállapodás elválaszthatatlan részét képező 
+jegyzőkönyvekben kerülnek rögzítésre és a 8. cikkben foglaltak szerint lépnek hatályba. 
+ 
+7. cikk 
+A jelen Megállapodás alkalmazásával vagy értelmezésével kapcsolatban felmerülő vitákat a 
+Felek tárgyalás útján rendezik.
+8. cikk 
+Jelen Megállapodás a Felek saját belső jogrendje szerint a Megállapodás hatálybalépéséhez 
+szükséges eljárási követelmények teljesítéséről szóló, diplomáciai úton eljuttatott utolsó írásbeli 
+értesítés kézhezvételét követő harmincadik napon lép hatályba.  
+Jelen Megállapodás határozatlan időre szól. A jelen Megállapodást bármelyik Fél felmondhatja, e 
+szándékáról a másik Felet írásban értesíti. Ebben az esetben a jelen Megállapodás a felmondásról 
+szóló értesítés átvételétől számított hat hónap elteltével szűnik meg. 
+ 
+Kelt Budapesten, 2014. év június hó 18. napján két példányban, magyar, türkmén, és orosz 
+nyelven, mindegyik szöveg egyaránt hiteles. A jelen Megállapodás rendelkezéseinek eltérő 
+értelmezése esetén a Felek az orosz változatot tekintik irányadónak.
+MAGYARORSZÁG KORMÁNYA 
+RÉSZÉRŐL
+TÜRKMENISZTÁN KORMÁNYA 
+RÉSZÉRŐL
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11973
+СОГЛАШЕНИЕ МЕЖДУ ПРАВИТЕЛЬСТВОМ ВЕНГРИИ И ПРАВИТЕЛЬСТВОМ 
+ТУРКМЕНИСТАНА ОБ ЭКОНОМИЧЕСКОМ СОТРУДНИЧЕСТВЕ
+Правительство Венгрии и Правительство Туркменистана, именуемые в дальнейшем 
+Сторонами, 
+желая укреплять дружественные отношения между государствами Сторон; 
+намереваясь развивать и интенсифицировать экономическое, промышленное и научно-
+техническое сотрудничество на взаимовыгодной основе; 
+будучи убежденными, что расширение договорно-правовой базы обеспечит надлежащие и 
+благоприятные основы для дальнейшего сотрудничества; 
+согласились о нижеследующем: 
+ 
+Статья 1
+Стороны содействуют расширению и диверсификации взаимовыгодного экономического 
+сотрудничества в соответствии с национальными законодательствами своих государств и 
+положениями международных договоров, участниками которых являются государства 
+Сторон. 
+ 
+Статья 2
+Учитывая состояние и перспективы развития экономических отношений, Стороны 
+соглашаются, что благоприятные условия для долгосрочного сотрудничества существуют, 
+в том числе, но не ограничиваясь, в таких сферах как:
+а) энергетический сектор; 
+б) горнодобывающая промышленность; 
+в) сельское хозяйство, пищевая и перерабатывающая промышленность; 
+г) строительство и производство строительных материалов и оборудования; 
+д) химическая промышленность; 
+е) текстильная промышленность;  
+ж) охрана окружающей среды, рациональное использование и охрана водных
+ресурсов; 
+з) образование; 
+и) предоставление услуг в сфере здравоохранения, медицинские технологии,
+фармацевтическая промышленность; 
+й) туризм, спорт и курортное дело; 
+к) сотрудничество в сфере малого и среднего бизнеса; 
+л) коммуникации; 
+м) компьютерные и информационные технологии; 
+н) транспорт и логистика; 
+о) сотрудничество в научно-технической области; 
+п) культура.
+11974 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Статья 3
+Стороны поддерживают расширение и интенсификацию сотрудничества, путем: 
+а)  обмена визитами представителей правительственных организаций,
+профессиональных ассоциаций, торгово-промышленных палат, а также 
+представителей региональных органов, курирующих вопросы, отмеченные в 
+статье 2 настоящего Соглашения;
+б)  содействия в установлении и улучшении связей между деловыми кругами двух 
+стран, поддержки визитов и встреч предпринимателей;
+в)  оказания поддержки в проведении ярмарок и выставок, организации семинаров, 
+симпозиумов, конференций и других встреч;
+г)  поощрения участия малых и средних предприятий частного сектора в 
+двусторонних экономических отношениях;
+д)  оказания поддержки сотрудничеству в сфере консалтинговых, маркетинговых и 
+экспертных услуг;
+е)  поощрения деятельности финансовых институтов и банковского сектора с целью 
+установления тесных контактов;
+ж)  оказания поддержки инвестиционной деятельности в государствах сторон, 
+создания совместных предприятий, представительств и филиалов компаний;
+з)  развития межрегионального и международного сотрудничества, представляющего 
+взаимный интерес.
+Статья 4
+В целях реализации настоящего Соглашения, Стороны создадут  Межправительственную 
+Венгеро-Туркменскую Комиссию по экономическому сотрудничеству (в дальнейшем 
+именуется Комиссия), состоящую из представителей соответствующих государственных 
+органов государств Сторон. Заседания Комиссии будут проходить по согласованию Сторон 
+поочередно в Венгрии и Туркменистане.  
+Задачами Комиссии являются:
+а)  обсуждение развития двусторонних экономических отношений; 
+б)  определение новых возможностей для дальнейшего развития экономического
+сотрудничества; 
+в)  подготовка предложений, направленных на улучшение условий экономического
+сотрудничества между предприятиями двух стран; 
+г)  проведение анализа и оценок состояния двустороннего экономического
+сотрудничества; 
+д)  подготовка предложений по вопросам, связанным с выполнением положений
+настоящего Соглашения. 
+Комиссия, по необходимости, создает рабочие группы, занимающиеся определенными 
+вопросами сотрудничества. 
+Порядок работы Комиссии определяется во время проведения первого заседания. 
+Стороны, в соответствии с национальными законодательствами своих государств, 
+самостоятельно несут расходы, связанные с деятельностью Комиссии. 
+ 
+Статья 5
+Настоящее Соглашение никаким образом не должно наносить ущерб обязательствам 
+Венгрии, вытекающим из ее членства в Европейском Союзе. Положения настоящего
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11975
+4. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+ (2) A 2. § és a 3. § a Megállapodás 8. cikk első bekezdésében meghatározott időpontban lép hatályba.
+ (3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak
+ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+ (4) E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 Orbán Viktor s. k.,
   miniszterelnök
-
-
-
-11890 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
-
-Elektromos-, elektronikusberendezés-kategóriák  
+Соглашения не могут быть применены или интерпретированы, ни в целом, ни частично, как 
+лишающие силы, изменяющие или еще каким-либо образом затрагивающие обязательства 
+Венгрии, вытекающие из Договоров, на которых основан Европейский Союз, а также из 
+законодательствa ЕС. 
+Положения настоящего Соглашения не затрагивают прав и обязательств Сторон, 
+вытекающих из международных договоров, участниками которых они являются, а также их 
+членства в международных организациях.
+Статья 6
+По взаимному согласию Сторон в настоящее Соглашение могут вноситься изменения и 
+дополнения, которые оформляются отдельными протоколами, являющимися 
+неотъемлемыми частями настоящего Соглашения и вступают в силу в соответствии со 
+статьей 8. 
  
-1. Elektromos-, elektronikusberendezés-kategóriák: 
-
-1. háztartási nagygépek; 
-2. háztartási kisgépek; 
-3. információs (IT) és távközlési berendezések; 
-4. szórakoztató elektronikai cikkek és fotovoltaikus panelek; 
-5. világítótestek; 
-6. elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari szerszámok;  
-7. játékok, szabadidős és sportfelszerelések; 
-8. orvostechnikai eszközök, kivéve beültetett és a fertőzött termékek; 
-9. ellenőrző és vezérlőeszközök; 
-10. adagoló automaták. 
-
-2. Az elektromos-, elektronikusberendezés-kategóriák és a részüket képező egyes 
-berendezések nem teljes listája (vámtarifaszám alapján): 
+Статья 7
+Любые споры, возникающие в связи с применением или толкованием настоящего 
+Соглашения, будут разрешаться между Сторонами путем переговоров. 
  
+Статья 8
+Настоящее Соглашение вступает в силу на тридцатый день после получения последнего 
+письменного уведомления о выполнении Сторонами внутригосударственных процедур, 
+необходимых для его вступления в силу. 
+Настоящее Соглашение заключается на неопределенный срок. Каждая из Сторон может 
+прекратить действие настоящего Соглашения, направив письменное уведомление другой 
+Стороне о таком намерении. В таком случае настоящее Соглашение утратит силу по 
+истечении шести месяцев с даты получения одной из Сторон такого уведомления. 
  
-1. Háztartási nagygépek: 
-
-Vámtarifaszám:  Megnevezés: Kivételek: 
-
-Nagyméretű hűtőberendezések  
-
-8418 10 20 Kombinált hűtő-fagyasztó gép, külön külső ajtókkal, 340 litert meghaladó űrtartalommal  
-
-Hűtőszekrények  
-
-8418 10 80 Kombinált hűtő-fagyasztó gép, külön külső ajtókkal, 340 litert meg nem haladó űrtartalommal  
-
-21  Kompresszoros típusú háztartási hűtőgép  
- 29 00 Más háztartási hűtőgép  
- 69 00 Más hűtőkészülék  
-   Fagyasztók  
-8418 30 20 Fagyasztóláda legfeljebb 800 liter űrtartalommal  
-
-40 20 Fagyasztószekrény legfeljebb 900 liter űrtartalommal  
-
-69 00 Más fagyasztókészülék  
-
-Élelmiszerek hűtésére, konzerválására és 
-tárolására szolgáló egyéb nagyméretű 
-berendezések 
-
-8418 50 11 
-Hűtött kirakat és pult (a hűtőegységgel vagy 
-elpárologtatóval együtt), fagyasztott élelmiszer 
-tárolására 
-
-50 19 
-Hűtött kirakat és pult (a hűtőegységgel vagy 
-elpárologtatóval együtt), nem fagyasztott élelmiszer 
-tárolására 
-
-50 90 Más hűtőberendezési tárgy  
-   Mosógépek  
-
-8450 11  
-
-Háztartásban vagy mosodában használatos 
-mosógép, beleértve az olyan gépet  
-is, amely mos és szárít is; legfeljebb 10 kg 
-szárazruha-kapacitású, teljesen automata 
+Совершено в г. Будапешт «18» июня 2014, в двух экземплярах, каждый на венгерском, 
+туркменском и русском языках, причем все тексты имеют одинаковую силу. В случае 
+возникновения разногласий между Сторонами при толковании положений настоящего 
+Соглашения, Стороны будут обращаться к тексту на русском языке.
+ЗА ПРАВИТЕЛЬСТВО 
+ВЕНГРИИ
+ЗА ПРАВИТЕЛЬСТВО 
+ТУРКМЕНИСТАНА”
+11976 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám

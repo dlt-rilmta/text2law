@@ -1,127 +1,4467 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MAGYAR KÖZLÖNY 108. szám
- M A G YA R O R S Z Á G  H I VATA L O S  L A PJ A
- 2014. augusztus 1., péntek
-
-Tartalomjegyzék
-
-197/2014. (VIII. 1.) Korm. rendelet Az elektromos és elektronikus berendezésekkel kapcsolatos 
-hulladékgazdálkodási tevékenységekről 11875
-
-198/2014. (VIII. 1.) Korm. rendelet Magyarország Kormánya és Türkmenisztán Kormánya közötti gazdasági 
-együttműködésről szóló Megállapodás kihirdetéséről 11970
-
-199/2014. (VIII. 1.) Korm. rendelet A Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központról 11976
-
-11/2014. (VIII. 1.) HM rendelet A Magyar Honvédség élelmezési ellátásáról szóló 22/2006. (VIII. 8.) 
-HM rendelet módosításáról 11981
-
-274/2014. (VIII. 1.) KE határozat Bírói felmentésről 11985
-
-275/2014. (VIII. 1.) KE határozat Bírói felmentésről 11985
-
-276/2014. (VIII. 1.) KE határozat Bírói felmentésről 11985
-
-277/2014. (VIII. 1.) KE határozat Bírói felmentésről 11986
-
-278/2014. (VIII. 1.) KE határozat Bírói felmentésről 11986
-
-279/2014. (VIII. 1.) KE határozat Bírói felmentésről 11986
-
-280/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11987
-
-281/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11987
-
-282/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11987
-
-283/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11988
-
-284/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11988
-
-285/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11988
-
-286/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11989
-
-287/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11989
-
-288/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11989
-
-289/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11990
-
-290/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11990
-
-291/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11990
-
-292/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11991
-
-293/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11991
-
-294/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11991
-
-295/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11992
-
-296/2014. (VIII. 1.) KE határozat Bírói kinevezésről 11992
-
-
-
-11874 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 
-
-Tartalomjegyzék
-
-297/2014. (VIII. 1.) KE határozat A 175/2011. (VIII. 18.) KE határozat módosításáról 11992
-
-1452/2014. (VIII. 1.) Korm. határozat Az Államreform Operatív Program és az Elektronikus Közigazgatás 
-Operatív Program keretében végrehajtásra kerülő projektek 
-jogutódlásáról, az Államreform Operatív Program 2011–2013. évekre 
-szóló akciótervének módosításáról, valamint az Elektronikus 
-Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének 
-módosításáról 11993
-
-1453/2014. (VIII. 1.) Korm. határozat A KEOP-1.1.1/2F-2008-0002 azonosító számú („Mecsek-Dráva 
-Hulladékgazdálkodási Program – Települési szilárdhulladék-gazdálkodási 
-rendszer fejlesztése” című) nagyprojekt finanszírozásáról 12025
-
-1454/2014. (VIII. 1.) Korm. határozat Az egészségügyi intézmények infrastrukturális fejlesztését támogató 
-uniós projektek megvalósítása érdekében szükséges többletforrások 
-biztosításáról 12027
+A Kormány 197/2014. (VIII. 1.) Korm. rendelete
+az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 5., 12. és 19. pontjában kapott felhatalmazás alapján, 
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A rendelet hatálya
+1. § (1) E rendelet hatálya
+a) az 1.  melléklet 1.  pontjában meghatározott elektromos-, elektronikusberendezés-kategóriákba sorolható
+elektromos, elektronikus berendezésre,
+b) az a) pont szerinti hulladékká vált elektromos, elektronikus berendezésre,
+c) az a) pont szerinti elektromos, elektronikus berendezések visszavételére, valamint
+d) a hulladékká vált elektromos, elektronikus berendezések átvételére, gyűjtésére, szállítására, hasznosítására és
+ártalmatlanítására
+terjed ki.
+(2) Nem terjed ki e rendelet hatálya
+a) az olyan elektromos, elektronikus berendezésre, amely Magyarország alapvető biztonsági érdekeinek
+védelmével kapcsolatos, továbbá a  fegyverekre, a  lőszerekre, a  hadianyagokra, ide nem értve a  nem 
+kifejezetten katonai célokra szánt termékekben használt elektromos, elektronikus berendezést,
+b) az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e  rendelet hatálya alá 
+nem tartozó berendezés Polgári Törvénykönyv szerinti alkotórészeként lett tervezve és beszerelve, és amely 
+csak az adott elektromos, elektronikus berendezés részeként töltheti be funkcióját, valamint
+c) az izzólámpára.
+2. Értelmező rendelkezések
+2. §  E rendelet alkalmazásában:
+ 1. aktív beültethető orvostechnikai eszköz: az  orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet
+4. § (1) bekezdés 5. pontja szerinti elektromos vagy elektronikus berendezés;
+ 2. átvételi hely: olyan, a gyártó, a forgalmazó által fenntartott gyűjtőhely, amely az e rendeletben meghatározott
+gyártói kötelezettséggel érintett hulladék átvétele és azt követő gyűjtése céljából lett kialakítva;
+ 3. elektromos, elektronikus berendezés: legfeljebb 1000 V váltakozó feszültségű, valamint legfeljebb 1500 V
+egyenfeszültségű árammal működő berendezés, amelynek rendeltetésszerű működése elektromágneses 
+mezőtől vagy elektromos áramtól függ, ideértve az elektromágneses mező vagy elektromos áram előállítását, 
+mérését, átvitelét biztosító eszközöket is;
+4. elektromos, elektronikus berendezés háztartásban képződő hulladéka: olyan hulladékká vált elektromos, 
+elektronikus berendezés, amely a háztartásban képződik, továbbá amely kereskedelmi, ipari, intézményi vagy 
+egyéb forrásból származik, ha jellegénél és mennyiségénél fogva az elektromos, elektronikus berendezések 
+olyan hulladékához hasonló, amely háztartásból származik, továbbá az  olyan hulladékká vált elektromos, 
+elektronikus berendezés, amelyet feltehetően háztartások és egyéb felhasználók egyaránt használnak;
+5. eltávolítás: olyan kézi, gépi, vegyi vagy kohászati eljárás útján végzett kezelés, amelynek eredményeképpen 
+a  hulladékká vált elektromos, elektronikus berendezésből a  veszélyes anyagok, valamint azok keverékei és 
+összetevői egy elkülöníthető anyagáramba kerülnek vagy valamely anyagáram egy elkülöníthető részévé 
+válnak; egy anyag, keverék vagy összetevő akkor tekinthető elkülöníthetőnek, ha ellenőrzés útján igazolható, 
+hogy a kezelés környezetvédelmi szempontból biztonságos;
+6. export: az elektromos, elektronikus berendezés kereskedelmi vagy egyéb célú, az Európai Gazdasági Térségen 
+kívülre történő szállítása;
+11876 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+7. finanszírozási megállapodás: valamilyen elektromos, elektronikus berendezéssel kapcsolatos bérleti, 
+haszonbérleti vagy részletfizetési szerződés vagy megállapodás, függetlenül attól, hogy a  szerződés vagy 
+megállapodás, illetve bármely kiegészítő szerződés vagy megállapodás rendelkezik-e az  elektromos, 
+elektronikus berendezés tulajdonjogának átruházásáról vagy annak lehetőségéről;
+8. forgalmazó: a  hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2.  § 14.  pontjában 
+meghatározott forgalmazó, amely az elektromos, elektronikus berendezés piaci hozzáférhetőségét biztosítja;
+9. forgalomba hozatal: valamely elektromos, elektronikus berendezés piaci hozzáférhetőségének első 
+alkalommal történő üzletszerű biztosítása Magyarország területén;
+10. gyártó: a Ht. 2. § 16. pontjában meghatározott gyártó, aki (amely)
+a) Magyarország területén letelepedett, és ott saját neve vagy védjegye alatt elektromos, elektronikus
+berendezéseket gyárt, vagy elektromos, elektronikus berendezéseket terveztet vagy gyártat, 
+és a  gyártott, illetve terveztetett vagy gyártatott berendezéseket saját neve vagy védjegye alatt 
+forgalmazza,
+b) Magyarország területén letelepedett, és ott saját neve vagy védjegye alatt más beszállítók által 
+gyártott berendezések viszonteladásával foglalkozik, ahol a viszonteladó nem tekintendő gyártónak 
+abban az esetben, ha a berendezés gyártójának márkaneve az a) pontban foglaltaknak megfelelően 
+a berendezéseken megjelenik,
+c) Magyarország területén letelepedett, és Magyarországon harmadik országból vagy egy másik 
+tagállamból származó elektromos, elektronikus berendezéseket hoz üzletszerűen forgalomba, vagy
+d) Magyarországon távközlő eszközök révén elektromos, elektronikus berendezéseket értékesít 
+közvetlenül háztartások vagy egyéb felhasználók részére, de egy másik EGT-tagállamban vagy 
+harmadik országban telepedett le;
+nem tekintendő gyártónak az, aki (amely) valamely finanszírozási megállapodás értelmében kizárólagos 
+finanszírozást nyújt, kivéve, ha egyúttal az a)–d) pontok szerinti gyártóként is működik;
+11. hulladékká vált elektromos, elektronikus berendezés: a Ht. 2. § (1) bekezdés 23. pontja szerinti hulladék, ideértve 
+valamennyi alkatrészt, készülékrészt és fogyóanyagot, amely a  berendezés részét képezi, amikor attól 
+megválnak;
+12. import: elektromos, elektronikus berendezés vámjogszabályok szerinti, az Európai Unió vámterületén kívülről 
+történő behozatala;
+13. in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. 
+(III. 13.) ESZCSM rendelet 2.  § (1)  bekezdés a)  pontja szerinti orvostechnikai eszköz vagy 2.  § (1)  bekezdés 
+b) pontja szerinti tartozék, amely elektromos vagy elektronikus berendezésnek minősül;
+14. közvetítő szervezet: az  a  Ht. 2.  § 38a.  pontja szerinti közvetítő szervezet, amely törvényben vagy 
+kormányrendeletben meghatározott hulladékgazdálkodási feladatokat lát el, kivéve azokat a  feladatokat, 
+amelyek a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) hatálya alá 
+tartozó termékdíjköteles termékekre vonatkoznak;
+15. nagyméretű, helyhez kötött elektromos, elektronikus berendezés: különböző típusú készülékek vagy eszközök 
+nagyméretű összessége,
+a) amelyek összeszerelését, beüzemelését és leszerelését szakemberek végzik,
+b) amelyeket állandó jelleggel egy előre meghatározott és kifejezetten e  célra kijelölt területen lévő
+épület vagy egyéb létesítmény részeként kívánnak használni, és
+c) amelyek kizárólag ugyanolyan speciális kialakítású berendezésekkel helyettesíthetők;
+16. nagyméretű, rögzített ipari szerszám: gépek, berendezések, illetve azok alkatrészeinek nagyméretű összessége, 
+amelyek egy adott alkalmazás céljából működnek együtt, és amelyeket szakemberek állandó jelleggel egy 
+adott helyen szakemberek beüzemelnek, leszerelnek, használnak, illetve karbantartanak valamely ipari 
+gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
+17. nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép, amelynek működtetése folyamatos vagy 
+részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között;
+18. orvostechnikai eszköz: az  egészségügyről szóló 1997. évi CLIV. törvény 3.  § h)  pontja szerinti eszköz vagy 
+tartozék, amely elektromos vagy elektronikus berendezésnek minősül;
+19. piaci hozzáférhetőség biztosítása: Magyarország piacán egy termék gazdasági tevékenység keretében történő 
+rendelkezésre bocsátása forgalmazás, fogyasztás vagy használat céljára, függetlenül attól, hogy az  fizetés 
+ellenében vagy ingyenesen történik;
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11877
+20. speciális gyűjtőhely: az elektromos, elektronikus berendezés háztartásban képződő hulladékának elkülönített 
+gyűjtésére szolgáló hulladékgyűjtő pont, ahol az elektromos, elektronikus berendezés háztartásban képződő 
+hulladéka gyűjtőedényben vagy konténerben térítésmentesen elhelyezhető;
+21. történelmi hulladék: a 2005. augusztus 13. napján vagy azt megelőzően gyártott hulladékká vált elektromos, 
+elektronikus berendezés.
+3. A gyártó visszavételi, átvételi, gyűjtési és kezelési kötelezettsége
+3. § (1) A gyártó
+a) az általa forgalomba hozott, használt elektromos, elektronikus berendezést, valamint
+b) a más gyártó által forgalomba hozott, használt elektromos, elektronikus berendezést, amely a  gyártó által
+forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
+– különösen a  használt elektromos, elektronikus berendezés újrahasználatának biztosítása érdekében – 
+a fogyasztótól visszaveszi, ha azt a fogyasztó a részére visszavételre felajánlja (visszavételi kötelezettség).
+(2) A  gyártó a  fogyasztótól visszavett használt elektromos, elektronikus berendezés mennyiségét – ha annak 
+újrahasználata nem biztosítható – a  2.  melléklet 1.  pontjában meghatározottak szerint gyűjtési mennyiségként 
+elszámolhatja.
+(3) A  gyártó a  használt elektromos, elektronikus berendezés visszavételét a  fogyasztót terhelő fizetési kötelezettség 
+teljesítéséhez nem kötheti.
+(4) A  gyártó a  használt elektromos, elektronikus berendezés visszavételét megtagadhatja, ha az  elektromos, 
+elektronikus berendezés az emberi egészségre, testi épségre vagy a környezetre súlyos veszélyt jelent.
+(5) Ha a  gyártó a  (4)  bekezdésben meghatározott eset valamelyikére hivatkozva a  használt elektromos, elektronikus 
+berendezés visszavételét megtagadja, a  berendezést hulladéknak kell tekinteni. Ebben az  esetben a  Ht. 31.  § 
+(2) bekezdése alapján gondoskodni kell a hulladék kezeléséről.
+4. § (1) A gyártó
+a) az általa forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést,
+b) a más gyártó által forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést, amely a gyártó
+által forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
+c) a történelmi hulladékká vált elektromos, elektronikus berendezés háztartásban képződő hulladékát, valamint
+d) az új, az  azonos vagy az  azonos jellegű és funkciójú termékkel helyettesített történelmi hulladékká vált
+elektromos, elektronikus berendezés háztartásban képződő hulladékát
+– a hulladék átadásának ösztönzése érdekében – a hulladékbirtokostól átveszi és gyűjti, ha a hulladékbirtokos azt 
+a részére átvételre felajánlja (átvételi és gyűjtési kötelezettség).
+(2) A gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét – a 25. § (2) bekezdésében meghatározott 
+kivétellel – a hulladékbirtokost terhelő fizetési kötelezettség teljesítéséhez nem kötheti.
+(3) A  gyártónak a  hulladékot abban az  esetben is át kell vennie, ha a  hulladékká vált elektromos, elektronikus 
+berendezés az  elektromos, elektronikus berendezésre jellemző alapvető alkotórészeket nem tartalmazza vagy 
+az elektromos, elektronikus berendezést megbontották.
+(4) A  gyártó a  hulladékká vált elektromos, elektronikus berendezés átvételét abban az  esetben tagadhatja meg, ha 
+a  hulladékká vált elektromos, elektronikus berendezés az  emberi egészségre, testi épségre vagy a  környezetre 
+súlyos veszélyt jelent.
+(5) Ha a  gyártó a  hulladékká vált elektromos, elektronikus berendezés átvételét megtagadja, jegyzőkönyvet vesz fel. 
+A  jegyzőkönyvben a  berendezés azonosítására alkalmas adatokat, továbbá az  átvétel megtagadásának indokát, 
+helyét és időpontját kell rögzíteni. A  jegyzőkönyvet a  gyártónak és a  hulladékbirtokosnak alá kell írnia. A  gyártó 
+az aláírt jegyzőkönyv egy példányát a hulladékbirtokosnak átadja.
+(6) Ha a  gyártó a  hulladékká vált elektromos, elektronikus berendezés átvételét a  (4)  bekezdés szerinti indok 
+valamelyikére hivatkozva megtagadja, a  hulladékbirtokost a  helyszínen tájékoztatja arról, hogy a  hulladék hol és 
+kinek adható át annak környezetvédelmi szempontból biztonságos kezelése érdekében. Szükség esetén a  gyártó 
+a  környezetvédelmi hatóságot, illetve egy – a  hulladék kezelésére jogosult – gazdálkodó szervezetet a  hulladék 
+elszállítása és annak környezetvédelmi szempontból biztonságos kezelése érdekében haladéktalanul tájékoztatja.
+(7) Az átvétel megtagadása miatti eljárásban a (4) bekezdésben foglaltak bizonyítása a gyártót terheli. Ha az eljárásban 
+a  gyártó az  (5)  bekezdés szerinti jegyzőkönyvet nem mutatja be, az  átvétel megtagadásának jogtalanságát 
+vélelmezni kell.
+11878 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+(8) A  gyártó a  hulladékká vált elektromos, elektronikus berendezés gyűjtéséről elektromos-, elektronikusberendezés-
+kategóriánként legalább a  2.  melléklet 1.1.  pontjában foglalt táblázatban meghatározott gyűjtési aránynak 
+megfelelő mértékben gondoskodik.
+(9) A  gyártó a  tárgyévben gyűjtendő hulladékmennyiséget a  tárgyév február 20. napjáig elektromos-, 
+elektronikusberendezés-kategóriánként maga állapítja meg.
+5. § (1) Ha a gyártó az átvétel helyén megállapítja vagy – a 3. melléklet szerinti minimumkövetelményekre figyelemmel – 
+a  körülményekhez képest alapos okkal feltételezi, hogy a  hulladékká vált elektromos, elektronikus berendezés 
+újrahasználata – újrahasználatra történő előkészítés útján – gazdaságosan biztosítható, a gyártó az újrahasználatra 
+történő előkészítésnek a  hasznosítással és az  újrafeldolgozással szemben elsőbbséget biztosít. Ebben az  esetben 
+a gyártó a hulladékká vált elektromos, elektronikus berendezés újrahasználatra előkészítésre történő továbbításáról 
+az elektromos, elektronikus berendezés átvételétől számított 30 napon belül gondoskodik.
+(2) Ha a  hulladékká vált elektromos, elektronikus berendezés újrahasználata – újrahasználatra történő előkészítés 
+útján – gazdaságosan nem biztosítható, a gyártó a hulladék hasznosításáról és újrafeldolgozásáról – elektromos- és 
+elektronikusberendezés-kategóriánként – legalább a 2. melléklet 2.1. pontjában foglalt táblázatban meghatározott 
+hasznosítási és újrafeldolgozási aránynak megfelelő mértékben gondoskodik (hasznosítási kötelezettség).
+(3) Az olyan hulladékká vált elektromos, elektronikus berendezés vagy alkotórésze esetében, amelynek hasznosítására 
+Magyarországon nem áll rendelkezésre hasznosítási kapacitás, a  hasznosítási kötelezettség teljesítésének minősül 
+a  hulladékká vált elektromos, elektronikus berendezés vagy alkotórészének az  Európai Gazdasági Térségről szóló 
+megállapodásban részes más államban történő, az országhatárt átlépő hulladékszállításról szóló kormányrendelet 
+szerint igazolt hasznosítása is.
+(4) Az olyan hulladékká vált elektromos, elektronikus berendezés vagy alkotórésze esetében, amelynek hasznosítására 
+Magyarországon nem áll rendelkezésre hasznosítási kapacitás, a  hulladékká vált elektromos, elektronikus 
+berendezés vagy alkotórészének hasznosítási célú exportja abban az  esetben tekinthető a  hasznosítási 
+kötelezettség teljesítésének, ha az exportot végző az országhatárt átlépő hulladékszállításról szóló kormányrendelet 
+alapján igazolja, hogy az  adott országban a  hasznosítás az  e  rendeletben foglaltakkal egyenértékű vagy jobb 
+feltételekkel történik.
+(5) Ha a  gyártó a  hulladék kezeléséről nem saját maga gondoskodik, a  visszavitt használt és újrahasználatra nem 
+alkalmas elektromos, elektronikus berendezést és annak valamennyi alkotóelemét, illetve az átvett hulladékká vált 
+elektromos, elektronikus berendezést és annak valamennyi alkotóelemét elkülönítetten és hiánytalanul kell átadnia 
+az átvételre hulladékgazdálkodási engedéllyel rendelkező jogosult részére.
+6. §  Ha az  elektromos, elektronikus berendezés újrahasználatra alkalmatlan, illetve a  hulladékká vált elektromos, 
+elektronikus berendezés hasznosítása, újrafeldolgozása gazdaságosan nem biztosítható, a  gyártó gondoskodik 
+a hulladék ártalmatlanításáról (ártalmatlanítási kötelezettség).
+4. A gyártó tájékoztatási kötelezettsége
+7. § (1) A  gyártó a  visszavételi, átvételi, gyűjtési, hasznosítási és ártalmatlanítási kötelezettségéről a  fogyasztót, 
+a forgalmazót és a hulladékbirtokost tájékoztatja.
+(2) A  gyártó gondoskodik arról, hogy a  2005. augusztus 13. napját követően gyártott elektromos, elektronikus 
+berendezésen vagy – ha azon a termék mérete vagy rendeltetése miatt nem lehetséges – a termék csomagolásán, 
+a használati útmutatóban vagy a garanciajegyen
+a) a 4. mellékletben feltüntetett ábra,
+b) a gyártó azonosításra alkalmas megjelölés, valamint
+c) a forgalomba hozatal időpontja
+jól látható, felismerhető, olvasható és letörölhetetlen legyen.
+(3) A gyártó a fogyasztókat magyar nyelven tájékoztatja arról, hogy
+a) az elektromos, elektronikus berendezésekben található veszélyes anyagok a  környezetre és az  emberi
+egészségre milyen káros hatást gyakorolnak, ha azokat nem a  vonatkozó környezetvédelmi előírásoknak 
+megfelelően használják, működtetik;
+b) az elektromos, elektronikus berendezés tartalmaz-e olyan alkatrészt, amely hulladékká válását követően 
+veszélyes hulladéknak minősülne;
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11879
+c) a hulladékká vált elektromos, elektronikus berendezést elkülönítetten kell gyűjteni, és az  a  települési 
+hulladékkal együtt nem helyezhető el azonos gyűjtőedényben, továbbá települési hulladékként nem 
+ártalmatlanítható;
+d) a 4.  mellékletben szereplő ábra azt a  jelentést hordozza magában, hogy a  hulladékká vált elektromos, 
+elektronikus berendezést elkülönítetten kell gyűjteni;
+e) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 
+kormányrendelet hatálya alá tartozó elemet, akkumulátort tartalmazó elektromos, elektronikus berendezés 
+milyen típusú elemet, akkumulátort tartalmaz, és az  milyen módon távolítható el az  elektromos vagy 
+elektronikus berendezésből biztonságosan;
+f ) a használt és a hulladékká vált elektromos, elektronikus berendezést a forgalmazás helyén, illetve valamennyi 
+olyan forgalmazónak, amely a  használt és a  hulladékká vált elektromos, elektronikus berendezéssel 
+jellegében és funkciójában azonos elektromos, elektronikus berendezést értékesít, térítésmentesen átadható;
+g) tevékenységével milyen szerepet vállal az  elektromos, elektronikus berendezés újrahasználatában, 
+újrahasználatra történő előkészítésében, valamint a  hulladékká vált elektromos, elektronikus berendezés 
+mennyiségének csökkentésében, hasznosításában és az újrafeldolgozás egyéb formáiban; valamint
+h) a 12. § (1)–(5) bekezdése szerinti kötelezettségeinek teljesítésével kapcsolatban felmerült költségeket viseli, 
+és erre garanciát vállal.
+(4) A gyártó a  (3) bekezdésben meghatározott tájékoztatási kötelezettségét a  fogyasztók részére a következő módon 
+teljesíti:
+a) az általa gyártott elektromos, elektronikus berendezésre vonatkozó hirdetést tartalmazó szórólapon,
+reklámújságban, termékismertetőben, továbbá katalógusban, ha ilyeneket saját maga előállít vagy előállíttat;
+b) az általa gyártott vagy forgalomba hozott elektromos, elektronikus berendezésre vonatkozó használati
+útmutatóban, ismertetőben;
+c) a honlapján; valamint
+d) a fogyasztók részére küldött hírlevélben és az  általa üzemeltetett webáruház honlapján, ha ilyen
+tevékenységeket saját maga végez.
+ (5) A  (4)  bekezdés szerinti tájékoztatásnak az  adott elektromos, elektronikus berendezésre vonatkozó teljes
+médiafelület legalább 5%-át kell kitennie. A hirdetést tartalmazó szórólap, reklámújság, termékismertető, továbbá 
+katalógus médiafelületén a  tájékoztatást az  adott elektromos, elektronikus berendezés vonatkozásában addig 
+az  időpontig kell megjeleníteni, amíg az  adott berendezésre vonatkozó bármilyen jellegű hirdetés azon szerepel. 
+A gyártó az általa gyártott elektromos, elektronikus berendezésre vonatkozó használati útmutatóban, ismertetőben, 
+továbbá honlapjának, a  fogyasztók részére küldött hírlevelének és az  általa üzemeltetett webáruház honlapjának 
+médiafelületén a  tájékoztatást az  adott elektromos, elektronikus berendezés vonatkozásában addig az  időpontig 
+kell megjeleníteni, amíg az adott berendezést a gyártó gyártja, illetve forgalmazza.
+(6) A  gyártó az  új elektromos, elektronikus berendezés értékesítésekor a  gyűjtéssel, a  szállítással és a  kezeléssel 
+kapcsolatban felmerülő becsült költségeiről a  fogyasztókat a  számlán, a  terméken, illetve annak csomagolásán 
+tájékoztathatja. Ebben az esetben a  ténylegesen felmerülő költségek nem haladhatják meg a  tájékoztatás szerinti 
+becsült költségeket.
+(7) A  gyártó kezelési kötelezettségével összefüggő, az  elektromos, elektronikus berendezés alkatrészeinek és 
+alapanyagainak meghatározására, veszélyes anyag tartalmára vonatkozó műszaki dokumentációt, kezelési utasítást 
+az elektromos, elektronikus berendezés forgalomba hozatalától számított 1 hónapon belül az átvállalónak, az OHÜ 
+Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: OHÜ), 
+továbbá a hasznosítást végző hulladékkezelőnek elektronikus formában hozzáférhetővé teszi.
+8. § (1) A  gyártó az  elektromos, elektronikus berendezés forgalomba hozatalát követő 1 éven belül az  Európai Unió 
+területén első alkalommal forgalomba hozott elektromos, elektronikus berendezés valamennyi típusát illetően 
+az  újrahasználatra, az  újrahasználatra előkészítésre és a  kezelésre vonatkozó ingyenes tájékoztatást mindenki 
+számára hozzáférhetővé teszi. A  tájékoztatást különösen kézikönyvekben, valamint az  elektronikus hírközlés 
+szolgáltatásain keresztül kell biztosítani.
+(2) A tájékoztatásnak legalább a következőkre kell kiterjednie:
+a) az elektromos, elektronikus berendezésben található különböző alkatrészek és anyagok meghatározására,
+ideértve a berendezés működése szempontjából nem jelentős tartó és hordozó alkatrészeket is;
+b) az elektromos, elektronikus berendezésben található veszélyes anyagok és keverékek meghatározására;
+valamint
+11880 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+c) arra, hogy a kezelés során a hulladékká vált elektromos, elektronikus berendezésből valamennyi folyadékot 
+és legalább a 26. § (1) bekezdése szerinti anyagot, alkatrészt, tartozékot, összetevőt el kell távolítani.
+5. A gyártó kötelezettségeinek átruházása
+9. § (1) A gyártó a használt elektromos, elektronikus berendezés visszavételére és a hulladékká vált elektromos, elektronikus 
+berendezés átvételére vonatkozó kötelezettségét – a  forgalmazás helyén történő visszavételi és átvételi 
+kötelezettség kivételével –
+a) megállapodás alapján a 10. § (1) bekezdése szerinti átvállalóra (a továbbiakban: átvállaló) vagy
+b) nem termékdíjköteles termék esetén közvetítő szervezetre
+átruházhatja.
+(2) A gyártó a gyűjtési, kezelési kötelezettségének teljesítését
+a) megállapodás alapján azt részben vagy együttesen átvállalóra vagy
+b) közvetítő szervezetre
+átruházhatja.
+(3) A  gyártó a  Ktdt. hatálya alá tartozó, termékdíjköteles, hulladékká vált elektromos, elektronikus berendezés 
+gyűjtésére, kezelésére vonatkozó kötelezettségének a Ktdt.-ben meghatározott
+a) egyéni teljesítés,
+b) OHÜ-n keresztül történő kollektív teljesítés vagy
+c) termékdíjátalány-fizetés
+útján tehet eleget.
+10. § (1) Átvállaló – a  (2)  bekezdésben foglalt kivétellel – lehet, aki (amely) az  átruházni kívánt hulladékgazdálkodási 
+tevékenység végzésére hulladékgazdálkodási engedélye folytán jogosult.
+(2) Nem lehet átvállaló az, aki (amely) gazdasági tevékenységével vagy gazdasági tevékenysége körében a  gyűjtési, 
+kezelési kötelezettség átruházása céljából a gyártóval megkötött megállapodást megelőző 3 éven belül
+a) a környezet védelmének általános szabályairól szóló törvény, valamint
+b) a Ht.
+előírásainak megsértésével kapcsolatban meghozott jogerős hatósági határozatban vagy bírósági ítéletben 
+megállapított jogszabálysértést követett el.
+(3) Az  átruházott kötelezettség tekintetében az  átvállalóra a  gyártóra vonatkozó szabályokat kell megfelelően 
+alkalmazni.
+11. § (1) Ha a gyártó a gyűjtési, kezelési kötelezettségének teljesítését az átvállalóra átruházza, a gyártó és az átvállaló között 
+létrejött megállapodásnak a következőket kell tartalmaznia:
+a) az átvállalt kötelezettség megjelölését,
+b) az átvállalt kötelezettséggel érintett elektromos-, elektronikusberendezés-kategóriát,
+c) az átvállalt kötelezettséggel érintett elektromos, elektronikus berendezés mennyiségét (kilogrammban),
+valamint
+d) az átvállalóra átruházott kötelezettség ellátásához kapcsolódó tevékenységének leírását.
+(2) A  gyártó az  átvállalóval kötött megállapodást a  megállapodás létrejöttét követő 15 napon belül az  Országos 
+Környezetvédelmi és Természetvédelmi Főfelügyelőségnek (a továbbiakban: OKTF) jóváhagyásra megküldi.
+(3) A  gyártó a  megállapodás módosítását vagy megszűnését a  módosítást vagy megszűnést követő 15 napon belül 
+az OKTF-nek bejelenti.
+(4) Az  OKTF a  megállapodást vagy annak módosítását határozatban jóváhagyja, ha a  megállapodás vagy 
+a megállapodás módosításának tartalma megfelel a 10. §-ban és az (1) bekezdésben előírt követelményeknek.
+6. A gyártó által viselt költségek
+12. § (1) A  gyártó – az  (5) és (6)  bekezdésben meghatározott eltéréssel – viseli a  visszavételre, az  átvételre, a  gyűjtésre és 
+a kezelésre vonatkozó kötelezettségek teljesítésével kapcsolatos költségeket.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11881
+(2) Ha a  gyártó a  forgalmazóval értékesítési szerződést kötött, a  gyártó a  22.  §-ban és a  23.  §-ban foglaltaknak 
+megfelelően
+a) a forgalmazó által visszavett elektromos, elektronikus berendezés tárolásának és a  forgalmazótól történő
+elszállításának,
+b) a forgalmazó által átvett hulladékká vált elektromos, elektronikus berendezés gyűjtésének,
+c) a gyűjtőedények elhelyezésének, valamint
+d) az elektromos, elektronikus berendezés háztartásban képződő hulladékának a háztartásokból a gyűjtőhelyre,
+továbbá a gyűjtőhelyről a hulladékkezelő létesítménybe történő elszállításának
+költségeit viseli.
+(3) A  gyártó viseli a  2005. augusztus 13-át követően forgalomba hozott elektromos, elektronikus berendezésből 
+képződött, nem háztartásból származó elektromos, elektronikus berendezés hulladékának gyűjtésével, 
+környezetkímélő kezelésével kapcsolatban felmerült költségeket.
+(4) A gyártó a  forgalmazó kérésére az értékesítési szerződésben meghatározott mennyiségnek megfelelő elektromos, 
+elektronikus berendezés háztartásban képződő hulladékát a  forgalmazótól átveszi, és viseli az  ezzel kapcsolatos 
+költségeket.
+(5) Ha az  elektromos, elektronikus berendezés háztartásban képződő hulladéka történelmi hulladéknak minősül, 
+a gyártó a történelmi hulladék átvételének, gyűjtésének és kezelésének költségeihez az adott kategóriába tartozó 
+elektromos, elektronikus berendezés – amelyből a  történelmi hulladék képződött – forgalomba hozatalának 
+arányában járul hozzá.
+(6) A  gyártó vagy a  nevében eljáró harmadik személy a  gyártó által viselt költségek visszatérítésére visszafizetési 
+eljárást alakíthat ki abban az esetben, ha az adott elektromos, elektronikus berendezést forgalomba hozatal céljából 
+Magyarországon kívülre szállítják.
+7. A gyártó biztosítékadási kötelezettsége
+13. § (1) A gyártó a gyűjtési, kezelési kötelezettségei ellátásának biztosítására – a (4) bekezdésben meghatározott kivétellel – 
+vagyoni biztosítékot képez.
+(2) A vagyoni biztosíték mértékét és számításának módját az 5. melléklet határozza meg.
+ (3) A tárgyévre vonatkozó vagyoni biztosítékot a tárgyév február 20. napjáig kell képezni. Ha a gyártó a tevékenységét
+a tárgyévben kezdi meg, a vagyoni biztosítékot a tárgyév végéig havonta kell képeznie.
+ (4) A gyártónak nem kell vagyoni biztosítékot képeznie:
+a) ha a gyűjtési, kezelési kötelezettségének közvetítő szervezet útján tesz eleget vagy
+b) a Ktdt. hatálya alá tartozó termékdíjköteles termékek vonatkozásában.
+14. § (1) A vagyoni biztosíték típusa a következő lehet:
+a) a gyártói részvétel a  hulladékká vált elektromos, elektronikus berendezésekkel történő gazdálkodásra
+szolgáló finanszírozási rendszerben,
+b) környezetvédelmi biztosítás,
+c) hitelintézet vagy biztosító intézet által vállalt garancia vagy ezzel egyenértékű banki kötelezettségvállalás,
+d) biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény,
+e) hitelintézetnél garanciavállalás céljából elhelyezett, elkülönítetten kezelt és zárolt pénzösszeg vagy
+f ) biztosítási szerződés.
+(2) A  vagyoni biztosíték létrehozására vonatkozó igazolást a  gyártó az  adatszolgáltatási kötelezettség teljesítésével 
+egyidejűleg megküldi az OKTF részére.
+(3) A  gyártó a  tárgyévi vagyoni biztosíték felett az  OKTF által kiadott engedély birtokában rendelkezhet. A  vagyoni 
+biztosíték feletti rendelkezés engedélyezését a  gyártó a  tárgyévet követő év adatszolgáltatási kötelezettségének 
+teljesítésével egyidejűleg kezdeményezheti.
+(4) A tárgyévi vagyoni biztosítékkal az OKTF jóváhagyását követően a gyártó szabadon rendelkezhet.
+ (5) A  tárgyévi vagyoni biztosíték feletti rendelkezés jogát az  OKTF a  tárgyévet követő év szeptember 1-jéig akkor
+engedélyezi, ha a gyártó
+a) a tárgyévi visszavételi, átvételi, gyűjtési, hasznosítási és ártalmatlanítási, valamint
+b) az éves adatszolgáltatási
+kötelezettségét teljesítette.
+11882 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+8. A gyártók és a közvetítő szervezetek nyilvántartásba vétele
+15. § (1) A  gyártó a  6.  melléklet szerinti adatlap kitöltésével és az  OKTF részére történő megküldésével kérelmezi 
+a  nyilvántartásba vételét, egyidejűleg vállalja, hogy a  6.  mellékletben meghatározott adataiban bekövetkezett 
+változásokat – a változás bekövetkezését követő 15 napon belül – az  OKTF-nek az  adatváltozás tényét igazoló 
+dokumentum egyidejű csatolásával írásban bejelenti. A  nyilvántartásba vétel iránti kérelmet legkésőbb 
+az elektromos, elektronikus berendezés forgalomba hozatalának megkezdéséig kell benyújtani.
+(2) A  2.  § 10.  pont d)  alpontja szerinti gyártót az  elektromos, elektronikus berendezés forgalomba hozatalának helye 
+szerinti európai uniós tagállamban kell nyilvántartásba venni.
+(3) Ha a gyártó a gyűjtési, hasznosítási és ártalmatlanítási kötelezettségének teljesítését az átvállalóra vagy a közvetítő 
+szervezetre átruházza, a  nyilvántartásba vétel iránti kérelemhez – az  (1)  bekezdésben meghatározottakon túl – 
+csatolni kell az átvállalóval vagy a közvetítő szervezettel kötött megállapodást is.
+(4) Az OKTF a gyártó nyilvántartásba vételével egyidejűleg a gyártónak nyilvántartási számot ad.
+ (5) A gyártó e rendelet szerinti tevékenysége megszüntetését az OKTF-nek bejelenti, és ezzel egyidejűleg a tárgyévre
+vonatkozó adatszolgáltatási kötelezettségét teljesíti. A bejelentést és az adatszolgáltatási kötelezettség teljesítését 
+követően az OKTF a gyártót a nyilvántartásból törli.
+16. § (1) A  hulladékká vált elektromos, elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységek 
+közvetítését végző közvetítő szervezetnek a tevékenysége megkezdéséhez, folytatásához szükséges nyilvántartásba 
+vétel iránti kérelmét az OKTF részére kell benyújtania.
+(2) A nyilvántartásba vétel iránti kérelemnek a következő adatokat és dokumentumokat kell tartalmaznia:
+a) a gyártó és a közvetítő szervezet cégjegyzékszáma;
+b) a kötelezettség teljesítésének módja;
+c) az üzletszabályzat tervezete, ideértve az általános szerződési feltételeket is;
+d) a közvetítő szervezettel szerződésben álló gyártók és forgalmazók listája; valamint
+e) igazolás a (3) bekezdésben foglaltakról.
+(3) A nyilvántartásba az a Ktdt. hatálya alá nem tartozó nonprofit gazdasági társaságként bejegyzett közvetítő szervezet 
+vehető,
+a) amelynek szolgáltatásait bárki igénybe veheti az alapszabályában vagy az alapító okiratában meghatározott
+feltételek teljesítése esetén;
+b) amely az  alaptevékenységéhez szükséges mértékű – legalább 30 millió forint összegű – alaptőkével
+rendelkezik; valamint
+c) amely gazdasági tevékenységével vagy a  környezet védelmének általános szabályairól szóló törvény
+előírásainak megsértésével kapcsolatban a nyilvántartásba vétel iránti kérelem benyújtását megelőző 3 éven 
+belül meghozott jogerős hatósági határozatban vagy bírósági ítéletben megállapított jogszabálysértést nem 
+követett el.
+(4) Az OKTF a közvetítő szervezet nyilvántartásba vételével egyidejűleg a közvetítő szervezetnek nyilvántartási számot 
+ad.
+(5) A  közvetítő szervezet a  nyilvántartásba vételt követően a  (2) és (3)  bekezdésben meghatározott adatokban vagy 
+körülményekben bekövetkezett változásokat – a változás bekövetkeztétől számított 15 napon belül – az OKTF-nek 
+a  változás tényét igazoló dokumentum csatolásával egyidejűleg bejelenti. A  bejelentés tényéről az  OKTF 
+a bejelentéstől számított 30 napon belül a környezetvédelmi és természetvédelmi felügyelőséget (a továbbiakban: 
+felügyelőség) tájékoztatja.
+(6) Az OKTF a közvetítő szervezetet törli a nyilvántartásból, ha a nyilvántartás feltételei már nem állnak fenn.
+ (7) A nyilvántartásba vételi, az adatmódosítási és a nyilvántartásból történő törlés iránti kérelmet a 6. melléklet szerinti
+formanyomtatványon vagy elektronikus űrlapon kell benyújtani. A  formanyomtatványt és az  elektronikus űrlapot 
+az OKTF honlapján és a kormányzati portálon kell közzétenni.
+9. A gyártó, az átvállaló és a közvetítő szervezet nyilvántartási és adatszolgáltatási kötelezettsége
+17. § (1) A  gyártó – a  (2)  bekezdés szerinti adattartalommal – nyilvántartást vezet, és – a  (2)  bekezdésben meghatározott 
+határidőn belül és tartalommal – az OKTF részére adatot szolgáltat.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11883
+(2) A gyártó az OKTF részére adatot szolgáltat a tárgyév február 20. napjáig
+a) a tárgyévet megelőző évben Magyarországon forgalomba hozott elektromos, elektronikus berendezés
+mennyiségéről (tömeg szerint, berendezés-kategóriánként);
+b) a tárgyévben Magyarországon forgalomba hozni tervezett elektromos, elektronikus berendezés
+mennyiségéről (tömeg szerint, berendezés-kategóriánként);
+c) a tárgyévet megelőző évben Magyarországon teljesített gyűjtési kötelezettségének mennyiségéről (tömeg
+szerint, berendezés-kategóriánként);
+d) a tárgyévben Magyarországon teljesített gyűjtési kötelezettségének mennyiségéről (tömeg szerint,
+berendezés-kategóriánként);
+e) azokról a hulladékká vált elektromos, elektronikus berendezések mennyiségéről (tömeg szerint, berendezés-
+kategóriánként), amelyeket a tárgyévet megelőző évben
+ea) az átvételi helyeken és gyűjtőhelyeken összesen átvett, gyűjtött,
+eb) közvetítő szervezetnek, kereskedőnek, előkezelőnek, hasznosítónak, ártalmatlanítónak kezelésre
+összesen átadott,
+ec) hulladékkezelőtől, illetve hulladékkezelő létesítményből további hasznosítás vagy ártalmatlanítás
+céljából elszállított;
+f ) a tárgyévben gyűjteni, kezelni tervezett hulladékká vált elektromos, elektronikus berendezés mennyiségéről
+(tömeg szerint, berendezés-kategóriánként);
+g) a tárgyévi visszavételi, átvételi, gyűjtési és kezelési kötelezettségei ellátásának módjáról;
+h) a 14. § (1) bekezdése szerinti tárgyévi vagyoni biztosíték összegéről és típusáról.
+(3) A  gyártó a  (2)  bekezdés a)–f )  pontja szerinti adatszolgáltatási kötelezettségét a  7.  mellékletben, a  (2)  bekezdés 
+g)  és  h)  pontja szerinti adatszolgáltatási kötelezettségét a  6.  mellékletben foglalt adatlap kitöltésével teljesíti 
+az OKTF részére.
+(4) Ha a gyártó termékdíjátalány-fizetés, illetve OHÜ-n keresztül történő kollektív teljesítés útján tesz eleget a gyűjtési, 
+kezelési kötelezettségének, kizárólag a (2) bekezdés a)–d) és g) pontjában foglaltakról kell adatot szolgáltatnia.
+(5) A  gyártó a  nyilvántartását a  számvitelről szóló 2000. évi C. törvény 169.  § (1)  bekezdésében meghatározott ideig 
+megőrzi.
+18. § (1) Az  átvállaló és a  közvetítő szervezet – a  (2)  bekezdés szerinti adattartalommal – nyilvántartást vezet, és 
+– a (2) bekezdésben meghatározott határidőn belül és tartalommal – az OKTF részére adatot szolgáltat.
+(2) Az átvállaló és a közvetítő szervezet az OKTF részére adatot szolgáltat a tárgyév február 20. napjáig
+a) a tárgyévet megelőző évben az  általa kötött megállapodások alapján visszavett elektromos, elektronikus
+berendezés tömegéről (kilogrammban);
+b) a tárgyévet megelőző évben az általa kötött megállapodások alapján átvett és gyűjtött hulladék tömegéről
+(kilogrammban);
+c) arról, hogy mely gyártókkal, forgalmazókkal, gazdálkodó szervezetekkel milyen mennyiségre kötött
+megállapodást visszavételre, átvételre, gyűjtésre, kezelésre.
+ (3) Az  átvállaló és a  közvetítő szervezet az  adatszolgáltatási kötelezettségét az  OKTF felé a  8.  mellékletben foglalt
+adatlapok kitöltése útján teljesíti.
+ (4) Ha a  gyártó termékdíjátalány-fizetés, illetve az  OHÜ-n keresztül történő kollektív teljesítés útján tesz eleget
+a  gyűjtési, kezelési kötelezettségének, a  17.  § (2)  bekezdés e) és f )  pontjában foglaltakról a  tárgyév február 
+20. napjáig az OKTF részére az OHÜ szolgáltat adatot.
+(5) Az OHÜ az adatszolgáltatási kötelezettségét az OKTF felé a 7. mellékletben foglalt adatlapok kitöltése útján teljesíti.
+ (6) Az átvállalóra, a közvetítő szervezetre és az OHÜ-re a 17. § (5) bekezdését is alkalmazni kell.
+ (7) Az  átvállalónak és a  közvetítő szervezetnek a  8.  mellékletben, az  OHÜ-nek a  7.  mellékletben foglalt adatlapok
+alapján összesített adatokra vonatkozóan kell az adatszolgáltatást teljesítenie.
+19. § (1) Az  adatszolgáltatás során közölt adatok teljeskörűségéért, az  adatszolgáltatásra kötelezettre vonatkozó számviteli 
+szabályokkal, statisztikai rendszerrel, valamint a  saját egyéb nyilvántartási rendszereivel, mérési, megfigyelési 
+adataival való egyezésért az adatszolgáltatásra kötelezett felel.
+(2) Az  adatszolgáltatás nyomtatványon vagy elektronikus úton, az  elektronikus aláírásról szóló törvényben 
+meghatározottak szerinti minősített elektronikus aláírással ellátott elektronikus okirat útján is teljesíthető.
+11884 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+20. § (1) Az  OKTF minden év szeptember 1-jéig feldolgozza a  teljesített adatszolgáltatások adatait, és azokat 30 napon 
+belül elektronikus úton megküldi az  OHÜ-nek. Az  adatszolgáltatásból származó feldolgozott adatok nyilvánosak, 
+és az  OKTF honlapján keresztül folyamatosan, térítésmentesen hozzáférhetők. A  gyártók és a  nevükben eljáró 
+harmadik személyek nyilvántartásba vételének megkönnyítése érdekében, az  OKTF az  európai uniós tagállamok 
+nyilvántartási rendszeréhez történő hozzáférés lehetőségét az elérhetőség megjelölésével a honlapján biztosítja.
+(2) A tartalmilag vagy formailag hibás adatot szolgáltató kötelezettet az OKTF az adatszolgáltatás legfeljebb 30 napon 
+belül történő hiánypótlásra szólítja fel.
+10. A meghatalmazott képviselő
+21. § (1) Az  Európai Gazdasági Térséghez tartozó államban székhellyel rendelkező gyártó az  e  rendeletben meghatározott 
+valamennyi kötelezettségét meghatalmazott képviselője útján teljesíti, ha Magyarországon ezt a  tevékenységet 
+nem a külföldiek magyarországi befektetéseiről szóló 1988. évi XXIV. törvény 3. § (1) bekezdése szerinti valamelyik 
+letelepedési formában végzi.
+(2) A  meghatalmazott képviselő írásbeli, állandó meghatalmazással jelölhető ki. A  meghatalmazott képviselőnek 
+magyar adószámmal kell rendelkeznie.
+11. A forgalmazó kötelezettségei
+22. § (1) A  forgalmazónak felajánlott használt elektromos, elektronikus berendezés visszavételére a  3.  § rendelkezéseit, 
+a  forgalmazónak felajánlott hulladékká vált elektromos, elektronikus berendezés átvételére és gyűjtésére a  4.  § 
+rendelkezéseit kell megfelelően alkalmazni.
+(2) A forgalmazó a hulladékbirtokos által felajánlott olyan elektromos, elektronikus berendezés háztartásban képződő 
+hulladékát, amelynek egyik oldala sem haladja meg a  25 cm-t, a  legalább 400 m2 alapterületű elektromos, 
+elektronikus berendezés értékesítésére alkalmas eladótérrel rendelkező kiskereskedelmi tevékenységet végző 
+üzletében vagy közvetlenül az üzlet előtt, mellett a hulladékbirtokostól átveszi és gyűjti, ha a hulladékbirtokos azt 
+a részére átvételre felajánlja.
+(3) A  forgalmazó a  (2)  bekezdésben meghatározott kötelezettségét a  hulladékká vált elektromos, elektronikus 
+berendezés közvetlen átvétele vagy speciális gyűjtőhelyre telepített gyűjtőedényben történő gyűjtés útján teljesíti. 
+A gyűjtőedényt jól látható és könnyen hozzáférhető helyen kell elhelyezni.
+(4) Ha a fogyasztó a forgalmazótól új elektromos, elektronikus berendezést vásárol, és azt a forgalmazó a fogyasztónak 
+házhoz szállítja, a  forgalmazó a  fogyasztó által felajánlott, a  vásárolt berendezéssel azonos mennyiségű és 
+azonos használati célú elektromos, elektronikus berendezés háztartásban képződő hulladékát a  fogyasztótól, 
+hulladékbirtokostól átveszi és elszállítja.
+(5) Ha a  forgalmazó a  hulladék kezeléséről nem saját maga gondoskodik, a  visszavitt elektromos, elektronikus 
+berendezést és annak valamennyi alkotóelemét, illetve az  átvett, hulladékká vált elektromos, elektronikus 
+berendezést és annak valamennyi alkotóelemét elkülönítetten és hiánytalanul át kell adnia a  gyártó vagy 
+az átvételre hulladékgazdálkodási engedéllyel rendelkező jogosult részére.
+23. § (1) A forgalmazó az e rendelet szerinti kötelezettségéről a fogyasztót, a hulladékbirtokost tájékoztatja.
+ (2) A  fogyasztók, hulladékbirtokosok forgalmazó általi tájékoztatására a  7.  § (3)–(6)  bekezdésében foglaltakat kell
+megfelelően alkalmazni.
+12. Az újrahasználatra vonatkozó szabályok
+24. § (1) Használt elektromos, elektronikus berendezés kizárólag a  3.  mellékletben meghatározott feltételek teljesülése 
+esetén hozható ismételten forgalomba.
+(2) A hulladékká vált elektromos, elektronikus berendezés csak azt követően hozható forgalomba, hogy a hulladékká 
+vált elektromos, elektronikus berendezést tisztítás, javítás és ellenőrzés útján újrahasználatra megfelelően 
+előkészítettek, és az a Ht. 9. § (1) bekezdésében és 3. mellékletében meghatározott valamennyi feltételt teljesíti.
+(3) Ha a  3.  mellékletben meghatározott feltételek nem teljesülnek, az  újrahasználatra előkészíteni kívánt használt 
+elektromos, elektronikus berendezést hulladéknak kell tekinteni, és a Ht. 31. § (2) bekezdésében meghatározottak 
+szerint gondoskodni kell annak kezeléséről.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11885
+13. A gyűjtésre, a szállításra és a kezelésre vonatkozó szabályok
+25. § (1) A  hulladékká vált elektromos, elektronikus berendezést – különösen az  ózonlebontó anyagokat és fluorozott, 
+üvegházhatást okozó gázokat tartalmazó hőcserélő berendezések hulladékát, a  higanyt tartalmazó fénycsövek 
+hulladékát és a fotovoltaikus panelek hulladékát – elkülönítetten kell gyűjteni.
+(2) Ha az elektromos, elektronikus berendezés nem háztartásban képződő hulladéka történelmi hulladéknak minősül, 
+és a  nem természetes személy hulladékbirtokos a  hulladékká vált elektromos, elektronikus berendezést nem 
+helyettesíti új, azonos vagy azonos funkciójú elektromos, elektronikus berendezéssel, a hulladékká vált elektromos, 
+elektronikus berendezést a  hulladékgazdálkodási engedéllyel rendelkező gazdálkodó szervezet által üzemeltetett 
+gyűjtőhelyen a jogosultnak átadja, és annak kezelési költségeit megfizeti.
+(3) A hulladékká vált elektromos, elektronikus berendezést az átvételi helyhez, valamint az átvételi helytől a hulladék 
+kezelésének helyére történő szállítása során nem kell veszélyes hulladékként szállítani.
+(4) A  hulladékká vált elektromos, elektronikus berendezés szállítását és gyűjtését úgy kell végezni, hogy 
+a  berendezésben lévő veszélyes anyagok elkülönítése, újrahasználatra előkészítése, újrafeldolgozása 
+maradéktalanul biztosítható legyen. Az  újrahasználatra előkészítés és az  újrafeldolgozás különösen akkor 
+biztosítható, ha a hulladékká vált elektromos, elektronikus berendezés szállítása és gyűjtése során a hulladék nem 
+károsodik, szennyeződik, és nincs kitéve az időjárás hatásainak.
+(5) A  hulladékká vált elektromos, elektronikus berendezés szállítását a  9.  mellékletben meghatározott 
+minimumkövetelményeknek megfelelően kell végezni.
+26. § (1) A  kezelés során a  hulladékká vált elektromos, elektronikus berendezésből valamennyi folyadékot és legalább 
+a következő anyagokat, alkatrészeket, tartozékokat, összetevőket kell eltávolítani (eltávolítás):
+a) a PCB, valamint PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló miniszteri
+rendeletben meghatározott PCB-t tartalmazó berendezéseket;
+b) a higanyt tartalmazó összetevőket, így különösen a kapcsolókat, a háttérvilágítást biztosító lámpákat;
+c) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló
+kormányrendelet hatálya alá tartozó elemeket, akkumulátorokat;
+d) a mobiltelefonok nyomtatott áramköri lapjait általánosan, továbbá egyéb eszközök nyomtatott áramköreit,
+ha a nyomtatott áramköri lap felülete nagyobb, mint 10 cm2;
+e) a tonereket (a folyadékos, zselés és színes tonereket egyaránt);
+f ) a brómtartalmú gyulladásgátló szert tartalmazó műanyagokat;
+g) az azbeszthulladékot, valamint az azbeszttartalmú összetevőket;
+h) a katódsugárcsöveket;
+i) a fluorozott-klórozott szénhidrogéneket (CFC), a  részlegesen halogénezett fluorozott-klórozott
+szénhidrogéneket (HCFC), a fluorozott szénhidrogéneket (HFC), a szénhidrogéneket (HC);
+j) a gázkisülés elvén működő lámpákat;
+k) a 100 cm2-nél nagyobb felületű folyadékkristályos kijelzőket (lehetőség szerint burkolattal együtt), valamint
+az összes olyan kijelzőt, amelynek háttérvilágítását gázkisüléses lámpával oldották meg;
+l) a külső elektromos vezetékeket;
+m) a külön jogszabály szerint meghatározott nehezen feldolgozható kerámiaszálakat tartalmazó összetevőket;
+n) a radioaktív alkotókat tartalmazó összetevőket, kivéve a határérték alattiakat;
+o) a 25 mm-nél nagyobb magasságú, 25 mm-nél nagyobb átmérőjű vagy hasonló méretű, veszélyes anyagokat
+tartalmazó elektrolitikus kondenzátorokat.
+ (2) Az  elkülönítetten gyűjtött, hulladékká vált elektromos, elektronikus berendezésből a  következő alkatrészeket és
+összetevőket kell eltávolítani:
+a) a katódsugárcsövek esetében a fluoreszkáló réteget;
+b) az ózont lebontó gázokat tartalmazó elektromos, elektronikus berendezések és az  olyan elektromos,
+elektronikus berendezések esetében, amelyek globális felmelegedési potenciálja a 15-ös értéket meghaladja, 
+így különösen a  habokat és hűtőberendezéseket, a  gázokat ki kell vonni és azokat kezelni kell; az  ózont 
+lebontó gázokat az  ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai 
+parlamenti és tanácsi rendeletében előírtaknak megfelelően kell kezelni;
+c) a gázkisüléses lámpák esetében a higanyt.
+ (3) Az elkülönítetten gyűjtött, hulladékká vált elektromos, elektronikus berendezés kizárólag az (1) és (2) bekezdésben
+meghatározott előkezelést követően kezelhető.
+11886 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+(4) Az  (1) és (2)  bekezdésben foglaltakat úgy kell alkalmazni, hogy az  ne akadályozza az  elektromos, elektronikus 
+berendezés vagy a  berendezés egyes összetevőinek környezetvédelmi szempontból megfelelő újrahasználatát és 
+újrafeldolgozását.
+(5) A  hulladékká vált elektromos, elektronikus berendezés tömegét a  kezelést megelőzően, a  képződött 
+hulladékfrakciók tömegét a kezelés befejezését követően meg kell mérni.
+(6) A hulladékká vált elektromos, elektronikus berendezés kezelése során az elérhető legjobb technikát kell alkalmazni.
+27. §  A hulladékká vált elektromos, elektronikus berendezés kezelésére – a  tárolást is ideértve – szolgáló helyen 
+a következő feltételeket kell biztosítani:
+a) mérleg a kezelt hulladék tömegének mérésére,
+b) át nem eresztő felületek és víz-, illetve időjárásálló borítás a  megfelelő területeken, a  kiömlő anyag
+összegyűjtésére alkalmas eszközökkel, szükség esetén ülepítőkkel és tisztító-zsírtalanító berendezésekkel,
+c) megfelelő hulladéktároló hely a szétszerelt alkatrészekhez, összetevőkhöz,
+d) megfelelő tartályok a  szárazelemek, a  PCB/PCT tartalmú kondenzátorok és egyéb veszélyes hulladék, így
+különösen a radioaktív hulladék tárolására, valamint
+e) vízkezelő berendezések, az egészségügyi és környezetvédelmi rendelkezéseknek megfelelően.
+14. A hatósági ellenőrzésre vonatkozó szabályok
+28. §  A gyártó az  e  rendeletben meghatározott kötelezettségeinek teljesítését, valamint az  átvállalónak és a  közvetítő 
+szervezetnek az e kötelezettségek átvállalása alapján végzett tevékenységét az OKTF ellenőrzi.
+29. §  Ha a gyártó és az átvállaló között létrejött megállapodás alapján a gyártó, az átvállaló a tárgyévi átvételi és gyűjtési 
+kötelezettséggel érintett hulladékmennyiséget nem igazolja, az  átvételi, gyűjtési, hasznosítási és ártalmatlanítási 
+kötelezettségét nem teljesíti, az OKTF a kötelezettséggel érintett hulladék kezeléséről a gyártó vagy az átvállaló által 
+nyújtott vagyoni biztosíték terhére, az arra feljogosított hulladékkezelő útján gondoskodik.
+15. Tájékoztatás a tagállamok részére és jelentés az Európai Bizottság felé
+30. § (1) A  környezetvédelemért felelős miniszter gondoskodik az  elkülönítetten gyűjtött elektromos, elektronikus 
+berendezések olyan hulladékára vonatkozó információknak az Európai Unió tagállamainak részére történő ingyenes 
+átadásáról, amelyet
+a) a gyártók, illetve a nevükben eljáró harmadik személyek,
+b) a forgalmazók vagy
+c) gyűjtőhelyek és hulladékkezelő létesítmények üzemeltetői
+vettek át, illetve gyűjtöttek össze.
+(2) Az  elektromos és elektronikus berendezések hulladékairól szóló, 2012. július 4-i 2012/19/EU európai parlamenti 
+és  tanácsi irányelv 16.  cikk (5)  bekezdésében meghatározott jelentéstételi kötelezettség végrehajtásáról 
+– a 2004/249/EK bizottsági határozat, valamint a 2005/369/EK bizottsági határozat alapján – a környezetvédelemért 
+felelős miniszter gondoskodik.
+16. Igazgatási együttműködés és információcsere
+31. § (1) Annak érdekében, hogy a  kötelezettek megfeleljenek e  rendelet előírásainak, a  környezetvédelemért felelős 
+miniszter együttműködik az Európai Unió tagállamaival és az Európai Unió Bizottságával.
+(2) Az együttműködés különösen a környezetvédelmi hatóság részére szolgáltatott adatokhoz, valamint a kötelezettek 
+ellenőrzésének eredményeihez történő hozzáférés engedélyezésére terjed ki.
+17. Záró rendelkezések
+32. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
+ (2) A 36–39. §, a 10. melléklet és a 11. melléklet 2015. január 1-jén lép hatályba.
+ (3) A 40–43. §, a 12. melléklet és a 13. melléklet 2018. január 1-jén lép hatályba.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11887
+33. §  E rendelet rendelkezéseit a rendelet hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell 
+alkalmazni.
+34. § (1) A  gyártó 2015. december 31-éig biztosítja, hogy az  elkülönítetten gyűjtött elektromos, elektronikus berendezés 
+háztartásban képződő hulladékának tekintetében az  összegyűjtött hulladékmennyiség lakosonkénti éves átlagos 
+aránya elérje a tárgyévet megelőző 3 évben összegyűjtött, hulladékká vált elektromos, elektronikus berendezések 
+átlagos tömegét, ha az éves gyűjtési arány meghaladja a 4 kilogramm mennyiséget.
+(2) A  gyártó 2016. január 1-jétől biztosítja, hogy az  összegyűjtött, hulladékká vált elektromos, elektronikus 
+berendezések össztömege eléri a  tárgyévet megelőző 3 évben forgalomba hozott elektromos, elektronikus 
+berendezések átlagos tömegének legalább 45%-át. A  gyártó biztosítja továbbá, hogy ez  a  gyűjtési arány 
+2018. december 31-éig folyamatosan növekedjen.
+(3) A  gyártó 2019. január 1-jétől biztosítja, hogy az  összegyűjtött, hulladékká vált elektromos, elektronikus 
+berendezések össztömege eléri
+a) a tárgyévet megelőző 3 évben forgalomba hozott elektromos, elektronikus berendezések átlagos tömegének
+legalább 65%-át vagy
+b) a Magyarországon képződött, hulladékká vált elektromos, elektronikus berendezések legalább 85%-át.
+(4) Az  (1)–(3)  bekezdésben meghatározottak teljesítése érdekében a  gyártónak gondoskodnia kell a  hasznosítási 
+arányok teljesítéséről az Országos Hulladékgazdálkodási Tervvel összhangban.
+35. § (1) Ez a rendelet
+a) az elektromos és elektronikus berendezések hulladékairól szóló, 2012. július 4-i 2012/19/EU európai
+parlamenti és tanácsi irányelvnek;
+b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló, 2008. november 19-i 2008/98/EK
+európai parlamenti és tanácsi irányelvnek;
+c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek
+való megfelelést szolgálja.
+(2) Ez a rendelet
+a) a Cseh Köztársaság, Észtország, Magyarország, Lettország, Litvánia, Szlovákia és Szlovénia részére
+az  elektromos és elektronikus berendezések hulladékairól szóló 2002/96/EK irányelvtől való ideiglenes 
+eltérések engedélyezéséről szóló, 2004. március 30-i 2004/312/EK tanácsi határozat 1. cikkének;
+b) az elektromos és elektronikus berendezések hulladékairól szóló 2002/96/EK európai parlamenti és tanácsi 
+irányelv végrehajtásáról szóló tagállami jelentések alapjául szolgáló kérdőívről szóló, 2004. március 11-i 
+2004/249/EK bizottsági határozat 1. cikkének;
+c) az elektromos és elektronikus berendezések hulladékairól szóló 2002/96/EK európai parlamenti és 
+tanácsi irányelv betartásának tagállami ellenőrzését és adatformáinak megállapítását célzó végrehajtási 
+szabályainak megállapításáról szóló, 2005. május 3-i 2005/369/EK bizottsági határozat 1.  cikkének, 2.  cikk  
+(1)–(3) bekezdésének, 3. cikkének, valamint mellékletének
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ (3) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti
+és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+ (4) E  rendelet tervezetének a  műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és
+az  információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK 
+európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+36. § (1) A 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A gyártó
+a) az általa forgalomba hozott, használt elektromos, elektronikus berendezést, valamint
+b) a más gyártó által forgalomba hozott, használt elektromos, elektronikus berendezést, amely a  gyártó által 
+forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
+az elektromos, elektronikus berendezés újrahasználatának biztosítása érdekében a  nem természetes személy 
+fogyasztótól legalább ingyenesen, a  természetes személy fogyasztótól legalább az  1.  melléklet 2.  pontjában 
+meghatározott összegű és legalább 1 évre szóló, a  Magyarországon forgalmazott termékekre vonatkozó vásárlási 
+utalvány ellenében visszaveszi, ha azt a  fogyasztó a  részére visszavételre felajánlja (visszavételi kötelezettség).
+11888 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+A gyártó naponta legfeljebb 20 darab használt elektromos, elektronikus berendezés után köteles vásárlási utalványt 
+adni a természetes személy fogyasztó részére. A vásárlási utalvány nem átruházható, összege nem áthárítható.”
+(2) A 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A gyártó
+a) az általa forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést,
+b) a más gyártó által forgalomba hozott, hulladékká vált elektromos, elektronikus berendezést, amely a gyártó által 
+forgalomba hozott elektromos, elektronikus berendezéssel jellegében és funkciójában azonos,
+c) a történelmi hulladékká vált elektromos, elektronikus berendezés háztartásban képződő hulladékát, valamint
+d) az új, az  azonos vagy az  azonos jellegű és funkciójú termékkel helyettesített történelmi hulladékká vált 
+elektromos, elektronikus berendezés háztartásban képződő hulladékát
+a hulladék átadásának ösztönzése érdekében a nem természetes személy hulladékbirtokostól legalább ingyenesen, 
+a természetes személy hulladékbirtokostól az 1. melléklet 2. pontjában meghatározott összegű és legalább 1 évre 
+szóló, a  Magyarországon forgalmazott termékekre vonatkozó vásárlási utalvány ellenében átveszi és gyűjti, ha 
+a hulladékbirtokos azt a részére átvételre felajánlja (átvételi és gyűjtési kötelezettség). A gyártó naponta legfeljebb 
+20 darab hulladékká vált elektromos, elektronikus berendezés után köteles vásárlási utalványt adni a  természetes 
+személy hulladékbirtokos részére. A vásárlási utalvány nem átruházható, összege nem áthárítható.”
+(3) A 4. § (3) bekezdése a következő mondattal egészül ki:
+„Ezekben az esetekben a gyártónak nem kell a hulladékbirtokos részére vásárlási utalványt adnia.”
+(4) A 22. § a következő (6) bekezdéssel egészül ki:
+„(6) A forgalmazó a vásárlási utalvány összegét a gyártóra nem háríthatja át.”
+37. § (1) A  22.  § (2)  bekezdésében az „a hulladékbirtokostól átveszi és gyűjti” szövegrész helyébe az „a nem természetes 
+személy hulladékbirtokostól legalább ingyenesen, a  természetes személy hulladékbirtokostól vásárlási utalvány 
+ellenében átveszi és gyűjti” szöveg lép.
+(2) A  22.  § (4)  bekezdésében a  „fogyasztótól, hulladékbirtokostól átveszi és elszállítja” szövegrész helyébe a  „nem 
+természetes személy fogyasztótól (hulladékbirtokostól) legalább ingyenesen, a  természetes személy fogyasztótól, 
+hulladékbirtokostól vásárlási utalvány ellenében átveszi és elszállítja” szöveg lép.
+38. §  Az 1. melléklet helyébe a 10. melléklet lép.
+39. §  A 2. melléklet a 11. melléklet szerint módosul.
+40. §  Az 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Nem terjed ki e rendelet hatálya
+a) az olyan elektromos, elektronikus berendezésre, amely Magyarország alapvető biztonsági érdekeinek védelmével 
+kapcsolatos, továbbá a fegyverekre, a lőszerekre, a hadianyagokra, ide nem értve a nem kifejezetten katonai célokra 
+szánt termékekben használt elektromos és elektronikus berendezést,
+b) az olyan elektromos, elektronikus berendezésre, amely kifejezetten egy más jellegű, e  rendelet hatálya alá 
+nem tartozó elektromos, elektronikus berendezés részeként lett tervezve és elhelyezve, és amely csak az  adott 
+elektromos, elektronikus berendezés részeként töltheti be funkcióját,
+c) az izzószálas villanykörtére,
+d) a világűrben való felhasználásra tervezett elektromos, elektronikus berendezésre,
+e) a nagyméretű, rögzített ipari szerszámra,
+f ) a nagyméretű, helyhez kötött elektromos, elektronikus berendezésre, kivéve azt az  elektromos, elektronikus 
+berendezést, amely nem kifejezetten e berendezés részeként lett tervezve és elhelyezve,
+g) a személy- és áruszállítási eszközre, kivéve a típusjóváhagyással nem rendelkező kétkerekű elektromos járművet,
+h) a kizárólag szakmai használat céljából rendelkezésre bocsátott nem közúti mozgó gépre,
+i) a kifejezetten csak kutatás és fejlesztés céljából tervezett, kizárólag vállalkozások által egymás rendelkezésére 
+bocsátott berendezésre,
+j) az életciklusuk vége előtt várhatóan fertőzővé váló orvostechnikai eszközökre és in vitro diagnosztikai 
+orvostechnikai eszközökre, valamint az aktív beültethető orvostechnikai eszközökre.”
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11889
+41. §  A 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A  hulladékká vált elektromos, elektronikus berendezést – különösen az  ózonlebontó anyagokat és fluorozott, 
+üvegházhatást okozó gázokat tartalmazó hőcserélő berendezések hulladékát, a  higanyt tartalmazó fénycsövek 
+hulladékát, a fotovoltaikus panelek hulladékát, valamint az 1. melléklet 2. pontjában foglalt táblázat 5. és 6. pontja 
+szerinti elektromos-, elektronikusberendezés-kategóriában meghatározott kisgépek és berendezések hulladékát – 
+elkülönítetten kell gyűjteni.”
+42. §  Az 1. melléklet helyébe a 12. melléklet lép.
+43. §  A 2. melléklet a 13. melléklet szerint módosul.
+44. §  Hatályát veszti az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről 
+szóló 443/2012. (XII. 29.) Korm. rendelet.
+Orbán Viktor s. k.,
+  miniszterelnök
+11890 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+Elektromos-, elektronikusberendezés-kategóriák  
+ 
+1. Elektromos-, elektronikusberendezés-kategóriák:
+1. háztartási nagygépek; 
+2. háztartási kisgépek; 
+3. információs (IT) és távközlési berendezések; 
+4. szórakoztató elektronikai cikkek és fotovoltaikus panelek; 
+5. világítótestek; 
+6. elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari szerszámok;  
+7. játékok, szabadidős és sportfelszerelések; 
+8. orvostechnikai eszközök, kivéve beültetett és a fertőzött termékek; 
+9. ellenőrző és vezérlőeszközök; 
+10. adagoló automaták.
+2. Az elektromos-, elektronikusberendezés-kategóriák és a részüket képező egyes 
+berendezések nem teljes listája (vámtarifaszám alapján): 
+ 
+ 
+1. Háztartási nagygépek:
+Vámtarifaszám:  Megnevezés: Kivételek:
+Nagyméretű hűtőberendezések
+8418 10 20 Kombinált hűtő-fagyasztó gép, külön külső ajtókkal, 340 litert meghaladó űrtartalommal
+Hűtőszekrények
+8418 10 80 Kombinált hűtő-fagyasztó gép, külön külső ajtókkal, 340 litert meg nem haladó űrtartalommal
+21  Kompresszoros típusú háztartási hűtőgép  
+ 29 00 Más háztartási hűtőgép  
+ 69 00 Más hűtőkészülék  
+   Fagyasztók  
+8418 30 20 Fagyasztóláda legfeljebb 800 liter űrtartalommal
+40 20 Fagyasztószekrény legfeljebb 900 liter űrtartalommal
+69 00 Más fagyasztókészülék
+Élelmiszerek hűtésére, konzerválására és 
+tárolására szolgáló egyéb nagyméretű 
+berendezések
+8418 50 11 
+Hűtött kirakat és pult (a hűtőegységgel vagy 
+elpárologtatóval együtt), fagyasztott élelmiszer 
+tárolására
+50 19 
+Hűtött kirakat és pult (a hűtőegységgel vagy 
+elpárologtatóval együtt), nem fagyasztott élelmiszer 
+tárolására
+50 90 Más hűtőberendezési tárgy  
+   Mosógépek
+8450 11
+Háztartásban vagy mosodában használatos 
+mosógép, beleértve az olyan gépet  
+is, amely mos és szárít is; legfeljebb 10 kg 
+szárazruha-kapacitású, teljesen automata
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11891
+12 00
+Háztartásban vagy mosodában használatos 
+mosógép, beleértve az olyan gépet  
+is, amely mos és szárít is; legfeljebb10 kg 
+szárazruha-kapacitású mosógép beépített 
+centrifugális szárítóval
+19 00
+Háztartásban vagy mosodában használatos 
+mosógép, beleértve az olyan gépet  
+is, amely mos és szárít is; legfeljebb 10 kg 
+szárazruha-kapacitású más mosógép
+20 00
+Háztartásban vagy mosodában használatos 
+mosógép, beleértve az olyan gépet  
+is, amely mos és szárít is; 10 kg-ot meghaladó 
+szárazruha-kapacitású mosógép
+Ruhaszárító gépek  
+8421 12 00 Centrifugális ruhaszárító  
+8451 21 00 Legfeljebb 10 kg szárazruha-kapacitású szárítógép   
+   Mosogatógépek  
+8422 11 00 Háztartási mosogatógép
+Tűzhelyek és sütők 
+Elektromos sütők 
+Elektromos főzőlapok
+8516 60  Sütő, tűzhely, tűzhelylap, forralógyűrű, grillsütő és sütőrostély
+Mikrohullámú sütők  
+8516 50 00 Mikrohullámú  sütő
+Főzésre és élelmiszer-feldolgozásra szolgáló egyéb nagyméretű berendezések
+Elektromos fűtőberendezések  
+8516 29 50 Folyadékkal töltött radiátor  
+ 29 91 Más elektromos fűtőkészülék beépített ventilátorral  
+   Elektromos fűtőtestek  
+8516 21 00 Hőtárolós radiátor
+Helyiségek, ágyak, ülőbútorok fűtésére szolgáló egyéb háztartási nagygépek
+8418 61 00 Hőszivattyúk  
+A 8415 alá 
+tartozó 
+berendezések
+8516 29 99 Helyiségek fűtésére szolgáló más elektromos gép  
+   Elektromos ventilátorok
+8414 51 00
+Asztali, padlóra állítható, falra, ablakra, 
+mennyezetre vagy tetőre szerelhető ventilátor, 
+beépített elektromotorral, legfeljebb 125 W 
+teljesítménnyel
+59  Más ventilátor  
+   Légkondicionáló berendezések
+8415
+Légkondicionáló berendezés motormeghajtású 
+ventilátorral, hőmérséklet- és nedvességszabályozó 
+szerkezettel, beleértve az olyan berendezést is, 
+amelyben a nedvesség külön nem szabályozható
+A gépjármű 
+részeként 
+beépített 
+berendezések
+Egyéb szellőztető-, elszívó- és légkondicionáló berendezések
+11892 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 3 
+ 
+   Egyéb háztartási nagygépek
+8543 70 51
+Napozóágyak, napozólámpák és hasonló, 
+napozáshoz használt felszerelések ultraibolya A 
+sugarat felhasználó, legfeljebb 100 cm hosszúságú 
+fénycsővel
+70 55 
+Más napozóágyak, napozólámpák és hasonló, 
+napozáshoz használt felszerelések ultraibolya A 
+sugarat felhasználó más fénycsővel
+70 59 Más napozóágyak, napozólámpák és hasonló, napozáshoz használt felszerelések
+2. Háztartási kisgépek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Porszívók
+8508   Porszívó A 8508 70 alá tartozó alkatrészek 
+   Szőnyegseprűk  
+   Egyéb takarítóberendezések
+8451 80 80
+Folyékony tisztítóoldatot a szőnyegre 
+fecskendező, ezután az oldatot szívással 
+eltávolító szőnyegtakarító berendezés, amely 
+nem a száraz- és nedves-porszívók 
+kombinációja
+8509 80 00 Más elektromechanikus háztartási készülék beépített elektromotorral
+Varró-, kötő-, fonó- és egyéb, textil feldolgozására használt gépek
+8452 10  Háztartási varrógép  
+8447 20  Síkkötő gép; hurkológép
+Vasalók és ruhanemű vasalására, 
+mángorlására és egyéb kezelésére szolgáló 
+más berendezések
+8516 40  Villanyvasaló  
+   Kenyérpirítók  
+8516 72 00 Kenyérpirító  
+   Olajsütők  
+8516 79 20 Olajsütő
+Darálók, kávéfőzőgépek és tárolóedények 
+vagy csomagolások lezárására vagy 
+felnyitására szolgáló berendezések
+8509   Elektromechanikus háztartási készülék, beépített elektromotorral 
+A 8509 90 alá tartozó 
+alkatrészek
+8516 71 00 Kávé- vagy teafőző  
+   Elektromos kések
+Hajvágó eszközök, hajszárítók, elektromos 
+fogkefék, borotváló-, masszírozó- és egyéb, 
+testápolásra szolgáló berendezések
+8510   Villanyborotva, -hajnyíró gép és szőreltávolító készülék beépített elektromotorral 
+A 8510 90 alá tartozó 
+alkatrészek
+8516 31  Hajszárító
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 118934 
+ 
+ 32  Más fodrászati készülék  
+ 33  Kézszárító készülék  
+ 79 70 Más elektrotermikus készülék  
+9019 10 10 Elektromos vibrációs masszírozó készülék
+Órák és karórák, időmérésre, -jelzésre és az 
+idő nyilvántartására szolgáló egyéb 
+berendezések
+9101   
+Karóra, zsebóra és más hasonló óra (stopperóra 
+is), nemesfémből vagy nemesfémmel 
+plattírozott fémből készült tokkal
+9102   Karóra, zsebóra és más hasonló óra (stopperóra is)  
+A 9104 alá tartozó 
+berendezések
+9103   Óra, kisóraszerkezettel A 9104 alá tartozó berendezések
+9104 00 00 
+Műszerfalba beépítésre alkalmas és hasonló 
+típusú óra gépjárműhöz, légi-, űr- és vízi 
+járműhöz
+A gépjármű részeként 
+beépített berendezések
+9105   Más óra
+9106
+Időpont-regisztráló készülék és időtartam 
+mérésére, regisztrálására vagy más módon 
+történő jelzésére szolgáló készülék, 
+óraszerkezettel, kisóraszerkezettel vagy 
+szinkronmotorral (pl. időszámláló, 
+időregisztráló)
+9107   Óraszerkezettel, kisóraszerkezettel vagy szinkronmotorral működő időkapcsoló
+9108   Kisóraszerkezet, teljes (komplett) és összeszerelt
+9109   Óraszerkezet, teljes (komplett) és összeszerelt  
+   Mérlegek
+8423 10  Személymérleg, csecsemőmérleg is; háztartási mérleg 
+Nem elektromos 
+eszközök
+Egyéb háztartási kisgépek
+8516 10  Elektromos átfolyásos vagy tárolós vízmelegítő és merülőforraló
+8516 80  Elektromos fűtőellenállás  
+ 
+3. Információs (IT) és távközlési berendezések:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Központi adatfeldolgozás:  
+   a) Nagyszámítógépek
+8471
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+b) Miniszámítógépek
+8471
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+11894 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 5 
+ 
+   c) Nyomtatók
+8443 
+31 
+32 
+39
+Nyomtatók, másológépek és faxgépek (kombinálva is)
+Nyomdaipari gép, 
+amely nyomólapok, 
+nyomóhengerek és 
+más, a 8442 alá tartozó 
+más nyomóalkatrész 
+segítségével működik
+Személyi informatikai eszközök:
+a) Személyi számítógépek (központi 
+feldolgozó-egység, egér, monitor és 
+billentyűzet is)
+8471
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+8528 41 00 
+Kizárólag vagy elsősorban a 8471 alá tartozó 
+automatikus adatfeldolgozó rendszerben 
+használatos katódsugárcsöves monitor
+51 00 
+Kizárólag vagy elsősorban a 8471 alá tartozó 
+automatikus adatfeldolgozó rendszerben 
+használatos más monitor
+b) Hordozható számítógépek (központi 
+feldolgozó egység, egér, monitor és 
+billentyűzet is)
+8471 30
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+c) Kisméretű hordozható számítógépek
+8471 30
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+Elektronikus jegyzettömbök
+8471
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+Nyomtatók
+8443 
+31 
+32 
+39
+Nyomtatók, másológépek és faxgépek (kombinálva is)
+Másolóberendezések
+8443 32 91 Szkenneralapú másológép elektrosztatikus nyomtatóval
+32 93 Más, optikai rendszerrel ellátott másológép  
+   Elektromos és elektronikus írógépek  
+8469 00 91 Elektromos és elektronikus írógép
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11895
+Zseb- és asztali számológépek, továbbá 
+információk elektronikus eszközökkel 
+történő összegyűjtésére, tárolására, 
+feldolgozására, bemutatására, illetve 
+továbbítására szolgáló egyéb termékek és 
+berendezések
+8470 10 00
+Elektronikus számológép, külső elektromos 
+áramforrás nélkül működő és számoló 
+funkcióval ellátott zsebméretű adatrögzítő-, 
+előhívó- és megjelenítő-gép
+21 00 Más elektronikus számológép nyomtatószerkezettel
+29 00 Más elektronikus számológép  
+ 50 00 Pénztárgép
+90 00 
+Elektronikus könyvelőgép, postai 
+bérmentesítőgép, jegykiadógép és hasonló gép 
+számolószerkezettel
+8528 61 00 
+Kizárólag vagy elsősorban a 8471 alá tartozó 
+automatikus adatfeldolgozó rendszerben 
+használatos projektor
+69 10
+Automatikus adatfeldolgozó gép által 
+létrehozott digitális információ megjelenítésére 
+alkalmas, síkpanel megjelenítő (pl. 
+folyadékkristályos eszköz) segítségével 
+működő más projektor
+8542 32  Tárolók  
+8543 33  Erősítő  
+   Felhasználói terminálok és rendszerek
+8471
+Automatikus adatfeldolgozó gép és egységei; 
+mágneses és optikai leolvasó-, adatátírógép a 
+kódolt adat adathordozóra történő átírására, 
+máshol nem említett gépi adatfeldolgozáshoz
+8528 41 00 
+Kizárólag vagy elsősorban a 8471 alá tartozó 
+automatikus adatfeldolgozó rendszerben 
+használatos katódsugárcsöves monitor
+51 00 
+Kizárólag vagy elsősorban a 8471 alá tartozó 
+automatikus adatfeldolgozó rendszerben 
+használatos más monitor
+Faxberendezések (faxok)  
+8443 32 30 Telefax (képtávíró)
+8517
+Távbeszélő készülékek, beleértve a 
+mobiltelefon-hálózatokhoz vagy más vezeték 
+nélküli hálózatokhoz való készülékeket; hang, 
+képek vagy más adatok továbbítására vagy 
+vételére szolgáló más készülékek, beleértve a 
+vezetékes vagy vezeték nélküli hálózatok (helyi 
+vagy nagy kiterjedésű hálózat) távközlési 
+berendezéseit
+A 8443, 8525, 8527 
+vagy 8528 alá tartozó, 
+továbbításra vagy 
+vételre szolgáló 
+készülékek, továbbá a 
+8517 70 alá tartozó 
+alkatrészek
+11896 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Telexek  
+Telefonok 
+Nyilvános telefonok 
+Vezeték nélküli telefonok 
+Mobiltelefonok
+8517
+Távbeszélő készülékek, beleértve a 
+mobiltelefon-hálózatokhoz vagy más vezeték 
+nélküli hálózatokhoz való készülékeket; hang, 
+képek vagy más adatok továbbítására vagy 
+vételére szolgáló más készülékek, beleértve a 
+vezetékes vagy vezeték nélküli hálózatok (helyi 
+vagy nagy kiterjedésű hálózat) távközlési 
+berendezéseit
+A 8443, 8525, 8527 
+vagy 8528 alá tartozó, 
+továbbításra vagy 
+vételre szolgáló 
+készülékek, továbbá a 
+8517 70 alá tartozó 
+alkatrészek
+Üzenetrögzítő-rendszerek, továbbá hang, 
+kép vagy más információk távközlési 
+eszközökkel történő továbbítására szolgáló 
+egyéb termékek és berendezések
+8519 81 51 Diktafon, amely csak külső áramforrással működik
+81 11 Szövegismétlő-készülék telefonhoz  
+ 50 00 Telefonüzenetrögzítő-készülék
+8518 29 30
+Hangszóró, amelynek frekvenciatartománya 
+300 Hz és 3,4 kHz közötti, átmérője legfeljebb 
+50 mm, a telekommunikációban alkalmazott 
+típus
+4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Rádiókészülékek
+8527   
+Rádióműsor-vevőkészülék, hangfelvevő vagy -
+lejátszó készülékkel vagy órával közös házban 
+is
+Televíziókészülékek
+8528
+Monitorok és kivetítők, beépített televízióvevő-
+készülék nélkül; televíziós adás vételére 
+alkalmas készülék, rádióműsor-vevőkészüléket 
+vagy hang-, képfelvevő vagy -lejátszó 
+készüléket magában foglaló is
+A 8528 41 00, a 8528 
+51 00, a 8528 61 00 és 
+a 8528 69 10 alá 
+tartozó termékek
+Videokamerák
+8525 80  Televíziós kamerák (felvevők), digitális fényképezőgépek és videokamera-felvevők  
+A 8525 80 11 alá 
+tartozó berendezések
+9007   
+Mozgókép-felvevő (kamera) és vetítő, 
+hangfelvevő és hanglejátszó-készülékkel vagy 
+anélkül
+A 9007 11 00 alá 
+tartozó berendezések, 
+valamint a 
+9007 91 és a 
+9007 92 alá tartozó 
+alkatrészek és 
+tartozékok
+Videomagnók
+8521   Videofelvevő és -lejátszókészülék, videotunerrel egybeépítve is
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 118978 
+ 
+   Hifiberendezések
+8519   Hangfelvevő- vagy hanglejátszó-készülék  A gépjármű részeként beépített berendezések 
+   Audioerősítők
+8518
+Mikrofon és tartószerkezete; hangszóró, 
+dobozba szerelve is, fejhallgató és fülhallgató, 
+mikrofonnal összeépítve is, valamint egy 
+mikrofonból és egy vagy több hangszóróból 
+álló egység; hangfrekvenciás elektromos 
+erősítő; elektromos hangerősítő egység
+A 8518 90 00 és a 
+8518 90 alá tartozó 
+alkatrészek
+Hangszerek, továbbá a hang, illetve kép 
+(beleértve a szignálokat is) rögzítésére vagy 
+reprodukálására szolgáló egyéb termékek és 
+berendezések, illetve a hang és kép 
+továbbítására szolgáló nem távközlési 
+technológiák
+9207   
+Hangszer, amelyben a hangot elektromos úton 
+keltik vagy erősítik (pl. orgona, gitár, 
+tangóharmonika)
+8518
+Mikrofon és tartószerkezete; hangszóró, 
+dobozba szerelve is, fejhallgató és fülhallgató, 
+mikrofonnal összeépítve is, valamint egy 
+mikrofonból és egy vagy több hangszóróból 
+álló egység
+A 8518 40, 8518 50 00 
+alá tartozó 
+berendezések és a 
+8518 90 alá tartozó 
+alkatrészek
+8543 70 30 Antennaerősítő
+9006 10 00 Fényképezőgép, nyomólemez vagy -henger készítésére
+A 8539 alá tartozó 
+kisülési cső, továbbá a 
+nem elektromos 
+eszközök, a 9006 10 
+00, a 9006 30 00, a 
+9006 61 00 és a 9006 
+69 00 alá tartozó 
+termékek, továbbá 
+azok 9006  91 alá 
+tartozó alkatrészei és a 
+9006 99 alá tartozó 
+tartozékai
+30 00
+Víz alatti használatra, légi felvételekre tervezett 
+speciális fényképezőgép; törvényszéki vagy 
+kriminológiai célra összehasonlító 
+fényképezőgép
+40 00 Azonnal előhívó (polaroid) fényképezőgép
+51 00 
+Más fényképezőgép közvetlen keresővel 
+[egylencsés visszatükrözés (SLR)], legfeljebb 
+35 mm szélességű filmtekercshez
+52 00 Más fényképezőgép más, 35 mm-nél kisebb szélességű filmtekercshez
+53  Más fényképezőgép más, 35 mm szélességű filmtekercshez
+59 00 Más fényképezőgép  
+9008 10 00 Diavetítő
+11898 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 9 
+ 
+   Fotovoltaikus panelek  
+8541 40 90 Fotovoltaikus elem
+5. Világítótestek:
+Vámtarifaszám: Megnevezés: Kivételek:
+Fénycsöves világítótestek A háztartási világítótestek
+9405
+Lámpa és világító-felszerelés, beleértve a 
+keresőlámpát és a sportlámpát is; továbbá 
+megvilágított jelzések, reklámfeliratok, 
+cégtáblák és hasonlók, állandó jellegű 
+fényforrással szerelve; fénycsöves világítótest
+A közterület vagy a 
+közlekedési útvonal 
+világítására szolgáló 
+termékek, a háztartási 
+világítótestek, a 9405 
+10 21, a 
+9405 10 91, a 
+9405 20 11, a 
+9405 20 91, a 
+9405 40 31 és a  
+9405 40 91 termékek
+Egyenes fénycsövek  
+8539 31 10 Fénycső izzókatóddal, kettős végű foglalattal  
+   Kompakt fénycsövek  
+8539 31 90 Más fénycső izzókatóddal
+Nagy intenzitású kisülő lámpák, beleértve a 
+nagynyomású nátriumlámpákat és a fém 
+halogénlámpákat
+8539 32  Higany- vagy nátriumlámpa; fémhalogén lámpa  
+   Kisnyomású nátriumlámpák
+Egyéb világítótestek, illetve fényszóró vagy fényszabályozó berendezések  Izzólámpa
+8512 10 00 Kerékpár világítókészüléke
+20 00 Világítókészülék gépjárműhöz A gépjármű részeként beépített berendezések
+8513 10 00 Hordozható elektromos lámpa saját energiaforrással
+8539 49 10 Ultraibolya lámpa  
+ 49 30 Infravörös lámpa  
+8541 40 10 Fénykibocsátó dióda, beleértve a lézerdiódát
+9405 10  Csillár és más mennyezeti vagy fali elektromos világítófelszerelés
+A közterület vagy a 
+közlekedési útvonal 
+világítására szolgáló 
+termékek és a 
+fénycsöves termékek
+20  Elektromos asztali, íróasztali, éjjeliszekrény- vagy állólámpa Fénycsöves termék
+30 00 Karácsonyfaégő-készlet Fénycsöves termék 
+ 40  Más elektromos lámpa és világító felszerelés Fénycsöves termék
+60  Megvilágított jelzések, reklámfeliratok, cégtáblák és hasonlók Fénycsöves termék
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 1189910 
+ 
+6. Elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari 
+szerszámok:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Fúrók  
+8459 10 00 Hordozható elektromos fúrógép  
+ 29 00 Más fúrógép Numerikus 
+   Fűrészek  
+8467 22 00 Fűrész  
+   Varrógépek  
+8452 21 00 Más automata varrógép  
+ 29 00 Más varrógép
+Fa, fém és egyéb anyagok esztergálására, 
+aprítására, csiszolására, őrlésére, 
+fűrészelésére, vágására, nyírására, fúrására, 
+lyukasztására, perforálására, hajtogatására, 
+hajlítására és hasonló megmunkálására 
+szolgáló berendezések
+A nagyméretű helyhez 
+kötött berendezések
+8458 19 00 Más vízszintes fémipari eszterga  
+ 99 00 Más eszterga  
+8459 39 00 Furatmegmunkáló marógép Numerikus 
+ 40 90 Furatmegmunkáló gép Numerikus 
+ 69  Marógép Numerikus 
+ 70 00 Más menetfúró vagy menetvágó gép
+8467   
+Kézi használatú szerszám, pneumatikus, 
+hidraulikus vagy beépített elektromos vagy nem 
+elektromos motorral működő
+A 8467 91, a 
+8467 92, és a 
+8467 99 alá tartozó 
+alkatrészek
+Szegecselésre, szegezésre, csavarásra, illetve 
+szegecsek, szögek, csavarok eltávolítására 
+vagy hasonló célokra szolgáló szerszámok
+8467   Kézi használatú szerszám beépített elektromos motorral működő
+A 8467 91, a 
+8467 92 és a 
+8467 99 alá tartozó 
+alkatrészek
+Hegesztésre, forrasztásra és hasonló célokra szolgáló szerszámok
+8468   Elektromos hegesztőgép és -készülék, vágásra alkalmas is 
+A 8468 90 alá tartozó 
+alkatrészek
+8515 11 00 Forrasztópáka és -pisztoly
+Szórásra, kenésre, diszperzióra, illetve 
+folyadékok vagy gázok másfajta kezelésére 
+szolgáló berendezések
+8424   Folyadék vagy por kilövésére, szórására vagy porlasztására szolgáló elektromos gép, készülék 
+A 8424 90 alá tartozó 
+alkatrészek
+Fűnyírók és egyéb kertészeti szerszámok
+8432   Elektromos talaj-előkészítésre vagy -megmunkálásra szolgáló gép 
+A 8432 90 alá tartozó 
+alkatrészek
+8433   Elektromos fűkaszálógép  
+8413 70 21 Egyfokozatú centrifugális búvárszivattyú
+11900 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+7. Játékok, szabadidős és sportfelszerelések:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Villanyvonatok vagy autóverseny-készletek
+9503 00 30 
+Villanyvonat, vágány, jelzőlámpa és más 
+tartozékai; csökkentett méretű, méretarányos 
+összeszerelhető modell készletben, működő is
+9504 90 10 Elektromos autóverseny-készlet, verseny jellegű
+Kézi videojáték-konzolok  
+9504 90 90 Kézi videojátékok, konzolok  
+   Videojátékok  
+9504 10 00 Tévéhez kapcsolható videojáték
+Számítógépek kerékpározáshoz, búvárkodáshoz, futáshoz, evezéshez stb.
+8470   Számítógépek kerékpározáshoz, búvárkodáshoz, futáshoz, evezéshez stb.
+Elektromos vagy elektronikus alkatrészeket tartalmazó sportfelszerelések
+Érmével működő játékautomaták
+9504 30  
+Pénzérmékkel, bankjegyekkel, bankkártyákkal, 
+zsetonokkal vagy más fizetőeszközökkel 
+működő elektromos, elektronikus más játék
+A tekepálya 
+felszerelés, továbbá a 
+9504 30 90 alá tartozó 
+alkatrészek
+9503 00 75 79 Beépített motorral működő más játék és modell
+8. Orvostechnikai eszközök, kivéve a beültetett és fertőzött termékek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Sugárterápiás berendezések
+9022
+Röntgen-, vagy alfa-, béta- vagy 
+gammasugárzással működő berendezés orvosi, 
+sebészeti, fogászati vagy állatorvosi célra is, 
+radiográf vagy radioterápiai készülék
+A 9022 90 alá tartozó 
+alkatrészek és 
+tartozékok, valamint az 
+állatorvosi 
+berendezések és 
+tartozékaik
+Kardiológiai berendezések  
+   Dializáló berendezések  
+   Lélegeztetőgépek  
+   Nukleáris medicina berendezései
+Laboratóriumi berendezések in vitro diagnózishoz
+9027   
+Fizikai vagy vegyi analízisre szolgáló orvosi, 
+sebészeti, fogászati vagy állatorvosi  
+elektromos, elektronikus készülék és műszer
+A 9027 90 alá tartozó 
+alkatrészek és 
+tartozékok, valamint az 
+állatorvosi készülékek, 
+műszerek és 
+tartozékaik
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11901
+Analizálóberendezések  
+   Fagyasztók
+8418 30  Fagyasztóláda, legfeljebb 800 liter űrtartalommal Nem orvosi
+40  Fagyasztószekrény, legfeljebb 900 liter űrtartalommal  Nem orvosi
+50 90 Más hűtőberendezési tárgy  
+ 69 00 Más hűtő- vagy fagyasztókészülék Nem orvosi 
+   Megtermékenyítési tesztek
+Betegségek, sérülések vagy rokkantság 
+kimutatására, megelőzésére, megfigyelésére, 
+kezelésére és enyhítésére szolgáló egyéb 
+berendezések
+Nem elektromos
+9006 30 00
+Belső szervek orvosi vagy sebészeti 
+vizsgálatára tervezett speciális fényképezőgép; 
+törvényszéki vagy kriminológiai célra 
+összehasonlító fényképezőgép
+9018   
+Elektromos, elektronikus orvosi, sebészeti, 
+fogászati vagy állatorvosi műszer és készülék, 
+szcintigráf készülék is
+Állatorvosi műszerek, 
+készülékek és 
+tartozékaik
+9. Ellenőrző és vezérlőeszközök:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Füstjelző berendezések
+8531 10  Tüzet jelző riasztókészülék és hasonló A 8512 és a 8530 alá tartozó berendezések 
+   Fűtésszabályozók
+9027   
+Háztartási vagy laboratóriumi mérő és 
+szabályozó elektromos, elektronikus 
+készülékek, berendezések
+Termosztátok  
+9032 10 20 Elektronikus termosztát
+Háztartási vagy laboratóriumi mérő- és szabályozó berendezések
+8423   Mérleg, beleértve a súllyal működtetett számláló- vagy ellenőrzőmérleget is
+A 8423 10 10 alá 
+tartozó berendezések, 
+és az 50 mg vagy ennél 
+nagyobb érzékenységű 
+mérleg
+8537 10  Ellenőrző és vezérlőeszközök (pl. vezérlőpultok)
+Ipari létesítményekben használt egyéb 
+ellenőrző és vezérlőeszközök (pl. 
+vezérlőpultok)
+8423   Mérleg, beleértve a súllyal működtetett számláló- vagy ellenőrzőmérleget is
+A 8423 10 10 alá 
+tartozó berendezések, 
+és az 50 mg vagy ennél 
+nagyobb érzékenységű 
+mérleg
+11902 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+8512 30 10 Gépjárműhöz használt hangjelző riasztóberendezés 
+A gépjármű részeként 
+beépített berendezés
+8531   
+Elektromos, akusztikus vagy vizuális 
+jelzőberendezés (pl. csengő, sziréna jelzőtábla, 
+betörést jelző riasztókészülék)
+A 8531 10, a 8512, 
+továbbá a 8530 alá 
+tartozó berendezések,  
+valamint a 8531 90 alá 
+tartozó alkatrészek
+10. Adagolóautomaták:
+Vámtarifaszám: Megnevezés: Kivételek: 
+   Melegital-automaták
+8476 21 00 Automata italárusító-gép beépített melegítő- vagy hűtőkészülékkel
+Szilárdtermék-automaták
+8476 81 89  Más árusítóautomata
+Pénzkiadó automaták  
+8472 90  Bankjegykiadó automata
+Termékek automatikus kiadására szolgáló berendezések
+8476 21 29  Automata italárusító-gép
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11903
+2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez 14
+A gyűjtési és a hasznosítási arány mértéke 
+ 
+1. A gyűjtési arány mértéke:
+1.1. A hulladékká vált elektromos, elektronikus berendezésre vonatkozó minimális gyűjtési 
+arány mértéke elektromos-, elektronikusberendezés-kategóriánként:
+Elektromos-, elektronikusberendezés-kategória:
+2014-től:
+1. Háztartási nagygép 48 % 
+2. Háztartási kisgép 27 % 
+3. Információs (IT) és távközlési berendezések 45 % 
+4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek 40 % 
+5. Világítótestek 7 % 
+5a. Gázkisülésű lámpák 40 % 
+6. Elektromos és elektronikus szerszámok, kivéve 
+nagyméretű, rögzített ipari szerszámok
+8 %
+7. Játékok, szabadidős és sportfelszerelések 7 % 
+8. Orvostechnikai eszköz, kivéve beültetett és fertőzött 
+termékek
+-
+9. Ellenőrző és vezérlőeszközök 7 % 
+10. Adagolóautomaták 7 %
+1.2. Az elektromos-, elektronikusberendezés-kategóriánként meghatározott tárgyévi 
+minimális gyűjtési kötelezettség megállapítására – berendezés-kategóriánként – a következő 
+képletet kell alkalmazni:
+B = F × K 
+ 
+ahol:
+B: a tárgyévben az adott elektromos, elektronikus berendezés-kategóriából minimális 
+gyűjtési kötelezettséggel érintett, hulladékká vált elektromos, elektronikus berendezés 
+mennyisége (kilogrammban megadva);
+F: a gyártó által a tárgyévet megelőző évben Magyarországon forgalmazott, adott 
+kategóriába tartozó elektromos, elektronikus berendezés mennyisége (kilogrammban 
+megadva);
+K: a táblázatban az adott kategóriához, elektromos-, elektronikusberendezés-
+kategóriánként meghatározott, tárgyévre vonatkozó minimális gyűjtési arány mértéke 
+(százalékban megadva).
+1.3. Az Információs (IT) és távközlési berendezések (3. kategória): az ”F” szerinti mennyiség 
+gyűjtéséből származó berendezések esetében legalább 12%-ot kell teljesíteni.
+1.4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek (4. kategória): az ”F” szerinti 
+mennyiség gyűjtéséből származó berendezések esetében legalább 15%-ot kell teljesíteni.
+11904 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+2. A hasznosítási és az újrafeldolgozási arány mértéke:
+2.1. A hulladékká vált elektromos, elektronikus berendezésre vonatkozó minimális 
+hasznosítási arány mértéke 2014. december 31-ig:
+Elektromos-, elektronikusberendezés-
+kategória:
+Hasznosítási arány
+(R):
+Újrafeldolgozási
+arány (A):
+1. Háztartási nagygépek 80% 75% 
+ 2. Háztartási kisgépek 70% 50% 
+ 3. Információs (IT) és távközlési berendezések 75% 65% 
+ 4. Szórakoztatóelektronikai cikkek és 
+fotovoltaikus panelek
+75% 65%
+5. Világítótestek 70% 50% 
+ 5a. Gázkisülésű lámpák 70% 80% 
+ 6. Elektromos és elektronikus szerszámok, 
+kivéve nagyméretű, rögzített ipari szerszámok
+70% 50%
+7. Játékok, szabadidős és sportfelszerelések 70% 50% 
+ 8. Orvostechnikai eszközök, kivéve beültetett 
+és fertőzött termékek
+70 % 50%
+9. Ellenőrző és vezérlőeszközök 70% 50% 
+10. Adagolóautomaták 80% 75%
+2.2. A tárgyévi hasznosítási kötelezettség megállapítására – elektromos-, 
+elektronikusberendezés-kategóriánként – a következő képletet kell alkalmazni:
+H = T × R 
+ahol: 
+ 
+H: a gyártó által a tárgyévben ténylegesen átvett és gyűjtött hulladékká vált elektromos,
+elektronikus berendezés mennyiségéből kötelezően hasznosítandó mennyiség 
+(kilogrammban megadva);
+T: a gyártó által a tárgyévben ténylegesen átvett és gyűjtött hulladékká vált elektromos, 
+elektronikus berendezés mennyisége (kilogrammban megadva);
+R: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó hasznosítási arány 
+mértéke (százalékban megadva).
+2.3. A újrafeldolgozási kötelezettség megállapítására – elektromos-, elektronikusberendezés-
+kategóriánként – a következő képletet kell alkalmazni:
+U = T × A
+ahol: 
+ 
+U: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált
+elektromos, elektronikus berendezés mennyiségéből kötelezően újrafeldolgozandó 
+mennyiség (kilogrammban megadva);
+T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett, hulladékká vált 
+elektromos, elektronikus berendezés mennyisége (kilogrammban megadva);
+A: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó újrafeldolgozási arány 
+mértéke (százalékban megadva).
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11905
+3. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez 16
+Az újrahasználattal kapcsolatos minimumkövetelmények 
+ 
+1. Általános követelmények:
+1.1. A használt elektromos, elektronikus berendezésnek és a hulladékká vált elektromos, 
+elektronikus berendezésnek, amelyet újrahasználatra előkészítettek (a továbbiakban együtt: 
+berendezés) működőképesnek kell lennie. A berendezés akkor működőképes, ha 
+valamennyi funkcióját, amellyel eredetileg rendelkezett, maradéktalanul teljesíteni képes, 
+és rendeltetésszerűen üzemel.  
+ 
+1.2. A berendezésnek valamennyi olyan alkotórésszel, illetve alkotóelemmel rendelkeznie 
+kell, amely a működőképességhez szükséges.  
+ 
+1.3. A berendezésnek és alkotórészeinek, illetve alkotóelemeinek jó állapotúnak kell 
+lenniük. Az alkotórészek, illetve alkotóelemek akkor tekinthetők jó állapotúnak, ha azok 
+sértetlenek (pl. nem töröttek, nem rozsdásak, az anyaguk nem kopott és nem használódott 
+el), tiszták (pl. nem porosak és nem szennyezettek) és nem hibásak. 
+ 
+1.4. Ha a berendezés rendelkezik szigeteléssel, annak sértetlennek kell lennie és a 
+berendezésnek hiánytalanul, teljes egészében részét kell képeznie. 
+ 
+1.5. Ha a berendezés rendelkezik fűtőelemekkel, azoknak jó állapotúaknak kell lenniük, 
+meszesedésre utaló nyomot nem mutathatnak. Az elmeszesedett fűtőelemekkel rendelkező 
+berendezés csak akkor hozható ismételten forgalomba, ha a benne lévő használt 
+fűtőelemeket sértetlen és teljes egészében ép fűtőelemekre cserélik. 
+ 
+1.6. A berendezésnek az eredeti burkolattal kell rendelkeznie. 
+ 
+1.7. A berendezésnek biztonságosnak kell lennie. A berendezés nem lehet sugárveszélyes.
+2. Környezetvédelmi követelmények:
+2.1. A berendezés nem tartalmazhatja a következő veszélyes anyagokat:  
+2.1.1. poliklórozott bifenil (PCB),  
+2.1.2. poliklórozott terfenil (PCT), 
+2.1.3. polibrómozott bifenil (PBB), 
+2.1.4. polibrómozott bifenil-éter (PBDE), 
+2.1.5. higany, 
+2.1.6. kadmium, 
+2.1.7. azbeszt, 
+2.1.8. ólom, 
+2.1.9. hat vegyértékű króm.
+2.2. A berendezés nem tartalmazhatja a következő szénhidrogéneket:
+2.2.1. klórozott-fluorozott szénhidrogén (CFC), 
+2.2.2. részlegesen halogénezett klórozott-fluorozott szénhidrogének (HCFC).
+11906 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+4. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez 17
+Az elkülönített gyűjtést igénylő, hulladékká vált elektromos, elektronikus berendezés 
+jelölése
+Az elkülönített gyűjtést igénylő, 2005. augusztus 13. napja után gyártott és hulladékká vált 
+elektromos, elektronikus berendezést az alábbi ábrával kell megjelölni:
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11907
+5. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez 18
+A vagyoni biztosíték mértéke és számításának módja
+1. A vagyoni biztosíték kilogrammra vetített összege a tárgyévi biztosítékadási 
+kötelezettség megállapításához:
+Elektromos-, elektronikusberendezés-kategória 
+A vagyoni biztosíték 
+kilogrammra vetített
+összege 
+1. Háztartási nagygépek -
+1.1.8418 KN-kód alá tartozó berendezések kivételével 26 Ft 
+1.2.8418 KN-kód alá tartozó berendezések esetében 100 Ft
+2. Háztartási kisgépek 70 Ft 
+3. Információs (IT) és távközlési berendezések 100 Ft 
+4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek 95 Ft 
+5. Világítótestek 190 Ft 
+6. Elektromos és elektronikus szerszámok, kivéve nagyméretű, 
+rögzített ipari szerszámok 85 Ft
+7. Játékok, szabadidős és sportfelszerelések 100 Ft 
+ 
+2. A vagyoni biztosíték mértéke, számításának módja:
+2.1. A vagyoni biztosíték mértéke: 
+ 
+A vagyoni biztosíték mértéke a gyártott vagy importált elektromos, elektronikus berendezések 
+berendezés-kategóriánkénti mennyisége, valamint az 1. pontban foglalt táblázatban a 
+berendezés-kategóriákhoz megadott vagy egyes berendezések esetében KN-kódhoz rendelt, 
+kilogrammra vetített biztosítékösszegek szorzataként képzett mennyiségek összege. 
+ 
+2.2. A vagyoni biztosíték számításának módja: 
+ 
+2.2.1. Ha a gyártó a tevékenységét nem év közben kezdi meg, az éves vagyoni biztosíték 
+számításának módja:
+B= Mi × bi
+ahol
+B: a képzendő vagyoni biztosíték összege; 
+ bi: az 1. pontban foglalt táblázatban berendezés-kategóriánként vagy egyes
+berendezések esetében KN-kódonként meghatározott, kilogrammra vetített 
+vagyoni biztosíték összege;
+Mi: a gyártó által előző évben gyártott vagy importált, adott berendezés-
+kategóriába vagy KN-kód alá tartozó berendezés mennyisége (kilogrammban 
+megadva), az Mi értékébe nem kell beleszámolni azoknak a berendezéseknek a 
+mennyiségét, amelyekről a gyártó igazolni tudja, hogy azokat kizárólag a 
+háztartásokon kívül használják vagy azokat általában nem háztartásokban 
+használják.
+11908 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+2.2.2. Ha a gyártó tevékenységét év közben kezdi meg, a törtév minden hónapjában képzendő 
+vagyoni biztosíték számításának módja:
+B= mi × bi
+ahol 
+ B: a képzendő vagyoni biztosíték összege; 
+ bi: az 1. pontban foglalt táblázatban berendezés-kategóriánként vagy egyes
+berendezések esetében KN-kódonként meghatározott, kilogrammra vetített 
+vagyoni biztosíték összege;
+mi: a gyártó által a tárgyhónapban gyártott vagy importált, adott berendezés-
+kategóriába vagy KN-kód alá tartozó berendezés mennyisége (kilogrammban 
+megadva), az mi értékébe nem kell beleszámolni azoknak a berendezéseknek a 
+mennyiségét, amelyekről a gyártó igazolni tudja, hogy azokat kizárólag a 
+háztartásokon kívül használják vagy azokat általában nem háztartásokban 
+használják.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11909
+6. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez 20
+Adatlap a gyártó nyilvántartásba vételi kötelezettségéhez
+ADATLAP A GYÁRTÓ NYILVÁNTARTÁSBA VÉTELI KÖTELEZETTSÉGÉHEZ
+Új bejelentés □ Adatmódosítás □ Törlés bejelentése □ 
+ 
+1. A gyártó adatai: 
+1.1. Rövid neve: 
+1.2. Teljes neve: 
+1.3. Székhelye: 
+1.4. Címe:
+.............................................................................................................................................  
+irányítószám város, község utca, út, tér házszám
+1.5. Meghatalmazott képviselő neve:
+1.6. Meghatalmazott képviselő címe:
+.............................................................................................................................................  
+          irányítószám                   város, község             utca, út, tér                  házszám 
+1.7. Nemzeti adóazonosító száma vagy európai adószáma: 
+ 
+1.8. Cégjegyzékszáma:
+2. A hatósággal való kapcsolattartásért felelős személy adatai: 
+2.1. Név: 2.2. Beosztása: 
+2.3. Telefonszáma: 2.4. Faxszáma: 
+2.5 E-mail címe:
+3. A magyarországi kézbesítési meghatalmazott adatai:* 
+3.1. Név: 
+3.2. Lakóhelye (székhelye):
+.............................................................................................................................................  
+irányítószám város, község utca, út, tér házszám
+3.3. Telefonszáma: 3.4. Faxszáma: 
+E-mail címe:
+11910 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 21 
+ 
+4. A forgalmazott elektromos, elektronikus berendezés kategóriája (a megfelelő berendezés-
+kategóriát,”X”-szel kell jelölni):
+1. Háztartási nagygépek 
+ 6. Elektromos és elektronikus
+szerszámok, kivéve nagyméretű, 
+rögzített ipari szerszámok;
+2. Háztartási kisgépek 
+ 7. Játékok, szabadidős és
+sportfelszerelések
+3. Információs (IT) és távközlési 
+berendezések
+8. Orvostechnikai eszközök, kivéve 
+beültetett és fertőzött termékek
+4. Szórakoztatóelektronikai cikkek és 
+fotovoltaikus panelek
+9. Ellenőrző és vezérlőeszközök
+5. Világítótestek   10. Adagolóautomaták
+5. A forgalmazott elektromos, elektronikus berendezés típusa (háztartási elektromos, 
+elektronikus berendezés vagy egyéb) és márkaneve:
+Típus: Márkanév:
+1.
+2.
+3.
+4.
+5.
+6.  
+ 
+6. A gyártó rendeletben foglalt kötelezettsége teljesítésének módja:
+1. Egyéni teljesítés útján: □ 
+2. OHÜ-n keresztül történő kollektív teljesítés útján: □ 
+3. Közvetítő szervezeten keresztüli teljesítés útján (közvetítő szervezet neve):
+□
+4. Átvállalóra átruházás útján: □ 
+5. Termékdíjátalány-fizetés útján: □
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 1191122 
+ 
+7. A gyártó által a rendeletben meghatározott kötelezettségek teljesítésére a 14. §  
+(1) bekezdése alapján vállalt vagyoni biztosíték összege és típusa:
+8. Az értékesítés módja (pl. távértékesítés):
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P.H. 
+ ………………....................................... 
+ cégszerű aláírás**
+Hatóság tölti ki!
+Beérkezés dátuma: □□□□ év □□ hó □□ nap 
+Az adatokat nyilvántartásba vette:
+Név:  
+Aláírás: P.H.
+Kiadott nyilvántartási szám:
+* Külföldi székhelyű gyártó esetén töltendő ki, amelyhez csatolni kell a meghatalmazás 
+elfogadását tartalmazó okiratot. 
+** A gyártó a cégszerű aláírással vállalja, hogy a fenti adatok a valóságnak megfelelnek.
+11912 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+7. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez 23
+Adatlapok a gyártó adatszolgáltatási kötelezettségének teljesítéséhez
+Borítólap ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ
+A 
+tárgyévet 
+megelőző
+év:
+1. Gyártó adatai: 
+1.1. A gyártó nyilvántartási száma: 
+1.2. Rövid neve: 
+1.3. Teljes neve: 
+1.4. Székhelye: 
+1.5. Címe:
+………………………………………………………………………………………………… 
+     irányítószám               város, község                          utca, út, tér                        házszám 
+1.6. Nemzeti adóazonosító száma vagy európai adószáma: 
+1.7. Cégjegyzékszáma: 
+1.8. Felelős vezető neve:
+1.9. Beosztása:
+1.10. Telefonszáma:
+1.11. Faxszáma:
+1.12. E-mail címe:
+2. Adatszolgáltatás: 
+2.1. Formája: 
+2.2. Bejelentőlapok részletezése:
+Kérdőív lapok száma:……………………..................db 
+ 
+Forgalmazott mennyiségekről szóló lapok száma:…...db 
+ 
+A gyűjtési kötelezettségről szóló lapok száma:………db 
+ 
+A kezelt mennyiségekről szóló lapok száma:……...…db 
+ 
+A hasznosított mennyiségekről  
+szóló lapok száma:……………………………………db 
+ 
+Az ártalmatlanított mennyiségekről  
+szóló lapok száma:……………………………………db
+2.3.  A csatolt lapok összesen:……………………………..db
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 1191324 
+ 
+3. Az adatszolgáltatásért felelős: 
+3.1. Neve:
+3.2. Beosztása:
+3.3. Telefonszáma:
+3.4. Faxszáma: 3.5. E-mail címe:
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+………………………………………………
+cégszerű aláírás
+Hatóság tölti ki! 
+ 
+A beérkezés dátuma: □□□□ év □□ hó □□ nap
+Az adatokat nyilvántartásba vette: 
+ 
+Név: 
+ 
+Aláírás:
+11914 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+25
+Forgalomba hozott mennyiség a 
+tárgyévet megelőző évben a 17. §
+(2) bekezdés a) pontja alapján
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ A tárgyévet megelőző év:
+Gyártó nyilvántartási száma:
+Elektromos-,
+elektronikusberendezés-
+kategória
+Belföldön forgalomba hozott 
+háztartási elektromos,
+elektronikus berendezések 
+mennyisége a tárgyévet megelőző
+évben*
+Belföldön forgalomba hozott 
+nem háztartási elektromos, 
+elektronikus berendezések
+mennyisége a tárgyévet megelőző 
+évben
+Belföldön forgalomba hozott 
+elektromos, elektronikus
+berendezések mennyisége a 
+tárgyévet megelőző évben*
+A B A + B 
+kg** kg** kg**
+1. Háztartási nagygépek    
+1a. Ebből a 8418 vámtarifaszám 
+alá tartozó berendezések
+2. Háztartási kisgépek    
+3. Információs (IT) és távközlési 
+berendezések
+4. Szórakoztatóelektronikai cikkek 
+és fotovoltaikus panelek
+5. Világítótestek     
+5a. Gázkisülésű lámpák    
+6. Elektromos és elektronikus 
+szerszámok, kivéve nagyméretű, 
+rögzített ipari szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11915
+26 
+ 
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+X
+9. Ellenőrző és vezérlőeszközök X   
+10. Adagolóautomaták X   
+ÖSSZESEN:
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H. 
+ 
+          …………………………………………
+cégszerű aláírás
+* A tárgyévet megelőző évben forgalmazott berendezés mennyisége, amely a tárgyévi gyűjtési kötelezettség megállapításának az alapja. 
+** Az adatokat össztömegben  kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+11916 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+27
+A forgalomba hozni tervezett
+mennyiség a tárgyévben a 17. § 
+(2) bekezdés b) pontja alapján
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ Tárgyév:
+Gyártó nyilvántartási száma:
+Elektromos-,
+elektronikusberendezés-
+kategória
+Belföldön forgalomba hozni 
+tervezett háztartási elektromos,
+elektronikus berendezések 
+mennyisége a tárgyévben
+Belföldön forgalomba hozni 
+tervezett nem háztartási 
+elektromos, elektronikus
+berendezések mennyisége a 
+tárgyévben
+Belföldön forgalomba hozni 
+tervezett elektromos,
+elektronikus berendezések 
+mennyisége a tárgyévben
+A B A + B 
+kg* kg* kg*
+1. Háztartási nagygépek X X X 
+2. Háztartási kisgépek    
+3. Információs (IT) és távközlési 
+berendezések
+4. Szórakoztatóelektronikai cikkek 
+és fotovoltaikus panelek
+5. Világítótestek     
+5a. Gázkisülésű lámpák    
+6. Elektromos és elektronikus 
+szerszámok, kivéve nagyméretű, 
+rögzített ipari szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11917
+28 
+ 
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+X
+9. Ellenőrző és vezérlőeszközök X   
+10. Adagolóautomaták X   
+ÖSSZESEN:
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H. 
+ 
+         …….……………………………………
+cégszerű aláírás 
+ 
+* Az adatokat össztömegben meg kell adni, ha szükséges, darabszám alapján történő becsléssel.
+11918 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 29
+Gyűjtési kötelezettség a 
+tárgyévet megelőző évben a 
+17. § (2) bekezdés c) pontja
+szerint
+ADATLAP AZ 
+ADATSZOLGÁLTATÁS
+TELJESÍTÉSÉHEZ
+A tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+Elektromos-,
+elektronikusberendezés-
+kategória
+Belföldön 
+forgalomba hozott
+elektromos, 
+elektronikus 
+berendezések 
+mennyisége a
+tárgyévet 
+megelőző év előtti
+évben*
+Elektromos, 
+elektronikus
+berendezésekre 
+vonatkozó gyűjtési
+arányszám a 
+tárgyévet
+megelőző évben
+Elektromos, 
+elektronikus
+berendezésekre 
+vonatkozó gyűjtési
+kötelezettség a 
+tárgyévet
+megelőző évben
+A B A x B
+kg** - kg**
+1. Háztartási nagygépek    
+1a. Ebből a 8418 
+vámtarifaszám alá tartozó 
+berendezések
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+3a. Ebből képcsöves 
+berendezés**
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+4a. Ebből képcsöves 
+berendezés
+5. Világítótestek     
+5a. Gázkisülésű lámpák    
+6. Elektromos és elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített ipari 
+szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11919
+30 
+ 
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN    
+ 
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+……................................................. 
+cégszerű aláírás
+*A tárgyévet megelőző év előtti évben forgalmazott berendezés mennyisége, amely a 
+tárgyévet megelőző évben esedékes gyűjtési kötelezettség megállapításának az alapja. 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő 
+becsléssel.
+11920 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 31
+Gyűjtési kötelezettség a 
+tárgyévben a 17. § (2)
+bekezdés d) pontja szerint
+ADATLAP AZ 
+ADATSZOLGÁLTATÁS
+TELJESÍTÉSÉHEZ
+Tárgyév:
+Gyártó nyilvántartási száma:
+Elektromos-,
+elektronikusberendezés-
+kategória
+Belföldön 
+forgalomba hozott
+elektromos, 
+elektronikus 
+berendezések 
+mennyisége a
+tárgyévet 
+megelőző évben*
+Elektromos, 
+elektronikus
+berendezésekre 
+vonatkozó gyűjtési
+arányszám a 
+tárgyévben
+Elektromos, 
+elektronikus
+berendezésekre 
+vonatkozó gyűjtési
+kötelezettség a 
+tárgyévben
+A B A x B
+kg** - kg**
+1. Háztartási nagygépek    
+1a. Ebből a 8418 
+vámtarifaszám alá tartozó 
+berendezések
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+3a. Ebből képcsöves 
+berendezés**
+X
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+4a. Ebből képcsöves 
+berendezések
+X
+5. Világítótestek     
+5a. Gázkisülésű lámpák    
+6. Elektromos és elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített ipari 
+szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11921
+32
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+X
+9. Ellenőrző és 
+vezérlőeszközök
+X
+10. Adagolóautomaták X   
+ÖSSZESEN    
+ 
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+………................................................ 
+cégszerű aláírás
+* A tárgyévet megelőző évben forgalmazott berendezés mennyiség, amely a tárgyévben 
+esedékes gyűjtési kötelezettség megállapításának az alapja. 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő 
+becsléssel.
+11922 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 33
+Átvett és gyűjtött 
+mennyiség a tárgyévet
+megelőző évben a 17. § (2) 
+bekezdés e) pont ea)
+alpontja szerint
+ADATLAP AZ 
+ADATSZOLGÁLTATÁS
+TELJESÍTÉSÉHEZ
+A tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+Elektromos-, 
+elektronikusberendezés-
+kategória
+Átvett és gyűjtött  
+elektromos, 
+elektronikus 
+berendezések 
+háztartásban
+képződő hulladéka 
+a tárgyévet
+megelőző évben
+Átvett és gyűjtött 
+elektromos, 
+elektronikus
+berendezések nem 
+háztartásban
+képződő hulladéka 
+a tárgyévet
+megelőző évben
+Átvett és gyűjtött 
+hulladékká vált
+elektromos, 
+elektronikus 
+berendezések 
+mennyisége a
+tárgyévet 
+megelőző évben
+A B A + B
+kg* kg* kg*
+1. Háztartási nagygépek    
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+3a. Ebből képcsöves 
+berendezések
+X
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+4a. Ebből képcsöves 
+berendezések
+X
+5. Világítótestek     
+5a. Gázkisülésű lámpák    
+6. Elektromos és elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített ipari 
+szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11923
+34 
+ 
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+……….................................................
+cégszerű aláírás
+* Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő 
+becsléssel.
+11924 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 35
+A gyűjteni tervezett 
+mennyiség a tárgyévben a 
+17. § (2) bekezdés f) pontja
+szerint
+ADATLAP AZ 
+ADATSZOLGÁLTATÁS
+TELJESÍTÉSÉHEZ
+Tárgyév:
+Gyártó nyilvántartási száma:
+Elektromos-, 
+elektronikusberendezés-
+kategória
+A gyűjteni 
+tervezett
+elektromos, 
+elektronikus 
+berendezések 
+háztartásban
+képződő hulladéka 
+a tárgyévben
+A gyűjteni 
+tervezett
+elektromos, 
+elektronikus
+berendezések nem 
+háztartásban
+képződő hulladéka 
+a tárgyévben
+A gyűjteni 
+tervezett
+hulladékká vált 
+elektromos, 
+elektronikus 
+berendezések
+várható 
+mennyisége a 
+tárgyévben
+A B A + B
+kg* kg* kg*
+1. Háztartási nagygépek    
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+3a. Ebből képcsöves 
+berendezések
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+4a. Ebből képcsöves 
+berendezések
+5. Világítótestek      
+5a. Gázkisülésű lámpák    
+6. Elektromos és elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített ipari 
+szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11925
+36
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN    
+ 
+A kitöltés dátuma: _______ év ___ hó ___ nap.
+P. H.
+…………................................................. 
+cégszerű aláírás
+* Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő 
+becsléssel.
+11926 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 37
+Kezelt mennyiség a 
+tárgyévet megelőző
+évben a 17. § (2) 
+bekezdés e) pont eb)
+alpontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS 
+TELJESÍTÉSÉHEZ
+A tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+Elektromos-,
+elektronikusberen-
+dezés-kategória
+Tagállamon 
+belül kezelt 
+mennyiség a
+tárgyévet 
+megelőző
+évben
+Másik 
+tagállamban
+kezelt 
+mennyiség a
+tárgyévet 
+megelőző
+évben
+Európai 
+Unión kívül
+kezelt 
+mennyiség a
+tárgyévet 
+megelőző
+évben
+Összes kezelt 
+mennyiség a
+tárgyévet 
+megelőző évben
+A B C A + B + C
+kg* kg* kg* kg* 
+1. Háztartási nagygépek     
+2. Háztartási kisgépek     
+3. Információs (IT) és 
+távközlési berendezések
+4. 
+Szórakoztatóelektroni-
+kai cikkek és 
+fotovoltaikus panelek
+5. Világítótestek      
+5a. Gázkisülésű lámpák     
+6. Elektromos és 
+elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős 
+és sportfelszerelések
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11927
+38
+8. Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták     
+ÖSSZESEN
+A kitöltés dátuma: ______ év __ hó __ nap.
+P. H.  
+…...…..………………………………
+cégszerű aláírás 
+ 
+ 
+ 
+* Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő 
+becsléssel.
+11928 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+39
+A kezelni tervezett
+mennyiség a tárgyévben 
+a 17. § (2) bekezdés f)
+pontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ Tárgyév: 
+Gyártó nyilvántartási száma:
+Elektromos-, 
+elektronikusberende-
+zés-kategória
+Tagállamon belül 
+kezelni tervezett
+mennyiség
+Másik tagállamban 
+kezelni tervezett
+mennyiség
+Európai Unión kívül 
+kezelni tervezett
+mennyiség
+Összes várhatóan kezelni 
+tervezett mennyiség
+A B C A + B + C 
+kg* kg* kg* kg*
+1. Háztartási nagygépek     
+2. Háztartási kisgépek     
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztató-
+elektronikai cikkek és 
+fotovoltaikus panelek
+5. Világítótestek
+5a. Gázkisülésű lámpák     
+6. Elektromos és 
+elektronikus szerszámok, 
+kivéve nagyméretű, 
+rögzített ipari szerszámok
+7. Játékok, szabadidős és 
+sport-felszerelések
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11929
+40 
+ 
+8.Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és  
+vezérlőeszközök
+10. Adagolóautomaták     
+ÖSSZESEN     
+ 
+A kitöltés dátuma: ______ év ___ hó ___ nap. 
+ 
+     P. H.
+……..…………………………………… 
+cégszerű aláírás
+* Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+11930 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+41
+Átvállaló által hasznosított
+mennyiség a tárgyévet megelőző 
+évben* a 17. § (2) bekezdés e) pont
+eb) alpontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ Tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+ÁTVÁLLALÓ MEGNEVEZÉSE:
+Elektromos-, 
+elektronikusberen-
+dezés-kategória
+Átvállalónak 
+átadott mennyiség
+Átvállaló által 
+hasznosított 
+mennyiség
+Hasznosítási 
+arányszám
+Átvállaló által 
+újrafeldolgozott vagy 
+részben újrahasznált
+mennyiség
+Újra-
+feldolgozási
+vagy részben 
+újrahasználati
+arányszám
+Átvállaló által 
+energia-
+termeléssel 
+égetett
+mennyiség 
+AM H=E+B HR=H / AM E UFR=E / AM B 
+kg** kg** - kg** - kg**
+1. Háztartási 
+nagygépek
+2. Háztartási kisgépek       
+3. Információs (IT) és 
+távközlési 
+berendezések
+4. Szórakoztató-
+elektronikai cikkek és 
+fotovoltaikus panelek
+5. Világítótestek        
+5a. Gázkisülésű 
+lámpák
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11931
+42 
+ 
+6. Elektromos és 
+elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős 
+és sportfelszerelések
+8. Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták       
+ÖSSZESEN
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H. 
+ ………………………………………
+cégszerű aláírás 
+* Az adatlap minden egyes átvállalóra kitöltendő! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+Jelmagyarázat: 
+Hasznosítás: (A-C)/AM = HR x 100 % 
+Újrafeldolgozás: (AM-B-C)/AM = UFR x 100 % 
+B = energiatermelésre szánt anyagi frakciók tömege (kg) 
+C = összes ártalmatlanított mennyiség (kg) 
+HR = hasznosítási arányszám 
+UFR = újrafeldolgozási arányszám
+11932 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+43
+A hasznosítani tervezett
+mennyiség a tárgyévben* a 17. § (2) 
+bekezdés f) pontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ Tárgyév:
+Gyártó nyilvántartási száma: 
+ 
+ÁTVÁLLALÓ MEGNEVEZÉSE:
+Elektromos-, 
+elektronikusberen-
+dezés-kategória
+Átvállalónak 
+átadásra tervezett
+mennyiség
+Átvállaló által 
+hasznosítani
+tervezett mennyiség
+Hasznosítási 
+arányszám
+Átvállaló által 
+újrafeldolgozni 
+vagy részben
+újrahasználatra 
+előkészíteni
+tervezett 
+mennyiség
+Újrafeldolgozási 
+vagy részben
+újrahasználati 
+arányszám
+Átvállaló által 
+energiatermeléssel
+égetni tervezett 
+mennyiség
+VAM VH=VE+VB VHR=VH/VAM VE 
+VUFR=VE/VA
+M VB
+kg** kg** - kg** - kg** 
+1. Háztartási nagygépek       
+2. Háztartási kisgépek       
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztató-
+elektronikai cikkek és 
+fotovoltaikus panelek
+5. Világítótestek
+5a. Gázkisülésű lámpák
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11933
+44 
+ 
+6. Elektromos és 
+elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős 
+és sportfelszerelések
+8. Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták       
+ÖSSZESEN
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H. 
+ …...……………………………………
+cégszerű aláírás 
+* Az adatlap minden egyes átvállalóra kitöltendő! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+Jelmagyarázat: 
+Hasznosítás: (VAM-VC)/VAM = VHR x 100 % 
+Újrafeldolgozás: (VAM-VB-VC)/VAM = VUFR x 100 % 
+VB = energia termelésére szánt anyagi frakciók tömege (kg) 
+VC = ártalmatlanítani tervezett összes mennyiség (kg) 
+VHR = hasznosítási arányszám 
+VUFR = újrafeldolgozási arányszám
+11934 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+45
+Összes hasznosított mennyiség a
+tárgyévet megelőző évben* a 17. § 
+(2) bekezdés e) pont eb) alpontja
+szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ Tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+Elektromos-, 
+elektronikusberen-
+dezés-kategória
+Összes 
+átadott
+mennyiség
+Összes 
+hasznosított 
+mennyiség
+Hasznosítási 
+arányszám
+Összes 
+újra-
+feldolgozott 
+vagy részben 
+újrahasznált 
+mennyiség
+Újrafeldolgozási 
+vagy részben
+újrahasználati 
+arányszám
+Összes energiaterme-
+léssel égetett 
+mennyiség
+AM  H=E+B HR=H/AM E  UFR=E/AM B  
+kg** kg** - kg** - kg**
+1. Háztartási nagygépek       
+2. Háztartási kisgépek       
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztató-
+elektronikai cikkek és 
+fotovoltaikus panelek
+5. Világítótestek
+5a. Gázkisülésű lámpák
+6. Elektromos és 
+elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített 
+ipari szerszámok
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11935
+46 
+ 
+7. Játékok, szabadidős 
+és sportfelszerelések
+8. Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták       
+ÖSSZESEN       
+ 
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H. 
+ 
+ …...……………………………………
+cégszerű aláírás 
+* Az összes hasznosított mennyiségre vonatkozóan töltendő ki! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel. 
+ 
+Jelmagyarázat: 
+Hasznosítás: (AM-C)/AM = HR x 100 % 
+Újrafeldolgozás: (AM-B-C)/AM = UFR x 100 % 
+B = energia termelésre szánt anyagi frakciók tömege (kg) 
+C = összes ártalmatlanított mennyiség (kg) 
+HR = hasznosítási arányszám 
+UFR = újrafeldolgozási arányszám
+11936 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+47
+Az átvállaló által hasznosítani 
+tervezett összes mennyiség a
+tárgyévben* a 17. § (2) bekezdés f) 
+pontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ Tárgyév:
+Gyártó nyilvántartási száma:
+ÁTVÁLLALÓ MEGNEVEZÉSE:
+Elektromos-, 
+elektronikusberen-
+dezés-kategória
+Átvállalónak 
+átadni tervezett
+mennyiség
+Átvállaló által 
+hasznosítani
+tervezett mennyiség
+Hasznosítási 
+arányszám
+Átvállaló által 
+újrafeldolgozni 
+tervezett vagy
+részben 
+újrahasználatra
+előkészíteni 
+tervezett
+mennyiség
+Újrafeldolgozási 
+vagy részben
+újrahasználati 
+arányszám
+Átvállaló által 
+energiatermeléssel
+égetni tervezett 
+mennyiség
+VAM  VH=VE+VB  
+VHR=
+VH/VAM VE  VUFR=VE/VAM VB
+- - VHR* - VUFR* - 
+kg** kg** - kg** - kg**
+1. Háztartási nagygépek       
+2. Háztartási kisgépek       
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztató-
+elektronikai cikkek és 
+fotovoltaikus panelek
+M
+A
+G
+Y
+A
+R
+K
+Ö
+Z
+L
+Ö
+N
+Y
+ • 2014. évi 108. szám
+11937
+48 
+ 
+5. Világítótestek
+5a. Gázkisülésű lámpák
+6. Elektromos és 
+elektronikus 
+szerszámok, kivéve 
+nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős 
+és sportfelszerelések
+8. Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták       
+ÖSSZESEN       
+ 
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H. 
+ 
+ …...……………………………………
+cégszerű aláírás 
+* Az összes várhatóan hasznosításra kerülő mennyiségre töltendő ki! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+11938 
+M
+A
+G
+Y
+A
+R
+ K
+Ö
+Z
+L
+Ö
+N
+Y
+• 2014. évi 108. szám
+49 
+ 
+Jelmagyarázat: 
+Hasznosítás: (VAM-VC)/VAM = VHR x 100 % 
+Újrafeldolgozás: (VAM-VB-VC)/VAM = VUFR x 100 % 
+VB = energia termelésére szánt anyagi frakciók tömege (kg) 
+VC = ártalmatlanítani tervezett összes mennyiség (kg) 
+VHR = hasznosítási arányszám 
+VUFR = újrafeldolgozási arányszám
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 1193950
+Az átvállaló által
+ártalmatlanított mennyiség 
+a tárgyévet megelőző
+évben* a 17. § (2) bekezdés 
+e) pont eb) alpontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS 
+TELJESÍTÉSÉHEZ
+A tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+ÁTVÁLLALÓ MEGNEVEZÉSE:
+Elektromos-, 
+elektronikusberendezés-
+kategória
+Égetéssel 
+ártalmatlanított
+mennyiség
+Lerakással 
+ártalmatlanított
+mennyiség
+Összes 
+ártalmatlanított
+mennyiség 
+A B A + B
+kg** kg** kg** 
+1. Háztartási nagygépek    
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+5. Világítótestek     
+5a. Gázkisülésű lámpák    
+6. Elektromos és 
+elektronikus szerszámok, 
+kivéve nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+...……………………………………
+cégszerű aláírás
+* Az adatlap minden egyes átvállalóra kitöltendő! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+11940 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 51
+Elektromos-, 
+elektronikusberendezés-
+kategória
+Égetéssel 
+ártalmatlanítani
+tervezett  
+mennyiség
+Lerakással 
+ártalmatlanítani
+tervezett  
+mennyiség
+Ártalmatlanítani 
+tervezett összes
+mennyiség
+A B A + B 
+kg** kg** kg**
+1. Háztartási nagygépek    
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+5. Világítótestek
+5a. Gázkisülésű lámpák    
+6. Elektromos és 
+elektronikus szerszámok, 
+kivéve nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+……..…………………………………
+cégszerű aláírás
+* Az adatlap minden egyes átvállalóra kitöltendő! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+Az átvállaló által 
+ártalmatlanítani tervezett
+mennyiség a tárgyévben* a 
+17. § (2) bekezdés f) pontja
+szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS 
+TELJESÍTÉSÉHEZ
+Tárgyév:
+Gyártó nyilvántartási száma:
+ÁTVÁLLALÓ MEGNEVEZÉSE:
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 1194152
+Összes ártalmatlanított 
+hulladékmennyiség a
+tárgyévet megelőző évben* 
+a 17. § (2) bekezdés e) pont
+eb) alpontja szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS 
+TELJESÍTÉSÉHEZ
+A tárgyévet 
+megelőző év:
+Gyártó nyilvántartási száma:
+Elektromos-, 
+elektronikusberendezés-
+kategória
+Égetéssel 
+ártalmatlanított 
+összes mennyiség
+Lerakással 
+ártalmatlanított 
+összes mennyiség
+Összes 
+ártalmatlanított
+mennyiség 
+A B A + B
+kg** kg** kg** 
+1. Háztartási nagygépek    
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+4. Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+5. Világítótestek
+5a. Gázkisülésű lámpák
+6. Elektromos és 
+elektronikus szerszámok, 
+kivéve nagyméretű, rögzített 
+ipari szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+8. Orvostechnikai eszközök, 
+kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN
+A kitöltés dátuma: ____ év __ hó __ nap.
+P. H.
+………………………………………
+cégszerű aláírás
+* Az összes ártalmatlanított mennyiségre vonatkozóan töltendő ki! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+11942 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+53
+Elektromos-, 
+elektronikusberendezés-
+kategória
+Égetéssel 
+ártalmatlanítani 
+tervezett összes
+mennyiség
+Lerakással 
+ártalmatlanítani 
+tervezett összes
+mennyiség
+Összes ártalmatlanítani 
+tervezett mennyiség
+A B A + B 
+kg** kg** kg**
+1. Háztartási nagygépek    
+2. Háztartási kisgépek    
+3. Információs (IT) és 
+távközlési berendezések
+4. 
+Szórakoztatóelektronikai 
+cikkek és fotovoltaikus 
+panelek
+5. Világítótestek
+5a. Gázkisülésű lámpák    
+6. Elektromos és 
+elektronikus szerszámok, 
+kivéve nagyméretű, 
+rögzített ipari szerszámok
+7. Játékok, szabadidős és 
+sportfelszerelések
+8. Orvostechnikai 
+eszközök, kivéve 
+beültetett és fertőzött 
+termékek
+9. Ellenőrző és 
+vezérlőeszközök
+10. Adagolóautomaták    
+ÖSSZESEN
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+……..…………………………………… 
+cégszerű aláírás
+* Az összes, várhatóan ártalmatlanításra kerülő mennyiségre vonatkozóan töltendő ki! 
+** Az adatokat össztömegben kell megadni, ha szükséges, darabszám alapján történő becsléssel.
+Ártalmatlanítani 
+tervezett összes
+mennyiség a 
+tárgyévben* 17. § (2)
+bekezdés f) pontja 
+szerint
+ADATLAP AZ ADATSZOLGÁLTATÁS 
+TELJESÍTÉSÉHEZ
+Tárgyév:
+Gyártó nyilvántartási száma:
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11943
+8. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+Az átvállaló és a közvetítő szervezet adatszolgáltatási kötelezettségének teljesítéséhez  
+szükséges adatlapok
+Borítólap ADATLAP AZ ADATSZOLGÁLTATÁS TELJESÍTÉSÉHEZ
+A 
+tárgyévet 
+megelőző
+év:
+1. Átvállaló vagy közvetítő szervezet adatai: 
+Rövid neve: 
+Teljes neve: 
+Székhelye: 
+Címe:
+…………………………………………………………………………………………………
+irányítószám                  város, község                      utca, út, tér                     házszám 
+Nemzeti adóazonosító száma vagy európai adószáma: 
+Cégjegyzékszám: 
+Ügyfél státus: 
+ 
+Felelős vezető neve:
+Beosztása:
+Telefonszáma:
+Faxszáma:
+E-mail címe:
+2. Adatszolgáltatás: 
+Formája: 
+Az átvett mennyiségekről szóló lapok száma: …. db
+3. Az adatszolgáltatásért felelős: 
+Neve:
+Beosztása:
+Telefonszáma:
+Faxszáma: E-mail címe:
+A kitöltés dátuma: ______ év ___ hó ___ nap.
+P. H.
+…………………………………………… 
+cégszerű aláírás
+11944 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Hatóság tölti ki! 
+ 
+A beérkezés dátuma: ______ év ___ hó ___ 
+nap
+Az adatokat nyilvántartásba vette: 
+Név: 
+Aláírás:
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11945
+Átvett és gyűjtött mennyiség 
+a tárgyévet megelőző évben
+ADATLAP AZ 
+ADATSZOLGÁLTATÁS
+TELJESÍTÉSÉHEZ
+A tárgyévet megelőző év:
+GYÁRTÓ MEGNEVEZÉSE:
+GYÁRTÓ NYILVÁNTARTÁSI SZÁMA:
+Elektromos-, elektronikusberendezés-kategória
+Átvett és gyűjtött mennyiség
+kg 
+1. Háztartási nagygépek  
+2. Háztartási kisgépek  
+3. Információs (IT) és távközlési 
+berendezések
+3a. Ebből képcsöves berendezések  
+4. Szórakoztatóelektronikai cikkek és fotovoltaikus 
+panelek
+4a. Ebből képcsöves berendezések  
+5. Világítótestek  
+5a. Gázkisülésű lámpák  
+6. Elektromos és elektronikus szerszámok, kivéve 
+nagyméretű, rögzített ipari szerszámok
+7. Játékok, szabadidős és sportfelszerelések  
+8. Orvostechnikai eszközök, kivéve beültetett és fertőzött 
+termékek
+9. Ellenőrző és vezérlőeszközök  
+10. Adagolóautomaták  
+ÖSSZESEN
+A kitöltés dátuma: _______ év ____ hó ____ nap.
+P. H.
+……......................................
+cégszerű aláírás
+11946 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+A gyűjteni tervezett 
+mennyiség a tárgyévben
+ADATLAP AZ 
+ADATSZOLGÁLTATÁS
+TELJESÍTÉSÉHEZ
+Tárgyév:
+GYÁRTÓ MEGNEVEZÉSE:
+GYÁRTÓ NYILVÁNTARTÁSI SZÁMA:
+Elektromos-, elektronikusberendezés-
+kategória
+A gyűjteni tervezett mennyiség
+kg
+1. Háztartási nagygépek  
+ 2. Háztartási kisgépek  
+ 3. Információs (IT) és távközlési
+berendezések
+3a. Ebből képcsöves berendezés  
+ 4. Szórakoztatóelektronikai cikkek és
+fotovoltaikus panelek
+4a. Ebből képcsöves berendezés  
+ 5. Világítótestek  
+ 5a. Gázkisülésű lámpák  
+ 6. Elektromos és elektronikus szerszámok,
+kivéve nagyméretű, rögzített ipari 
+szerszámok
+7. Játékok, szabadidős és sportfelszerelések  
+ 8. Orvostechnikai eszközök, kivéve
+beültetett és fertőzött termékek
+9. Ellenőrző és vezérlőeszközök  
+ 10. Adagolóautomaták  
+ ÖSSZESEN  
+ 
+A kitöltés dátuma: _______ év ____ hó ____ nap.
+P. H.
+..............................................
+cégszerű aláírás
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11947
+9. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+A szállításra vonatkozó minimumkövetelmények 
+ 
+1. Ha a szállítmány birtokosa használt elektromos, elektronikus berendezést és nem hulladékká vált 
+elektromos, elektronikus berendezést szállít vagy kíván szállítani, akkor – annak érdekében, hogy 
+különbséget lehessen tenni a használt elektromos, elektronikus berendezés és a hulladékká vált 
+elektromos, elektronikus berendezés között – a szállítmány birtokosának a következő igazolással kell 
+rendelkeznie:
+a) a használt elektromos, elektronikus berendezés eladását, illetve tulajdonjogának átruházását 
+igazoló számla vagy szerződés másolata, amelyen szerepel, hogy a berendezést közvetlen 
+újrahasználatra szánják és teljesen működőképes;
+b) értékelő vagy vizsgálati igazolás egy példánya (tesztigazolás, működési tanúsítvány) a 
+szállítmány összes tételére vonatkozóan, valamint az összes vizsgálati eredmény 
+jegyzőkönyve a 3. pontban foglaltak szerint részletezve;
+c) a használt elektromos, elektronikus berendezés szállítását kezdeményező birtokos 
+nyilatkozata, amely kimondja, hogy a szállítmány részét alkotó egyetlen anyag vagy 
+berendezés sem minősül hulladéknak a hulladékokról és egyes irányelvek hatályon kívül 
+helyezéséről szóló, 2008. november 19-i 2008/98/EK európai parlamenti és tanácsi irányelv 
+3. cikk 1. pontja szerinti értelemben;
+d) a be- és kirakodás, illetve a szállítás során a szállítmány megfelelő védelme a károsodás ellen 
+biztosított, amely elsősorban a szállítmány megfelelő csomagolása és a rakomány megfelelő 
+elrendezése révén érhető el.
+2. Az 1. pont a) és b) alpontja, valamint a 3. pont nem alkalmazandó, ha hitelt érdemlően 
+dokumentált az, hogy a szállítás vállalkozások közötti átadási megállapodás keretében valósul meg, 
+és az, hogy:
+a) a használt elektromos, elektronikus berendezést – garanciális javításra, az újrahasználat 
+szándékával – hibásként küldik vissza a gyártónak vagy a nevében eljáró harmadik félnek;
+b) a használt, szakmai használatra szánt elektromos, elektronikus berendezést hatályos szerződés 
+alapján helyreállítás vagy javítás céljából – az újrahasználat szándékával – küldik vissza a 
+gyártónak vagy a nevében eljáró harmadik félnek vagy harmadik fél olyan országban 
+található létesítményébe, amelyre az OECD Tanácsának a hasznosításra szánt hulladék 
+országhatárokat átlépő szállításának ellenőrzéséről szóló C(92)39 végleges határozatának 
+felülvizsgálatáról szóló C(2001)107 végleges határozata vonatkozik; vagy
+c) a használt, szakmai használatra szánt hibás elektromos, elektronikus berendezést – így 
+különösen az orvostechnikai berendezéseket és azok alkatrészeit – az értékesítést követő 
+szolgáltatás részeként kötött hatályos szerződés alapján a meghibásodást kiváltó ok 
+elemzésének céljából küldik vissza a gyártónak vagy a nevében eljáró harmadik félnek, ha e 
+vizsgálatot kizárólag a gyártó vagy a nevében eljáró harmadik személy végezheti el.
+3. A használt elektromos, elektronikus berendezés tekintetében a következő vizsgálati és 
+nyilvántartási lépéseket kell követni annak megállapítására, hogy a szállított elektromos, elektronikus 
+berendezés használt elektromos, elektronikus berendezésnek, nem pedig hulladéknak minősül:
+3.1. Vizsgálat (első lépés): 
+ 
+3.1.1. A használt elektromos, elektronikus berendezés működőképességét ellenőrizni kell, 
+veszélyesanyag-tartalmát is értékelve. A vizsgálat jellege függ a vizsgált elektromos, elektronikus 
+berendezés rendeltetésétől. A legtöbb használt elektromos, elektronikus berendezés esetében 
+elegendő a főbb funkciók működéséről megbizonyosodni. 
+ 
+3.1.2. Az összes vizsgálati és teszteredményt jegyzőkönyvben rögzíteni kell.
+11948 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+3. 2. Dokumentáció (második lépés):
+3.2.1. A vizsgálati eredményekről szóló adatlapot magának a használt elektromos vagy elektronikus 
+berendezésnek az egyik oldalára kell rögzíteni (ha nincs becsomagolva), illetve a külső csomagolásra 
+kell helyezni, hogy annak felbontása nélkül tanulmányozni lehessen. 
+ 
+3.2.2. A dokumentációnak az alábbi adatokat kell tartalmaznia:
+3.2.2.1. a tétel megnevezése (a berendezés neve az 1. mellékletben meghatározott elektromos-, 
+elektronikusberendezés-kategória szerint),
+3.2.2.2.a tétel azonosító száma (típusszáma), 
+3.2.2.3.a gyártás éve (ha ismert), 
+3.2.2.4.a működést igazoló vállalat neve és címe, 
+3.2.2.5.a teszteredményeknek a 3.1. pontban foglaltak szerinti ismertetése (a működőképességi
+teszt időpontját is beleértve), 
+3.2.2.6.a végrehajtott vizsgálatok jellege.
+4. Az 1., 2. és 3. pont szerinti dokumentumokon kívül a használt elektromos, elektronikus 
+berendezések minden szállítmányát (pl. konténer, teherautó-rakomány) a következő árukísérő 
+dokumentumokkal kell ellátni:
+a) megfelelő fuvarokmány (pl. CMR fuvarlevél); 
+b) felelősségi nyilatkozat.
+5. Az 1., 2., 3. és 4. pontban előírt dokumentumok hiányában – amelyek bizonyítják, hogy egy tárgy 
+használt elektromos, elektronikus berendezés és nem ezek hulladéka –, valamint a szállítmány 
+szállítás, berakodás és kirakodás alatti – különösen az alkalmas csomagolás és a rakomány megfelelő 
+elrendezése révén való – megfelelő védelmének hiányában, amelyek biztosítása a szállítást 
+kezdeményező birtokos kötelezettsége, a tagállami hatóságok az árukat hulladékká vált elektromos, 
+elektronikus berendezésnek tekintik, a szállítmányt pedig illegálisként kezelik. Ilyen esetekben a 
+szállítmány a továbbiakban a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai 
+parlamenti és tanácsi rendelet 24. és 25. cikke szerint kezelendő.
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11949
+10. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+„1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+Elektromos-, elektronikusberendezés-kategóriák  
+ 
+1. Elektromos, elektronikusberendezés-kategóriák:
+1. háztartási nagygépek; 
+2. háztartási kisgépek; 
+3. információs (IT) és távközlési berendezések; 
+4. szórakoztatóelektronikai cikkek és fotovoltaikus panelek; 
+5. világítótestek; 
+6. elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari szerszámok;  
+7. játékok, szabadidős és sportfelszerelések; 
+8. orvostechnikai eszközök, kivéve beültetett és fertőzött termékek; 
+9. ellenőrző és vezérlőeszközök; 
+10. adagoló automaták.
+2. Az elektromos-, elektronikusberendezés-kategóriák és a részüket képező egyes berendezések 
+nem teljes listája (vámtarifaszámok alapján), valamint a vásárlási utalvány összegének 
+legkisebb mértéke*: 
+ 
+1. Háztartási nagygépek:
+Vámtarifaszám:  Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Nagyméretű hűtőberendezések  700 Ft
+8418 10 20 
+Kombinált hűtő-fagyasztó gép, külön 
+külső ajtókkal, 340 litert meghaladó 
+űrtartalommal
+700 Ft
+Hűtőszekrények  700 Ft
+8418 10 80 
+Kombinált hűtő-fagyasztó gép, külön 
+külső ajtókkal, 340 litert meg nem 
+haladó űrtartalommal
+700 Ft
+21  Kompresszoros típusú háztartási hűtőgép  700 Ft
+29 00 Más háztartási hűtőgép  600 Ft 
+ 69 00 Más hűtőkészülék  700 Ft 
+   Fagyasztók  700 Ft
+8418 30 20 Fagyasztóláda legfeljebb 800 liter űrtartalommal  700 Ft
+40 20 Fagyasztószekrény legfeljebb 900 liter űrtartalommal  700 Ft
+69 00 Más fagyasztókészülék  700 Ft
+Élelmiszerek hűtésére, 
+konzerválására és tárolására 
+szolgáló egyéb nagyméretű 
+berendezések
+700 Ft
+11950 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+8418 50 11
+Hűtött kirakat és pult (a 
+hűtőegységgel vagy elpárologtatóval 
+együtt), fagyasztott élelmiszer 
+tárolására
+700 Ft
+50 19
+Hűtött kirakat és pult (a 
+hűtőegységgel vagy elpárologtatóval 
+együtt), nem fagyasztott élelmiszer 
+tárolására
+700 Ft
+50 90 Más hűtőberendezési tárgy  500 Ft 
+   Mosógépek  700 Ft
+8450 11
+Háztartásban vagy mosodában 
+használatos mosógép, beleértve az 
+olyan gépet is, amely mos és szárít is; 
+legfeljebb 10 kg szárazruha-
+kapacitású, teljesen automata
+700 Ft
+12 00
+Háztartásban vagy mosodában 
+használatos mosógép, beleértve az 
+olyan gépet is, amely mos és szárít is; 
+legfeljebb 10 kg szárazruha-
+kapacitású mosógép beépített 
+centrifugális szárítóval
+600 Ft
+19 00
+Háztartásban vagy mosodában 
+használatos mosógép, beleértve az 
+olyan gépet is, amely mos és szárít is; 
+legfeljebb 10 kg szárazruha-
+kapacitású más mosógép
+700 Ft
+20 00
+Háztartásban vagy mosodában 
+használatos mosógép, beleértve az 
+olyan gépet is, amely mos és szárít is; 
+10 kg-ot meghaladó szárazruha-
+kapacitású mosógép
+500 Ft
+Ruhaszárító gépek  600 Ft 
+8421 12 00 Centrifugális ruhaszárító  700 Ft
+8451 21 00 Legfeljebb 10 kg szárazruha-kapacitású szárítógép  500 Ft
+Mosogatógépek  700 Ft 
+8422 11 00 Háztartási mosogatógép  700 Ft
+Tűzhelyek és sütők 
+Elektromos sütők 
+Elektromos főzőlapok
+700 Ft
+8516 60  Sütő, tűzhely, tűzhelylap, forralógyűrű, grillsütő és sütőrostély  500 Ft
+Mikrohullámú sütők  300 Ft 
+8516 50 00 Mikrohullámú  sütő  300 Ft
+Főzésre és élelmiszer-feldolgozásra 
+szolgáló egyéb nagyméretű 
+berendezések
+700 Ft
+Elektromos fűtőberendezések  300 Ft 
+8516 29 50 Folyadékkal töltött radiátor  300 Ft
+29 91 Más elektromos fűtőkészülék beépített ventilátorral  300 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11951
+Elektromos fűtőtestek  300 Ft 
+8516 21 00 Hőtárolós radiátor  300 Ft
+Helyiségek, ágyak, ülőbútorok 
+fűtésére szolgáló egyéb háztartási 
+nagygépek
+500 Ft
+8418 61 00 Hőszivattyúk  A 8415 alá tartozó berendezések  500 Ft
+8516 29 99 Helyiségek fűtésére szolgáló más elektromos gép  300 Ft
+Elektromos ventilátorok  100 Ft
+8414 51 00
+Asztali, padlóra állítható, falra, 
+ablakra, mennyezetre vagy tetőre 
+szerelhető ventilátor, beépített 
+elektromotorral, legfeljebb 125 W 
+teljesítménnyel
+100 Ft
+59  Más ventilátor  100 Ft 
+   Légkondicionáló berendezések
+8415
+Légkondicionáló berendezés 
+motormeghajtású ventilátorral, 
+hőmérséklet- és nedvességszabályozó 
+szerkezettel, beleértve az olyan 
+berendezést is, amelyben a nedvesség 
+külön nem szabályozható
+A gépjármű részeként 
+beépített 
+berendezések
+700 Ft
+Egyéb szellőztető-, elszívó- és légkondicionáló berendezések  500 Ft
+Egyéb háztartási nagygépek  500 Ft
+8543 70 51
+Napozóágyak, napozólámpák és 
+hasonló, napozáshoz használt 
+felszerelések ultraibolya A sugarat 
+felhasználó, legfeljebb 100 cm 
+hosszúságú fénycsővel
+500 Ft
+70 55
+Más napozóágyak, napozólámpák és 
+hasonló, napozáshoz használt 
+felszerelések ultraibolya A sugarat 
+felhasználó más fénycsővel
+500 Ft
+70 59 
+Más napozóágyak, napozólámpák és 
+hasonló, napozáshoz használt 
+felszerelések
+500 Ft
+2. Háztartási kisgépek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Porszívók  100 Ft
+8508   Porszívó A 8508 70 alá tartozó alkatrészek 100 Ft
+11952 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Szőnyegseprűk  100 Ft 
+   Egyéb takarítóberendezések  300 Ft
+8451 80 80
+Folyékony tisztítóoldatot a szőnyegre 
+fecskendező, ezután az oldatot 
+szívással eltávolító szőnyegtakarító 
+berendezés, amely nem a száraz- és 
+nedves-porszívók kombinációja
+200 Ft
+8509 80 00 Más elektromechanikus háztartási készülék beépített elektromotorral  200 Ft
+Varró-, kötő-, fonó- és egyéb, textil feldolgozására használt gépek  300 Ft
+8452 10  Háztartási varrógép  300 Ft 
+8447 20  Síkkötő gép; hurkológép  300 Ft
+Vasalók és ruhanemű vasalására, 
+mángorlására és egyéb kezelésére 
+szolgáló más berendezések
+100 Ft
+8516 40  Villanyvasaló  100 Ft 
+   Kenyérpirítók  50 Ft 
+8516 72 00 Kenyérpirító  50 Ft 
+   Olajsütők  300 Ft 
+8516 79 20 Olajsütő  300 Ft
+Darálók, kávéfőzőgépek és 
+tárolóedények vagy csomagolások 
+lezárására vagy felnyitására 
+szolgáló berendezések
+100 Ft
+8509   Elektromechanikus háztartási készülék, beépített elektromotorral 
+A 8509 90 alá tartozó 
+alkatrészek 100 Ft
+8516 71 00 Kávé- vagy teafőző  100 Ft 
+   Elektromos kések  100 Ft
+Hajvágó eszközök, hajszárítók, 
+elektromos fogkefék, borotváló-, 
+masszírozó- és egyéb, testápolásra 
+szolgáló berendezések
+100 Ft
+8510   
+Villanyborotva, -hajnyíró gép és 
+szőreltávolító készülék beépített 
+elektromotorral
+A 8510 90 alá tartozó 
+alkatrészek 100 Ft
+8516 31  Hajszárító  100 Ft 
+ 32  Más fodrászati készülék  100 Ft 
+ 33  Kézszárító készülék  100 Ft 
+ 79 70 Más elektrotermikus készülék  100 Ft
+9019 10 10 Elektromos vibrációs masszírozó készülék  100 Ft
+Órák és karórák, időmérésre, -
+jelzésre és az idő nyilvántartására 
+szolgáló egyéb berendezések
+100 Ft
+9101
+Karóra, zsebóra és más hasonló óra 
+(stopperóra is), nemesfémből vagy 
+nemesfémmel plattírozott fémből 
+készült tokkal
+100 Ft
+9102   Karóra, zsebóra és más hasonló óra (stopperóra is)  
+A 9104 alá tartozó 
+berendezések 100 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11953
+9103   Óra, kisóraszerkezettel A 9104 alá tartozó berendezések 100 Ft
+9104 00 00 
+Műszerfalba beépítésre alkalmas és 
+hasonló típusú óra gépjárműhöz,  
+légi-, űr- és vízi járműhöz
+A gépjármű részeként 
+beépített 
+berendezések
+100 Ft
+9105   Más óra  100 Ft
+9106
+Időpont-regisztráló készülék és 
+időtartam mérésére, regisztrálására 
+vagy más módon történő jelzésére 
+szolgáló készülék, óraszerkezettel, 
+kisóraszerkezettel vagy 
+szinkronmotorral (pl. időszámláló, 
+időregisztráló)
+200 Ft
+9107   
+Óraszerkezettel, kisóraszerkezettel 
+vagy szinkronmotorral működő 
+időkapcsoló
+100 Ft
+9108   Kisóraszerkezet, teljes (komplett) és összeszerelt  100 Ft
+9109   Óraszerkezet, teljes (komplett) és összeszerelt  100 Ft
+Mérlegek  100 Ft
+8423 10  Személymérleg, csecsemőmérleg is; háztartási mérleg 
+Nem elektromos 
+eszközök 100 Ft
+Egyéb háztartási kisgépek  100 Ft
+8516 10  Elektromos átfolyásos vagy tárolós vízmelegítő és merülőforraló  300 Ft
+8516 80  Elektromos fűtőellenállás  100 Ft 
+ 
+3. Információs (IT) és távközlési berendezések:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Központi adatfeldolgozás:   
+   a) Nagyszámítógépek  700 Ft
+8471
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+700 Ft
+b) Miniszámítógépek  500 Ft
+8471
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+500 Ft
+11954 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+c) Nyomtatók  300 Ft
+8443 
+31 
+32 
+39
+Nyomtatók, másológépek és faxgépek (kombinálva is)
+Nyomdaipari gép, 
+amely nyomólapok, 
+nyomóhengerek és 
+más, a 8442 alá 
+tartozó más 
+nyomóalkatrész 
+segítségével működik
+300 Ft
+Személyi informatikai eszközök:
+a) Személyi számítógépek (központi 
+feldolgozó egység, egér, monitor és 
+billentyűzet is)
+500 Ft
+8471
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+500 Ft
+8528 41 00
+Kizárólag vagy elsősorban a 8471 alá 
+tartozó automatikus adatfeldolgozó 
+rendszerben használatos 
+katódsugárcsöves monitor
+300 Ft
+51 00 
+Kizárólag vagy elsősorban a 8471 alá 
+tartozó automatikus adatfeldolgozó 
+rendszerben használatos más monitor
+300 Ft
+b) Hordozható számítógépek 
+(központi feldolgozó egység, egér, 
+monitor és billentyűzet is)
+500 Ft
+8471 30
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+500 Ft
+c) Kisméretű hordozható számítógépek  500 Ft
+8471 30
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+500 Ft
+Elektronikus jegyzettömbök  300 Ft
+8471
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+300 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11955
+Nyomtatók  300 Ft
+8443 
+31 
+32 
+39
+Nyomtatók, másológépek és faxgépek (kombinálva is)  300 Ft
+Másolóberendezések  500 Ft
+8443 32 91 Szkenneralapú másológép elektrosztatikus nyomtatóval  500 Ft
+32 93 Más, optikai rendszerrel ellátott másológép  500 Ft
+Elektromos és elektronikus írógépek  300 Ft
+8469 00 91 Elektromos és elektronikus írógép  300 Ft
+Zseb- és asztali számológépek, 
+továbbá információk elektronikus 
+eszközökkel történő 
+összegyűjtésére, tárolására, 
+feldolgozására, bemutatására, 
+illetve továbbítására szolgáló egyéb 
+termékek és berendezések
+100 Ft
+8470 10 00
+Elektronikus számológép, külső 
+elektromos áramforrás nélkül működő 
+és számoló funkcióval ellátott 
+zsebméretű adatrögzítő-, előhívó- és 
+megjelenítő-gép
+100 Ft
+21 00 Más elektronikus számológép nyomtatószerkezettel  100 Ft
+29 00 Más elektronikus számológép  100 Ft 
+ 50 00 Pénztárgép  100 Ft
+90 00 
+Elektronikus könyvelőgép, postai 
+bérmentesítőgép, jegykiadógép és 
+hasonló gép számolószerkezettel
+100 Ft
+8528 61 00 
+Kizárólag vagy elsősorban a 8471 alá 
+tartozó automatikus adatfeldolgozó 
+rendszerben használatos projektor
+300 Ft
+69 10
+Automatikus adatfeldolgozó gép által 
+létrehozott digitális információ 
+megjelenítésére alkalmas, síkpanel 
+megjelenítő (pl. folyadékkristályos 
+eszköz) segítségével működő más 
+projektor
+300 Ft
+8542 32  Tárolók  100 Ft 
+8543 33  Erősítő  100 Ft
+Felhasználói terminálok és rendszerek  100 Ft
+8471
+Automatikus adatfeldolgozó gép és 
+egységei; mágneses és optikai 
+leolvasó-, adatátírógép a kódolt adat 
+adathordozóra történő átírására, 
+máshol nem említett gépi 
+adatfeldolgozáshoz
+500 Ft
+11956 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+8528 41 00
+Kizárólag vagy elsősorban a 8471 alá 
+tartozó automatikus adatfeldolgozó 
+rendszerben használatos 
+katódsugárcsöves monitor
+500 Ft
+51 00 
+Kizárólag vagy elsősorban a 8471 alá 
+tartozó automatikus adatfeldolgozó 
+rendszerben használatos más monitor
+300 Ft
+Faxberendezések (faxok)  300 Ft 
+8443 32 30 Telefax (képtávíró)  300 Ft
+8517
+Távbeszélő készülékek, beleértve a 
+mobiltelefon-hálózatokhoz vagy más 
+vezeték nélküli hálózatokhoz való 
+készülékeket; hang, képek vagy más 
+adatok továbbítására vagy vételére 
+szolgáló más készülékek, beleértve a 
+vezetékes vagy vezeték nélküli 
+hálózatok (helyi vagy nagy 
+kiterjedésű hálózat) távközlési 
+berendezéseit
+A 8443, 8525, 8527 
+vagy 8528 alá 
+tartozó, továbbításra 
+vagy vételre szolgáló 
+készülékek, továbbá a 
+8517 70 alá tartozó 
+alkatrészek
+300 Ft
+Telexek  
+Telefonok 
+Nyilvános telefonok 
+Vezeték nélküli telefonok 
+Mobiltelefonok
+100 Ft
+8517
+Távbeszélő készülékek, beleértve a 
+mobiltelefon-hálózatokhoz vagy más 
+vezeték nélküli hálózatokhoz való 
+készülékeket; hang, képek vagy más 
+adatok továbbítására vagy vételére 
+szolgáló más készülékek, beleértve a 
+vezetékes vagy vezeték nélküli 
+hálózatok (helyi vagy nagy 
+kiterjedésű hálózat) távközlési 
+berendezéseit
+A 8443, 8525, 8527 
+vagy 8528 alá 
+tartozó, továbbításra 
+vagy vételre szolgáló 
+készülékek, továbbá a 
+8517 70 alá tartozó 
+alkatrészek
+100 Ft
+Üzenetrögzítő-rendszerek, továbbá 
+hang, kép vagy más információk 
+távközlési eszközökkel történő 
+továbbítására szolgáló egyéb 
+termékek és berendezések
+100 Ft
+8519 81 51 Diktafon, amely csak külső áramforrással működik  100 Ft
+81 11 Szövegismétlő-készülék telefonhoz  100 Ft 
+ 50 00 Telefonüzenetrögzítő-készülék  100 Ft
+8518 29 30
+Hangszóró, amelynek 
+frekvenciatartománya 300Hz és 3,4 
+kHz közötti, átmérője legfeljebb 50 
+mm, a telekommunikációban 
+alkalmazott típus
+100 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11957
+4. Szórakoztatóelektronikai cikkek és fotovoltaikus panelek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Rádiókészülékek  100 Ft
+8527
+Rádióműsor-vevőkészülék, 
+hangfelvevő vagy -lejátszó 
+készülékkel vagy órával közös házban 
+is*
+100 Ft
+Televíziókészülékek  500 Ft
+8528
+Monitorok és kivetítők, beépített 
+televízióvevő-készülék nélkül; 
+televíziós adás vételére alkalmas 
+készülék, rádióműsor-vevőkészüléket 
+vagy hang-, képfelvevő vagy -lejátszó  
+készüléket magában foglaló is
+A 8528 41 00, a 8528 
+51 00, a 8528 61 00 
+és a 8528 69 10 alá 
+tartozó termékek
+500 Ft
+Videokamerák  300 Ft
+8525 80  
+Televíziós kamerák (felvevők), 
+digitális fényképezőgépek és 
+videokamera-felvevők
+A 8525 80 11 alá 
+tartozó berendezések 300 Ft
+9007   
+Mozgókép-felvevő (kamera) és vetítő, 
+hangfelvevő és hanglejátszó, 
+készülékkel vagy anélkül
+A 9007 11 00 alá 
+tartozó berendezések, 
+valamint a 
+9007 91 és a 
+9007 92 alá tartozó 
+alkatrészek és 
+tartozékok
+300 Ft
+Videomagnók  300 Ft
+8521   Videofelvevő és -lejátszókészülék, videotunerrel egybeépítve is
+Hifiberendezések  300 Ft
+8519   Hangfelvevő- vagy hanglejátszó-készülék
+A gépjármű részeként 
+beépített 
+berendezések
+300 Ft
+Audioerősítők  300 Ft
+8518
+Mikrofon és tartószerkezete; 
+hangszóró, dobozba szerelve is, 
+fejhallgató és fülhallgató, 
+mikrofonnal összeépítve is, valamint 
+egy mikrofonból és egy vagy több 
+hangszóróból álló egység; 
+hangfrekvenciás elektromos erősítő; 
+elektromos hangerősítő egység
+A 8518 90 00 és a 
+8518 90 alá tartozó 
+alkatrészek
+300 Ft
+11958 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Hangszerek, továbbá a hang, illetve 
+kép (beleértve a szignálokat is) 
+rögzítésére vagy reprodukálására 
+szolgáló egyéb termékek és 
+berendezések, illetve a hang és kép 
+továbbítására szolgáló nem 
+távközlési technológiák
+300 Ft
+9207   
+Hangszer, amelyben a hangot 
+elektromos úton keltik vagy erősítik 
+(pl. orgona, gitár, tangóharmonika)
+300 Ft
+8518
+Mikrofon és tartószerkezete; 
+hangszóró, dobozba szerelve is, 
+fejhallgató és fülhallgató, 
+mikrofonnal összeépítve is, valamint 
+egy mikrofonból és egy vagy több 
+hangszóróból álló egység
+A 8518 40, 8518 50 
+00 alá tartozó 
+berendezések és a 
+8518 90 alá tartozó 
+alkatrészek
+300 Ft
+8543 70 30 Antennaerősítő  300 Ft
+9006 10 00 Fényképezőgép, nyomólemez vagy -henger készítésére
+A 8539 alá tartozó 
+kisülési cső, továbbá 
+a nem elektromos 
+eszközök, a 9006 10 
+00, a 9006 30 00, a 
+9006 61 00 és a 9006 
+69 00 alá tartozó 
+termékek, továbbá 
+azok 9006  91 alá 
+tartozó alkatrészei és 
+a 9006 99 alá tartozó 
+tartozékai
+300 Ft
+30 00
+Víz alatti használatra, légi 
+felvételekre tervezett speciális 
+fényképezőgép; törvényszéki vagy 
+kriminológiai célra összehasonlító 
+fényképezőgép
+300 Ft
+40 00 Azonnal előhívó (polaroid) fényképezőgép  300 Ft
+51 00
+Más fényképezőgép közvetlen 
+keresővel [egylencsés visszatükrözés 
+(SLR)], legfeljebb 35 mm szélességű 
+filmtekercshez
+300 Ft
+52 00 Más fényképezőgép más, 35 mm-nél kisebb szélességű filmtekercshez  300 Ft
+53  Más fényképezőgép más, 35 mm szélességű filmtekercshez  300 Ft
+59 00 Más fényképezőgép  300 Ft 
+9008 10 00 Diavetítő  300 Ft 
+   Fotovoltaikus panelek  200 Ft 
+8541 40 90 Fotovoltaikus elem  100 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11959
+5. Világítótestek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Fénycsöves világítótestek A háztartási világítótestek 50 Ft
+9405
+Lámpa és világító-felszerelés, 
+beleértve a keresőlámpát és a 
+sportlámpát is; továbbá megvilágított 
+jelzések, reklámfeliratok, cégtáblák és 
+hasonlók, állandó jellegű 
+fényforrással szerelve; fénycsöves 
+világítótest
+A közterület vagy a 
+közlekedési útvonal 
+világítására szolgáló 
+termékek, a háztartási 
+világítótestek, a 9405 
+10 21, a 
+9405 10 91, a 
+9405 20 11, a 
+9405 20 91, a 
+9405 40 31 és a  
+9405 40 91 termékek
+50 Ft
+Egyenes fénycsövek  50 Ft
+8539 31 10 Fénycső izzókatóddal, kettős végű foglalattal  50 Ft
+Kompakt fénycsövek  50 Ft 
+8539 31 90 Más fénycső izzókatóddal  50 Ft
+Nagy intenzitású kisülő lámpák, 
+beleértve a nagynyomású 
+nátriumlámpákat és a fém 
+halogénlámpákat
+50 Ft
+8539 32  Higany- vagy nátriumlámpa; fémhalogén lámpa  50 Ft
+Kisnyomású nátriumlámpák  50 Ft
+Egyéb világítótestek, illetve 
+fényszóró vagy fényszabályozó 
+berendezések
+Izzólámpa 50 Ft
+8512 10 00 Kerékpár világítókészüléke  50 Ft
+20 00 Világítókészülék gépjárműhöz 
+A gépjármű részeként 
+beépített 
+berendezések
+50 Ft
+8513 10 00 Hordozható elektromos lámpa saját energiaforrással  50 Ft
+8539 49 10 Ultraibolya lámpa  50 Ft 
+ 49 30 Infravörös lámpa  50 Ft
+8541 40 10 Fénykibocsátó dióda, beleértve a lézerdiódát  20 Ft
+9405 10  Csillár és más mennyezeti vagy fali elektromos világítófelszerelés
+A közterület vagy a 
+közlekedési útvonal 
+világítására szolgáló 
+termékek, és a 
+fénycsöves termékek
+50 Ft
+11960 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+20  Elektromos asztali, íróasztali, éjjeliszekrény- vagy állólámpa Fénycsöves termék 50 Ft
+30 00 Karácsonyfaégő-készlet Fénycsöves termék 50 Ft
+40  Más elektromos lámpa és világító felszerelés Fénycsöves termék 50 Ft
+60  
+Megvilágított jelzések, 
+reklámfeliratok, cégtáblák és 
+hasonlók
+Fénycsöves termék 50 Ft
+6. Elektromos és elektronikus szerszámok, kivéve nagyméretű, rögzített ipari szerszámok:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Fúrók  200 Ft 
+8459 10 00 Hordozható elektromos fúrógép  100 Ft 
+ 29 00 Más fúrógép Numerikus 100 Ft 
+   Fűrészek  200 Ft 
+8467 22 00 Fűrész  200 Ft 
+   Varrógépek  300 Ft 
+8452 21 00 Más automata varrógép  300 Ft 
+ 29 00 Más varrógép  300 Ft
+Fa, fém és egyéb anyagok 
+esztergálására, aprítására, 
+csiszolására, őrlésére, fűrészelésére, 
+vágására, nyírására, fúrására, 
+lyukasztására, perforálására, 
+hajtogatására, hajlítására és 
+hasonló megmunkálására szolgáló 
+berendezések
+A nagyméretű 
+helyhez kötött 
+berendezések
+300 Ft
+8458 19 00 Más vízszintes fémipari eszterga  300 Ft 
+ 99 00 Más eszterga  300 Ft 
+8459 39 00 Furatmegmunkáló marógép Numerikus 200 Ft 
+ 40 90 Furatmegmunkáló gép Numerikus 200 Ft 
+ 69  Marógép Numerikus 200 Ft 
+ 70 00 Más menetfúró vagy menetvágó gép  200 Ft
+8467   Kézi használatú szerszám beépített elektromos motorral működő
+A 8467 91, a 
+8467 92, és a 
+8467 99 alá tartozó 
+alkatrészek
+200 Ft
+Szegecselésre, szegezésre, 
+csavarásra, illetve szegecsek, 
+szögek, csavarok eltávolítására 
+vagy hasonló célokra szolgáló 
+szerszámok
+300 Ft
+8467   Kézi használatú szerszám beépített elektromos motorral működő
+A 8467 91, a 
+8467 92 és a 
+8467 99 alá tartozó 
+alkatrészek
+300 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11961
+Hegesztésre, forrasztásra és 
+hasonló célokra szolgáló 
+szerszámok
+400 Ft
+8468   Elektromos hegesztőgép és készülék, vágásra alkalmas is 
+A 8468 90 alá tartozó 
+alkatrészek 400 Ft
+8515 11 00 Forrasztópáka és -pisztoly  100 Ft
+Szórásra, kenésre, diszperzióra, 
+illetve folyadékok vagy gázok 
+másfajta kezelésére szolgáló 
+berendezések
+300 Ft
+8424   
+Folyadék vagy por kilövésére, 
+szórására vagy porlasztására szolgáló 
+elektromos gép, készülék
+A 8424 90 alá tartozó 
+alkatrészek 200 Ft
+Fűnyírók és egyéb kertészeti szerszámok  200 Ft
+8432   Elektromos talaj-előkészítésre vagy -megmunkálásra szolgáló gép 
+A 8432 90 alá tartozó 
+alkatrészek 300 Ft
+8433   Elektromos fűkaszálógép  200 Ft
+8413 70 21 Egyfokozatú centrifugális búvárszivattyú  200 Ft
+7. Játékok, szabadidős és sportfelszerelések:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Villanyvonatok vagy autóverseny-készletek  100 Ft
+9503 00 30
+Villanyvonat, vágány, jelzőlámpa és 
+más tartozékai; csökkentett méretű, 
+méretarányos  összeszerelhető modell 
+készletben, működő is
+100 Ft
+9504 90 10 Elektromos autóverseny-készlet, verseny jellegű  100 Ft
+Kézi videojáték-konzolok  100 Ft 
+9504 90 90 Kézi videojátékok, konzolok  100 Ft 
+   Videojátékok  100 Ft 
+9504 10 00 Tévéhez kapcsolható videojáték  100 Ft
+Számítógépek kerékpározáshoz, 
+búvárkodáshoz, futáshoz, evezéshez 
+stb.
+200 Ft
+8470   
+Számítógépek kerékpározáshoz, 
+búvárkodáshoz, futáshoz, evezéshez 
+stb.
+200 Ft
+Elektromos vagy elektronikus 
+alkatrészeket tartalmazó 
+sportfelszerelések
+100 Ft
+11962 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+Érmével működő játékautomaták  1000 Ft
+9504 30
+Pénzérmékkel, bankjegyekkel, 
+bankkártyákkal, zsetonokkal vagy 
+más fizetőeszközökkel működő 
+elektromos, elektronikus más játék
+A tekepálya 
+felszerelés, továbbá a 
+9504 30 90 alá 
+tartozó alkatrészek
+1000 Ft
+9503 00 75 79 
+Beépített motorral működő más játék 
+és modell   100 Ft
+8. Orvostechnikai eszközök, kivéve a beültetett és fertőzött termékek:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Sugárterápiás berendezések  500 Ft
+9022
+Röntgen-, vagy alfa-, béta- vagy 
+gammasugárzással működő 
+berendezés orvosi, sebészeti, 
+fogászati vagy állatorvosi célra is, 
+radiográf vagy radioterápiai készülék
+A 9022 90 alá tartozó 
+alkatrészek és 
+tartozékok, valamint 
+az állatorvosi 
+berendezések és 
+tartozékaik
+500 Ft
+Kardiológiai berendezések  500 Ft 
+   Dializáló berendezések  500 Ft 
+   Lélegeztetőgépek  500 Ft 
+   Nukleáris medicina berendezései  500 Ft
+Laboratóriumi berendezések in vitro diagnózishoz  500 Ft
+9027
+Fizikai vagy vegyi analízisre szolgáló 
+orvosi, sebészeti, fogászati vagy 
+állatorvosi  elektromos, elektronikus 
+készülék és műszer
+A 9027 90 alá tartozó 
+alkatrészek és 
+tartozékok, valamint 
+az állatorvosi 
+készülékek, műszerek 
+és tartozékaik
+500 Ft
+Analizálóberendezések  500 Ft 
+   Fagyasztók  500 Ft
+8418 30  Fagyasztóláda, legfeljebb 800 liter űrtartalommal Nem orvosi 500 Ft
+40  Fagyasztószekrény, legfeljebb 900 liter űrtartalommal  Nem orvosi 500 Ft
+50 90  Más hűtőberendezési tárgy  500 Ft 
+ 69 00 Más hűtő- vagy fagyasztókészülék Nem orvosi 500 Ft 
+   Megtermékenyítési tesztek  100 Ft
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11963
+Betegségek, sérülések vagy 
+rokkantság kimutatására, 
+megelőzésére, megfigyelésére, 
+kezelésére és enyhítésére szolgáló 
+egyéb berendezések
+Nem elektromos 300 Ft
+9006 30 00
+Belső szervek orvosi vagy sebészeti 
+vizsgálatára tervezett speciális 
+fényképezőgép; törvényszéki vagy 
+kriminológiai célra összehasonlító 
+fényképezőgép
+300 Ft
+9018
+Elektromos, elektronikus orvosi, 
+sebészeti, fogászati vagy állatorvosi 
+műszer és készülék, szcintigráf 
+készülék is
+Állatorvosi műszerek, 
+készülékek és 
+tartozékaik
+500 Ft
+9. Ellenőrző és vezérlőeszközök:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Füstjelző berendezések  100 Ft
+8531 10  Tüzet jelző riasztókészülék és hasonló A 8512 és a 8530 alá tartozó berendezések 100 Ft
+Fűtésszabályozók  100 Ft
+9027   
+Háztartási vagy laboratóriumi mérő és 
+szabályozó elektromos, elektronikus 
+készülékek, berendezések
+100 Ft
+Termosztátok  100 Ft 
+9032 10 20 Elektronikus termosztát  100 Ft
+Háztartási vagy laboratóriumi mérő- és szabályozó berendezések  100 Ft
+8423   
+Mérleg, beleértve a súllyal 
+működtetett számláló- vagy 
+ellenőrzőmérleget is
+A 8423 10 10 alá 
+tartozó berendezések, 
+és az 50 mg vagy 
+ennél nagyobb 
+érzékenységű mérleg
+100 Ft
+8537 10  Ellenőrző és vezérlőeszközök (pl. vezérlőpultok)  200 Ft
+Ipari létesítményekben használt 
+egyéb ellenőrző és vezérlőeszközök 
+(pl. vezérlőpultok)
+300 Ft
+8423   
+Mérleg, beleértve a súllyal 
+működtetett számláló- vagy 
+ellenőrzőmérleget is
+A 8423 10 10 alá 
+tartozó berendezések, 
+és az 50 mg vagy 
+ennél nagyobb 
+érzékenységű mérleg
+100 Ft
+8512 30 10 Gépjárműhöz használt hangjelző riasztóberendezés 
+A gépjármű részeként 
+beépített berendezés 100 Ft
+11964 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+8531
+Elektromos, akusztikus vagy vizuális 
+jelzőberendezés (pl. csengő, sziréna 
+jelzőtábla, betörést jelző 
+riasztókészülék)
+A 8531 10, a 8512, 
+továbbá a 8530 alá 
+tartozó berendezések,  
+valamint a 8531 90 
+alá tartozó 
+alkatrészek
+100 Ft
+10. Adagolóautomaták:
+Vámtarifaszám: Megnevezés: Kivételek: 
+Vásárlási 
+utalvány 
+értéke:
+Melegital-automaták  1000 Ft
+8476 21 00 Automata italárusító-gép beépített melegítő- vagy hűtőkészülékkel  1000 Ft
+Szilárdtermék-automaták  1000 Ft
+8476 81 89  Más árusítóautomata  1000 Ft
+Pénzkiadó automaták  1000 Ft 
+8472 90  Bankjegykiadó automata  1000 Ft
+Termékek automatikus kiadására szolgáló mindenfajta berendezés  1000 Ft
+8476 21 29  Automata italárusító-gép  1000 Ft
+* Abban az esetben, ha a gyártó, a forgalmazó olyan használt elektromos, elektronikus berendezést 
+vesz vissza vagy olyan hulladékká vált elektromos, elektronikus berendezést vesz át, amelyet az 1-
+10. pontban foglalt táblázatokban meghatározott elektromos-, elektronikusberendezés-kategóriák 
+nem tartalmaznak, a gyártó, a forgalmazó az adott elektromos-, elektronikusberendezés-kategóriához 
+tartozó legalacsonyabb értékű vásárlási utalványt állítja ki.”
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11965
+11. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+A 2. melléklet 2. pontja helyébe a következő rendelkezés lép: 
+ 
+„2. Az újrahasználatra előkészítési, valamint a hasznosítási és újrafeldolgozási arány mértéke: 
+ 
+2.1. A minimális újrahasználatra előkészítési, valamint hasznosítási és újrafeldolgozási arány mértéke 
+2017. december 31-ig:
+Elektromos és elektronikus berendezés-kategória: Hasznosítási arány (R):
+Újrahasználatra 
+előkészítési és
+újrafeldolgozási 
+arány (A):
+1. Háztartási nagygépek 85% 80% 
+ 2. Háztartási kisgépek 75% 55% 
+ 3. Információs (IT) és távközlési berendezések 80% 70% 
+ 4. Szórakoztatóelektronikai cikkek és fotovoltaikus 
+panelek
+80% 70%
+5. Világítótestek 75% 55% 
+ 5a. Gázkisülésű lámpák 75% 80% 
+ 6. Elektromos és elektronikus szerszámok, kivéve 
+nagyméretű, rögzített ipari szerszámok
+75% 55%
+7. Játékok, szabadidős és sportfelszerelések 75% 55% 
+ 8. Orvostechnikai eszközök, kivéve beültetett és 
+fertőzött termékek
+75 % 55%
+9. Ellenőrző és vezérlőeszközök 75% 55% 
+10. Adagolóautomaták 85% 80% 
+ 
+2.2. A hasznosítási kötelezettség megállapítására – elektromos-, elektronikusberendezés-
+kategóriánként – a következő képletet kell alkalmazni:
+H = T × R 
+ahol: 
+H: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált
+elektromos, elektronikus berendezés mennyiségéből kötelezően hasznosítandó mennyiség 
+(kilogrammban megadva);
+T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált 
+elektromos, elektronikus berendezés mennyisége (kilogrammban megadva);
+R: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó hasznosítási arány mértéke 
+(százalékban megadva).
+2.3. Az újrahasználatra előkészítési és az újrafeldolgozási kötelezettség megállapítására – 
+elektromos-, elektronikusberendezés-kategóriánként – a következő képletet kell alkalmazni:
+U = T × A
+ahol: 
+U: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált
+elektromos, elektronikus berendezés mennyiségéből kötelezően újrahasználatra előkészítendő, 
+újrafeldolgozandó mennyiség (kilogrammban megadva);
+T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett, hulladékká vált elektromos, 
+elektronikus berendezés mennyisége (kilogrammban megadva);
+A: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó újrahasználatra előkészítési, 
+újrafeldolgozási arány mértéke (százalékban megadva).”
+11966 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+12. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+„1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+Elektromos-, elektronikusberendezés-kategóriák  
+ 
+1. Elektromos, elektronikusberendezés-kategóriák:
+1. hőcserélő berendezések; 
+2. képernyők, monitorok és olyan berendezések, amelyek 100 cm2-nél nagyobb felszínű képernyőt
+tartalmaznak; 
+3. lámpák; 
+4. nagygépek (amelynek bármely külső mérete meghaladja az 50 cm-t, ez a kategória nem foglalja
+magába az 1–3. kategóriába tartozó berendezéseket); 
+5. kisgépek (amelynek egyik külső mérete sem haladja meg az 50 cm-t, ez a kategória nem
+foglalja magába az 1–3. és 6. kategóriába tartozó berendezéseket); 
+6. kisméretű számítástechnikai berendezések és távközlési berendezések (amelynek egyik külső
+mérete sem haladja meg az 50 cm-t). 
+ 
+2. Az elektromos-, elektronikusberendezés-kategóriák, a berendezés-kategóriákhoz tartozó 
+tájékoztató jellegű lista:
+Elektromos-, elektronikusberendezés-kategória:
+Tájékoztató lista:
+1. Hőcserélő berendezések: hűtőszekrények, fagyasztók, hűtött 
+termékek automatikus kiadására 
+szolgáló berendezések, 
+légkondicionáló berendezések, 
+párátlanító berendezések, 
+hőszivattyúk, olajradiátorok és 
+egyéb hőcserélő berendezések, 
+amelyek hőcserélő-közegként 
+víztől eltérő folyadékot 
+tartalmaznak
+2. Képernyők, monitorok és olyan berendezések, amelyek 100 
+cm2-nél nagyobb felszínű képernyőt tartalmaznak:
+televíziókészülékek, LCD 
+képkeretek, hordozható 
+számítógépek, kisméretű 
+hordozható számítógépek
+3. Lámpák:
+fénycsövek – így különösen 
+egyenes fénycsövek, kompakt 
+fénycsövek –, nagy intenzitású 
+kisülő lámpák, beleértve a 
+nagynyomású nátriumlámpákat és 
+a fém halogénlámpákat, 
+kisnyomású nátriumlámpák, LED
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11967
+4. Nagygépek (amelyeknek bármely külső mérete meghaladja az 
+50 cm-t), többek között, de nem kizárólag (ez a kategória nem 
+foglalja magába az 1–3. kategóriába tartozó berendezéseket):
+-
+a) háztartási gépek
+mosógépek, ruhaszárító gépek, 
+mosogatógépek, tűzhelyek és 
+sütők, elektromos sütők, 
+elektromos főzőlapok
+b) IT- és távközlési berendezések
+kötő- és szövőgépek, 
+nagyszámítógépek, nagyméretű 
+nyomtatók, másolóberendezések
+c) szórakoztató-elektronikai cikkek
+-
+d) világítótestek
+-
+e) hang- és képlejátszó berendezések, zenei berendezések
+kivéve a templomi orgonát
+f) elektromos és elektronikus szerszámok
+-
+g) játékok, szabadidős és sportfelszerelések
+érmével működő nagyméretű 
+játékautomaták
+h) orvostechnikai eszközök
+nagyméretű orvostechnikai 
+eszközök
+i) ellenőrző és vezérlőeszközök
+nagyméretű ellenőrző- és 
+vezérlőeszközök
+j) adagolóautomaták:
+termékek és pénz automatikus 
+kiadására szolgáló nagyméretű 
+berendezések
+k) elektromos áramot fejlesztő berendezések:
+fotovoltaikus panelek
+5. Kisgépek (amelyeknek egyik külső mérete sem haladja meg az 
+50 cm-t), többek között, de nem kizárólag (ez a kategória nem 
+foglalja magába az 1–3. és 6. kategóriába tartozó 
+berendezéseket):
+-
+a) háztartási gépek
+porszívók, szőnyegseprűk, 
+varrógépek, világítótestek, 
+mikrohullámú sütők, szellőző 
+berendezések, vasalók,  
+kenyérpirítók, elektromos kések, 
+elektromos vízforralók, órák, 
+elektromos borotvák, mérlegek, 
+haj- és testápoló gépek,  
+számológépek;
+b) szórakoztatóelektronikai cikkek:
+-
+11968 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám
+c) világítótestek
+-
+d) hang- és képlejátszó berendezések, zenei berendezések
+rádiókészülékek, videokamerák, 
+videomagnók, hifi berendezések, 
+hangszerek, hang- és képlejátszó 
+berendezések
+e) elektromos és elektronikus szerszámok
+kisméretű elektromos és 
+elektronikus szerszámok
+f) játékok, szabadidős és sportfelszerelések
+elektronikus és elektromos játékok, 
+sporteszközök, kerékpározáshoz, 
+búvárkodáshoz, futáshoz, 
+evezéshez stb.
+g) orvostechnikai eszközök
+kisméretű orvostechnikai eszközök
+h) ellenőrző és vezérlőeszközök
+használt számítógépek, füstjelző 
+berendezések, fűtésszabályozók, 
+termosztátok, kisméretű ellenőrző 
+és vezérlőeszközök;
+i) adagolóautomaták
+termékek automatikus kiadására 
+szolgáló kisméretű berendezések;
+j) elektromos áramot fejlesztő berendezések
+beépített fotovoltaikus paneleket 
+tartalmazó kisgépek
+6. Kisméretű számítástechnikai berendezések és távközlési 
+berendezések (amelynek egyik külső mérete sem haladja meg az 
+50 cm-t)
+mobiltelefonok, GPS-ek, 
+zsebszámológépek, routerek, 
+személyi számítógépek, 
+nyomtatók, telefonok
+”
+M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám 11969
+13. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez
+A 2. melléklet 2. pontja helyébe a következő rendelkezés lép: 
+ 
+„2. Az újrahasználatra előkészítési, valamint a hasznosítási és újrafeldolgozási arány mértéke: 
+ 
+2.1. A minimális újrahasználatra előkészítési, valamint hasznosítási és újrafeldolgozási arány 
+mértéke:
+Elektromos és elektronikus berendezés-kategória: Hasznosítási arány (R):
+Újrahasználatra 
+előkészítési és
+újrafeldolgozási 
+arány (A):
+1. Hőcserélő berendezések: 85% 80% 
+2. Képernyők, monitorok és olyan berendezések, 
+amelyek 100 cm2-nél nagyobb felszínű képernyőt 
+tartalmaznak:
+80% 70%
+3. Lámpák: - 80% 
+4. Nagygépek (amelyeknek bármely külső mérete 
+meghaladja az 50 cm-t), többek között, de nem 
+kizárólag (ez a kategória nem foglalja magába az 1–3. 
+kategóriába tartozó berendezéseket):
+85% 80%
+5. Kisgépek (amelyeknek egyik külső mérete sem 
+haladja meg az 50 cm-t), többek között, de nem 
+kizárólag (ez a kategória nem foglalja magába az 1–3. 
+és 6. kategóriába tartozó berendezéseket):
+75% 55%
+6. Kisméretű számítástechnikai berendezések és 
+távközlési berendezések (egyik külső méretük sem 
+haladja meg az 50 cm-t):
+75% 55%
+2.2. A hasznosítási kötelezettség megállapítására – elektromos-, elektronikusberendezés-
+kategóriánként – a következő képletet kell alkalmazni:
+H = T × R 
+ahol: 
+H: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált
+elektromos, elektronikus berendezés mennyiségéből kötelezően hasznosítandó mennyiség 
+(kilogrammban megadva);
+T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált 
+elektromos, elektronikus berendezés mennyisége (kilogrammban megadva);
+R: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó hasznosítási arány mértéke 
+(százalékban megadva).
+2.3. Az újrahasználatra előkészítési és az újrafeldolgozási kötelezettség megállapítására – 
+elektromos-, elektronikusberendezés-kategóriánként – a következő képletet kell alkalmazni:
+U = T × A
+ahol: 
+U: a gyártó által a tárgyévet megelőző évben ténylegesen átvett és gyűjtött hulladékká vált
+elektromos, elektronikus berendezés mennyiségéből kötelezően újrahasználatra előkészítendő, 
+újrafeldolgozandó mennyiség (kilogrammban megadva);
+T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett, hulladékká vált elektromos, 
+elektronikus berendezés mennyisége (kilogrammban megadva);
+A: a 2.1. pontban foglalt táblázatban az adott kategóriára vonatkozó újrahasználatra előkészítési, 
+újrafeldolgozási arány mértéke (százalékban megadva).”
+11970 M A G Y A R  K Ö Z L Ö N Y  •  2014. évi 108. szám

@@ -1,261 +1,95 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MAGYAR KÖZLÖNY 69. szám
- M A G YA R O R S Z Á G  H I VATA L O S  L A PJ A
- 2016. május 13., péntek 
-
-Tartalomjegyzék
-
-98/2016. (V. 13.) Korm. rendelet A 2014–2020 programozási időszakban az egyes európai uniós 
-alapokból származó támogatások felhasználásának rendjéről szóló 
-272/2014. (XI. 5.) Korm. rendelet módosításáról 5315
-
-99/2016. (V. 13.) Korm. rendelet A kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról 5337
-
-100/2016. (V. 13.) Korm. rendelet Az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek 
-módosításáról 5343
-
-101/2016. (V. 13.) Korm. rendelet A Nemzeti Fogyasztóvédelmi Hatóságról szóló 225/2007. (VIII. 31.)  
-Korm. rendelet és a fogyasztóvédelmi hatóság eljárása során felmerülő 
-egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet 
-módosításáról 5351
-
-102/2016. (V. 13.) Korm. rendelet A nemzeti köznevelésről szóló 229/2012. (VIII. 28.) Korm. rendelet  
-módosításáról 5352
-
-103/2016. (V. 13.) Korm. rendelet A Kormánytisztviselői Döntőbizottságról szóló 168/2012. (VII. 20.)  
-Korm. rendelet módosításáról 5354
-
-104/2016. (V. 13.) Korm. rendelet A Fővárosi Önkormányzat kezelésében lévő főútvonalak, közutak és 
-közterületek kijelöléséről szóló 432/2012. (XII. 29.) Korm. rendelet  
-módosításáról 5359
-
-105/2016. (V. 13.) Korm. rendelet A Budapest XI. kerület Kopaszi-gát környezetében megvalósuló 
-ingatlanfejlesztési beruházással összefüggő közigazgatási hatósági 
-ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé 
-nyilvánításáról és egyes eljáró hatóságok kijelöléséről 5360
-
-106/2016. (V. 13.) Korm. rendelet A Homatech Recycling Zrt. Kaposváron megvalósuló beruházásával 
-összefüggő közigazgatási hatósági ügyek nemzetgazdasági 
-szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint 
-a Homatech Recycling Zrt. Százhalombattán megvalósuló beruházásával 
-összefüggő közigazgatási hatósági ügyek nemzetgazdasági 
-szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló  
-393/2015. (XII. 11.) Korm. rendelet hatályon kívül helyezéséről 5362
-
-107/2016. (V. 13.) Korm. rendelet A Linamar Hungary Autóipari és Gépgyártó Zártkörűen Működő 
-Részvénytársaság beruházásával összefüggő közigazgatási hatósági 
-ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé  
-nyilvánításáról 5364
-
-17/2016. (V. 13.) BM rendelet A fejezeti kezelésű előirányzatok felhasználásának rendjéről 5366
-
-36/2016. (V. 13.) FM rendelet A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő 
-juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. 
-(XI. 25.) FM rendelet módosításáról 5387
-
-
-
-5314 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
-Tartalomjegyzék
-
-1233/2016. (V. 13.) Korm. határozat A Honvédelmi Szakpolitikai Stratégia (2017–2026) előkészítésével 
-összefüggő feladatokról 5388
-
-1234/2016. (V. 13.) Korm. határozat A Citibank Europe plc. Magyarországi Fióktelepének átlátható 
-szervezetté történő minősítéséről 5388
-
-1235/2016. (V. 13.) Korm. határozat Az infokommunikációs tárgyú beszerzések, valamint 
-az infokommunikációs infrastruktúra központi nyilvántartásáról 5388
-
-1236/2016. (V. 13.) Korm. határozat A nyílt szabványokra épülő, illetve nyílt forráskódú szoftverek 
-közszférában történő elterjesztéséhez szükséges intézkedésekről 5389
-
-1237/2016. (V. 13.) Korm. határozat A közfoglalkoztatási program megvalósítása céljából egyes Nemzeti 
-Földalapba tartozó ingatlanok önkormányzatok részére történő 
-ingyenes vagyonkezelésbe adásáról 5391
-
-1238/2016. (V. 13.) Korm. határozat Az egyes városi infrastruktúra-elemek megújítása keretében 
-megvalósításra kerülő kompkikötő létesítéséhez szükséges források 
-biztosításáról 5396
-
-1239/2016. (V. 13.) Korm. határozat Egy budapesti kajak-kenu szlalom pálya megvalósíthatóságáról és 
-lehetséges helyszíneinek vizsgálatáról 5398
-
-1240/2016. (V. 13.) Korm. határozat Magyarország Kormánya és Tatabánya Megyei Jogú Város 
-Önkormányzata közötti együttműködési megállapodás végrehajtásával 
-összefüggő feladatokról 5398
-
-1241/2016. (V. 13.) Korm. határozat A TIOP-2.2.8.A-15/1 azonosító számú („Infrastrukturális fejlesztések 
-megvalósítása” című) konstrukció keretében egyes projektek támogatásáról 5401
-
-
-
-M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5315
-
-III. Kormányrendeletek
-
 A Kormány 98/2016. (V. 13.) Korm. rendelete
 a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások 
 felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról
-
 A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. és 41. pontjában,
 a 45.  § (1)  bekezdés 74.  pontja tekintetében a  mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz 
 és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007.  évi XVII.  törvény 81.  § (1a)  bekezdésében és 
 az államháztartásról szóló 2011. évi CXCV. törvény 109. § (2) bekezdés a) pontjában
 kapott felhatalmazás alapján, az  Alaptörvény 15.  cikk (1)  bekezdésében meghatározott feladatkörében eljárva a  következőket 
 rendeli el:
-
 1. §  A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának 
 rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a  továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 1. alcíme 
 a következő 2/A. §-sal egészül ki:
 „2/A.  § Az  e  rendelet alkalmazási körébe tartozó támogatások felhasználása rendjének részletszabályait 
 az 1. melléklet szerinti egységes működési kézikönyv határozza meg.”
-
 2. § (1) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdése a következő 18a. ponttal egészül ki:
 (E rendelet alkalmazásában)
 „18a. kitöltőprogram: a  www.szechenyi2020.hu honlapon elérhető E-ügyintézés 2014–2020 funkciónak 
 a támogatási kérelmek kitöltését és beadását támogató felülete,”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdése a következő 19a. ponttal egészül ki:
 (E rendelet alkalmazásában)
 „19a. konzorciumvezető: a konzorciumnak a tagjai által a konzorciumot létesítő szerződésben a többi tag harmadik 
 személyekkel szembeni képviseletére feljogosított tagja,”
-
 (3) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdése a következő 32a. ponttal egészül ki:
 (E rendelet alkalmazásában)
 „32a. pénzügyi eszközzel kombinált vissza nem térítendő támogatás: olyan támogatási forma, amelyben a  végső 
 kedvezményezett pénzügyi terméket vesz igénybe és egyidejűleg vissza nem térítendő támogatásban is részesül,”
-
 (4) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 34. pontja helyébe a következő rendelkezés lép:
 (E rendelet alkalmazásában)
 „34. pénzügyi közvetítő: olyan szervezet, amelyre az alapok alapját végrehajtó szervezet a végrehajtási feladatok egy 
 részét bízta az  1303/2013/EU európai parlamenti és tanácsi rendelet 38.  cikk (5)  bekezdésében meghatározottak 
 szerint,”
-
 (5) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1a) bekezdése a következő 2a. ponttal egészül ki:
 (Az EMVA és ETHA végrehajtása során e rendelet alkalmazásában)
 „2a. illetékes hatóság: a 2007. évi XVII. törvény 9. § c) pontja szerinti hatóság,”
-
 3. §  A 272/2014. (XI. 5.) Korm. rendelet 11. § 6. pontja helyébe a következő rendelkezés lép:
 (Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium pénzügyi feladatai keretében)
 „6. megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyezetett, az 1303/2013/EU európai 
 parlamenti és tanácsi rendelet 112.  cikke szerinti pénzügyi adatokat legkésőbb az  ott meghatározott határidőket 
 megelőző 14 naptári nappal.”
-
 4. § (1) A 272/2014. (XI. 5.) Korm. rendelet 17. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 (Az Alapok igazoló hatósága)
 „c) az irányító hatóság által az európai uniós források felhasználásáért felelős miniszter útján megküldött pénzügyi 
-adatok alapján összeállítja az  1303/2013/EU európai parlamenti és tanácsi rendelet 112.  cikkében meghatározott 
-
-
-
-5316 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+adatok alapján összeállítja az  1303/2013/EU európai parlamenti és tanácsi rendelet 112.  cikkében meghatározott
+5316 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 kimutatásokat, és továbbítja az 1303/2013/EU európai parlamenti és tanácsi rendelet 74. cikke szerinti elektronikus 
 adatcsere rendszeren keresztül az Európai Bizottság részére,”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 17. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
 (Az Alapok igazoló hatósága)
 „e) a  monitoring és információs rendszerben pénzügyi nyilvántartást vezet, amelynek keretében nyilvántartja 
 az  Alapokból származó támogatás részben vagy egészben történő törlése következtében visszafizetendő, 
 visszafizetett, visszavont, valamint a behajthatatlan összegeket,”
-
 5. §  A 272/2014. (XI. 5.) Korm. rendelet 18. §-a a következő (1a) bekezdéssel egészül ki:
 „(1a) A szakpolitikai felelősöket a 2. mellékletben foglalt táblázat F oszlopa határozza meg.”
-
 6. §  A 272/2014. (XI. 5.) Korm. rendelet 12. alcímének címe helyébe a következő cím lép:
 „12. Az irányító hatóság, a közreműködő szervezet és az alapok alapját végrehajtó szervezet feladatai”
-
 7. § (1) A 272/2014. (XI. 5.) Korm. rendelet 20. § 26. pontja helyébe a következő rendelkezés lép:
 (Az irányító hatóság)
 „26. biztosítja az  igazoló hatóság részére a központosított számviteli nyilvántartás vezetéséhez az  igazoló hatóság 
 által készített elszámolások és kimutatások, valamint az  egységes informatikai rendszerben rögzített adatok 
 megfelelőségének, hitelességének alátámasztása érdekében bekért bizonylatok és dokumentumok (kivéve 
 fizetésiszámla-kivonatok) rendelkezésre bocsátását,”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 20. §-a a következő 30. ponttal egészül ki:
 (Az irányító hatóság)
 „30. megküldi az  európai uniós források felhasználásáért felelős miniszter részére az 1303/2013/EU európai 
 parlamenti és tanácsi rendelet 112.  cikke szerinti pénzügyi adatokat legkésőbb az  ott meghatározott határidőket 
 megelőző 21 nappal.”
-
 8. §  A 272/2014. (XI. 5.) Korm. rendelet 24. §-a a következő (4) bekezdéssel egészül ki:
 „(4) Az  irányító hatóság biztosítja, hogy a  programot érintő audit jelentésben megfogalmazott korrekciók 
 kapcsán az  igazoló hatóság által kért adatok, alátámasztó dokumentumok és bizonylatok a kérésnek megfelelően 
 megküldésre kerüljenek az igazoló hatóság részére.”
-
 9. §  A 272/2014. (XI. 5.) Korm. rendelet 41/D. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 (Az éves fejlesztési keret elfogadására irányuló javaslatban be kell mutatni a  tárgyévben meghirdetendő felhívások 
 tekintetében)
 „a) a felhívás címét – pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén ennek tényére történő 
 utalással – és célját,”
-
 10. §  A 272/2014. (XI. 5.) Korm. rendelet 41/H. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 [Pénzügyi eszközökkel összefüggő felhívás esetén az  éves fejlesztési keret elfogadására irányuló javaslatban be 
 kell mutatni a  tárgyévben meghirdetendő felhívások tekintetében a  41/D.  § (1)  bekezdés b), c), e) és h)  pontjában 
 meghatározottakat, valamint]
 „a) a pénzügyi termék nevét – pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén ennek tényére 
 történő utalással – és célját,”
-
 11. §  A 272/2014. (XI. 5.) Korm. rendelet 45. § (2a) bekezdése helyébe a következő rendelkezés lép:
 „(2a) A  felhívás az  irányító hatóság vezetője által jóváhagyott tartalommal hirdethető meg. Az  irányító hatóság 
 felelőssége a  felhívás e  rendelet és a  vonatkozó uniós jogi aktusok rendelkezéseivel való összhangjának 
 megteremtése.”
-
 12. § (1) A 272/2014. (XI. 5.) Korm. rendelet 52. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) Az európai uniós források felhasználásáért felelős miniszter a 49. § (1) bekezdése alapján elvégzi a módosított 
 felhívás minőségbiztosítását, továbbá a  közleményt és a  módosított felhívást – szükség esetén a  javasolt 
-pontosítások átvezetését követően – haladéktalanul, de legkésőbb az  azok beérkezését követő munkanapon 
-
-
-
+pontosítások átvezetését követően – haladéktalanul, de legkésőbb az  azok beérkezését követő munkanapon
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5317
-
 közzéteszi. Ha a  módosítás értelmében a  kitöltőprogramot is módosítani kell, a  módosított felhívás a  módosított 
 kitöltőprogrammal egyidejűleg kerül közzétételre.”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 52. §-a a következő (4) bekezdéssel egészül ki:
 „(4) Ha a módosított felhívás közzététele
 a) a  támogatási kérelem benyújtásának első lehetséges határnapját megelőző nyolc napon belül történik, 
@@ -264,14 +98,12 @@ közzétételét követő nyolcadik napon nyújtható be,
 b) a  támogatási kérelem benyújtására nyitva álló időszakban történik, a  módosított felhívás közzétételét követő 
 legalább nyolc napig biztosítani kell a  támogatási kérelem benyújtásának lehetőségét az  53.  § (1)  bekezdésében 
 meghatározott kivétellel.”
-
 13. §  A 272/2014. (XI. 5.) Korm. rendelet 56/C. §-a helyébe a következő rendelkezés lép:
 „56/C.  § A  kedvezményezett az  56/A.  § (2)  bekezdés c)  pontja szerinti határidőig szerződésmódosítási bejelentés 
 keretében benyújtja a projektdokumentációt, amelyet az irányító hatóság a felhívásban előírt értékelési szempontok 
 szerint megvizsgál. Ha a  projektdokumentáció az  irányító hatóság által a  felhívásban meghatározott értékelési 
 szempontoknak megfelel, az  irányító hatóság az  56.  § (3)  bekezdése szerinti szerződést módosítja a  projekt 
 megvalósítása érdekében.”
-
 14. §  A 272/2014. (XI. 5.) Korm. rendelet 57. § (4) bekezdése helyébe a következő rendelkezés lép:
 „(4) Az  ITP módosítását évente két alkalommal, április 30-ig és december 31-ig kezdeményezheti a  területi 
 szereplő. Már megjelent felhívás keretösszege csökkentését kizárólag az  Európai Regionális Fejlesztési Alapról és 
@@ -280,18 +112,15 @@ a „Beruházás a  növekedésbe és munkahelyteremtésbe” célkitűzésrő
 és tanácsi rendelet (a továbbiakban: 1301/2013/EU parlamenti és tanácsi rendelet) 7. cikk (4) bekezdése hatálya alá 
 tartozó területi szereplő kezdeményezheti, ha a támogatási kérelmet kizárólag a területi szereplő, az általa vezetett 
 konzorcium vagy a – közvetlenül vagy közvetve – többségi tulajdonában lévő gazdasági társaság nyújthatja be.”
-
 15. § (1) A 272/2014. (XI. 5.) Korm. rendelet 57/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) Ha a  területi kiválasztási rendszer eljárásrendben meghirdetett felhívásra kizárólag egy területi szereplő, 
 az általa vezetett konzorcium, vagy olyan közvetlenül vagy közvetve állami vagy önkormányzati tulajdonban lévő 
 gazdasági társaság nyújthat be támogatási kérelmet, amelyben a területi szereplő többségi tulajdonnal rendelkezik, 
 a  X. és XII.  Fejezet kiemelt eljárásrendre vonatkozó szabályait kell alkalmazni azzal, hogy a  felhívás erre irányuló 
 rendelkezése alapján döntés-előkészítő bizottság hívható össze.”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 57/A. §-a a következő (4) bekezdéssel egészül ki:
 „(4) A  területi szereplő által delegált tag a  döntés-előkészítő bizottságban a  területi szereplő közgyűlése vagy 
 az általa kijelölt bizottsága határozatában hozott döntési javaslatot képviseli.”
-
 16. § (1) A 272/2014. (XI. 5.) Korm. rendelet 57/B. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 „(1) EMVA és ETHA forrásból támogatott intézkedésekben való részvételre vonatkozó kérelmet az  a  támogatást 
 igénylő, illetve kedvezményezett nyújthat be, aki vagy amely kérelemre nyilvántartásba vett besorolású ügyfélként 
@@ -300,29 +129,22 @@ szerepel a kifizető ügynökség által vezetett ügyfél-nyilvántartási ren
 illetve kedvezményezett helyett az  ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású 
 meghatalmazott is eljárhat. A  meghatalmazás nyilvántartásba vételének és megszüntetése bejelentésének 
 szabályait az 1. melléklet 8/A.1–8/A.7. pontja határozza meg.”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 57/B. §-a a következő (6) bekezdéssel egészül ki:
 „(6) Az  1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az  integrált igazgatási és 
 kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról 
 szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet (a  továbbiakban: 809/2014/EU bizottsági 
 végrehajtási rendelet) 11.  cikk (4)  bekezdésében meghatározott előzetes ellenőrzés során a  kapcsolattartás 
 kizárólag elektronikus úton történik.”
-
-
-
-5318 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5318 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 17. §  A 272/2014. (XI. 5.) Korm. rendelet 57/C. § (7) bekezdése helyébe a következő rendelkezés lép:
 „(7) EMVA forrásból nyújtott, egységes kérelemmel érintett támogatás esetén a  felhívás rendelkezhet úgy, hogy 
 a támogatás igénybevételére benyújtott támogatási kérelem magában foglalja a kifizetési igénylést is.”
-
 18. §  A 272/2014. (XI. 5.) Korm. rendelet 57/H. §-a a következő (8) bekezdéssel egészül ki:
 „(8) A  felhívás erre vonatkozó rendelkezése szerint a  kedvezményezett halála esetén a  kifizető ügynökség 
 a  kedvezményezettel annak halálakor együtt élt házastársa vagy törvényes örököse (a  továbbiakban együtt: 
 vélelmezett örökös) kérelmére a  támogatás igénybevételéhez kapcsolódó eljárást megindítja. Ebben az  esetben 
 a  kifizető ügynökség a  szükséges eljárási cselekményeket a  vélelmezett örökös bevonásával elvégzi, de érdemi 
 döntést csak a jogerős hagyatékátadó végzés benyújtását követően hoz.”
-
 19. §  A 272/2014. (XI. 5.) Korm. rendelet 57/L. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 „(1) Ha a  támogatást igénylő, illetve a  kedvezményezett helyett és nevében az  egyes eljárási cselekmények 
 elektronikus ügyintézése során az  ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású 
@@ -330,7 +152,6 @@ elektronikus ügyintézése során az  ügyfél-nyilvántartási rendszerben k�
 az eljárási cselekmények elektronikus elvégzéséhez.
 (2) A kamarai meghatalmazás nyilvántartásba vételének és megszüntetése bejelentésének szabályait az 1. melléklet 
 8/A.8–8/A.11. pontja tartalmazza.”
-
 20. §  A 272/2014. (XI. 5.) Korm. rendelet 60. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) Az  irányító hatóság a  támogatási kérelem beérkezését követően, a  felhívásban szereplő jogosultsági 
 szempontok szerint, felhívásonként kialakított ellenőrzési lista alapján elvégzi a  támogatási kérelem jogosultsági 
@@ -340,7 +161,6 @@ felhívásokra, valamint a helyi vagy területi önkormányzatok számára is n
 a  jogosultsági ellenőrzés kizárólag a  közigazgatási adatbázisokban rendelkezésre álló, hozzáférhető vagy más 
 közhiteles nyilvántartásokból elérhető adatok ellenőrzésére, az Áht. 50. § (1) bekezdése szerinti feltételeknek való 
 megfelelésre, valamint a támogatási kérelemhez csatolandó mellékletek teljeskörűségének vizsgálatára irányulhat.”
-
 21. § (1) A 272/2014. (XI. 5.) Korm. rendelet 62. § (2) bekezdése a következő f ) ponttal egészül ki:
 (Az irányító hatóságnak biztosítania kell, hogy a támogatási kérelmek tartalmi értékelése során alkalmazott mérlegelést 
 igénylő és mérlegelést nem igénylő értékelési szempontok)
@@ -351,26 +171,19 @@ Szociális Alapból és a  Kohéziós Alapból származó támogatások felhasz
 Korm. rendelet [a  továbbiakban: 4/2011. (I. 28.) Korm. rendelet], valamint e  rendelet hatálya alá tartozó  – 
 projektjeivel kapcsolatban rendelkezésre álló információk, így különösen a  pénzügyi korrekciót eredményezett 
 szabálytalanságok vizsgálatára.”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 62. §-a a következő (3) bekezdéssel egészül ki:
 „(3) A (2) bekezdés f ) pontját akként kell alkalmazni, hogy a pénzügyi korrekciót eredményezett szabálytalanságokat 
 pontszámot csökkentő tényezőként kell figyelembe venni.”
-
 22. §  A 272/2014. (XI. 5.) Korm. rendelet 64. §-a a következő (4) bekezdéssel egészül ki:
 „(4) A  támogatási kérelemről való döntéshozatal során figyelembe kell venni a  XVI. Fejezet alapján lefolytatott 
 ellenőrzés eredményét annak érdekében, hogy el nem számolható támogatási összeg ne kerüljön odaítélésre.”
-
 23. §  A 272/2014. (XI. 5.) Korm. rendelet 70. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) A  projekt szakmai tartalma szerinti felelős irányító hatóság vezetője az  általa benyújtott éves fejlesztési keret 
 elfogadását követően a  VEKOP-ra eső támogatási keretösszeg feletti rendelkezési jogot az  Uniós fejlesztések 
 fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 
 [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] alapján gyakorolja. A projekt szakmai tartalma szerinti felelős 
 irányító hatóságra e támogatási keretösszeg tekintetében a 12. alcímet kell alkalmazni.”
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5319
-
 24. §  A 272/2014. (XI. 5.) Korm. rendelet 26. alcíme a következő 70/A. és 70/B. §-sal egészül ki:
 „70/A. § (1) A mikro-, kis- és középvállalkozások számára is nyitva álló, standard kiválasztási eljárásrenddel érintett 
 felhívásokra, valamint a helyi vagy területi önkormányzatok számára is nyitva álló, standard vagy az 57/A. § (2) és 
@@ -383,7 +196,6 @@ felhívásokra, valamint a helyi vagy területi önkormányzatok számára is n
 (2) Az  57/A.  § (2) és (3)  bekezdése szerinti kiválasztási eljárásrenddel érintett felhívások kivételével 
 a  döntés-előkészítő bizottság tagjainak száma három fő. A  döntés-előkészítő bizottságba az  irányító hatóság, 
 a szakpolitikai felelős és az európai uniós források felhasználásért felelős miniszter delegál tagot.”
-
 25. §  A 272/2014. (XI. 5.) Korm. rendelet 28/A. alcíme helyébe a következő alcím lép:
 „28/A. Pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén alkalmazandó benyújtási 
 és kiválasztási szabályok
@@ -404,16 +216,13 @@ a  vissza nem térítendő támogatásról a  68.  § (1)  bekezdése szerin
 74/C.  § Pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén, ha az  alapok alapját végrehajtó 
 szervezet vagy a  pénzügyi közvetítő a  végső kedvezményezettel kötött szerződést felmondja, az  a  fenntartási 
 időszak időtartama alatt a támogatási szerződéstől történő elállást is eredményezi.”
-
 26. § (1) A 272/2014. (XI. 5.) Korm. rendelet 77. §-a a következő (1a) bekezdéssel egészül ki:
 „(1a) A kezességvállalás pénzügyi eszköz esetén az (1) bekezdés c)–e) pontja nem alkalmazandó.”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 77. § (5) bekezdése helyébe a következő rendelkezés lép:
 „(5) Ha a  kedvezményezett természetes személy vagy mikro-, kis- és középvállalkozás, az  önerő rendelkezésre 
 állásáról – választása szerint – a  (4)  bekezdés szerinti igazoló dokumentum benyújtása nélkül kizárólag 
 a (3) bekezdés c) pontja szerint nyilatkozhat, amelyben vállalja, hogy a projekt megvalósítása során biztosítani fogja 
 az önerő rendelkezésre állását.”
-
 (3) A 272/2014. (XI. 5.) Korm. rendelet 77. §-a a következő (6) bekezdéssel egészül ki:
 „(6) Az  (5)  bekezdés szerinti esetben, ha a  kedvezményezett a  projektet nem vagy csak részben valósítja meg, 
 és emiatt az  irányító hatóság vagy a  kedvezményezett a  támogatási szerződéstől elállt vagy azt felbontották, 
@@ -421,17 +230,12 @@ az irányító hatóság kezdeményezi
 a) az állami adóhatóságnál a kedvezményezett adószámának törlését, vagy
 b) természetes személy kedvezményezett esetén a  164.  § (3)  bekezdés e)  pontja szerinti kizárását az  e  rendelet 
 hatálya alá tartozó támogatások igénybevételéből.”
-
 27. § (1) A 272/2014. (XI. 5.) Korm. rendelet 79. § (2) bekezdés f ) pontja helyébe a következő rendelkezés lép:
 (A kedvezményezett a támogatási szerződésbe foglalva köteles nyilatkozni arról, hogy)
 „f ) ha az Atr. 2. § 1. pont a)–d) alpontja szerinti csekély összegű (de minimis) támogatást igényel, a folyamatban lévő 
 és az azt megelőző két pénzügyi év során részére megítélt csekély összegű (de minimis) támogatásnak mennyi volt 
 a támogatástartalma.”
-
-
-
-5320 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5320 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 (2) A 272/2014. (XI. 5.) Korm. rendelet 79. § (2b) bekezdése helyébe a következő rendelkezés lép:
 „(2b) EMVA forrásból származó támogatás esetén
 a) a  megítélt támogatást a  kifizető ügynökség a  908/2014/EU bizottsági rendelet 28.  cikke alapján 
@@ -441,29 +245,24 @@ b) ha a  kedvezményezettnek köztartozása vagy a  kifizető ügynökséggel 
 támogatást a  kifizető ügynökség a  köztartozással, valamint a  tartozással csökkentett összegben folyósítja, azzal, 
 hogy a támogatott tevékenységet a támogatási szerződésben meghatározott szakmai tartalom és intenzitás mellett 
 kell a kedvezményezettnek megvalósítania.”
-
 28. §  A 272/2014. (XI. 5.) Korm. rendelet 97. §-a a következő (1a) bekezdéssel egészül ki:
 „(1a) A  nem közbeszerzés köteles beszerzés esetén a  felhívás erre vonatkozó rendelkezése alapján a  beszerzési 
 igényt az  ajánlattételi határidőt megelőző öt nappal a  kedvezményezett és a  támogatást igénylő köteles  
 a  www.szechenyi2020.hu honlapon az  ott meghatározott követelmények szerint közzétenni. Nem kell közzétenni 
 az 5. melléklet 2.3.2.5a. pontja szerint megállapított beszerzési igényt.”
-
 29. §  A 272/2014. (XI. 5.) Korm. rendelet 113. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) Az  éves beszámoló keretében az  igazoló hatóság készíti el számviteli évenként az  1303/2013/EU európai 
 parlamenti és tanácsi rendelet 137. cikke szerinti elszámolásokat.”
-
 30. §  A 272/2014. (XI. 5.) Korm. rendelet 115. § (7) bekezdése helyébe a következő rendelkezés lép:
 „(7) Az  előleg felhasználására és az  előleggel való elszámolásra vonatkozó összegszerű és időbeli ütemezést 
 a felhívásban és a támogatási szerződésben rögzíteni kell. Állami támogatás esetén az irányító hatóság a felhívásban 
 rögzíti, hogy a  kedvezményezettnek az  előleg folyósításától számított három éven belül el kell számolnia 
 az előleggel.”
-
 31. §  A 272/2014. (XI. 5.) Korm. rendelet 115/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 „(1) Ha az  előlegigénylés hiányos vagy hibás, a  beérkezéstől számított hét napon belül, legfeljebb tizenöt napos 
 határidő tűzésével, az  adott igénylésben szereplő valamennyi hiány, illetve hiba megjelölésével hiánypótlásra kell 
 felhívni a  kedvezményezettet a  37.  §-ban foglaltak figyelembevételével. Az  e  bekezdés szerinti határidők a  115.  § 
 (2a) bekezdése szerinti esetben nem alkalmazandók.”
-
 32. §  A 272/2014. (XI. 5.) Korm. rendelet 129.  § (1)  bekezdése helyébe a  következő rendelkezés lép és a  § a  következő  
 (1a)–(1d) bekezdéssel egészül ki:
 „(1) A támogatás folyósítására – a kedvezményezett által benyújtott kifizetési igénylés alapján – utófinanszírozással 
@@ -480,17 +279,12 @@ támogatás, ha a  korlátozott rendelkezésű számla az  e  rendelet hatál
 projekt megvalósítása érdekében került megnyitásra.
 (1d) Előleget és szállítói finanszírozású számla támogatástartalmának megfelelő támogatást nem lehet 
 zálogjogosult részére vagy korlátozott rendelkezésű számlára utalni.”
-
 33. §  A 272/2014. (XI. 5.) Korm. rendelet 130. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
 „(2a) A benyújtott engedményezési szerződésnek vagy engedményezési értesítőnek, a zálogszerződésnek (ide értve 
 az óvadékot alapító szerződést is) vagy a teljesítési utasításnak tartalmaznia kell
 a) a szerződő felek megnevezését és azonosító adatait,
 b) a támogatási szerződés azonosító számát,
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5321
-
 c) a támogató megnevezését,
 d) az engedményezett vagy elzálogosított követelés (támogatási összeg) forintban történő megjelölését,
 e) az  engedményes vagy zálogjogosult fizetésiszámla-számát, melyre a  támogatási szerződés alapján fennálló, 
@@ -507,16 +301,13 @@ fd) előleget és szállítói finanszírozású számla támogatástartalmának
 részére.
 (2b) Zálogjogosultként az irányító hatóság kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 szerinti hitelintézeteket és pénzügyi vállalkozásokat fogadja el.”
-
 34. §  A 272/2014. (XI. 5.) Korm. rendelet 132. § (7) bekezdése helyébe a következő rendelkezés lép:
 „(7) Záró kifizetési igénylés esetén az  irányító hatóság több alkalommal is hiánypótlásra hívhatja fel 
 a kedvezményezettet és több alkalommal is feltehet részére tisztázó kérdést. Ezt az eljárást az irányító hatóság első 
 hiánypótlási felhívásának kedvezményezett általi kézhezvételét követő hatvan napon belül le kell zárni. Az eljárást 
 az irányító hatóság indokolt esetben felfüggesztheti.”
-
 35. §  A 272/2014. (XI. 5.) Korm. rendelet XXII. Fejezetének címe helyébe a következő cím lép:
 „SZABÁLYTALANSÁGI DÖNTÉSEK ELLENI JOGORVOSLAT, JELENTÉSTÉTEL”
-
 36. §  A 272/2014. (XI. 5.) Korm. rendelet 177. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
 „(1) A behajtott és kompenzált összegek igazoló hatóság pénzforgalmi számlája felé történő rendezése az  igazoló 
 hatóság által összeállított közösségi hozzájárulás rendezés keretében történik. Az  irányító hatóság gondoskodik 
@@ -526,10 +317,8 @@ követő öt napon belül.
 a  monitoring és információs rendszerben a  kézhezvételt követő két napon belül kell rögzíteni és a  rögzítést 
 követő két napon belül jóváhagyni. Ha a befolyt összeg két napon belül nem azonosítható be, egyéb tételként kell 
 rögzíteni, majd a beazonosítást követően módosítani kell a számlakivonat-rögzítést.”
-
 37. §  A 272/2014. (XI. 5.) Korm. rendelet 178. §-a a következő (1a) bekezdéssel egészül ki:
 „(1a) Az (1) bekezdés szerinti kötelezettség az 1. melléklet 279.1–279.3. pontja szerinti esetekben és módon áll fenn.”
-
 38. §  A 272/2014. (XI. 5.) Korm. rendelet 182. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
 „(1) Az  irányító hatóság elkészíti az  Európai Bizottság vezetői nyilatkozat és éves összefoglaló elkészítésére 
 vonatkozó útmutatója szerinti éves összefoglalót, amely tartalmazza
@@ -544,27 +333,20 @@ együttműködési célkitűzésre vonatkozó végrehajtási jelentések mintáj
 európai parlamenti és tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 
 2015. január 20-i (EU) 2015/207 bizottsági végrehajtási rendelet VI. mellékletének megfelelő vezetői nyilatkozatot.
 (3) Az  igazoló hatóság készíti el az  1303/2013/EU európai parlamenti és tanácsi rendelet 137.  cikke szerinti 
-elszámolásokat az  1303/2013/EU európai parlamenti és tanácsi rendeletnek meghatározott információk 
-
-
-
-5322 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+elszámolásokat az  1303/2013/EU európai parlamenti és tanácsi rendeletnek meghatározott információk
+5322 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 Bizottsághoz való benyújtására használt minták tekintetében való végrehajtására, valamint a  kedvezményezettek 
 és az  irányító hatóságok, az  igazoló hatóságok, az  audithatóságok és a  közreműködő szervezetek közötti 
 információcserére vonatkozó részletes szabályok megállapításáról szóló, 2014. szeptember 22-i 1011/2014/EU 
 bizottsági végrehajtási rendeletnek megfelelően.”
-
 39. § (1) A 272/2014. (XI. 5.) Korm. rendelet 183. § (2) bekezdése helyébe a következő rendelkezés lép:
 „(2) Az  irányító hatóság minden év október 15-ig elkészíti a  számviteli évről az  éves összefoglalót, a  vezetői 
 nyilatkozatot, az  irányítási és kontroll rendszer számviteli év alatt bekövetkezett változásairól szóló beszámolót, 
 majd azokat megküldi az audit hatóságnak és az igazoló hatóságnak. Az irányító hatóság azon projektek listáját is 
 megküldi az audit hatóság és az igazoló hatóság részére, melyeket nem kíván szerepeltetni az éves elszámolásban.”
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 183. §-a a következő (10) bekezdéssel egészül ki:
 „(10) A  feltöltött dokumentumokat az  igazoló hatóság február 15-ig továbbítja az  Európai Bizottság részére 
 az elektronikus adatcsere rendszeren keresztül.”
-
 40. §  A 272/2014. (XI. 5.) Korm. rendelet a következő 198/A. §-sal egészül ki:
 „198/A.  § (1) Az  EMVA és ETHA forrásból származó támogatások esetén, ha a  kifizető ügynökség vagy az  irányító 
 hatóság által küldött iratok megküldése ügyfélkapun keresztül történik, az  ügyfélkapun keresztül megküldött 
@@ -579,7 +361,6 @@ meghatalmazottja van, kivéve az 57/B. § (6) bekezdése szerinti esetet.
 kedvezményezettnek több meghatalmazottja van, az  iratok az  átvételre írásban kijelölt meghatalmazottnak, ilyen 
 kijelölés hiányában vagy több írásbeli kijelölés esetén – az ügyfél egyidejű értesítésével – az adott intézkedésben 
 utoljára eljáró, hatályos képviseleti joggal rendelkező meghatalmazottnak kerülnek kézbesítésre.”
-
 41. §  A 272/2014. (XI. 5.) Korm. rendelet 66. alcíme a következő 201/F. §-sal és 201/G. §-sal egészül ki:
 „201/F.  § A  2014–2020 programozási időszakban az  egyes európai uniós alapokból származó támogatások 
 felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról szóló 42/2016. (III. 9.) 
@@ -605,21 +386,15 @@ részére megküldött módosított felhívásokra és közleményekre kell alka
 (3) A 98/2016. (V. 13.) Korm. rendelettel megállapított 62. § (2) bekezdés f ) pontját és (3) bekezdését csak a 98/2016. 
 (V. 13.) Korm. rendelet 21.  §-a hatálybalépését követően minőségbiztosítás céljából az  európai uniós források 
 felhasználásáért felelős miniszter részére megküldött új felhívásokra kell alkalmazni.
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5323
-
 (4) A  98/2016. (V. 13.) Korm. rendelettel megállapított 68.  § (5)  bekezdését, 70/A. és 70/B.  §-t a  98/2016. (V. 13.) 
 Korm. rendelet hatálybalépését követően megkezdett tartalmi értékelésekre kell alkalmazni.
 (5) A  98/2016. (V. 13.) Korm. rendelettel megállapított rendelkezések alapján szükségessé váló felhívás-
 módosításokról az  irányító hatóságoknak közlemény formájában kell gondoskodniuk a  98/2016. (V. 13.) 
 Korm. rendelet hatálybalépését követő tíz napon belül.”
-
 42. §  A 272/2014. (XI. 5.) Korm. rendelet 66. alcíme a következő 201/H. §-sal egészül ki:
 „201/H. § A 98/2016. (V. 13.) Korm. rendelettel megállapított 77. § (6) bekezdését a 98/2016. (V. 13.) Korm. rendelet 
 26. § (3) bekezdése hatálybalépését követően tett nyilatkozatokra kell alkalmazni.”
-
 43. §  A 272/2014. (XI. 5.) Korm. rendelet 202. §-a helyébe a következő rendelkezés lép:
 „202. § Ez a rendelet
 1. az  Európai Regionális Fejlesztési Alapra, az  Európai Szociális Alapra, a  Kohéziós Alapra, az  Európai 
@@ -663,334 +438,232 @@ hatóságok, az  igazoló hatóságok, az  audithatóságok és a  közreműk
 vonatkozó részletes szabályok megállapításáról szóló, 2014. szeptember 22-i 1011/2014/EU bizottsági végrehajtási 
 rendelet,
 13. az  előrehaladási jelentések mintája, a  nagyprojektekre vonatkozó információk benyújtásának formátuma, 
-a  közös cselekvési terv mintája, a  „Beruházás a  növekedésbe és munkahelyteremtésbe” célkitűzésre vonatkozó 
-
-
-
-5324 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+a  közös cselekvési terv mintája, a  „Beruházás a  növekedésbe és munkahelyteremtésbe” célkitűzésre vonatkozó
+5324 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 végrehajtási jelentések mintája, a vezetői nyilatkozat, az auditstratégia, az auditvélemény és az éves kontrolljelentés 
 mintája, a költség-haszon elemzés módszertana, valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet 
 alkalmazásában az  európai területi együttműködési célkitűzésre vonatkozó végrehajtási jelentések mintája 
 tekintetében az 1303/2013/EU európai parlamenti és tanácsi rendelet végrehajtására vonatkozó részletes szabályok 
 megállapításáról szóló, 2015. január 20-i (EU) 2015/207 bizottsági végrehajtási rendelet
 végrehajtásához szükséges rendelkezéseket állapít meg.”
-
 44. §  A 272/2014. (XI. 5.) Korm. rendelet
 a) 1. melléklete az 1. melléklet,
 b) 4. melléklete a 2. melléklet és
 c) 5. melléklete a 3. melléklet
 szerint módosul.
-
 45. § (1) A 272/2014. (XI. 5.) Korm. rendelet
  1. 1. alcímének címében a „köre” szövegrész helyébe a „köre, hatálya” szöveg,
  2. 3. § (1) bekezdés 5. pontjában az „az” szövegrész helyébe az „az e” szöveg,
- 3. 3. § (1) bekezdés 6. pontjában az „előzetes elemzés” szövegrész helyébe az „az irányító hatóság által az érintett 
-
+ 3. 3. § (1) bekezdés 6. pontjában az „előzetes elemzés” szövegrész helyébe az „az irányító hatóság által az érintett
 szakpolitikai felelős bevonásával elkészítendő előzetes elemzés” szöveg,
- 4. 3.  § (1)  bekezdés 39.  pontjában a  „pénzügyi befejezést” szövegrész helyébe a  „projektmegvalósítás 
-
+ 4. 3.  § (1)  bekezdés 39.  pontjában a  „pénzügyi befejezést” szövegrész helyébe a  „projektmegvalósítás
 befejezését” szöveg,
  5. 3. § (1) bekezdés 42. pontjában a „támogatás” szövegrész helyébe a „támogatási” szöveg,
- 6. 3. § (1) bekezdés 51. pontjában a „szállító vagy engedményes pénzforgalmi számlájára” szövegrész helyébe 
-
+ 6. 3. § (1) bekezdés 51. pontjában a „szállító vagy engedményes pénzforgalmi számlájára” szövegrész helyébe
 a „szállító, engedményes vagy zálogjogosult fizetési számlájára” szöveg,
- 7. 3.  § (1)  bekezdés 63.  pontjában a „megye, megyei jogú város és a  főváros” szövegrész helyébe a „megyei 
-
+ 7. 3.  § (1)  bekezdés 63.  pontjában a „megye, megyei jogú város és a  főváros” szövegrész helyébe a „megyei
 önkormányzat, megyei jogú város önkormányzata és a fővárosi önkormányzat” szöveg,
  8. 3. § (1a) bekezdés 6. pontjában az „adatoknak” szövegrész helyébe az „adatok,” szöveg,
  9. 4. § (1) bekezdés i) pontjában a „foglalt” szövegrész helyébe a „foglal” szöveg,
-10. 25.  § (1a)  bekezdésében az „Áht.” szövegrész helyébe az „államháztartásról szóló 2011.  évi CXCV.  törvény 
-
+10. 25.  § (1a)  bekezdésében az „Áht.” szövegrész helyébe az „államháztartásról szóló 2011.  évi CXCV.  törvény
 (a továbbiakban: Áht.)” szöveg,
-11. 29.  § (6)  bekezdésében a „szervezetek” szövegrész helyébe a „szervezetek, valamint az  illetékes hatóság” 
-
+11. 29.  § (6)  bekezdésében a „szervezetek” szövegrész helyébe a „szervezetek, valamint az  illetékes hatóság”
 szöveg,
-12. 41/D.  § (2)  bekezdés nyitó szövegrészében az „akkor lehet kevesebb,” szövegrész helyébe az „a következő 
-
+12. 41/D.  § (2)  bekezdés nyitó szövegrészében az „akkor lehet kevesebb,” szövegrész helyébe az „a következő
 esetekben lehet kevesebb:” szöveg,
 13. 47. § (3) bekezdésében a „támogatási okirat” szövegrész helyébe a „támogatói okirat” szöveg,
-14. 53.  § (1)  bekezdésében a „kimerül” szövegrész helyébe a „kimerül – ide értve a  felhívás keretösszegének 
-
+14. 53.  § (1)  bekezdésében a „kimerül” szövegrész helyébe a „kimerül – ide értve a  felhívás keretösszegének
 csökkentését is –” szöveg,
-15. 55. §-ában a „165. § (3)” szövegrész helyébe a „172. § (6)” szöveg, a „212.4. pontot és a 269.3–269.5.” szövegrész 
-
+15. 55. §-ában a „165. § (3)” szövegrész helyébe a „172. § (6)” szöveg, a „212.4. pontot és a 269.3–269.5.” szövegrész
 helyébe a „269.3–269.5. pontot, a 328.6. pontot és a 329.2.” szöveg,
-16. 57/C.  § (6)  bekezdésében az „a támogatási, illetve kifizetési kérelemmel érintett terület, illetve állatlétszám 
-
+16. 57/C.  § (6)  bekezdésében az „a támogatási, illetve kifizetési kérelemmel érintett terület, illetve állatlétszám
 megállapítása és a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges” szövegrész 
 helyébe az „az” szöveg,
-
 17. 57/L.  § (4)  bekezdésében a „küld meg” szövegrész helyébe a „küld meg, kivéve az  57/B.  § (6)  bekezdése 
 szerinti esetet” szöveg,
-
 18. 60. § (3) bekezdésében a „hét” szövegrész helyébe az „öt” szöveg,
 19. 60. § (4) bekezdésében a „túl” szövegrész helyébe a „belül nem” szöveg,
-20. 60.  § (6)  bekezdésében a „benyújtott nyilatkozat” szövegrész helyébe a „benyújtott nyilatkozat a  benyújtási 
-
+20. 60.  § (6)  bekezdésében a „benyújtott nyilatkozat” szövegrész helyébe a „benyújtott nyilatkozat a  benyújtási
 határidőn túl került benyújtásra vagy” szöveg,
 21. 61. § (4) bekezdésében a „sorrendisége” szövegrész helyébe a „sorrendiségük” szöveg,
 22. 65. § (2) bekezdésében a „jóváhagyását” szövegrész helyébe az „állásfoglalását” szöveg,
 23. 65. § (2a) bekezdés nyitó szövegrészében a „jóváhagyásra” szövegrész helyébe az „állásfoglalásra” szöveg,
-24. 65.  § (5)  bekezdésében a  „minősül” szövegrész helyébe a  „minősül,” szöveg, a  „támogatható” szövegrész 
-
+24. 65.  § (5)  bekezdésében a  „minősül” szövegrész helyébe a  „minősül,” szöveg, a  „támogatható” szövegrész
 helyébe a „támogathatók” szöveg,
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5325
-
 25. 68. § (5) bekezdésében az „időtartama” szövegrész helyébe az „időtartama, továbbá az az időtartam, amikor 
 törvényben meghatározott szakértői névsorban nem szerepel a  támogatási kérelem tartalmi értékeléséhez 
 szükséges szakértelemmel rendelkező értékelő” szöveg,
-
 26. 71.  § (2)  bekezdésében a „helyi akciócsoportok (a  továbbiakban: HACS)” szövegrész helyébe a „HACS-ok” 
 szöveg,
-
 27. 29. alcíme címében a „támogatási okirat” szövegrész helyébe a „támogatói okirat” szöveg,
-28. 77. § (4) bekezdésében a „másolata,” szövegrész helyébe a „másolata, a projekt keretében kifizetett számla és 
-
+28. 77. § (4) bekezdésében a „másolata,” szövegrész helyébe a „másolata, a projekt keretében kifizetett számla és
 a kifizetést igazoló dokumentum” szöveg,
 29. 84. § (3) bekezdésében az „együttes” szövegrész helyébe a „nemleges” szöveg,
-30. 86. § (3) bekezdésében az „elállásra,” szövegrész helyébe az „elállásra, vagy pénzügyi eszköz esetén a végső 
-
+30. 86. § (3) bekezdésében az „elállásra,” szövegrész helyébe az „elállásra, vagy pénzügyi eszköz esetén a végső
 kedvezményezettel kötött szerződés felmondására,” szöveg,
-31. 89.  § (1)  bekezdésében az „Átalakulás vagy egyesülés” szövegrész helyébe az „Átalakulás, egyesülés vagy 
-
+31. 89.  § (1)  bekezdésében az „Átalakulás vagy egyesülés” szövegrész helyébe az „Átalakulás, egyesülés vagy
 szétválás” szöveg,
 32. 92. § (2) bekezdés d) pont dc) alpontjában a „konstrukció” szövegrész helyébe a „termék” szöveg,
-33. 92.  § (2)  bekezdés d)  pont dd)  alpontjában az „a pénzügyi közvetítő vagy a  végső kedvezményezett által” 
-
+33. 92.  § (2)  bekezdés d)  pont dd)  alpontjában az „a pénzügyi közvetítő vagy a  végső kedvezményezett által”
 szövegrész helyébe az „az” szöveg,
-34. 97.  § (2)  bekezdésében a  „kedvezményezettek” szövegrész helyébe a  „kedvezményezettek, támogatást 
-
+34. 97.  § (2)  bekezdésében a  „kedvezményezettek” szövegrész helyébe a  „kedvezményezettek, támogatást
 igénylők” szöveg,
-35. 99.  § (4)  bekezdésében a  „szabálytalanságról” szövegrész helyébe a  „szabálytalanságról vagy 
-
+35. 99.  § (4)  bekezdésében a  „szabálytalanságról” szövegrész helyébe a  „szabálytalanságról vagy
 a szabálytalansági gyanú elutasításáról” szöveg,
-36. 100.  § (6)  bekezdésében a  „szabálytalanságról” szövegrész helyébe a  „szabálytalanságról vagy 
-
+36. 100.  § (6)  bekezdésében a  „szabálytalanságról” szövegrész helyébe a  „szabálytalanságról vagy
 a szabálytalansági gyanú elutasításáról” szöveg,
-37. 107.  § (2)  bekezdésében a  „szabálytalanságról” szövegrész helyébe a  „szabálytalanságról vagy 
-
+37. 107.  § (2)  bekezdésében a  „szabálytalanságról” szövegrész helyébe a  „szabálytalanságról vagy
 a szabálytalansági gyanú elutasításáról” szöveg,
-38. 110. § (4) bekezdésében az „elszámolható költségek nemzeti szabályzatát” szövegrész helyébe az „5. melléklet 
-
+38. 110. § (4) bekezdésében az „elszámolható költségek nemzeti szabályzatát” szövegrész helyébe az „5. melléklet
 szerinti elszámolható költségekről szóló nemzeti szabályozást” szöveg, a „szabályzatban” szövegrész helyébe 
 a „nemzeti szabályozásban” szöveg,
-
 39. 112. § (2) bekezdésében az „árfolyamon” szövegrész helyébe a „havi elszámoló árfolyamon” szöveg,
-40. 113. § (1) bekezdésében az „a monitoring és információs rendszerben összeállítja az időközi átutalás igénylési 
-
+40. 113. § (1) bekezdésében az „a monitoring és információs rendszerben összeállítja az időközi átutalás igénylési
 dokumentációt” szövegrész helyébe a „rendszeresen összeállítja a  monitoring és információs rendszerben 
 az  időközi átutalás igénylési dokumentációit, valamint számviteli évenként az  utolsó időközi igénylés 
 dokumentációit” szöveg,
-
 41. 113.  § (4)  bekezdésében a  „költségnyilatkozatok” szövegrész helyébe az  „Az Európai Bizottság részére 
 benyújtott elszámolásokat és átutalási igényléseket alátámasztó költségnyilatkozatok” szöveg,
-
 42. 113/A.  § (4)  bekezdésében az „SFC” szövegrész helyébe az „1303/2013/EU európai parlamenti és tanácsi 
 rendelet 74. cikke szerinti elektronikus adatcsere” szöveg,
-
 43. 135. § (3) bekezdésében a „hatóság köteles” szövegrész helyébe a „hatóság” szöveg, a „visszavonni” szövegrész 
 helyébe a „visszavonja” szöveg, az „elállni” szövegrész helyébe az „eláll” szöveg,
-
 44. 135/A.  § (1)  bekezdésében az  „az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási 
 szabályainak az  integrált igazgatási és kontrollrendszer, a  vidékfejlesztési intézkedések és a  kölcsönös 
 megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági 
 végrehajtási rendelet (a  továbbiakban: 809/2014/EU bizottsági végrehajtási rendelet)” szövegrész helyébe 
 az „a 809/2014/EU bizottsági végrehajtási rendelet” szöveg,
-
 45. 145.  § (5)  bekezdésében az  „először a  helyszíni ellenőrzésnek alávetendő kedvezményezettek 
 minimális számának 20–25%-át kell véletlenszerűen kiválasztani. A  helyszíni ellenőrzésnek alávetendő 
 kedvezményezettek fennmaradó részét kockázatelemzés alapján kell kiválasztani” szövegrész helyébe  
 az „a (2)–(4) bekezdéstől eltérően a 809/2014/EU bizottsági végrehajtási rendelet 50. cikk (1) bekezdését kell 
 alkalmazni” szöveg,
-
 46. 148. § (1) bekezdésében a „minden pénzügyi konstrukcióra vonatkozóan külön programszámla” szövegrész 
 helyébe az  „a programszámlák” szöveg, a  „konstrukcióra” szövegrész helyébe a  „termékre” szöveg, 
 a „konstrukción” szövegrész helyébe a „terméken” szöveg,
-
 47. 148. § (2) bekezdés a) pontjában a „konstrukcióra” szövegrész helyébe a „termékre” szöveg,
-48. 149.  § (1)  bekezdésében a  „konstrukcióra” szövegrész helyébe a  „termékre” szöveg, a  „konstrukciók” 
-
+48. 149.  § (1)  bekezdésében a  „konstrukcióra” szövegrész helyébe a  „termékre” szöveg, a  „konstrukciók”
 szövegrész helyébe a „termékek” szöveg,
-
-
-
-5326 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5326 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 49. 149. § (2) bekezdésében a „konstrukció” szövegrész helyébe a „termék” szöveg,
-50. 149. § (3) bekezdésében a „konstrukciók” szövegrész helyébe a „termékek” szöveg, a „konstrukció” szövegrész 
-
+50. 149. § (3) bekezdésében a „konstrukciók” szövegrész helyébe a „termékek” szöveg, a „konstrukció” szövegrész
 helyébe a „termék” szöveg,
-51. 149.  § (4)  bekezdésében a  „konstrukcióra” szövegrész helyébe a  „termékre” szöveg, a  „konstrukció” 
-
+51. 149.  § (4)  bekezdésében a  „konstrukcióra” szövegrész helyébe a  „termékre” szöveg, a  „konstrukció”
 szövegrészek helyébe a  „termék” szöveg, az  „a pénzügyi konstrukciót” szövegrész helyébe a  „pénzügyi 
 terméket” szöveg,
-
 52. 150.  § (5)  bekezdésében a  „kezesség” szövegrész helyébe a  „kötelezettség” szöveg, a  „kezességvállalás” 
 szövegrész helyébe a „kötelezettségvállalás” szöveg,
-
 53. 151. § (2) bekezdés a) pontjában a „konstrukciónak” szövegrész helyébe a „terméknek” szöveg,
 54. 151. § (4) bekezdés a) pontjában a „konstrukciónak” szövegrész helyébe a „terméknek” szöveg,
 55. 151. § (4) bekezdés b) pontjában a „konstrukció” szövegrész helyébe a „termék” szöveg,
-56. 156. § (2b) bekezdésében a „hatóság” szövegrész helyébe a „hatóság, egyéb esetekben a kifizető ügynökség” 
-
+56. 156. § (2b) bekezdésében a „hatóság” szövegrész helyébe a „hatóság, egyéb esetekben a kifizető ügynökség”
 szöveg,
 57. 156. § (9) bekezdésében a „hatóság” szövegrész helyébe a „hatóság vagy a kifizető ügynökség” szöveg,
-58. 159. § (5) bekezdés nyitó szövegrészében az „irányító hatóság” szövegrész helyébe az „irányító hatóság vagy 
-
+58. 159. § (5) bekezdés nyitó szövegrészében az „irányító hatóság” szövegrész helyébe az „irányító hatóság vagy
 a kifizető ügynökség” szöveg,
-59. 159.  § (7)  bekezdésében az  „elrendeli” szövegrész helyébe az  „elrendeli az  igazoló hatóság egyidejű 
-
+59. 159.  § (7)  bekezdésében az  „elrendeli” szövegrész helyébe az  „elrendeli az  igazoló hatóság egyidejű
 tájékoztatása mellett” szöveg,
-60. 164.  § (3)  bekezdés b)  pontjában az „elállás” szövegrész helyébe az „elállás, vagy pénzügyi eszköz esetén 
-
+60. 164.  § (3)  bekezdés b)  pontjában az „elállás” szövegrész helyébe az „elállás, vagy pénzügyi eszköz esetén
 a végső kedvezményezettel kötött szerződés felmondása” szöveg,
-61. 165.  § (3)  bekezdésében az  „a kifizető ügynökség által hozott,” szövegrész helyébe az  „az 57/B.  § 
-
+61. 165.  § (3)  bekezdésében az  „a kifizető ügynökség által hozott,” szövegrész helyébe az  „az 57/B.  §
 (3) bekezdésében foglaltakra figyelemmel a kifizető ügynökség által hozott” szöveg,
-62. 175. § (2) bekezdésében a „részére” szövegrész helyébe a „terhére” szöveg, a „visszafizetni” szövegrész helyébe 
-
+62. 175. § (2) bekezdésében a „részére” szövegrész helyébe a „terhére” szöveg, a „visszafizetni” szövegrész helyébe
 a „megfizetni” szöveg,
-63. 175.  § (5)  bekezdésében az „a visszafizetési kötelezettséget az  irányító hatóság értesítésben vagy fizetési 
-
+63. 175.  § (5)  bekezdésében az „a visszafizetési kötelezettséget az  irányító hatóság értesítésben vagy fizetési
 felszólításban” szövegrész helyébe az „az irányító hatóság dönt az alkalmazandó követeléskezelés módjáról és 
 a visszafizetési kötelezettséget” szöveg,
-
 64. 175. § (8) bekezdésében a „Kincstári körbe” szövegrész helyébe az „Az államháztartás központi alrendszerébe” 
 szöveg,
-
 65. 176. § (3) bekezdés nyitó szövegrészében az „elállhat” szövegrész helyébe az „elállhat, vagy pénzügyi eszköz 
 esetén a végső kedvezményezettel kötött szerződést felmondhatja” szöveg,
-
 66. 178. § (1) bekezdésében a „projekt pénzügyi” szövegrész helyébe a „projektmegvalósítás” szöveg,
-67. 182. § (4) bekezdés d) pontjában az „ellenőrzési tevékenység megkérdőjelezi-e” szövegrész helyébe az „audit 
-
+67. 182. § (4) bekezdés d) pontjában az „ellenőrzési tevékenység megkérdőjelezi-e” szövegrész helyébe az „audit
 hatóság által végzett ellenőrzések megkérdőjelezik-e” szöveg,
-68. 183.  § (4)  bekezdésében az „és az  audit hatóság” szövegrész helyébe az „és az  audit hatóság az  igazoló 
-
+68. 183.  § (4)  bekezdésében az „és az  audit hatóság” szövegrész helyébe az „és az  audit hatóság az  igazoló
 hatóság bevonásával” szöveg,
 69. 183. § (7) bekezdés b) pontjában a „projektek” szövegrész helyébe a „projektek végleges” szöveg,
 70. 192/A. § (1) bekezdésében a „megállapodásban” szövegrész helyébe a „szerződésben” szöveg,
 71. 192/A. § (2) bekezdésében az „és” szövegrész helyébe az „és tagjainak” szöveg,
 72. 192/A. § (3) bekezdésében a „megállapodás” szövegrész helyébe a „szerződés” szöveg,
-73. 192/B.  § (1)  bekezdésében a  „szabályozás figyelembevételével” szövegrész helyébe a  „szabályozásnak 
-
+73. 192/B.  § (1)  bekezdésében a  „szabályozás figyelembevételével” szövegrész helyébe a  „szabályozásnak
 – a 116. § (2) bekezdése kivételével történő – figyelembevételével” szöveg,
 74. 201/B. § b) pontjában az „az MVH” szövegrész helyébe az „a kincstár” szöveg
 lép.
-
 (2) A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
- 1. 6.8.  pontjában az  „Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának 
-
+ 1. 6.8.  pontjában az  „Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának
 rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a  továbbiakban: 549/2013. (XII. 30.) Korm. rendelet]” 
 szövegrész helyébe az „549/2013. (XII. 30.) Korm. rendelet” szöveg,
-
 2. 7.1. pontjában a „jelöl” szövegrész helyébe a „jelölhet” szöveg,
- 3. 9.8.  pontjában a „nem érkezik meg az  irányító hatósághoz” szövegrész helyébe az „a benyújtási határidőn 
-
+ 3. 9.8.  pontjában a „nem érkezik meg az  irányító hatósághoz” szövegrész helyébe az „a benyújtási határidőn
 belül nem kerül benyújtásra” szöveg,
  4. 13.2. pont nyitó szövegrészében a „vizsgálat” szövegrész helyébe az „ellenőrzés” szöveg,
  5. 14.8. pontjában a „túl” szövegrész helyébe a „belül nem” szöveg,
  6. 22. pontjában a „támogatást igénylő jelenlévő” szövegrész helyébe a „jelenlévő támogatást igénylő” szöveg,
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5327
-
 7. 32.2. pontjában a „meghosszabbodik” szövegrész helyébe a „nyugszik” szöveg,
- 8. 36.3.  pont d)  alpontjában a „szereplő” szövegrész helyébe a „szereplő közgyűlése vagy kijelölt bizottsága” 
-
+ 8. 36.3.  pont d)  alpontjában a „szereplő” szövegrész helyébe a „szereplő közgyűlése vagy kijelölt bizottsága”
 szöveg,
- 9. 36.5.  pont d)  alpontjában a „szereplő” szövegrész helyébe a „szereplő közgyűlése vagy kijelölt bizottsága” 
-
+ 9. 36.5.  pont d)  alpontjában a „szereplő” szövegrész helyébe a „szereplő közgyűlése vagy kijelölt bizottsága”
 szöveg,
-10. 37.1.  pontjában a „személyét” szövegrész helyébe a „személyét – a  megyei fejlesztési biztos kivételével  –” 
-
+10. 37.1.  pontjában a „személyét” szövegrész helyébe a „személyét – a  megyei fejlesztési biztos kivételével  –”
 szöveg,
-11. 51.2.  pontjában az „Elektronikus kapcsolattartás fejezet szabályai szerint a  III. fejezet” szövegrész helyébe 
-
+11. 51.2.  pontjában az „Elektronikus kapcsolattartás fejezet szabályai szerint a  III. fejezet” szövegrész helyébe
 az „54.1–74/B. pont és a 328.1–337.2. pont” szöveg,
 12. 68.1. pontjában az „A 4.” szövegrész helyébe az „Az 5.” szöveg,
-13. 97/A.  pontjában a  „212.4.  pontot és 269.3–269.5.  pontot” szövegrész helyébe a  „269.3–269.5.  pontot, 
-
+13. 97/A.  pontjában a  „212.4.  pontot és 269.3–269.5.  pontot” szövegrész helyébe a  „269.3–269.5.  pontot,
 328.6. pontot és 329.2. pontot” szöveg,
-14. 104.1.  pontjában az  „előzetesen” szövegrész helyébe a  „legkésőbb a  támogatási szerződés megkötéséig 
-
+14. 104.1.  pontjában az  „előzetesen” szövegrész helyébe a  „legkésőbb a  támogatási szerződés megkötéséig
 előzetesen” szöveg,
 15. 138.3. pontjában a „támogatási okirat” szövegrész helyébe a „támogatói okirat” szöveg,
 16. 146.2. pontjában az „együttes” szövegrész helyébe a „nemleges” szöveg,
 17. 150/D. pontjában a „két” szövegrész helyébe a „több” szöveg,
-18. 185.1.  pontjában a „régebbi, nemlegesnek minősülő összevont” szövegrész helyébe a „régebbi nemleges” 
-
+18. 185.1.  pontjában a „régebbi, nemlegesnek minősülő összevont” szövegrész helyébe a „régebbi nemleges”
 szöveg,
 19. 210.1. pontjában a „rögzíti” szövegrész helyébe a „rögzíti a monitoring és információs rendszerben” szöveg,
 20. 229.1. pont e) alpontjában az „a 47. § (4) bekezdése” szövegrész helyébe az „e rendelet” szöveg,
-21. 229.1. pont f ) alpontjában a „benyújtásáig” szövegrész helyébe a „benyújtásáig, vagy állami támogatás típusú 
-
+21. 229.1. pont f ) alpontjában a „benyújtásáig” szövegrész helyébe a „benyújtásáig, vagy állami támogatás típusú
 előleg esetén legkésőbb az előlegfolyósítást követő három éven belül” szöveg,
-22. 229.1. pont g) alpont gb) alpontjában az „az” szövegrész helyébe az „által” szöveg, az „áfa-előleg” szövegrész 
-
+22. 229.1. pont g) alpont gb) alpontjában az „az” szövegrész helyébe az „által” szöveg, az „áfa-előleg” szövegrész
 helyébe a „fordított áfa-előleg” szöveg,
 23. 229.1. pont i) alpontjában a „bionylatok” szövegrész helyébe a „bizonylatok” szöveg,
 24. 229.1c. pontjában az „előlege,” szövegrész helyébe az „előlege, vagy” szöveg,
 25. 229.4. pontjában a „kompenzálás” szövegrész helyébe az „az előleg elszámolás” szöveg,
-26. 229.6. pontjában a „ca) és cb) alpontja, valamint n)” szövegrész helyébe a „ca) alpontja, 229.1. pont n) alpontja, 
-
+26. 229.6. pontjában a „ca) és cb) alpontja, valamint n)” szövegrész helyébe a „ca) alpontja, 229.1. pont n) alpontja,
 229.1a. pont c) alpontja, 229.1b. pont c)” szöveg,
-27. 235.2.  pontjában a  „mérlegelése” szövegrész helyébe a  „mérlegelése – és az  ellenőrző szervek 
-
+27. 235.2.  pontjában a  „mérlegelése” szövegrész helyébe a  „mérlegelése – és az  ellenőrző szervek
 megállapításainak figyelembevétele –” szöveg,
-28. 237.9.  pontjában az  „időtartamára” szövegrész helyébe az  „e rendeletben meghatározott időtartamára” 
-
+28. 237.9.  pontjában az  „időtartamára” szövegrész helyébe az  „e rendeletben meghatározott időtartamára”
 szöveg,
-29. 238.1. pontjában az „A kincstári körbe tartozó szervezetek” szövegrész helyébe az „Az államháztartás központi 
-
+29. 238.1. pontjában az „A kincstári körbe tartozó szervezetek” szövegrész helyébe az „Az államháztartás központi
 alrendszerébe tartozó költségvetési szervek” szöveg,
 30. 242.1. pontjában az „elállása” szövegrész helyébe az „elállás” szöveg,
 31. 243.1. pont nyitó szövegrészében a „sorrendben” szövegrész helyébe a „módon” szöveg,
-32. 253.2.  pontjában az  „érvényesítése” szövegrész helyébe az  „érvényesítése vagy elszámolás jóváhagyása” 
-
+32. 253.2.  pontjában az  „érvényesítése” szövegrész helyébe az  „érvényesítése vagy elszámolás jóváhagyása”
 szöveg, az  „érvényesítéséig” szövegrész helyébe az  „érvényesítéséig vagy az  elszámolás jóváhagyásáig” 
 szöveg, az „az 254.1.” szövegrész helyébe az „a 254.1.” szöveg,
-
 33. 256.2. pontjában a „több alkalommal is” szövegrész helyébe a „legfeljebb három alkalommal” szöveg,
 34. 258.1. pontjában a „megkezdi” szövegrész helyébe a „megkezdheti” szöveg,
-35. 259.1.  pontjában az  „intézkedik” szövegrész helyébe a  „kezdeményezheti” szöveg, a  „levonása iránt” 
-
+35. 259.1.  pontjában az  „intézkedik” szövegrész helyébe a  „kezdeményezheti” szöveg, a  „levonása iránt”
 szövegrész helyébe a „levonására irányuló intézkedést” szöveg,
-36. 260.1.  pontjában a  „veszélyeztetett,” szövegrész helyébe a  „veszélyeztetett – ide értve a  teljes követelés 
-
+36. 260.1.  pontjában a  „veszélyeztetett,” szövegrész helyébe a  „veszélyeztetett – ide értve a  teljes követelés
 megtérülésének a  rendelkezésre álló biztosítékok érvényesítésére figyelemmel is bizonytalan voltát  –,” 
 szöveg,
-
 37. 261.3. pontjában a „Ha a projektátadás nem lehetséges, az” szövegrész helyébe az „Az” szöveg,
 38. 266.3. pontjában a „csekély mértékű” szövegrész helyébe a „nem haladja meg a 10 000 forintot” szöveg,
-39. 269.5.  pontjában az „operatív program pénzforgalmi számlája” szövegrész helyébe a „pénzforgalmi számla” 
-
+39. 269.5.  pontjában az „operatív program pénzforgalmi számlája” szövegrész helyébe a „pénzforgalmi számla”
 szöveg,
-40. 272.  pontjában az  „Igazoló Hatóság” szövegrész helyébe az  „igazoló hatóság, EMVA esetén a  kifizető 
-
+40. 272.  pontjában az  „Igazoló Hatóság” szövegrész helyébe az  „igazoló hatóság, EMVA esetén a  kifizető
 ügynökség” szöveg,
-
-
-
-5328 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5328 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 41. 278.3. pontjában az „az általános szerződési feltételekben vagy a támogatási kérelemi felhívásban” szövegrész 
 helyébe az „a támogatási szerződésben vagy a felhívásban” szöveg,
-
 42. 278.4.  pontjában az  „az általános szerződési feltételek között” szövegrész helyébe az  „a támogatási 
 szerződésben” szöveg,
-
 43. 284.1. pontjában a „pénzügyi befejezés dátumától” szövegrész helyébe a „projektmegvalósítás befejezésének 
 dátumát követő naptól” szöveg,
-
 44. 284.4. pontjában az „ismétlődik” szövegrész helyébe az „ismétlődik egészen a fenntartási időszak végéig” szöveg,
-45. 285.3.  pont nyitó szövegrészében az „a vállalási időszak” szövegrész helyébe az „akkor a  vállalási időszak” 
-
+45. 285.3.  pont nyitó szövegrészében az „a vállalási időszak” szövegrész helyébe az „akkor a  vállalási időszak”
 szöveg,
 46. 285.3. pont a) alpontjában a „kezdőnapjával,” szövegrész helyébe a „kezdőnapjával, vagy” szöveg,
 47. 285.4. pontjában a „pénzügyi befejezést” szövegrész helyébe a „projektmegvalósítás befejezését” szöveg,
@@ -1001,47 +674,35 @@ szöveg,
 52. 296.3. pontjában a „tizenöt napba” szövegrész helyébe a „határidőbe” szöveg,
 53. 299.2. pontjában a „tíz” szövegrész helyébe a „tizenöt” szöveg,
 54. 311.1. pontjában a „31-ig” szövegrész helyébe a „31-ig, EMVA esetén március 15-ig” szöveg,
-55. 311.2. pontjában a „hatósága” szövegrész helyébe a „hatóság a” szöveg, a „15-ig” szövegrész helyébe a „15-ig, 
-
+55. 311.2. pontjában a „hatósága” szövegrész helyébe a „hatóság a” szöveg, a „15-ig” szövegrész helyébe a „15-ig,
 EMVA esetén március 31-ig” szöveg,
-56. 327/B.6.  pontjában az  „elektronikus kapcsolattartás esetén az  ügyfélkapu rendszerén keresztül, egyéb 
-
+56. 327/B.6.  pontjában az  „elektronikus kapcsolattartás esetén az  ügyfélkapu rendszerén keresztül, egyéb
 esetben postai úton” szövegrész helyébe az  „EMVA támogatásoknál elektronikus kapcsolattartás esetén 
 az  ügyfélkapu rendszerén keresztül, egyéb esetben postai úton, ETHA esetén a  Pályázati e-ügyintézés 
 felületen” szöveg,
-
 57. 340.2.  pontjában a „miniszter illetékes és az  audit hatóságot” szövegrész helyébe a „minisztert és az  audit 
 hatóságot.” szöveg
-
 lép.
  (3) A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat
-
 1. B:51 mezőjében a „rendelkezésre)” szövegrész helyébe a „rendelkezésre” szöveg,
 2. B:93 mezőjében a „szakértők” szövegrész helyébe a „szakértők és a célcsoport” szöveg,
 3. B:121 mezőjében az „5.1.1–5.1.3. alapján” szövegrész helyébe az „a 4.1.1–4.1.3. azonosító szerint” szöveg
 lép.
-
 (4) A 272/2014. (XI. 5.) Korm. rendelet 5. melléklet
 1. 2.3.2.2. pontjában az „írásbeli” szövegrész helyébe a „visszaigazolt írásbeli” szöveg,
-2. 3.8.2.2.  pontjában az „A megyei jogú város” szövegrész helyébe az „A megyei jogú város önkormányzata” 
-
+2. 3.8.2.2.  pontjában az „A megyei jogú város” szövegrész helyébe az „A megyei jogú város önkormányzata”
 szöveg, az „a megyei jogú város” szövegrész helyébe az „a megyei jogú város önkormányzata” szöveg,
-3. 3.8.2.4. pontjában a „közszféra szervezetek e rendelet” szövegrész helyébe a „közszféra szervezetek – ide nem 
-
+3. 3.8.2.4. pontjában a „közszféra szervezetek e rendelet” szövegrész helyébe a „közszféra szervezetek – ide nem
 értve az egyházi jogi személyt – e rendelet” szöveg,
-4. 3.8.2.5. pontjában a „megyei jogú város” szövegrész helyébe a „megyei jogú város önkormányzata, ezek által 
-
+4. 3.8.2.5. pontjában a „megyei jogú város” szövegrész helyébe a „megyei jogú város önkormányzata, ezek által
 alapított költségvetési szerv” szöveg,
 5. 3.8.2.7. pontjában a „megyei jogú város” szövegrész helyébe a „megyei jogú város önkormányzata” szöveg,
 6. 3.8.2.8. pontjában a „megyei jogú város” szövegrész helyébe a „megyei jogú város önkormányzata” szöveg,
-7. 7.3.  pontjában a „mód alkalmazható” szövegrész helyébe a „mód alkalmazható, amelyet minden esetben 
-
+7. 7.3.  pontjában a „mód alkalmazható” szövegrész helyébe a „mód alkalmazható, amelyet minden esetben
 az adott felhívás szabályoz, azzal, hogy egyazon felhívás alapján alkalmazandó mód valamennyi támogatást 
 igénylőre kötelező, ha a felhívás másként nem rendelkezik” szöveg
-
 lép.
  (5) A 272/2014. (XI. 5.) Korm. rendelet 6. melléklet
-
 1. I.2. pontjában a „főkedvezményezettet” szövegrész helyébe a „konzorciumvezetőt” szöveg,
 2. III.1.6.1. pontjában az „írásbeli” szövegrész helyébe a „visszaigazolt írásbeli” szöveg,
 3. III.10.1.1. pontjában az „írásos” szövegrész helyébe a „visszaigazolt írásos” szöveg,
@@ -1049,87 +710,62 @@ lép.
 5. III.11.1. pontjában az „írásos” szövegrész helyébe a „visszaigazolt írásos” szöveg,
 6. III.12. pontjában a „szakértők” szövegrész helyébe a „szakértők és a célcsoport” szöveg
 lép.
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5329
-
 46. §  Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
  1. 3. § (1) bekezdés 37. pontjában a „pénzügyi konstrukciónként” szövegrész,
  2. 3. § (1) bekezdés 54. pontjában a „vissza nem térítendő” szövegrész,
  3. 3. § (1a) bekezdés 8. pontjában az „igénylésében, illetve a támogatások” szövegrész,
  4. 29. § (7) bekezdésében az „az illetékes hatóság,” szövegrész,
- 5. 57/A.  § (3)  bekezdésében az  „Európai Regionális Fejlesztési Alapról és a  „Beruházás a  növekedésbe és 
-
+ 5. 57/A.  § (3)  bekezdésében az  „Európai Regionális Fejlesztési Alapról és a  „Beruházás a  növekedésbe és
 munkahelyteremtésbe” célkitűzésről szóló egyedi rendelkezésekről, valamint az  1080/2006/EK rendelet 
 hatályon kívül helyezéséről szóló, 2013. december 17-i” szövegrész,
-
 6. 57/L. § (3) bekezdése,
- 7. 89.  § (1)  bekezdésében a „– pénzügyi eszköz esetén az  alapok alapját végrehajtó szervezet, ha az  alapok 
-
+ 7. 89.  § (1)  bekezdésében a „– pénzügyi eszköz esetén az  alapok alapját végrehajtó szervezet, ha az  alapok
 alapját végrehajtó szervezet a  pénzügyi eszköz végrehajtására pénzügyi közvetítőt vesz igénybe, úgy 
 a pénzügyi közvetítő is –” szövegrész,
-
 8. 89.  § (2)  bekezdésében a „– pénzügyi eszköz esetén az  alapok alapját végrehajtó szervezet, ha az  alapok 
 alapját végrehajtó szervezet a  pénzügyi eszköz végrehajtására pénzügyi közvetítőt vesz igénybe, úgy 
 a pénzügyi közvetítő is –” szövegrész,
-
 9. 89.  § (3)  bekezdésében a „– pénzügyi eszköz esetén az  alapok alapját végrehajtó szervezet, ha az  alapok 
 alapját végrehajtó szervezet a  pénzügyi eszköz végrehajtására pénzügyi közvetítőt vesz igénybe, úgy 
 a pénzügyi közvetítő –” szövegrész,
-
 10. 113. § (3) bekezdése,
 11. 143. § (2) bekezdése,
-12. 150.  § (5)  bekezdésében az  „A kezesi kifizetéseket az  alapok alapját végrehajtó szervezet a  saját 
-
+12. 150.  § (5)  bekezdésében az  „A kezesi kifizetéseket az  alapok alapját végrehajtó szervezet a  saját
 bankszámlájáról teljesíti.” szövegrész,
 13. 151. § (3) bekezdése,
 14. 176. § (2) bekezdésében az „– a (2a) bekezdésben foglalt kivétellel –” szövegrész,
 15. 176. § (2a) bekezdése,
 16. 201. §-a,
 17. 201/D. §-a.
-
 47. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
- (2) A 15. § (2) bekezdése, a 20. és 21. §, valamint a 45. § (2) bekezdés 8. és 9. pontja az e rendelet kihirdetését követő 
-
+ (2) A 15. § (2) bekezdése, a 20. és 21. §, valamint a 45. § (2) bekezdés 8. és 9. pontja az e rendelet kihirdetését követő
 30. napon lép hatályba.
- (3) A 26. § (3) bekezdése és a 42. § a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló törvény 
-
+ (3) A 26. § (3) bekezdése és a 42. § a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló törvény
 hatálybalépésének a napján lép hatályba.
-
 48. §  Ez a rendelet
-1. az  Európai Regionális Fejlesztési Alapra, az  Európai Szociális Alapra, a  Kohéziós Alapra, az  Európai 
-
+1. az  Európai Regionális Fejlesztési Alapra, az  Európai Szociális Alapra, a  Kohéziós Alapra, az  Európai
 Mezőgazdasági Vidékfejlesztési Alapra és az  Európai Tengerügyi és Halászati Alapra vonatkozó közös 
 rendelkezések megállapításáról, az  Európai Regionális Fejlesztési Alapra, az  Európai Szociális Alapra 
 és a  Kohéziós Alapra és az  Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések 
 megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 
 1303/2013/EU európai parlamenti és tanácsi rendelet,
-
 2. az  Európai Regionális Fejlesztési Alapról és a  „Beruházás a  növekedésbe és munkahelyteremtésbe” 
 célkitűzésről szóló egyedi rendelkezésekről, valamint az  1080/2006/EK rendelet hatályon kívül helyezéséről 
 szóló, 2013. december 17-i 1301/2013/EU európai parlamenti és tanácsi rendelet,
-
 3. az  1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az  integrált igazgatási 
 és kontrollrendszer, a  vidékfejlesztési intézkedések és a  kölcsönös megfeleltetés tekintetében történő 
 megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet,
-
 4. az  1306/2013/EU európai parlamenti és tanácsi rendeletnek a  kifizető ügynökségek és más szervek, 
 a  pénzgazdálkodás, a  számlaelszámolás, az  ellenőrzési szabályok, a  biztosítékok és az  átláthatóság 
 tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2014. augusztus 6-i 
 908/2014/EU bizottsági végrehajtási rendelet,
-
 5. az  1303/2013/EU európai parlamenti és tanácsi rendeletnek meghatározott információk Bizottsághoz való 
 benyújtására használt minták tekintetében való végrehajtására, valamint a kedvezményezettek és az irányító 
-hatóságok, az igazoló hatóságok, az audithatóságok és a közreműködő szervezetek közötti információcserére 
-
-
-
-5330 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+hatóságok, az igazoló hatóságok, az audithatóságok és a közreműködő szervezetek közötti információcserére
+5330 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 vonatkozó részletes szabályok megállapításáról szóló, 2014. szeptember 22-i 1011/2014/EU bizottsági 
 végrehajtási rendelet,
-
 6. az  előrehaladási jelentések mintája, a  nagyprojektekre vonatkozó információk benyújtásának formátuma, 
 a  közös cselekvési terv mintája, a  „Beruházás a  növekedésbe és munkahelyteremtésbe” célkitűzésre 
 vonatkozó végrehajtási jelentések mintája, a  vezetői nyilatkozat, az  auditstratégia, az  auditvélemény és 
@@ -1138,27 +774,20 @@ parlamenti és tanácsi rendelet alkalmazásában az  európai területi együt
 végrehajtási jelentések mintája tekintetében az  1303/2013/EU európai parlamenti és tanácsi rendelet 
 végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. január 20-i (EU) 2015/207 
 bizottsági végrehajtási rendelet
-
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
 Orbán Viktor s. k.,
   miniszterelnök
-
 1. melléklet a 98/2016. (V. 13.) Korm. rendelethez
-
 1. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet „Tervezés” alcíme a következő 1.5. ponttal egészül ki:
 „1.5. Az országos kihatású projekt szakmai tartalmáért felelős irányító hatóság a tervezés során tájékoztatja a VEKOP 
 irányító hatóságot a várható kifizetésekről, mely alapján a VEKOP irányító hatóság az éves költségvetés tervezését 
 előkészíti.”
-
 2. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet „Kifizetési előrejelzések” alcíme a következő 2/A. ponttal egészül ki:
 „2/A. Az országos kihatású projekt szakmai tartalmáért felelős irányító hatóság a havi pénzforgalmi tervezés során 
 tájékoztatja a VEKOP irányító hatóságot a tárgyhavi tervezett kifizetés VEKOP forrás összegéről.”
-
 3. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete a következő 3.4. ponttal egészül ki:
 „3.4. Országos kihatású projektek esetén az azok szakmai tartalmáért felelős irányító hatóság vállal kötelezettséget 
 az 549/2013. (XII. 30.) Korm. rendelet alapján.”
-
 4. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete a 8.6. pontot követően a következő alcímmel egészül ki:
 „EMVA és ETHA támogatást igénylő, valamint kedvezményezett meghatalmazott útján történő 
 eljárásának speciális szabályai
@@ -1184,11 +813,7 @@ alapú vagy elektronikus nyomtatványon nyújtható be a kifizető ügynökség
 bejelentésére irányuló kérelmet az  elektronikus benyújtást követő öt napon belül postai úton vagy személyesen 
 is el kell juttatni a  kifizető ügynökséghez. A  postai úton vagy személyesen történő benyújtás hiányában 
 a meghatalmazás megszüntetése az irányító hatóság és a kifizető ügynökség irányában nem hatályos.
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5331
-
 8/A.7. Ha a  meghatalmazott mellett a  támogatást igénylő, illetve kedvezményezett is rendelkezik ügyfélkapus 
 hozzáféréssel, akkor a  meghatalmazott által ügyfélkapun benyújtott meghatalmazás, továbbá annak módosítása 
 vagy megszüntetése bejelentését a  meghatalmazó elektronikusan, ügyfélkapun keresztül jóváhagyhatja. 
@@ -1220,21 +845,17 @@ Ebben az esetben nincs szükség papír alapú benyújtásra.
 8/A.11. A  kamarai meghatalmazott köteles a  tartós távollétéről vagy munkaviszonya megszűnéséről – a  távollét 
 időtartama vagy a megszűnés időpontja pontos megjelölésével – a kifizető ügynökséget és a támogatást igénylőt, 
 illetve a kedvezményezettet egyidejűleg értesíteni.”
-
 5. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 13.2. pont a) alpontja helyébe a következő rendelkezés lép:
 (A jogosultsági vizsgálat során az  irányító hatóság megvizsgálja, hogy a  támogatási kérelem megfelel-e a  felhívásban 
 meghatározott és a következő nem hiánypótoltatható jogosultsági feltételeknek:)
 „a) a  támogatást igénylő által benyújtott nyilatkozat elektronikus és – elektronikus aláírás használatának 
 kivételével – papír alapú példánya hiánytalan, hibátlan és határidőben benyújtásra került,”
-
 6. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete a következő 36.5a. ponttal egészül ki:
 „36.5a. Területi kiválasztási eljárásrendben történő döntéshozatal esetén a megyei fejlesztési biztos megfigyelőként 
 részt vehet a döntés-előkészítő bizottság ülésén.”
-
 7. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 102.2. pontja helyébe a következő rendelkezés lép:
 „102.2. Az  irányító hatóság előírhat a  102.1.  pont szerinti határidőnél rövidebb hiánypótlási határidőt is. 
 A 102.1. pont szerinti határidő nem vonatkozik a 115. § (2a) bekezdésében meghatározott esetre.”
-
 8. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 109.2. pontja helyébe a következő rendelkezés lép:
 „109.2. Rendeltetésszerű a  felhasználás, ha a  kedvezményezett által benyújtott kifizetési igénylés az  ellenőrzési 
 szempontoknak megfelel és a  mérföldkőhöz kötődő kifizetési igénylés részeként benyújtott szakmai beszámoló, 
@@ -1242,16 +863,11 @@ szempontoknak megfelel és a  mérföldkőhöz kötődő kifizetési igénylés
 esetén a benyújtott elszámoló bizonylatok egy része vagy egésze jóváhagyásra kerül. Az  irányító hatóság döntése 
 alapján a  benyújtott kifizetési igénylés elutasítása önmagában nem jelenti a  támogatás nem rendeltetésszerű 
 felhasználását.”
-
 9. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 184.3. pontja helyébe a következő rendelkezés lép:
 „184.3. Ha a  kedvezményezett köztartozását a  kitűzött határidőn belül nem szünteti meg vagy késedelmét nem 
 menti ki, – az  EMVA forrásból származó támogatások kivételével – az  irányító hatóság az  adott kifizetési igénylés 
 alapján jóváhagyott támogatási összeget visszavonja vagy a támogatási szerződéstől eláll.”
-
-
-
-5332 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5332 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 10. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete a 188/A.5. pontot követően a következő alcímmel egészül ki:
 „Országos kihatású projektek kifizetéseinek rendezése
 188/B.1. Országos kihatású projekt esetén a VEKOP irányító hatóság havonta elszámol a projekt szakmai tartalmáért 
@@ -1265,12 +881,10 @@ kezdeményez a visszatöltés összegéről.
 szakmai tartalmáért felelős irányító hatóság részére.
 188/B.5. A december tárgyhavi kifizetések rendezését – tekintettel a kincstár köriratában foglaltakra – az előrehozott 
 egyeztetést követően december 31-ig kell végrehajtani.”
-
 11. A 272/2014. (XI. 5.) Korm. rendelet 1.  melléklet „Értelmező rendelkezések” alcíme a  következő 209/A.  ponttal 
 egészül ki:
 „209/A. A 214.1–214.3., 217.1–217.7., 217.11., 223.2. és 223.3. pont alkalmazásában az irányító hatóság megjelölésen 
 EMVA forrás esetén a kifizető ügynökséget is érteni kell.”
-
 12. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 212.4. pontja helyébe a következő rendelkezés lép:
 „212.4. A  szabálytalansági eljárást az  európai uniós források felhasználásával kapcsolatos irányító hatósági 
 feladatok ellátására kijelölt miniszter által vezetett minisztérium szervezeti és működési szabályzatában vagy 
@@ -1278,57 +892,45 @@ egyéb szabályzatában meghatározott szervezeti egysége folytatja le. Pénzü
 eljárást a végső kedvezményezett és a pénzügyi közvetítő vonatkozásában az alapok alapját végrehajtó szervezet 
 folytatja le. EMVA forrás esetén a 156. § (2b) bekezdésében foglaltakra tekintettel az irányító hatóság vagy a kifizető 
 ügynökség folytatja le a szabálytalansági eljárást.”
-
 13. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 228.4. pontja helyébe a következő rendelkezés lép:
 „228.4. Ha a  monitoring és információs rendszer megfelelő felülete nem áll rendelkezésre, az  irányító hatóságnak 
 olyan visszakereshető projektszintű dokumentum-nyilvántartást kell létrehozni és naprakészen vezetni, amely 
 biztosítja, hogy a  követelések kezelésével kapcsolatos műveletek öt napon belül rendszerezett formában 
 megismerhetővé válnak. Az  irányító hatóság az  igazoló hatóság által kért alátámasztó dokumentációt az  igazoló 
 hatóság kérésének megfelelően rendelkezésre bocsátja.”
-
 14. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 229.1. pont c) alpont cb) alpontja helyébe a következő rendelkezés 
 lép:
 (Követelést kell előírni
 a túlfizetés eseteiben:)
 „cb) halasztott önerő igénybevétele esetén, ha a projekt befejezésekor a támogatás-önerő arány nem egyezik meg 
 a támogatási szerződésben rögzített támogatási intenzitással,”
-
 15. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 229.1. pont c) alpontja a következő ce) alponttal egészül ki:
 (Követelést kell előírni
 a túlfizetés eseteiben:)
 „ce) pénzügyi paraméter – így különösen a  támogatási intenzitás vagy áfa-státusz – változása esetén, ha 
 a kedvezményezettnek tartozása áll fenn az irányító hatóság felé,”
-
 16. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 229.1a. pontja a következő c) alponttal egészül ki:
 (Pénzügyi eszközök esetén az alapok alapját végrehajtó szervezettel szemben követelést kell előírni továbbá,)
 „c) ha az alapok alapját végrehajtó szervezetnek forrásátcsoportosítás miatt keletkezik visszafizetési kötelezettsége.”
-
 17. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 229.1b. pontja a következő c) alponttal egészül ki:
 (Az alapok alapját végrehajtó szervezet követelést írhat elő a pénzügyi közvetítő felé továbbá,)
 „c) ha a pénzügyi közvetítőnek forrásátcsoportosítás miatt keletkezik visszafizetési kötelezettsége.”
-
 18. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 232.1. pontja helyébe a következő rendelkezés lép:
 „232.1. A  követelés előírása után további kifizetés nem teljesíthető a  kedvezményezett részére, továbbá 
 a  követeléssel érintett szerződés vonatkozásában. A  követelés előírását követően a  kedvezményezett által 
 benyújtott, számlát nem tartalmazó záró kifizetési igénylés nem hagyható jóvá, míg a  kedvezményezett vissza 
 nem fizeti a követelt összeget. A kizárólag előleg elszámolást tartalmazó kifizetési igénylés nem hagyható jóvá, míg 
 az előleg elszámolásra szánt számlákból a követelés kompenzálása nem történt meg.”
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5333
-
 19. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 233.5. pontja helyébe a következő rendelkezés lép:
 „233.5. A  visszavont követelésekről az  irányító hatóság az  érvénytelenítő döntés meghozatalát követő öt napon 
 belül tájékoztatja az igazoló hatóságot, ha a követelésben érintett számla közösségi hozzájárulás rendezésben már 
 elszámolásra került.”
-
 20. A 272/2014. (XI. 5.) Korm. rendelet 1.  melléklet „A követelés összegének megállapítása” alcíme a  következő 
 234.4. ponttal egészül ki:
 „234.4. A  követelés összegének megállapítása során országos kihatású projekt esetén meg kell állapítani 
 a  követelésen belül a  VEKOP-ra vonatkozó összeget és a  projekt szakmai tartalmáért felelős irányító hatóság 
 kezelésében lévő operatív programra eső összeget.”
-
 21. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 237.1. pontja helyébe a következő rendelkezés lép:
 „237.1. A túlfizetés 229.1. pont c) alpont ca) alpontja, a 229.1a. pont c) alpontja, a 229.1b. pont c) alpontja szerinti 
 eseteiben, valamint a  229.1.  pont n)  alpontja szerinti esetben csak az  előírt fizetési határidő, részletfizetés esetén 
@@ -1336,74 +938,56 @@ a  részletfizetési megállapodásban rögzített határidők leteltét követ
 A  229.1.  pont c)  alpont cc)  alpontja szerinti esetben a  szerződésmódosítás hatálybalépésétől ügyleti kamatot 
 kell felszámítani. A  229.1.  pont c)  alpont ce)  alpontja szerinti esetben a  kamatszámítás kezdete a  pénzügyi 
 paraméterváltozás átvezetését tartalmazó elszámolási ütem jóváhagyásának napja.”
-
 22. A 272/2014. (XI. 5.) Korm. rendelet 1.  melléklet „Az ügyleti kamat kiszámítása” alcíme a  következő 237.11.  ponttal 
 egészül ki:
 „237.11. Ha a  kedvezményezett felszámolási eljárás alá kerül, az  ügyleti kamat számításának kezdő időpontja 
 a  támogatás folyósításának napja, utolsó napja a  felszámolás kezdő időpontja. Ezt követően késedelmi kamat 
 érvényesíthető.”
-
 23. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 239.1. pontja helyébe a következő rendelkezés lép:
 „239.1. Kis értékű követelés esetén – szabálytalansági eljárás alapján előírt követelés kivételével – az irányító hatóság 
 dönt a  követelés leírásáról. Pénzügyi paraméterváltozás miatt előírt túlfizetés alapú követelés esetén kis értékű 
 követelést nem kell beszedésre előírni.”
-
 24. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 241.2. pontja helyébe a következő rendelkezés lép:
 „241.2. A kompenzálás a még ki nem fizetett, azonos projektre vonatkozó, de elszámoló bizonylatokkal elszámolt és 
 elfogadott támogatás követelésbe történő beszámítását jelenti. Konzorcium esetén kompenzálni csak a követeléssel 
 érintett tag elszámolásaiból lehet.”
-
 25. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 243.1. pontja a következő c) alponttal egészül ki:
 (A kompenzálásra felhasználandó elszámoló bizonylatokat a következő sorrendben kell kezelni:)
 „c) a kedvezményezett által előleg elszámolásba bevont számlák kompenzálásba bevonandók.”
-
 26. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet „A tájékoztató levél” alcíme a következő 250/A. ponttal egészül ki:
 „250/A. Ha a  kedvezményezett a  részletfizetési megállapodásban foglaltaknak megfelelően teljesít, elegendő 
 az utolsó részlet beérkezését követően tájékoztatni a követelés teljesítéséről.”
-
 27. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 253.1. pontja helyébe a következő rendelkezés lép:
 „253.1. A  kedvezményezett követelésenként egy alkalommal részletfizetési kérelmet nyújthat be az  irányító 
 hatósághoz. Az  irányító hatóság a  kérelem beérkezését követő tíz napon belül dönt a  részletfizetés 
 engedélyezéséről.”
-
 28. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 254.1. pont b) alpontja helyébe a következő rendelkezés lép:
 (A részletfizetési kérelem elfogadása, valamint a  részletfizetés ütemezése és az  egyes részletek nagysága megállapítása 
 során az irányító hatóság figyelembe veszi)
 „b) az operatív program zárásának várható dátumát,”
-
 29. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete a következő 254.1a. ponttal egészül ki:
 „254.1a. A visszafizetési kötelezettség határideje nem haladhatja meg a tizenkét hónapot.”
-
 30. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 265.1. pontja helyébe a következő rendelkezés lép:
 „265.1. A  kedvezményezett által teljesített visszafizetésről szóló fizetésiszámla-kivonat kézhezvételét követően, 
 annak rögzítését megelőzően az  irányító hatóság utalványt készít a  visszafizetésről. A  fizetésiszámla-kivonat 
 jóváírásról szóló tételének rögzítése az utalvány alapján történik.”
-
 31. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 269.3. pontja helyébe a következő rendelkezés lép:
 „269.3. Az  irányító hatóság és az  igazoló hatóság közötti rendezés a  közösségi hozzájárulás rendezése keretében 
 történik azzal, hogy ezek a  rendezendő tételek (befizetés, kompenzálás, kis értékű leírás, tagállami teherviselésű 
 behajthatatlan leírás) az irányító hatóság által utalandó összegként kerülnek számításba vételre.”
-
-
-
-5334 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5334 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 32. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 269.6. pontja helyébe a következő rendelkezés lép:
 „269.6. A  közösségi hozzájárulás pénzügyi rendezését az  igazoló hatóság állítja össze. Az  átutalási megbízás 
 ellenőrzése és jóváhagyása azon fél kötelezettsége, amelynek a kezelése alatt lévő fizetési számla terhelendő.”
-
 33. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 274. pontja helyébe a következő rendelkezés lép:
 „274. Az igazoló hatóság a követelések költségnyilatkozatban való kezelését saját eljárásrendje alapján végzi. EMVA 
 esetén a kifizető ügynökség saját eljárásrendje szerint jár el.”
-
 34. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklete a következő 279.1a. ponttal egészül ki:
 „279.1a. Az  1303/2013/EU európai parlamenti és tanácsi rendelet 71.  cikk (1)  bekezdése hatálya alá nem eső 
 projekteknél a felhívás rendelkezik a fenntartási kötelezettségről.”
-
 35. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 327/B.3. pontja helyébe a következő rendelkezés lép:
 „327/B.3. A  beruházások helyszíni szemléjét, valamint az  eseményszemlét egy fő is végezheti. Ha a  jóváhagyott 
 támogatási összeg a százmillió forintot nem haladja meg, a helyszíni ellenőrzést egy fő is végezheti.”
-
 36. A 272/2014. (XI. 5.) Korm. rendelet 1.  melléklet „EMVA, ETHA specifikus szabályok a  projektek végrehajtása során 
 végzett helyszíni szemlék és helyszíni ellenőrzések tekintetében” alcíme a  következő 327/B.11–327/B.17.  ponttal 
 egészül ki:
@@ -1428,7 +1012,6 @@ benyújtását követően kezdeményezett visszamenőleges módosítások nem fo
 az intézkedésben való részvétel feltételeinek utólagos teljesítésére vagy a kérelem kedvezőbb elbírálására irányul.
 327/B.17. A  kifizető ügynökség a  kedvezményezettel szerződéses kapcsolatban álló harmadik személynél 
 az intézkedésben való részvétellel összefüggésben kapcsolódó ellenőrzést végezhet.”
-
 37. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 340.8. és 340.9. pontja helyébe a következő rendelkezések lépnek:
 „340.8. Az  európai uniós források felhasználásáért felelős miniszter az  általa üzemeltetett közérdekű bejelentő 
 rendszeren (www.anti-lop.hu) tett közérdekű bejelentések kivizsgálása érdekében az  irányító hatóságoktól 
@@ -1439,22 +1022,15 @@ megteszi a szükséges intézkedéseket.
 340.9. Az irányító hatóságok a bűnügyi megkeresések kapcsán tett intézkedésekről, a megindított szabálytalansági 
 eljárásról a  megkeresés kézhezvételétől számított tíz napon belül tájékoztatják az  európai uniós források 
 felhasználásáért felelős minisztert.”
-
 38. Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
- 1. 137.1.  pontjában az  „Az irányító hatóság az  európai uniós források felhasználásáért felelős miniszterrel 
-
+ 1. 137.1.  pontjában az  „Az irányító hatóság az  európai uniós források felhasználásáért felelős miniszterrel
 egyeztetve jogosult a  dokumentum alapú és a  kockázatelemzésen alapuló mintavételezéssel végzett 
 helyszíni ellenőrzés elemeit előzetes és utólagos ellenőrzési tevékenységekre osztani.” szövegrész,
-
 2. 229.1. pont o) alpontja,
  3. 235.1. pontjában a „ , pénzügyi záráshoz” szövegrész,
  4. 236.1. pontjában az „– a 229.1. pont o) alpontja szerinti kivétellel –” szövegrész,
  5. 236.5. pontja,
-
-
-
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5335
-
 6. 247.6. pontjában az „(EU, hazai, el nem számolható hazai)” szövegrész,
  7. 256.3. pontja,
  8. 257.3 pontja,
@@ -1463,228 +1039,134 @@ M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5335
 11. 261.5. pontja,
 12. 265.2. pontjában a „ , továbbá fel kell tüntetni a követelés megtérült és fennálló összegét” szövegrész,
 13. 269.1. pontjában az „eljárásrendjében meghatározott módon,” szövegrész.
-
 2. melléklet a 98/2016. (V. 13.) Korm. rendelethez
-
 1. A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat B:12 mezője helyébe a következő mező lép:
 (A) (B)
-
 (1.) (Azonosító) (Elszámolható költségek – Támogatható tevékenységek alátámasztó dokumentumainak megnevezése)
-
 (12.) (2.2.) Terület-előkészítés
-
 2. A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat a következő 109a. sorral egészül ki:
 (A) (B) (C) (D)
-
 (1.) (Azonosító)
-(Elszámolható költségek – Támogatható tevékenységek 
-
+(Elszámolható költségek – Támogatható tevékenységek
 alátámasztó dokumentumainak megnevezése)
 (Benyújtás gyakorisága)
-
-(E rendelet szerinti 
-
-záradékolási kötelezettséget 
-
-az alábbi dokumentumok 
-
-vonatkozásában kell 
-
+(E rendelet szerinti
+záradékolási kötelezettséget
+az alábbi dokumentumok
+vonatkozásában kell
 megtenni)
-
 109a. 5.1.5.
-
 Szerződés vagy szerződés hiányában 
 visszaigazolt írásos megrendelő, 
-szerződés és visszaigazolt írásos 
-
+szerződés és visszaigazolt írásos
 megrendelő hiányában nyilatkozat arról, 
 hogy írásbeli szerződés nem történt.
-
 Egyszer, a költség első 
-elszámolásakor, illetve 
-
+elszámolásakor, illetve
 változás esetén
-
 3. A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat a következő 113a. sorral egészül ki:
 (A) (B) (C) (D)
-
 (1.) (Azonosító)
-
-(Elszámolható költségek – Támogatható 
-
-tevékenységek alátámasztó dokumentumainak 
-
+(Elszámolható költségek – Támogatható
+tevékenységek alátámasztó dokumentumainak
 megnevezése)
-
 (Benyújtás gyakorisága)
-
-(E rendelet szerinti 
-
-záradékolási kötelezettséget 
-
-az alábbi dokumentumok 
-
-vonatkozásában kell 
-
+(E rendelet szerinti
+záradékolási kötelezettséget
+az alábbi dokumentumok
+vonatkozásában kell
 megtenni)
-
 113a. 5.2.4.
-
 Szerződés vagy szerződés hiányában 
 visszaigazolt írásos megrendelő, 
-szerződés és visszaigazolt írásos 
-
+szerződés és visszaigazolt írásos
 megrendelő hiányában nyilatkozat arról, 
 hogy írásbeli szerződés nem történt.
-
 Egyszer, a költség első 
-elszámolásakor, illetve 
-
+elszámolásakor, illetve
 változás esetén
-
 4. A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat a következő 117a. sorral egészül ki:
 (A) (B) (C) (D)
-
 (1.) (Azonosító)
-
-(Elszámolható költségek – Támogatható 
-
-tevékenységek alátámasztó dokumentumainak 
-
+(Elszámolható költségek – Támogatható
+tevékenységek alátámasztó dokumentumainak
 megnevezése)
-
 (Benyújtás gyakorisága)
-
-(E rendelet szerinti 
-
-záradékolási kötelezettséget 
-
-az alábbi dokumentumok 
-
-vonatkozásában kell 
-
+(E rendelet szerinti
+záradékolási kötelezettséget
+az alábbi dokumentumok
+vonatkozásában kell
 megtenni)
-
 117a. 5.3.4.
-
 Szerződés vagy szerződés hiányában 
 visszaigazolt írásos megrendelő, 
-szerződés és visszaigazolt írásos 
-
+szerződés és visszaigazolt írásos
 megrendelő hiányában nyilatkozat arról, 
 hogy írásbeli szerződés nem történt.
-
 Egyszer, a költség első 
-elszámolásakor, illetve 
-
+elszámolásakor, illetve
 változás esetén
-
-
-
-5336 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 
-
+5336 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám
 5. A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat a következő 121a. és 121b. sorral egészül ki:
 (A) (B) (C) (D)
-
 (1.) (Azonosító)
-
-(Elszámolható költségek – Támogatható 
-
-tevékenységek alátámasztó dokumentumainak 
-
+(Elszámolható költségek – Támogatható
+tevékenységek alátámasztó dokumentumainak
 megnevezése)
-
 (Benyújtás gyakorisága)
-
-(E rendelet szerinti 
-
-záradékolási kötelezettséget 
-
-az alábbi dokumentumok 
-
-vonatkozásában kell 
-
+(E rendelet szerinti
+záradékolási kötelezettséget
+az alábbi dokumentumok
+vonatkozásában kell
 megtenni)
-
 121a. 5.4.4.
-
 Szerződés vagy szerződés hiányában 
 visszaigazolt írásos megrendelő, 
-szerződés és visszaigazolt írásos 
-
+szerződés és visszaigazolt írásos
 megrendelő hiányában nyilatkozat arról, 
 hogy írásbeli szerződés nem történt.
-
 Egyszer, a költség első 
-elszámolásakor, illetve 
-
+elszámolásakor, illetve
 változás esetén
-
 121b. 5.4.5. Teljesítésigazolás
-A költség 
-
+A költség
 felmerülésekor
-
 6. A 272/2014. (XI. 5.) Korm. rendelet 4. mellékletében foglalt táblázat a következő 141–145. sorral egészül ki:
 (A) (B) (C) (D)
-
 (1.) (Azonosító)
-(Elszámolható költségek – Támogatható tevékenységek 
-
+(Elszámolható költségek – Támogatható tevékenységek
 alátámasztó dokumentumainak megnevezése)
 (Benyújtás gyakorisága)
-
-(E rendelet szerinti 
-
-záradékolási kötelezettséget 
-
-az alábbi dokumentumok 
-
-vonatkozásában kell 
-
+(E rendelet szerinti
+záradékolási kötelezettséget
+az alábbi dokumentumok
+vonatkozásában kell
 megtenni)
-
 141. 6.6.
-A Kbt. 9. § (1) bekezdés a) és 
-
+A Kbt. 9. § (1) bekezdés a) és
 b) pontjában meghatározott védelmi és 
 biztonsági tárgyú beszerzések esetén:
-
 142. 6.6.1. Illetékes miniszter nyilatkozata
-
 143. 6.6.2.
-
 Országgyűlés illetékes bizottsága 
-jogszabályban meghatározott 
-
+jogszabályban meghatározott
 feltételeknek megfelelő kezdeményezés 
 alapján hozott előzetes döntése
-
 144. 6.7.
-
 A versenyt biztosító, piaci ár 
-alátámasztását szolgáló három árajánlat 
-
+alátámasztását szolgáló három árajánlat
 bekéréséről szóló kedvezményezetti 
 nyilatkozat
-
 145. 7.
-Az átláthatóságról szóló nyilatkozat és 
-
+Az átláthatóságról szóló nyilatkozat és
 az azt alátámasztó dokumentumok
-
 Kifizetés igénylésekor, 
-ha az előzetesen 
-
+ha az előzetesen
 megküldött 
 átláthatóságról szóló 
-nyilatkozathoz képest 
-
+nyilatkozathoz képest
 változás történt
-
 3. melléklet a 98/2016. (V. 13.) Korm. rendelethez
-
 1. A 272/2014. (XI. 5.) Korm. rendelet 5. melléklete a következő 2.3.2.5a. és 2.3.2.5b. ponttal egészül ki:
 „2.3.2.5a. Az EMVA és az ETHA finanszírozású projektek kivételével a három millió forintnál nagyobb elszámolható 
 összköltségű projektek azon szerződései esetén, amelyek elszámolható összköltsége nem haladja meg 
@@ -1692,12 +1174,8 @@ a  300  000  forintot, a  szokásos piaci árnak való megfelelést alátám
 árajánlatokat) a  kedvezményezettnek nem kell benyújtania az  irányító hatósághoz, azonban azokat az  irányító 
 hatóság helyszíni ellenőrzés keretében ellenőrizheti. A  szokásos piaci árnak való megfelelést az  irányító hatóság 
 ellenőrizheti úgy is, hogy a  felhívásban az  adott költségtípus esetén referenciaárakat ír elő, és a  kifizetés-
-igénylés vizsgálata során az  előírt referenciaárakhoz képest vizsgálja a  felmerült valós költséget. Ilyen esetben 
-
-
-
+igénylés vizsgálata során az  előírt referenciaárakhoz képest vizsgálja a  felmerült valós költséget. Ilyen esetben
 M A G Y A R  K Ö Z L Ö N Y  •  2016. évi 69. szám 5337
-
 –  a  közbeszerzési kötelezettség alá eső beszerzések kivételével – a  kedvezményezett a  felhívásban mentesíthető 
 a szokásos piaci árnak való megfelelést alátámasztó dokumentumok beadása alól.
 2.3.2.5b. Nem független az  az ajánlattevő, amelyben a  támogatást igénylő, illetve kedvezményezett vagy 
@@ -1709,9 +1187,29 @@ nyilatkozattételre, képviseletre jogosult személy, a  kedvezményezett szerv
 szervezetében tulajdonosi, fenntartói, vagyonkezelői, irányítási, képviseleti, munkáltatói vagy kinevezési jogokat 
 gyakorol. Nem független továbbá az  ajánlattevő, ha a  támogatást igénylő, illetve kedvezményezett vagy másik 
 ajánlattevő vonatkozásában partner vagy kapcsolt vállalkozásnak minősül.”
-
 2. A 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.7.3.2.1. pontja helyébe a következő rendelkezés lép:
 „3.7.3.2.1. A  szállásköltségek elszámolása esetén vendég-éjszakánként, belföldi szállás esetén legfeljebb 
 a következő táblázat szerinti bruttó költség, külföldi szállás esetén bruttó 150 euró mértékű költség számolható el. 
 Belföldi szállás esetén magasabb összeg akkor számolható el, ha az elszállásolt személy hivatali beosztása alapján 
 a kedvezményezett a magasabb összeget megindokolta, és azt az irányító hatóság elfogadta.
+A B
+1. Turisztikai régió
+Bruttó szállásköltség
+(1 főre)
+2. Budapest kiemelt üdülőkörzet 23 900 Ft
+3. Pest megye 15 000 Ft
+4. Közép-Dunántúl 13 300 Ft
+5. Nyugat-Dunántúl 13 700 Ft
+6. Dél-Dunántúl 11 400 Ft
+7. Észak-Magyarország 13 500 Ft
+8. Észak-Alföld 10 900 Ft
+9. Dél-Alföld 11 300 Ft
+”
+3. A 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.8.2.1. pontja helyébe a következő rendelkezés lép:
+„3.8.2.1. Közszféra szervezet kedvezményezettek – ide nem értve az  egyházi jogi személyt – az  Útmutató 
+3.8.1.5.  pontja szerinti szakértői szolgáltatást kizárólag akkor számolhatják el a  projekt keretében, ha a  szakértői 
+szolgáltatást költségvetési szerv, vagy olyan gazdálkodó szervezet látja el, amelyben az állam vagy önkormányzat 
+–  együttesen vagy külön, közvetve vagy közvetlenül – 100%-os tulajdoni részesedéssel rendelkezik, és 
+amelyek a  szolgáltatást kizárólag közalkalmazotti, közszolgálati, kormányzati szolgálati jogviszonyban vagy 
+munkaviszonyban foglalkoztatott alkalmazottal, vagy megbízási jogviszonyban foglalkoztatott természetes 
+személlyel láthatják el.”
