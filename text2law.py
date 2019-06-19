@@ -30,52 +30,62 @@ def remove_accent(s):
     return s
 
 
-def extract_titles(toc):
-    prefix_dict = {"határozat": "hat", "rendelet": "rnd", "törvény": "trv",
-                   "végzése": "veg", "közleménye": "koz", "nyilatkozata": "nyil"}
+def get_prefix(prefix_dict, title):
+    title_for_prefix = title.replace(" ", "").lower()
+    if "módosítás" in title_for_prefix:
+        return "mod"
+    else:
+        for key in prefix_dict:
+            if key in title_for_prefix:
+                return prefix_dict[key]
+    return ""
 
-    abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet"}
 
+def extract_titles(toc, prefix_dict=None):
+    abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás"}
     pat_page_num = re.compile(r'\d+$')
+    pat_trv = re.compile(r'((\d+[.:](?:\sévi)?)\s(\w+\.)\s(törvény)\s(\w+))')
+    pat_rest_leg = re.compile(r'((\d+/\d+\.)\s(\((?:\w+\.\s)+\d+\.\))\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?))')
+    pat_wspaces = re.compile(r'\s+')
+
     titles = []
     title = ""
-    prefix = ""
+    main_title = None
     for cont in toc:
         for key in abbr_dict:
             if key in cont:
                 cont = cont.replace(key, abbr_dict[key])
-        title += cont.replace("\n", " ")
-        raw_cont = cont.lower().replace(" ", "")
-        if "tartalomjegyzék" in raw_cont or "magyarközlöny" in raw_cont:
-            title = ""
-            continue
+        raw_cont = pat_wspaces.sub(" ", cont.lower())
+        title += raw_cont
+        if main_title is None:
+            main_title = pat_trv.search(title) or pat_rest_leg.search(title)
+            if main_title:
+                main_title = "{} {} {} {}"\
+                    .format(main_title.group(2), main_title.group(3), main_title.group(4), main_title.group(5))
         if pat_page_num.search(cont):
-            title_for_prefix = title.replace(" ", "").lower()
-            if "módosítás" in title_for_prefix:
-                prefix = "mod"
-            else:
-                for key in prefix_dict:
-                    if key in title_for_prefix:
-                        prefix = prefix_dict[key]
-                        break
+            if main_title is None:
+                title = raw_cont
+                main_title = " ".join(title.strip().split()[0:4])
+            prefix = ""
+            if prefix_dict:
+                prefix = get_prefix(prefix_dict, title)
             title = title.strip().split()
             page_num = title[-1]
-            main_title = " ".join(title[0:4])
             full_title = " ".join(title[0:-1])
             titles.append((main_title, prefix, full_title, page_num))
             title = ""
-            prefix = ""
+            main_title = None
+
     return titles
 
 
-def extract_legislation(titles, bs_divs):
-    pat_page_end = re.compile(r'.{,10}magyarközlöny.{,30}')
+def extract_legislation(titles, mk, bs_divs):
+    pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
     pat_non_chars = re.compile(r'\W')
     legislation = []
     legislations = []
     is_legislation = False
     leg_title = ""
-
     for div in bs_divs:
         page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
         for p in div.find_all('p'):
@@ -85,15 +95,18 @@ def extract_legislation(titles, bs_divs):
             raw_p = pat_non_chars.sub("", p.lower())
             for i, title in enumerate(titles):
                 raw_title = [pat_non_chars.sub("", title_part).lower() for title_part in title[0].split()]
-                if title[-1] in page_end and raw_title[0] in raw_p \
+
+                if len(raw_title) > 3 and title[-1] in page_end and raw_title[0] in raw_p \
                         and raw_title[1] in raw_p and raw_title[2] in raw_p:
+                    # print(raw_title, "\n", raw_p, "\n", page_end, title[-1])
                     is_legislation = True
                     if len(legislation) != 0:
                         legislations.append((leg_title, legislation))
-                    leg_title = remove_accent(title[1]+"_"+pat_non_chars.sub(r'_', title[0])).lower()
+                    leg_title = remove_accent(title[1] + "_" + mk + "_" + pat_non_chars.sub(r'_', title[0])).lower()
                     legislation = []
                     del titles[i]
                     break
+
             if is_legislation:
                 legislation.append(p)
     legislations.append((leg_title, legislation))
@@ -119,39 +132,62 @@ def get_args_inpfi_outfo(basp):
     return basp, files
 
 
+def get_toc_and_cont(div_tags):
+    pat_non_chars = re.compile(r'\W')
+    pat_page_num = re.compile(r'\s(\d+)$', re.M)
+    pat_page_end = re.compile(r'.{,30}közlöny.{,30}')
+    divs_toc = []
+    divs = []
+    passed_tjegyzek = False
+    first_page = None
+
+    for div in div_tags:
+        if first_page is None:
+            pages = pat_page_num.search(div.text)
+            if pages:
+                first_page = pages.group(1)
+                divs_toc.append(div.find_all('p'))
+                continue
+
+        raw_div = pat_non_chars.sub("", div.text).lower()
+        if not passed_tjegyzek:
+            page = "".join(pat_page_end.findall(raw_div))
+            if first_page and first_page in page:
+                passed_tjegyzek = True
+                divs.append(div)
+                continue
+            divs_toc.append(div.find_all('p'))
+        else:
+            divs.append(div)
+
+    return divs_toc, divs
+
+
 def main():
     basp = 'legislations'
     basp, files = get_args_inpfi_outfo(basp)
-    pat_non_chars = re.compile(r'\W')
+
+    prefix_dict = {"határozat": "hat", "rendelet": "rnd", "törvény": "trv",
+                   "végzés": "veg", "közlemény": "koz", "nyilatkozata": "nyil",
+                   "utasítás": "ut", "állásfoglalás": "all", "hirdetmény": "hir",
+                   "helyesbítés": "hely", "tájékoztató": "taj"}
 
     for finp in files:
         txt = read_file(finp)
-        # extract conts in TOC in the if block and conts after TOC in the else block
         soup = BeautifulSoup(txt, 'lxml')
-        divs_toc = []
-        divs = []
-        passed_tjegyzek = False
-        passed_first_tjegyzek = False
-
-        for div in soup.find_all('div'):
-            raw_div = pat_non_chars.sub("", div.text).lower()
-            if passed_first_tjegyzek and passed_tjegyzek:
-                divs.append(div)
-                continue
-            if "tartalomjegyzék" in raw_div:
-                divs_toc.append(div.find_all('p'))
-                passed_first_tjegyzek = True
-            elif "tartalomjegyzék" not in raw_div:
-                passed_tjegyzek = True
-                divs.append(div)
-
+        # extract table of contents and the content
+        divs_toc, divs = get_toc_and_cont(soup.find_all('div'))
         p_parts_toc = [p.text for div in divs_toc for p in div]
-        titles = extract_titles(p_parts_toc)
+        titles = extract_titles(p_parts_toc, prefix_dict)
+        print(finp)
+        # for title in titles:
+        #     print(title)
+        # print(len(titles))
 
         # extract legislations
-        legislations = extract_legislation(titles, divs)
+        legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
         for legislation in legislations:
-            write_out(legislation[1], basp, legislation[0]+".txt")
+            write_out(legislation[1], basp, legislation[0] + ".txt")
 
 
 if __name__ == "__main__":
