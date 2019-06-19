@@ -24,6 +24,7 @@ def remove_accent(s):
     öüóőúéáűí -> ouooueaui
     """
     accent_dict = {"á": "a", "ü": "u", "ó": "o", "ö": "o", "ő": "o", "ú": "u", "é": "e", "ű": "u", "í": "i"}
+
     for key in accent_dict:
         if key in s:
             s = s.replace(key, accent_dict[key])
@@ -32,17 +33,19 @@ def remove_accent(s):
 
 def get_prefix(prefix_dict, title):
     title_for_prefix = title.replace(" ", "").lower()
+
     if "módosítás" in title_for_prefix:
         return "mod"
-    else:
-        for key in prefix_dict:
-            if key in title_for_prefix:
-                return prefix_dict[key]
+
+    for key in prefix_dict:
+        if key in title_for_prefix:
+            return prefix_dict[key]
     return ""
 
 
 def extract_titles(toc, prefix_dict=None):
     abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás"}
+
     pat_page_num = re.compile(r'\d+$')
     pat_trv = re.compile(r'((\d+[.:](?:\sévi)?)\s(\w+\.)\s(törvény)\s(\w+))')
     pat_rest_leg = re.compile(r'((\d+/\d+\.)\s(\((?:\w+\.\s)+\d+\.\))\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?))')
@@ -51,6 +54,7 @@ def extract_titles(toc, prefix_dict=None):
     titles = []
     title = ""
     main_title = None
+
     for cont in toc:
         for key in abbr_dict:
             if key in cont:
@@ -82,10 +86,12 @@ def extract_titles(toc, prefix_dict=None):
 def extract_legislation(titles, mk, bs_divs):
     pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
     pat_non_chars = re.compile(r'\W')
+
     legislation = []
     legislations = []
     is_legislation = False
     leg_title = ""
+
     for div in bs_divs:
         page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
         for p in div.find_all('p'):
@@ -110,6 +116,7 @@ def extract_legislation(titles, mk, bs_divs):
             if is_legislation:
                 legislation.append(p)
     legislations.append((leg_title, legislation))
+
     return legislations
 
 
@@ -117,8 +124,10 @@ def get_args_inpfi_outfo(basp):
     parser = argparse.ArgumentParser()
     parser.add_argument('filepath', help='Path to file', nargs="*")
     parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
+
     args = parser.parse_args()
     files = []
+
     if args.filepath:
         for p in args.filepath:
             poss_files = glob(p)
@@ -129,6 +138,7 @@ def get_args_inpfi_outfo(basp):
 
     if args.directory:
         basp = os.path.abspath(args.directory)
+
     return basp, files
 
 
@@ -136,6 +146,7 @@ def get_toc_and_cont(div_tags):
     pat_non_chars = re.compile(r'\W')
     pat_page_num = re.compile(r'\s(\d+)$', re.M)
     pat_page_end = re.compile(r'.{,30}közlöny.{,30}')
+
     divs_toc = []
     divs = []
     passed_tjegyzek = False
@@ -150,6 +161,7 @@ def get_toc_and_cont(div_tags):
                 continue
 
         raw_div = pat_non_chars.sub("", div.text).lower()
+
         if not passed_tjegyzek:
             page = "".join(pat_page_end.findall(raw_div))
             if first_page and first_page in page:
