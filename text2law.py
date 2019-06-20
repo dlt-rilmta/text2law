@@ -12,7 +12,9 @@ def read_file(finp):
         return text
 
 
-def write_out(ls, finp, fname):
+def write_out(ls, finp, fname, mk=None):
+    if mk is not None:
+        finp = os.path.join(finp, mk)
     Path(finp).mkdir(parents=True, exist_ok=True)
     with open(os.path.join(finp, fname), "w", encoding="utf-8") as f:
         f.write("\n".join(ls))
@@ -32,7 +34,7 @@ def remove_accent(s):
 
 
 def get_prefix(prefix_dict, title):
-    title_for_prefix = title.replace(" ", "").lower()
+    title_for_prefix = re.sub(r'\W', "", title).lower()
 
     if "módosítás" in title_for_prefix:
         return "mod"
@@ -62,10 +64,12 @@ def extract_titles(toc, prefix_dict=None):
         raw_cont = pat_wspaces.sub(" ", cont.lower())
         title += raw_cont
         if main_title is None:
+            """ha talált ilyet, törölje a title-tv"""
             main_title = pat_rest_leg.search(title)
             if main_title is None:
                 main_title = pat_trv.search(title)
             if main_title:
+                title = raw_cont
                 main_title = "{} {} {} {}"\
                     .format(main_title.group(2), main_title.group(3), main_title.group(4), main_title.group(5))
         page = pat_page_num.search(cont)
@@ -105,9 +109,7 @@ def extract_legislation(titles, mk, bs_divs):
             raw_p = pat_non_chars.sub("", p_cont.lower())
             next_p = p.findNext('p')
             if next_p:
-                next_p = next_p.text
-            else:
-                next_p = ""
+                next_p = "" or next_p.text
             for i, title in enumerate(titles):
                 raw_title = [pat_non_chars.sub("", title_part).lower() for title_part in title[0].split()]
 
@@ -206,9 +208,11 @@ def main():
         print(len(titles))
 
         # extract legislations
-        legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
-        for legislation in legislations:
-            write_out(legislation[1], basp, legislation[0] + ".txt")
+        # legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
+        # for legislation in legislations:
+        #     # for mellék közlöny test
+        #     # write_out(legislation[1], basp, legislation[0] + ".txt", os.path.splitext(finp.split("\\")[-1])[0])
+        #     write_out(legislation[1], basp, legislation[0] + ".txt")
 
 
 if __name__ == "__main__":
