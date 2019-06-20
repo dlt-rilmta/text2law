@@ -64,7 +64,6 @@ def extract_titles(toc, prefix_dict=None):
         raw_cont = pat_wspaces.sub(" ", cont.lower())
         title += raw_cont
         if main_title is None:
-            """ha talált ilyet, törölje a title-tv"""
             main_title = pat_rest_leg.search(title)
             if main_title is None:
                 main_title = pat_trv.search(title)
