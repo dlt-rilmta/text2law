@@ -45,8 +45,7 @@ def get_prefix(prefix_dict, title):
 
 def extract_titles(toc, prefix_dict=None):
     abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás"}
-
-    pat_page_num = re.compile(r'\d+$')
+    pat_page_num = re.compile(r'\s(\d+)$')
     pat_trv = re.compile(r'((\d+[.:](?:\sévi)?)\s(\w+\.)\s(törvény)\s(\w+))')
     pat_rest_leg = re.compile(r'((\d+/\d+\.)\s(\((?:\w+\.\s)+\d+\.\))\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?))')
     pat_wspaces = re.compile(r'\s+')
@@ -54,6 +53,7 @@ def extract_titles(toc, prefix_dict=None):
     titles = []
     title = ""
     main_title = None
+    current_page = 0
 
     for cont in toc:
         for key in abbr_dict:
@@ -62,11 +62,15 @@ def extract_titles(toc, prefix_dict=None):
         raw_cont = pat_wspaces.sub(" ", cont.lower())
         title += raw_cont
         if main_title is None:
-            main_title = pat_trv.search(title) or pat_rest_leg.search(title)
+            main_title = pat_rest_leg.search(title)
+            if main_title is None:
+                main_title = pat_trv.search(title)
             if main_title:
                 main_title = "{} {} {} {}"\
                     .format(main_title.group(2), main_title.group(3), main_title.group(4), main_title.group(5))
-        if pat_page_num.search(cont):
+        page = pat_page_num.search(cont)
+        if page and current_page <= int(page.group(1)):
+            current_page = int(page.group(1))
             if main_title is None:
                 title = raw_cont
                 main_title = " ".join(title.strip().split()[0:4])
@@ -95,15 +99,20 @@ def extract_legislation(titles, mk, bs_divs):
     for div in bs_divs:
         page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
         for p in div.find_all('p'):
-            p = p.text.strip()
-            if p == "":
+            p_cont = p.text.strip()
+            if p_cont == "":
                 continue
-            raw_p = pat_non_chars.sub("", p.lower())
+            raw_p = pat_non_chars.sub("", p_cont.lower())
+            next_p = p.findNext('p')
+            if next_p:
+                next_p = next_p.text
+            else:
+                next_p = ""
             for i, title in enumerate(titles):
                 raw_title = [pat_non_chars.sub("", title_part).lower() for title_part in title[0].split()]
 
                 if len(raw_title) > 3 and title[-1] in page_end and raw_title[0] in raw_p \
-                        and raw_title[1] in raw_p and raw_title[2] in raw_p:
+                        and raw_title[1] in raw_p and (raw_title[2] in raw_p or raw_title[2] in next_p):
                     # print(raw_title, "\n", raw_p, "\n", page_end, title[-1])
                     is_legislation = True
                     if len(legislation) != 0:
@@ -114,7 +123,7 @@ def extract_legislation(titles, mk, bs_divs):
                     break
 
             if is_legislation:
-                legislation.append(p)
+                legislation.append(p_cont)
     legislations.append((leg_title, legislation))
 
     return legislations
@@ -192,9 +201,9 @@ def main():
         p_parts_toc = [p.text for div in divs_toc for p in div]
         titles = extract_titles(p_parts_toc, prefix_dict)
         print(finp)
-        # for title in titles:
-        #     print(title)
-        # print(len(titles))
+        for title in titles:
+            print(title)
+        print(len(titles))
 
         # extract legislations
         legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
