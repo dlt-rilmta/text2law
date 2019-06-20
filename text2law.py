@@ -202,16 +202,16 @@ def main():
         p_parts_toc = [p.text for div in divs_toc for p in div]
         titles = extract_titles(p_parts_toc, prefix_dict)
         print(finp)
-        for title in titles:
-            print(title)
-        print(len(titles))
+        # for title in titles:
+        #     print(title)
+        # print(len(titles))
 
         # extract legislations
-        # legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
-        # for legislation in legislations:
-        #     # for mellék közlöny test
-        #     # write_out(legislation[1], basp, legislation[0] + ".txt", os.path.splitext(finp.split("\\")[-1])[0])
-        #     write_out(legislation[1], basp, legislation[0] + ".txt")
+        legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
+        for legislation in legislations:
+            # for mellék közlöny test
+            # write_out(legislation[1], basp, legislation[0] + ".txt", os.path.splitext(finp.split("\\")[-1])[0])
+            write_out(legislation[1], basp, legislation[0] + ".txt")
 
 
 if __name__ == "__main__":
