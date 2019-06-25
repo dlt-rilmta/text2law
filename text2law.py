@@ -76,8 +76,7 @@ def extract_titles(toc, prefix_dict=None):
         if page and current_page <= int(page.group(1)):
             current_page = int(page.group(1))
             if main_title is None:
-                title = raw_cont
-                main_title = " ".join(title.strip().split()[0:4])
+                main_title = " ".join(raw_cont.strip().split()[0:4])
             prefix = ""
             if prefix_dict:
                 prefix = get_prefix(prefix_dict, title)
@@ -194,7 +193,7 @@ def main():
                    "végzés": "veg", "közlemény": "koz", "nyilatkozata": "nyil",
                    "utasítás": "ut", "állásfoglalás": "all", "hirdetmény": "hir",
                    "helyesbítés": "hely", "tájékoztató": "taj", "intézkedés": "int",
-                   "parancs": "par", "mérlege": "merl"}
+                   "parancs": "par", "pénzügyibeszámoló": "merl"}
 
     for finp in files:
         txt = read_file(finp)
@@ -211,6 +210,7 @@ def main():
         legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
         for legislation in legislations:
             write_out(legislation[1], basp, legislation[0] + ".txt")
+
 
 
 if __name__ == "__main__":
