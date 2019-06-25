@@ -48,8 +48,8 @@ def get_prefix(prefix_dict, title):
 def extract_titles(toc, prefix_dict=None):
     abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás"}
     pat_page_num = re.compile(r'\s(\d+)$')
-    pat_trv = re.compile(r'((\d+[.:](?:\sévi)?)\s(\w+\.)\s(törvény)\s(\w+))')
-    pat_rest_leg = re.compile(r'((\d+/\d+\.)\s(\((?:\w+\.\s)+\d+\.\))\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?))')
+    pat_trv = re.compile(r'(\d+[.:](?:\sévi)?)\s(\w+\.)\s(törvény)\s(\w+)')
+    pat_rest_leg = re.compile(r'(\d+/\d+\.)\s(\((?:\w+\.?\s)+(?:\d+/)?\d+\.\))\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?)')
     pat_wspaces = re.compile(r'\s+')
 
     titles = []
@@ -68,9 +68,10 @@ def extract_titles(toc, prefix_dict=None):
             if main_title is None:
                 main_title = pat_trv.search(title)
             if main_title:
-                title = raw_cont
+                title = title[main_title.start():]
                 main_title = "{} {} {} {}"\
-                    .format(main_title.group(2), main_title.group(3), main_title.group(4), main_title.group(5))
+                    .format(main_title.group(1), main_title.group(2), main_title.group(3), main_title.group(4))
+
         page = pat_page_num.search(cont)
         if page and current_page <= int(page.group(1)):
             current_page = int(page.group(1))
@@ -192,7 +193,8 @@ def main():
     prefix_dict = {"határozat": "hat", "rendelet": "rnd", "törvény": "trv",
                    "végzés": "veg", "közlemény": "koz", "nyilatkozata": "nyil",
                    "utasítás": "ut", "állásfoglalás": "all", "hirdetmény": "hir",
-                   "helyesbítés": "hely", "tájékoztató": "taj"}
+                   "helyesbítés": "hely", "tájékoztató": "taj", "intézkedés": "int",
+                   "parancs": "par", "mérlege": "merl"}
 
     for finp in files:
         txt = read_file(finp)
@@ -204,13 +206,10 @@ def main():
         print(finp)
         # for title in titles:
         #     print(title)
-        # print(len(titles))
 
         # extract legislations
         legislations = extract_legislation(titles, os.path.splitext(finp.split("\\")[-1])[0], divs)
         for legislation in legislations:
-            # for mellék közlöny test
-            # write_out(legislation[1], basp, legislation[0] + ".txt", os.path.splitext(finp.split("\\")[-1])[0])
             write_out(legislation[1], basp, legislation[0] + ".txt")
 
 
