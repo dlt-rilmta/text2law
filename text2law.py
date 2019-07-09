@@ -6,6 +6,9 @@ import re
 from glob import glob
 from pathlib import Path
 from bs4 import BeautifulSoup
+from langdetect import detect
+from langdetect.lang_detect_exception import LangDetectException
+from shutil import move
 
 
 def read(files):
@@ -15,11 +18,11 @@ def read(files):
             yield (fname, f.read())
 
 
-def write(outp, dir):
+def write(outp, dir, ext):
     Path(dir).mkdir(parents=True, exist_ok=True)
     for legislations in outp:
         for legislation in legislations:
-            with open(os.path.join(dir, legislation[0]), "w", encoding="utf-8") as f:
+            with open(os.path.join(dir, legislation[0]+ext), "w", encoding="utf-8") as f:
                 f.write("\n".join(legislation[1]))
 
 
@@ -93,47 +96,99 @@ def extract_titles(toc, prefix_dict=None):
     return titles
 
 
+def is_frag(text):
+    words = text.split()
+    if len(words) < 20:
+        return False
+
+    stopwords = ["a", "az", "azt", "ez", "ezt", "így", "vagy", "és", "is", "nem", "fog", "több", "mint", "kell",
+                 "ahol", "e", "ha", "csak", "erre", "arra", "úgy", "aki", "egy", "kettő", "négy", "öt", "hat",
+                 "hét", "tíz", "van", "volt", "meg", "azon", "ezen", "való", "kb", "közé", "rész", "más", "áron"]
+    pat_stop = re.compile(r'(\d+)|(\w+\))|(\W+)')
+    few_char_words = 0
+    for word in words:
+        if not pat_stop.search(word) and word not in stopwords and len(word) <= 4:
+            few_char_words += 1
+        else:
+            few_char_words = 0
+        if few_char_words == 5:
+            return True
+    return False
+
+
+def find_leg(div, titles, raw_p, next_p, pat_non_chars):
+    pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
+    page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
+
+    for i, title in enumerate(titles):
+        raw_title = [pat_non_chars.sub("", title_part).lower() for title_part in title[0].split()]
+
+        if len(raw_title) > 3 and title[-1] in page_end and raw_title[0] in raw_p \
+                and raw_title[1] in raw_p and (raw_title[2] in raw_p or raw_title[2] in next_p):
+            return titles.pop(i)
+
+    return None
+
+
+def is_hun(langd_p_cont):
+    try:
+        lang = detect(langd_p_cont.lower())
+    except LangDetectException:
+        lang = "hu"
+    if lang == "hu":
+        return True
+    return False
+
 
 def extract_legislation(titles, fname, bs_divs):
-    pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
     pat_non_chars = re.compile(r'\W')
-    pat_sign = re.compile(r's\.\s+k\.,')
+    pat_sign = re.compile(r's\.\s+k\.,?')
     pat_header = re.compile(r'(közlöny(?:\d+évi)?\d+szám)|(\d+szám\w+?közlöny)')
+    pat_space = re.compile(r'\s+')
 
+    langd_p_cont = ""
+    leg_title = ""
     legislation = []
     legislations = []
     is_legislation = False
     after_signature = False
-    leg_title = ""
+    frag = False
+
     for div in bs_divs:
-        page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
         for p in div.find_all('p'):
             p_cont = p.text.strip()
             raw_p = pat_non_chars.sub("", p_cont.lower())
             if p_cont == "" or pat_header.search(raw_p):
                 continue
+            langd_p_cont = pat_space.sub(" ", langd_p_cont + p.text)
             next_p = p.findNext('p')
             if next_p:
                 next_p = "" or next_p.text
-            for i, title in enumerate(titles):
-                raw_title = [pat_non_chars.sub("", title_part).lower() for title_part in title[0].split()]
+            title = find_leg(div, titles, raw_p, next_p, pat_non_chars)
+            if title:
+                if len(legislation) != 0 and leg_title and leg_title[0] != "_" and not frag and after_signature:
+                    legislations.append((leg_title, legislation))
 
-                if len(raw_title) > 3 and title[-1] in page_end and raw_title[0] in raw_p \
-                        and raw_title[1] in raw_p and (raw_title[2] in raw_p or raw_title[2] in next_p):
-                    # print(raw_title, "\n", raw_p, "\n", page_end, title[-1])
-                    is_legislation = True
-                    if len(legislation) != 0:
-                        legislations.append((leg_title, legislation))
-                    leg_title = remove_accent(title[1] + "_" + fname + "_" + pat_non_chars.sub(r'_', title[0])).lower()
-                    legislation = []
-                    after_signature = False
-                    del titles[i]
-                    break
-            if pat_sign.search(p_cont) and not after_signature:
-                after_signature = True
-            if is_legislation and not after_signature:
-                legislation.append(p_cont)
-    legislations.append((leg_title, legislation))
+                leg_title = remove_accent(title[1] + "_" + fname + "_" + pat_non_chars.sub(r'_', title[0])).lower()
+                legislation = []
+                langd_p_cont = p.text
+                after_signature = False
+                frag = False
+                is_legislation = True
+
+            if is_legislation and not after_signature and not frag:
+                if pat_sign.search(p_cont):
+                    after_signature = True
+                    legislation.append(langd_p_cont)
+                    langd_p_cont = ""
+
+                elif len(langd_p_cont.split()) >= 8 and is_hun(langd_p_cont):
+                    frag = is_frag(p_cont)
+                    legislation.append(langd_p_cont)
+                    langd_p_cont = ""
+
+    if leg_title and leg_title[0] != "_" and not frag and after_signature:
+        legislations.append((leg_title, legislation))
 
     return legislations
 
@@ -175,7 +230,7 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('filepath', help='Path to file', nargs="+")
     parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
-    dir = 'legislations'
+    basp = 'legislations'
     args = parser.parse_args()
     files = []
 
@@ -189,38 +244,38 @@ def get_args():
         files = glob(os.path.join(os.getcwd(), "*.html"))
 
     if args.directory:
-        dir = os.path.abspath(args.directory)
+        basp = os.path.abspath(args.directory)
 
-    return {'dir': dir, 'files': files}
+    return {'dir': basp, 'files': files}
 
 
 def process(inp):
     prefix_dict = {"határozat": "hat", "rendelet": "rnd", "törvény": "trv",
                    "végzés": "veg", "közlemény": "koz", "nyilatkozata": "nyil",
-                   "utasítás": "ut", "állásfoglalás": "all", "hirdetmény": "hir",
-                   "helyesbítés": "hely", "tájékoztató": "taj", "intézkedés": "int",
-                   "parancs": "par", "pénzügyibeszámoló": "merl"}
+                   "utasítás": "ut", "állásfoglalás": "all","helyesbítés": "hely",
+                   "tájékoztató": "taj", "intézkedés": "int", "parancs": "par"}
     for f in inp:
+        print(f[0])
         txt = f[1]
         soup = BeautifulSoup(txt, 'lxml')
         # extract table of contents and the content
         divs_toc, divs = get_toc_and_cont(soup.find_all('div'))
         p_parts_toc = [p.text for div in divs_toc for p in div]
         titles = extract_titles(p_parts_toc, prefix_dict)
-		
         # print(f[0])
- 
+        # for title in titles:
+        #     print(title)
+
         # extract legislations
         legislations = extract_legislation(titles, f[0], divs)
         yield legislations
 
 
 def main():
-
     args = get_args()
     inp = read(args['files'])
     outp = process(inp)
-    write(outp, args['dir'])
+    write(outp, args['dir'], ".txt")
 
 
 if __name__ == "__main__":
