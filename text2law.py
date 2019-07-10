@@ -52,12 +52,12 @@ def get_prefix(prefix_dict, title):
 
 
 def extract_titles(toc, prefix_dict=None):
-    abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás"}
     pat_page_num = re.compile(r'\s(\d+)$')
     pat_trv = re.compile(r'(\d+[.:](?:\sévi)?)\s(\w+\.)\s(törvény)\s(\w+)')
     pat_rest_leg = re.compile(r'(\d+/\d+\.)\s(\((?:\w+\.?\s)+(?:\d+/)?\d+\.\))\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?)')
     pat_wspaces = re.compile(r'\s+')
 
+    abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás"}
     titles = []
     title = ""
     main_title = None
@@ -97,14 +97,13 @@ def extract_titles(toc, prefix_dict=None):
 
 
 def is_frag(text):
-    words = text.split()
-    if len(words) < 20:
-        return False
-
     stopwords = ["a", "az", "azt", "ez", "ezt", "így", "vagy", "és", "is", "nem", "fog", "több", "mint", "kell",
                  "ahol", "e", "ha", "csak", "erre", "arra", "úgy", "aki", "egy", "kettő", "négy", "öt", "hat",
                  "hét", "tíz", "van", "volt", "meg", "azon", "ezen", "való", "kb", "közé", "rész", "más", "áron"]
     pat_stop = re.compile(r'(\d+)|(\w+\))|(\W+)')
+    words = text.split()
+    if len(words) < 20:
+        return False
     few_char_words = 0
     for word in words:
         if not pat_stop.search(word) and word not in stopwords and len(word) <= 4:
@@ -116,10 +115,7 @@ def is_frag(text):
     return False
 
 
-def find_leg(div, titles, raw_p, next_p, pat_non_chars):
-    pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
-    page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
-
+def find_leg(page_end, titles, raw_p, next_p, pat_non_chars):
     for i, title in enumerate(titles):
         raw_title = [pat_non_chars.sub("", title_part).lower() for title_part in title[0].split()]
 
@@ -141,51 +137,58 @@ def is_hun(langd_p_cont):
 
 
 def extract_legislation(titles, fname, bs_divs):
-    pat_non_chars = re.compile(r'\W')
-    pat_sign = re.compile(r's\.\s+k\.,?')
     pat_header = re.compile(r'(közlöny(?:\d+évi)?\d+szám)|(\d+szám\w+?közlöny)')
+    pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
+    pat_non_chars = re.compile(r'\W')
     pat_space = re.compile(r'\s+')
+    pat_sign = re.compile(r's\.\s+k\.,?')
 
     langd_p_cont = ""
-    leg_title = ""
     legislation = []
     legislations = []
     is_legislation = False
     after_signature = False
+    leg_title = ""
     frag = False
+    hun = True
 
     for div in bs_divs:
+        page_end = "".join(pat_page_end.findall(pat_non_chars.sub("", div.text.lower())))
         for p in div.find_all('p'):
             p_cont = p.text.strip()
             raw_p = pat_non_chars.sub("", p_cont.lower())
             if p_cont == "" or pat_header.search(raw_p):
                 continue
-            langd_p_cont = pat_space.sub(" ", langd_p_cont + p.text)
+            if langd_p_cont != "":
+                langd_p_cont += " " + pat_space.sub(" ", p_cont)
+            else:
+                langd_p_cont += pat_space.sub(" ", p_cont)
             next_p = p.findNext('p')
             if next_p:
                 next_p = "" or next_p.text
-            title = find_leg(div, titles, raw_p, next_p, pat_non_chars)
+            title = find_leg(page_end, titles, raw_p, next_p, pat_non_chars)
             if title:
+                is_legislation = True
                 if len(legislation) != 0 and leg_title and leg_title[0] != "_" and not frag and after_signature:
                     legislations.append((leg_title, legislation))
-
                 leg_title = remove_accent(title[1] + "_" + fname + "_" + pat_non_chars.sub(r'_', title[0])).lower()
                 legislation = []
                 langd_p_cont = p.text
                 after_signature = False
                 frag = False
-                is_legislation = True
 
             if is_legislation and not after_signature and not frag:
                 if pat_sign.search(p_cont):
                     after_signature = True
                     legislation.append(langd_p_cont)
                     langd_p_cont = ""
-
-                elif len(langd_p_cont.split()) >= 8 and is_hun(langd_p_cont):
-                    frag = is_frag(p_cont)
-                    legislation.append(langd_p_cont)
+                elif len(langd_p_cont.split()) >= 8:
+                    hun = is_hun(langd_p_cont)
+                    if hun:
+                        legislation.append(langd_p_cont)
                     langd_p_cont = ""
+                if hun and is_frag(p_cont):
+                    frag = True
 
     if leg_title and leg_title[0] != "_" and not frag and after_signature:
         legislations.append((leg_title, legislation))
@@ -262,7 +265,6 @@ def process(inp):
         divs_toc, divs = get_toc_and_cont(soup.find_all('div'))
         p_parts_toc = [p.text for div in divs_toc for p in div]
         titles = extract_titles(p_parts_toc, prefix_dict)
-        # print(f[0])
         # for title in titles:
         #     print(title)
 
