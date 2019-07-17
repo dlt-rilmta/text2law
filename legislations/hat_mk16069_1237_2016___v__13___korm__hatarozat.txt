@@ -1,9 +1,6 @@
-A Kormány 1237/2016. (V. 13.) Korm. határozata
-a közfoglalkoztatási program megvalósítása céljából egyes Nemzeti Földalapba tartozó ingatlanok 
-önkormányzatok részére történő ingyenes vagyonkezelésbe adásáról
-
-A Kormány 1. a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 22. § (1) és (3) bekezdése alapján úgy dönt, hogy 
-az 1. mellékletben szereplő, a Nemzeti Földalapba tartozó földrészleteket az ott felsorolt helyi önkormányzatok részére közfoglalkoztatási program megvalósítása céljából ingyenesen 15 évre vagyonkezelésbe adja; 
- 2. felhívja a földművelésügyi minisztert, hogy a Nemzeti Földalapkezelő Szervezet útján gondoskodjon az ingatlan- nyilvántartási bejegyzésre alkalmas vagyonkezelési szerződéseknek az érintett helyi önkormányzatokkal történő megkötéséről. 
-Felelős: földművelésügyi miniszter Határidő: a közzétételtől számított 15. nap 
- Orbán Viktor s. k., miniszterelnök
+1237/2016. (V. 13.) Korm. határozat###
+ a közfoglalkoztatási program megvalósítása céljából egyes Nemzeti Földalapba tartozó ingatlanok önkormányzatok részére történő ingyenes vagyonkezelésbe adásáról.
+A Kormány 1. a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 22. § (1) és (3) bekezdése alapján úgy dönt, hogy
+az 1. mellékletben szereplő, a Nemzeti Földalapba tartozó földrészleteket az ott felsorolt helyi önkormányzatok részére közfoglalkoztatási program megvalósítása céljából ingyenesen 15 évre vagyonkezelésbe adja;
+2. felhívja a földművelésügyi minisztert, hogy a Nemzeti Földalapkezelő Szervezet útján gondoskodjon az ingatlannyilvántartási bejegyzésre alkalmas vagyonkezelési szerződéseknek az érintett helyi önkormányzatokkal történő megkötéséről. Felelős: földművelésügyi miniszter Határidő: a közzétételtől számított 15. nap
+Orbán Viktor s. k., miniszterelnök

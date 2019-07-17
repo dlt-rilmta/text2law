@@ -1,74 +1,73 @@
-A nemzetgazdasági miniszter 20/2010. (XII. 31.) NGM rendelete
-
-a Magyar Kereskedelmi Engedélyezési Hivatal mûszaki biztonsági, valamint hatáskörébe utalt 
-építésügyi hatósági eljárásokért fizetendõ igazgatási szolgáltatási díjakról A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (3) bekezdés 4. pontjában, a távhõszolgáltatásról szóló 2005. évi 
-XVIII. törvény 60. § (2) bekezdés c) pontjában, továbbá a kereskedelemrõl szóló 2005. évi CLXIV. törvény 12. § (7) bekezdésében 
-kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezetõ államtitkár feladat- és hatáskörérõl szóló 
-212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: R.) 73. § c) és h) pontjában meghatározott feladatkörömben eljárva – az R. 2. § 
-(1) bekezdés c) pontjában meghatározott feladatkörében eljáró közigazgatási és igazságügyi miniszterrel egyetértésben – 
-a következõket rendelem el: 1. § (1) A mûszaki biztonsági hatóság által lefolytatott mûszaki biztonsági, valamint a hatáskörébe utalt építésügyi hatósági 
-eljárásokért, beleértve a mûszaki biztonsági hatóság szakhatósági közremûködését más hatóságok eljárásaiban, 
-a kérelmet elõterjesztõ ügyfélnek igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetnie a Magyar 
-Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal), mint a díj beszedésére jogosult részére. 
-(2) A díj mértékét a melléklet állapítja meg. 
-(3) Az ügyfél kérelmére soron kívül (15 napon belül), illetve munkaidõn túl végezhetõ hatósági tevékenység esetében a díj 
-mértéke a vonatkozó díj 150%-a, a munkaszüneti napon végzett tevékenység esetén a díj mértéke a vonatkozó díj 
-200%-a. (4) Amennyiben egy kérelem alapján a mûszaki biztonsági hatóságnál több, egymástól elkülönült hatósági eljárás indul, 
-az egyes eljárásokra megállapított díjat minden eljárásra külön meg kell fizetni. 
-2. § (1) A díjfizetési kötelezettséget a (2) bekezdésben foglaltak szerint, a fizetési számlára történõ készpénzfizetés 
-(a továbbiakban: készpénzutalási megbízás), vagy a fizetési számlák közötti átutalásra szóló megbízás 
-(a továbbiakban: átutalási megbízás) útján a Hivatal Magyar Államkincstárnál vezetett 10032000-00282448-00000000 
-számú fizetési számlája javára kell teljesíteni. A belföldi postautalványon történõ, fizetési számla nélküli 
-készpénzátutalás az 1. § (1) bekezdése szerinti hatósági eljárások vonatkozásában díjfizetésre nem alkalmazható. 
-(2) Amennyiben az ügyfél a hatósági eljárás díját 
-a) a hatósági eljárás megindítására irányuló kérelem benyújtása elõtt, az átutalási megbízás, illetve 
-a készpénzátutalási megbízás közlemény rovatában az 1. § (1) bekezdése szerinti hatósági eljárás 
-megnevezésének feltüntetésével fizeti meg, úgy a kérelemben aa) a készpénzátutalási megbízáson található azonosító számot, a befizetett díjat és a fizetési megbízás 
-befogadásának idõpontját, vagy ab) a számlavezetõ pénzforgalmi szolgáltató nevét, az átutalási megbízással befizetett díj összegét és a fizetési 
-megbízás befogadásának idõpontját köteles közölni; b) a hatósági eljárás megindítására irányuló kérelmének elõterjesztése elõtt nem fizeti meg, az illetékes hatóság által 
-kiállított díjbekérõ alapján nyolc napon belül köteles a befizetést teljesíteni, a készpénzátutalási megbízás, illetve 
-az átutalási megbízás közlemény rovatában a hatóság ügyazonosító számának feltüntetésével. 
-(3) A számlát az adószám kiváltására kötelezettek számára a díjnak az (1) bekezdés szerinti fizetési számlán történõ 
-jóváírását követõen, de legkésõbb az ügy érdemében hozott döntés meghozatalával egy idõben kell kiállítani. 
-A kérelemnek, vagy a kérelem külön mellékletének tartalmaznia kell az ügyfél nyilatkozatát a számla kiállításához 
-szükséges adatokról: az adószám kiváltására kötelezett díjfizetõ neve, címe (székhelye, illetve telephelye), fizetési 
-számla száma, valamint adószáma. (4) Ha a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél tévesen, vagy az e rendeletben meghatározott 
-mértéket meghaladóan fizetett díjat, a Hivatal a téves befizetés, illetve a díjtöbblet visszatérítésérõl az ügyfél 
-számlavezetõ pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, legkésõbb az önálló fellebbezéssel 
-támadható döntést követõ nyolc napon belül, átutalási megbízás útján intézkedik. 
-(5) Amennyiben a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi 
-CXL. törvény 33/A. §-a szerinti díjvisszafizetést köteles teljesíteni, úgy a visszafizetésrõl az ügyfél számlavezetõ 
-pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, átutalási megbízás útján intézkedik. 
-(6) Amennyiben jogszabály a hatósági eljárás elektronikus úton történõ kezdeményezését nem zárja ki, a díjat az eljárás 
-kezdeményezését követõen, átutalási megbízás útján kell megfizetni. Az ügyfélnek az átutalási megbízás „Közlemény” 
-rovatában fel kell tüntetnie a központi elektronikus szolgáltató rendszer által adott 27 jegyû érkeztetõ számot. Ez 
-esetben a díjat legkésõbb – a (2) bekezdés b) pontja szerinti – díjbekérõben foglaltak ügyfél általi megismerését 
-követõ három napon kell megfizetnie. Az elektronikus közszolgáltatás igénybevételével kezdeményezett eljárással 
-kapcsolatos fizetési kötelezettségek teljesítésére egyebekben az elektronikus közszolgáltatásról és annak 
-igénybevételérõl szóló kormányrendeletben foglalt rendelkezéseket kell alkalmazni. (7) A Hivatal a díjat egyéb bevételeitõl elkülönítve tartja nyilván és kezeli. 
-3. § (1) A díj megállapításával és megfizetésével kapcsolatosan 
-a) a díjfizetési kötelezettség fennállására vonatkozóan az illetékekrõl szóló 1990. évi XCIII. törvény (a továbbiakban: 
-Itv.) 28. § (2)–(3) bekezdésében foglaltakat, b) a díj mértéke tekintetében az Itv. 29. § (2) bekezdés utolsó mondatában, valamint 29. § (4)–(5) bekezdésében 
-foglaltakat, c) a díj fizetésére kötelezettek körének megállapítására az Itv. 31. § (1) bekezdés elsõ mondatában, 31. § (2)–(6) és 
-(8) bekezdésében foglaltakat, d) a jogorvoslati eljárási díj visszatérítésére az Itv. 32. §-át, 
-e) a fizetési meghagyás kibocsátására és a késedelmi pótlék megfizetésére az Itv. 78. § (1)–(3) bekezdésében, 
-valamint 87. § (1) bekezdésében foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. adóhatóságot említ, azon az eljárásra illetékes és hatáskörrel 
-rendelkezõ hatóságot, ahol illetéket említ, azon díjat kell érteni. 
-(2) Ha a díj visszatérítése azért vált szükségessé, mert a jogorvoslati eljárásban felülvizsgált döntés vagy intézkedés 
-a kérelmezõ hátrányára részben vagy egészben jogszabálysértõnek bizonyult, akkor a hatóság a visszatérítésrõl 
-hivatalból, a jogorvoslati eljárás során hozott határozatban rendelkezik. 
-4. § (1) Azokban a hatósági eljárásokban, amelyekben másodfokon a Hivatal központi szerve jár el, a fellebbezés díja az elsõ 
-fokú eljárásra megállapított díj 50%-a, de legfeljebb 50 000 Ft. 
-(2) A fellebbezés díját – a (3) bekezdésben foglalt kivétellel – a 2. § (1) bekezdésében és a 2. § (2) bekezdés a) pontjában 
-meghatározott feltételek szerint elõzetesen kell megfizetni. (3) Elektronikus úton elõterjesztett fellebbezés esetén a 2. § (6) bekezdésében foglaltak szerint kell eljárni. 
-5. § (1) A díjat akkor is meg kell fizetni, ha a vizsgálat, helyszíni ellenõrzés eredménytelen, vagy ha az ügyfél mulasztásából 
-vagy egyéb neki felróható okból meghiúsul. (2) Ha érdemi vizsgálat nélkül megállapítható, hogy a hatósági felügyelet alá tartozó létesítmény, berendezés nem felel 
-meg a mûszaki biztonsági követelményeknek, a vonatkozó díj 50%-át kell megfizetni. 
-6. § (1) Ez a rendelet 2011. január 1-jén lép hatályba. 
-(2) Hatályát veszti a Magyar Kereskedelmi Engedélyezési Hivatal egyes mûszaki biztonsági közigazgatási eljárásainak és 
-igazgatási jellegû szolgáltatásainak díjairól szóló 129/2005. (XII. 29.) GKM rendelet. 
-(3) A Magyar Kereskedelmi Engedélyezési Hivatalnál az e rendelet hatálybalépésekor folyamatban lévõ mûszaki 
-biztonsági, valamint hatáskörébe utalt építésügyi hatósági eljárásokra a Magyar Kereskedelmi Engedélyezési Hivatal 
-egyes mûszaki biztonsági közigazgatási eljárásainak és igazgatási jellegû szolgáltatásainak díjairól szóló 129/2005. 
-(XII. 29.) GKM rendelet 2010. december 31-én hatályos szabályait kell alkalmazni. 
-Dr. Matolcsy György s. k., nemzetgazdasági miniszter 
+20/2010. (XII. 31.) NGM rendelet###
+ a Magyar Kereskedelmi Engedélyezési Hivatal műszaki biztonsági, valamint hatáskörébe utalt építésügyi hatósági eljárásokért fizetendő igazgatási szolgáltatási díjakról.
+A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (3) bekezdés 4. pontjában, a távhőszolgáltatásról szóló 2005. évi
+XVIII. törvény 60. § (2) bekezdés c) pontjában, továbbá a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (7) bekezdésében
+kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló
+212/2010. (VII. 1.) Korm. rendelet (a továbbiakban: R.) 73. § c) és h) pontjában meghatározott feladatkörömben eljárva – az R. 2. §
+(1) bekezdés c) pontjában meghatározott feladatkörében eljáró közigazgatási és igazságügyi miniszterrel egyetértésben –
+a következőket rendelem el: 1. § (1) A műszaki biztonsági hatóság által lefolytatott műszaki biztonsági, valamint a hatáskörébe utalt építésügyi hatósági
+eljárásokért, beleértve a műszaki biztonsági hatóság szakhatósági közreműködését más hatóságok eljárásaiban,
+a kérelmet előterjesztő ügyfélnek igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetnie a Magyar
+Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal), mint a díj beszedésére jogosult részére.
+(2) A díj mértékét a melléklet állapítja meg.
+(3) Az ügyfél kérelmére soron kívül (15 napon belül), illetve munkaidőn túl végezhető hatósági tevékenység esetében a díj
+mértéke a vonatkozó díj 150%-a, a munkaszüneti napon végzett tevékenység esetén a díj mértéke a vonatkozó díj
+200%-a. (4) Amennyiben egy kérelem alapján a műszaki biztonsági hatóságnál több, egymástól elkülönült hatósági eljárás indul,
+az egyes eljárásokra megállapított díjat minden eljárásra külön meg kell fizetni.
+2. § (1) A díjfizetési kötelezettséget a (2) bekezdésben foglaltak szerint, a fizetési számlára történő készpénzfizetés
+(a továbbiakban: készpénzutalási megbízás), vagy a fizetési számlák közötti átutalásra szóló megbízás
+(a továbbiakban: átutalási megbízás) útján a Hivatal Magyar Államkincstárnál vezetett 10032000-00282448-00000000
+számú fizetési számlája javára kell teljesíteni. A belföldi postautalványon történő, fizetési számla nélküli
+készpénzátutalás az 1. § (1) bekezdése szerinti hatósági eljárások vonatkozásában díjfizetésre nem alkalmazható.
+(2) Amennyiben az ügyfél a hatósági eljárás díját
+a) a hatósági eljárás megindítására irányuló kérelem benyújtása előtt, az átutalási megbízás, illetve
+a készpénzátutalási megbízás közlemény rovatában az 1. § (1) bekezdése szerinti hatósági eljárás
+megnevezésének feltüntetésével fizeti meg, úgy a kérelemben aa) a készpénzátutalási megbízáson található azonosító számot, a befizetett díjat és a fizetési megbízás
+befogadásának időpontját, vagy ab) a számlavezető pénzforgalmi szolgáltató nevét, az átutalási megbízással befizetett díj összegét és a fizetési
+megbízás befogadásának időpontját köteles közölni; b) a hatósági eljárás megindítására irányuló kérelmének előterjesztése előtt nem fizeti meg, az illetékes hatóság által
+kiállított díjbekérő alapján nyolc napon belül köteles a befizetést teljesíteni, a készpénzátutalási megbízás, illetve
+az átutalási megbízás közlemény rovatában a hatóság ügyazonosító számának feltüntetésével.
+(3) A számlát az adószám kiváltására kötelezettek számára a díjnak az (1) bekezdés szerinti fizetési számlán történő
+jóváírását követően, de legkésőbb az ügy érdemében hozott döntés meghozatalával egy időben kell kiállítani.
+A kérelemnek, vagy a kérelem külön mellékletének tartalmaznia kell az ügyfél nyilatkozatát a számla kiállításához
+szükséges adatokról: az adószám kiváltására kötelezett díjfizető neve, címe (székhelye, illetve telephelye), fizetési
+számla száma, valamint adószáma. (4) Ha a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél tévesen, vagy az e rendeletben meghatározott
+mértéket meghaladóan fizetett díjat, a Hivatal a téves befizetés, illetve a díjtöbblet visszatérítéséről az ügyfél
+számlavezető pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, legkésőbb az önálló fellebbezéssel
+támadható döntést követő nyolc napon belül, átutalási megbízás útján intézkedik.
+(5) Amennyiben a hatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi
+CXL. törvény 33/A. §-a szerinti díjvisszafizetést köteles teljesíteni, úgy a visszafizetésről az ügyfél számlavezető
+pénzforgalmi szolgáltatónál vezetett fizetési számlája javára, átutalási megbízás útján intézkedik.
+(6) Amennyiben jogszabály a hatósági eljárás elektronikus úton történő kezdeményezését nem zárja ki, a díjat az eljárás
+kezdeményezését követően, átutalási megbízás útján kell megfizetni. Az ügyfélnek az átutalási megbízás „Közlemény”
+rovatában fel kell tüntetnie a központi elektronikus szolgáltató rendszer által adott 27 jegyű érkeztető számot. Ez
+esetben a díjat legkésőbb – a (2) bekezdés b) pontja szerinti – díjbekérőben foglaltak ügyfél általi megismerését
+követő három napon kell megfizetnie. Az elektronikus közszolgáltatás igénybevételével kezdeményezett eljárással
+kapcsolatos fizetési kötelezettségek teljesítésére egyebekben az elektronikus közszolgáltatásról és annak
+igénybevételéről szóló kormányrendeletben foglalt rendelkezéseket kell alkalmazni. (7) A Hivatal a díjat egyéb bevételeitől elkülönítve tartja nyilván és kezeli.
+3. § (1) A díj megállapításával és megfizetésével kapcsolatosan
+a) a díjfizetési kötelezettség fennállására vonatkozóan az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban:
+Itv.) 28. § (2)–(3) bekezdésében foglaltakat, b) a díj mértéke tekintetében az Itv. 29. § (2) bekezdés utolsó mondatában, valamint 29. § (4)–(5) bekezdésében
+foglaltakat, c) a díj fizetésére kötelezettek körének megállapítására az Itv. 31. § (1) bekezdés első mondatában, 31. § (2)–(6) és
+(8) bekezdésében foglaltakat, d) a jogorvoslati eljárási díj visszatérítésére az Itv. 32. §-át,
+e) a fizetési meghagyás kibocsátására és a késedelmi pótlék megfizetésére az Itv. 78. § (1)–(3) bekezdésében,
+valamint 87. § (1) bekezdésében foglaltakat kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. adóhatóságot említ, azon az eljárásra illetékes és hatáskörrel
+rendelkező hatóságot, ahol illetéket említ, azon díjat kell érteni.
+(2) Ha a díj visszatérítése azért vált szükségessé, mert a jogorvoslati eljárásban felülvizsgált döntés vagy intézkedés
+a kérelmező hátrányára részben vagy egészben jogszabálysértőnek bizonyult, akkor a hatóság a visszatérítésről
+hivatalból, a jogorvoslati eljárás során hozott határozatban rendelkezik.
+4. § (1) Azokban a hatósági eljárásokban, amelyekben másodfokon a Hivatal központi szerve jár el, a fellebbezés díja az első
+fokú eljárásra megállapított díj 50%-a, de legfeljebb 50 000 Ft.
+(2) A fellebbezés díját – a (3) bekezdésben foglalt kivétellel – a 2. § (1) bekezdésében és a 2. § (2) bekezdés a) pontjában
+meghatározott feltételek szerint előzetesen kell megfizetni. (3) Elektronikus úton előterjesztett fellebbezés esetén a 2. § (6) bekezdésében foglaltak szerint kell eljárni.
+5. § (1) A díjat akkor is meg kell fizetni, ha a vizsgálat, helyszíni ellenőrzés eredménytelen, vagy ha az ügyfél mulasztásából
+vagy egyéb neki felróható okból meghiúsul. (2) Ha érdemi vizsgálat nélkül megállapítható, hogy a hatósági felügyelet alá tartozó létesítmény, berendezés nem felel
+meg a műszaki biztonsági követelményeknek, a vonatkozó díj 50%-át kell megfizetni.
+6. § (1) Ez a rendelet 2011. január 1-jén lép hatályba.
+(2) Hatályát veszti a Magyar Kereskedelmi Engedélyezési Hivatal egyes műszaki biztonsági közigazgatási eljárásainak és
+igazgatási jellegű szolgáltatásainak díjairól szóló 129/2005. (XII. 29.) GKM rendelet.
+(3) A Magyar Kereskedelmi Engedélyezési Hivatalnál az e rendelet hatálybalépésekor folyamatban lévő műszaki
+biztonsági, valamint hatáskörébe utalt építésügyi hatósági eljárásokra a Magyar Kereskedelmi Engedélyezési Hivatal
+egyes műszaki biztonsági közigazgatási eljárásainak és igazgatási jellegű szolgáltatásainak díjairól szóló 129/2005.
+(XII. 29.) GKM rendelet 2010. december 31-én hatályos szabályait kell alkalmazni.
+Dr. Matolcsy György s. k., nemzetgazdasági miniszter
