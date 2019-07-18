@@ -68,6 +68,7 @@ def get_cat(cats, title):
 
 
 def extract_titles(toc, cats=None):
+    # TODO: prefix_dict helyett listát átadni, mert itt nicsen szükség dict-re
     pat_dots = re.compile(r'((\s+\.)+)|(\.{2,})')
     pat_split = re.compile(r'-\s+')
     pat_page_num = re.compile(r'\s(\d+)$')
@@ -85,7 +86,7 @@ def extract_titles(toc, cats=None):
         for key in abbr_dict:
             if key in cont:
                 cont = cont.replace(key, abbr_dict[key])
-        raw_cont = pat_wspaces.sub(" ", cont)
+        raw_cont = pat_wspaces.sub(" ", cont).replace("tör vény", "törvény")
         title += raw_cont
         if main_title is None:
             main_title = pat_rest_leg.search(title)
@@ -118,9 +119,10 @@ def extract_titles(toc, cats=None):
 def is_frag(text):
     stopwords = ["a", "az", "azt", "ez", "ezt", "így", "vagy", "és", "is", "nem", "fog", "több", "mint", "kell",
                  "ahol", "e", "ha", "csak", "erre", "arra", "úgy", "aki", "egy", "kettő", "négy", "öt", "hat",
-                 "hét", "tíz", "van", "volt", "meg", "azon", "ezen", "való", "kb", "közé", "rész", "más", "áron"]
+                 "hét", "tíz", "van", "volt", "meg", "azon", "ezen", "való", "kb", "közé", "rész", "más", "áron", "cikk",
+                 "ne"]
     pat_stop = re.compile(r'(\d+)|(\w+\))|(\W+)')
-    words = text.split()
+    words = text.lower().split()
     if len(words) < 20:
         return False
     few_char_words = 0
@@ -159,7 +161,7 @@ def find_leg(page_end, titles, raw_ps, pat_non_chars):
 def from_title(ps_cont, title):
     pat_space = re.compile(r'\s+')
 
-    ps_cont = pat_space.sub(" ", " ".join(ps_cont[-10:]))
+    ps_cont = pat_space.sub(" ", " ".join(ps_cont[-10:]).replace("tör vény", "törvény"))
     title_parts = title[0].split()
     start = "{} {} {}".format(title_parts[0], title_parts[1], title_parts[2])
     main_title = pat_space.sub(" ", ps_cont.replace("évi", ""))
@@ -229,8 +231,9 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs):
                         legislation.append(ps_cont_check_str.replace("### ", ""))
                         frag = is_frag(ps_cont_check_str)
                     ps_cont_check = []
-                    # if frag:
-                    #     print(leg_title)
+                    # raw_ps = []
+                    if frag:
+                        print("frag", leg_title, ps_cont_check_str)
 
     if leg_title and leg_title[0] != "_" and not frag and after_signature:
         legislations.append((leg_title, replace_latin1("\n".join(legislation))))
@@ -301,8 +304,6 @@ def process(inp):
                    "végzés": "veg", "közlemény": "koz", "nyilatkozata": "nyil",
                    "utasítás": "ut", "állásfoglalás": "all","helyesbítés": "hely",
                    "tájékoztató": "taj", "intézkedés": "int", "parancs": "par"}
-
-
     for f in inp:
         print(f[0])
         txt = f[1]
