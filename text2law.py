@@ -8,8 +8,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
-from shutil import move
-import time
+# from shutil import move
 
 
 def read(files):
@@ -46,10 +45,11 @@ def remove_accent(s):
 
 def get_prefix(cat, title, prefix_dict):
     title_for_prefix = re.sub(r'\W', "", title).lower()
+    mod = ""
     if "módosítás" in title_for_prefix:
-        return "mod"
-    elif cat in prefix_dict.keys():
-        return prefix_dict[cat]
+        mod = "mod_"
+    if cat in prefix_dict.keys():
+        return mod + prefix_dict[cat]
     else:
         return ""
 
@@ -68,7 +68,6 @@ def get_cat(cats, title):
 
 
 def extract_titles(toc, cats=None):
-    # TODO: prefix_dict helyett listát átadni, mert itt nicsen szükség dict-re
     pat_dots = re.compile(r'((\s+\.)+)|(\.{2,})')
     pat_split = re.compile(r'-\s+')
     pat_page_num = re.compile(r'\s(\d+)$')
@@ -123,7 +122,7 @@ def is_frag(text):
                  "ne"]
     pat_stop = re.compile(r'(\d+)|(\w+\))|(\W+)')
     words = text.lower().split()
-    if len(words) < 20:
+    if len(words) < 10:
         return False
     few_char_words = 0
     for word in words:
@@ -160,16 +159,31 @@ def find_leg(page_end, titles, raw_ps, pat_non_chars):
 
 def from_title(ps_cont, title):
     pat_space = re.compile(r'\s+')
+    pat_type = re.compile(r'(k *ö *z *l *e *m *é *n *y( *e)?)|'
+                          r'(i *n *t *é *z *k *e *d *é *s( *e)?)|'
+                          r'(u *t *a *s *í *t *á *s( *a)?)|'
+                          r'(p *a *r *a *n *c *s( *a)?)|'
+                          r'(t *ö *r *v *é *n *y( *e)?)|'
+                          r'(h *a *t *á *r *o *z *a *t( *a)?)|'
+                          r'(r *e *n *d *e *l *e *t( *e)?)')
 
-    ps_cont = pat_space.sub(" ", " ".join(ps_cont[-10:]).replace("tör vény", "törvény"))
     title_parts = title[0].split()
-    start = "{} {} {}".format(title_parts[0], title_parts[1], title_parts[2])
-    main_title = pat_space.sub(" ", ps_cont.replace("évi", ""))
-    begin = re.sub(title[1] + r'(\w+)?', title[1] + "###\n", main_title[main_title.find(start):] + ".", count=1)
+    start_title = "{} {} {}".format(title_parts[0], title_parts[1], title_parts[2])
+    main_title = pat_space.sub(" ", " ".join(ps_cont[-10:]).replace("tör vény", "törvény").replace("évi", ""))
+    start = main_title.find(start_title)
+    if start == -1:
+        return None
+    begin = main_title[start:]
+    leg_type = pat_type.search(begin)
+    leg_type_wo_space = title[1]
+    if leg_type:
+        leg_type_wo_space = leg_type.group().replace(" ", "")
+        begin = begin.replace(leg_type.group(), leg_type_wo_space)
+    begin = re.sub(leg_type_wo_space, leg_type_wo_space + "###", begin + ".", count=1)
     return begin
 
 
-def extract_legislation(titles, prefix_dict, fname, bs_divs):
+def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
     pat_header = re.compile(r'(közlöny(?:\d+évi)?\d+szám)|(\d+szám\w+?közlöny)')
     pat_page_end = re.compile(r'.{,40}közlöny.{,40}')
     pat_non_chars = re.compile(r'\W')
@@ -200,13 +214,15 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs):
             raw_ps.append(raw_p)
             title = find_leg(page_end, titles, "".join(raw_ps[-10:]), pat_non_chars)
             if title:
-                if len(legislation) != 0 and leg_title and leg_title[0] != "_" and not frag and after_signature:
+                if len(legislation) != 0 and leg_title and leg_title[0] != "_" and not frag \
+                        and after_signature and legislation[0] is not None and leg_title not in found_legs:
                     legislations.append((leg_title, replace_latin1("\n".join(legislation))))
+                    found_legs.append(leg_title)
 
                 # legislation = [re.sub(title[1]+r'(\w+)?', title[1]+"###\n", title[0]+" "+title[2]+".", count=1)]
                 legislation = [from_title(ps_cont, title)]
-                leg_title = remove_accent(get_prefix(title[1], title[0]+title[2], prefix_dict) +
-                                          "_" + fname + "_" + pat_non_chars.sub(r'_', title[0])).lower()
+                leg_title = remove_accent(get_prefix(title[1], title[0]+title[2], prefix_dict)
+                                          + "_" + fname + "_" + pat_non_chars.sub("", " ".join(title[0].split()[:-1]))).lower()
                 ps_cont = []
                 ps_cont_check = []
                 raw_ps = []
@@ -214,7 +230,8 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs):
                 after_signature = False
                 frag = False
 
-            elif is_legislation and not after_signature and not frag:
+            elif is_legislation and not after_signature and not frag \
+                    and legislation[0] is not None and leg_title not in found_legs:
                 if "###" in ps_cont_check[-1]:
                     continue
                 ps_cont_check_str = pat_space.sub(" ", " ".join(ps_cont_check))
@@ -224,19 +241,21 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs):
                     ps_cont = []
                     ps_cont_check = []
                     raw_ps = []
-                    is_legislation = False
                 elif len(ps_cont_check_str.split()) >= 8:
                     hun = is_hun(ps_cont_check_str)
                     if hun:
                         legislation.append(ps_cont_check_str.replace("### ", ""))
                         frag = is_frag(ps_cont_check_str)
+                        # if frag:
+                        #     with open("0frag_"+fname, "a", encoding="utf-8") as f:
+                        #         print("#######\n", fname, "\n", ps_cont_check_str, "\n\n", file=f)
                     ps_cont_check = []
                     # raw_ps = []
-                    if frag:
-                        print("frag", leg_title, ps_cont_check_str)
 
-    if leg_title and leg_title[0] != "_" and not frag and after_signature:
+    if leg_title and leg_title[0] != "_" and not frag \
+            and after_signature and legislation[0] is not None and leg_title not in found_legs:
         legislations.append((leg_title, replace_latin1("\n".join(legislation))))
+        found_legs.append(leg_title)
     return legislations
 
 
@@ -304,6 +323,7 @@ def process(inp):
                    "végzés": "veg", "közlemény": "koz", "nyilatkozata": "nyil",
                    "utasítás": "ut", "állásfoglalás": "all","helyesbítés": "hely",
                    "tájékoztató": "taj", "intézkedés": "int", "parancs": "par"}
+    found_legs = []
     for f in inp:
         print(f[0])
         txt = f[1]
@@ -316,7 +336,7 @@ def process(inp):
         #     print(title)
 
         # extract legislations
-        legislations = extract_legislation(titles, prefix_dict, f[0], divs)
+        legislations = extract_legislation(titles, prefix_dict, f[0], divs, found_legs)
         yield legislations
 
 
