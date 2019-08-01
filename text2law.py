@@ -199,6 +199,7 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
     is_legislation = False
     after_signature = False
     leg_title = ""
+    leg_name = ""
     frag = False
 
     for div in bs_divs:
@@ -215,14 +216,15 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
             title = find_leg(page_end, titles, "".join(raw_ps[-10:]), pat_non_chars)
             if title:
                 if len(legislation) != 0 and leg_title and leg_title[0] != "_" and not frag \
-                        and after_signature and legislation[0] is not None and leg_title not in found_legs:
+                        and after_signature and legislation[0] is not None and leg_name not in found_legs:
                     legislations.append((leg_title, replace_latin1("\n".join(legislation))))
-                    found_legs.append(leg_title)
+                    found_legs.append(leg_name)
 
                 # legislation = [re.sub(title[1]+r'(\w+)?', title[1]+"###\n", title[0]+" "+title[2]+".", count=1)]
                 legislation = [from_title(ps_cont, title)]
-                leg_title = remove_accent(get_prefix(title[1], title[0]+title[2], prefix_dict)
-                                          + "_" + fname + "_" + pat_non_chars.sub("", " ".join(title[0].split()[:-1]))).lower()
+                leg_name = pat_non_chars.sub("", " ".join(title[0].split()[:-1]))
+                leg_title = remove_accent((get_prefix(title[1], title[0]+title[2], prefix_dict)
+                                          + "_" + fname + "_" + leg_name).lower())
                 ps_cont = []
                 ps_cont_check = []
                 raw_ps = []
@@ -231,7 +233,7 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
                 frag = False
 
             elif is_legislation and not after_signature and not frag \
-                    and legislation[0] is not None and leg_title not in found_legs:
+                    and legislation[0] is not None and leg_name not in found_legs:
                 if "###" in ps_cont_check[-1]:
                     continue
                 ps_cont_check_str = pat_space.sub(" ", " ".join(ps_cont_check))
@@ -253,7 +255,7 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
                     # raw_ps = []
 
     if leg_title and leg_title[0] != "_" and not frag \
-            and after_signature and legislation[0] is not None and leg_title not in found_legs:
+            and after_signature and legislation[0] is not None and leg_name not in found_legs:
         legislations.append((leg_title, replace_latin1("\n".join(legislation))))
         found_legs.append(leg_title)
     return legislations
