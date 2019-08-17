@@ -321,10 +321,10 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
     # regex to find split words in the end of a line
     pat_split = re.compile(r'(\w+)-\s*$', re.M)
 
-    # gathered p tag contents
+    # list of p tag contents
     ps_cont = []
     ps_cont_check = []
-    # gathered p tag contents without special chars
+    # list of p tag contents without special chars
     raw_ps = []
     legislation = []
     legislations = []
