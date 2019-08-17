@@ -290,7 +290,7 @@ def from_title(ps_cont, title):
 
 def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
     # TODO: found_legs should rather be a dictionary
-    # TODO: iam not sure that ps_cont_check is needed, i could be replaced with ps_cont only
+    # TODO: iam not sure that ps_cont_check is needed, it could be replaced with ps_cont only
     """
     finds and separates legislations in a közlöny. keeps the legislation if:
         1, it's not broken,
