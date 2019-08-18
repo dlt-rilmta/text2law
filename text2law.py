@@ -13,7 +13,7 @@ from langdetect.lang_detect_exception import LangDetectException
 
 def read(files):
     """
-    generator function
+    Generator function.
 
     :param files: list of filepaths
     :yield: file name and text in tuple
@@ -43,7 +43,7 @@ def replace_latin1(text):
 
 def remove_accent(s):
     """
-    replacing accented chars to non accented chars in a string:
+    Replacing accented chars to non accented chars in a string:
     öüóőúéáűí -> ouooueaui
 
     :param s: string
@@ -59,7 +59,7 @@ def remove_accent(s):
 
 def get_cat(cats, title):
     """
-    finds the category of a legislation by the title
+    Finds the category of a legislation by the title.
 
     :param cats: list of categories to find in titles
     :param title: the title itself to find the legislation category by
@@ -83,8 +83,8 @@ def get_cat(cats, title):
 
 def get_prefix(cat, title, prefix_dict):
     """
-    getting the prefix of filename by category of the legislation. if "módosítás" is in the title, then
-    the prefix will be "mod"_+cat, else it will be just the abbreviation of the category
+    Getting the prefix of filename by category of the legislation. If "módosítás" is in the title, then
+    the prefix will be "mod"_+cat, else it will be just the abbreviation of the category.
 
     :param cat: the category of the legislation
     :param title: the title of the legislation
@@ -105,7 +105,8 @@ def get_prefix(cat, title, prefix_dict):
 
 def extract_titles(toc, cats=None):
     """
-    extract the titles from table of contents
+    Extract the titles from table of contents.
+
     :param toc: table of contents to extract titles from
     :param cats: list of categories to sort title by
     :return: list of titles
@@ -174,7 +175,7 @@ def extract_titles(toc, cats=None):
 
 def is_frag(text):
     """
-    determin wether the given text is fragmented or not
+    Determin wether the given text is fragmented or not.
 
     :param text: the text to analyze
     :return: if the text is fragmented -->True else -->False
@@ -206,7 +207,7 @@ def is_frag(text):
 
 def is_hun(langd_p_cont):
     """
-    determin if a given text is not hungarian
+    Determin if a given text is not hungarian.
 
     :param langd_p_cont: the text to be analyzed
     :return: if the text is hungarian -->True, else -->False
@@ -223,7 +224,7 @@ def is_hun(langd_p_cont):
 
 def find_leg(page_end, titles, raw_ps, pat_non_chars=re.compile(r'\W')):
     """
-    searching for title in given text with the title list extracted from the table of contents.
+    Searching for title in given text with the title list extracted from the table of contents.
 
     :param page_end: list of texts which can contain the page number
     :param titles: list of legislation titles
@@ -251,8 +252,8 @@ def find_leg(page_end, titles, raw_ps, pat_non_chars=re.compile(r'\W')):
 
 def from_title(ps_cont, title):
     """
-    finds the begin of a title in the given content and also replace it with title+"###"+second title+"."
-    to annotate main title and separete from second title and prepare it to be analyzed by the emtsv_to_conll_with_ud.py
+    Finds the begin of a title in the given content and also replace it with title+"###"+second title+"."
+    to annotate main title and separete from second title and prepare it to be analyzed by the emtsv_to_conll_with_ud.py.
 
     :param ps_cont: content to find the title in
     :param title: title to find
@@ -288,18 +289,32 @@ def from_title(ps_cont, title):
     return begin
 
 
-def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
-    # TODO: found_legs should rather be a dictionary
-    # TODO: iam not sure that ps_cont_check is needed, it could be replaced with ps_cont only
+def is_needed(legislation, leg_title, frag, after_signature, leg_name, legislations, found_legs):
     """
-    finds and separates legislations in a közlöny. keeps the legislation if:
+    Keeps the legislation if:
         1, it's not broken,
         2, it has a signature in the end
         3, it has got a type of legislations
         4, it has a proper title described by regex
         5, it's not found yet
+    """
 
-    only the hungarian parts of a legislation is kept
+    if len(legislation) != 0 and leg_title and not re.match(r'_|int|all|koz|mod|par|ut|veg', leg_title) \
+            and not re.search(r'ovb$|ab$|ke$', leg_title) and "kuria" not in leg_title and \
+            not frag and after_signature and legislation[0] is not None and leg_name not in found_legs:
+        legislations.append((leg_title, replace_latin1("\n".join(legislation))))
+        found_legs.append(leg_name)
+
+
+def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
+    # TODO: found_legs should rather be a dictionary
+    # TODO: iam not sure that ps_cont_check is needed, it could be replaced with ps_cont only
+    """
+    Finds and separates legislations in a közlöny.
+    Keeps the legislation if:
+        see is_needed documentation
+
+    Only the hungarian parts of a legislation is kept.
 
     :param titles: extracted titles from toc
     :param prefix_dict: possible prefixes to give to the output fname
@@ -352,10 +367,8 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
             if title:
                 # if a title found in the text and its not the first one and it has a type and it's not fragmented
                 # and it has a signature and it has a title and also it's not found yet, then save it
-                if len(legislation) != 0 and leg_title and leg_title[0] != "_" and not frag \
-                        and after_signature and legislation[0] is not None and leg_name not in found_legs:
-                    legislations.append((leg_title, replace_latin1("\n".join(legislation))))
-                    found_legs.append(leg_name)
+                is_needed(legislation, leg_title, frag, after_signature, leg_name, legislations, found_legs)
+
                 # # legislation = [re.sub(title[1]+r'(\w+)?', title[1]+"###\n", title[0]+" "+title[2]+".", count=1)]
 
                 # saving the start of the legislation
@@ -398,16 +411,13 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
                     # raw_ps = []
 
     # appending the last legislation
-    if leg_title and leg_title[0] != "_" and not frag \
-            and after_signature and legislation[0] is not None and leg_name not in found_legs:
-        legislations.append((leg_title, replace_latin1("\n".join(legislation))))
-        found_legs.append(leg_title)
+    is_needed(legislation, leg_title, frag, after_signature, leg_name, legislations, found_legs)
     return legislations
 
 
 def get_toc_and_cont(div_tags):
     """
-    separates the table of content and the content from each other
+    Separates the table of content and the content from each other.
 
     :param div_tags: texts in div tags found by bs4
     :return: table of content and the content
@@ -455,7 +465,7 @@ def get_toc_and_cont(div_tags):
 
 def get_args():
     """
-    getting argumentums from terminal
+    Getting argumentums from terminal.
 
     :return: dictionary wich contains the path of output folder and the input folder(s)
     """
