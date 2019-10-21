@@ -398,7 +398,10 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
     pat_sign = re.compile(r's\.\s+k\.,?')
     # list of p tag contents
     # content; list of p tag contents without whitespaces; list of lines of a legislation; list of legislations
-    ps_cont = raw_ps = leg = legs = []
+    ps_cont = []
+	raw_ps = []
+	leg = []
+	legs = []
     is_leg = after_sign = frag = False
     leg_title = leg_name = ""
     next_page = "-1"
@@ -441,7 +444,8 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
                 is_leg = True
                 after_sign = False
                 frag = is_frag(text_from_title) if text_from_title is not None else False
-                ps_cont = raw_ps = []
+                ps_cont = []
+				raw_ps = []
 
             elif is_leg and not after_sign and not frag and leg[0] is not None and leg_name not in found_legs:
                 # if there is a split word in the last portion of text, then skip
@@ -458,7 +462,8 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
 						
                     if len(titles) == 0:
                         return legs
-                    ps_cont = raw_ps = []
+                    ps_cont = []
+					raw_ps = []
 
                 # if signature was not found, then check if its hungarian and if it's fragmented
                 elif len(ps_cont_str.split()) >= 8:
@@ -480,7 +485,9 @@ def get_toc_and_cont(div_tags):
     :return: table of content and the content
     """
 
-    divs_toc = divs = []
+    divs_toc = []
+	divs = []
+	
     passed_tjegyzek = False
     first_page = None
 
