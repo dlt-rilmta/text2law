@@ -1,11 +1,12 @@
-2010. CLXXXV. törvény### a médiaszolgáltatásokról és a tömegkommunikációról*.
+2010. CLXXXV. törvény a médiaszolgáltatásokról és a tömegkommunikációról.
 Az Országgyűlés a közösség és az egyén érdekeinek felismeréséből, a társadalom integritásának előmozdítása, a demokratikus
 berendezkedés megfelelő működésének és a nemzeti, valamint kulturális identitás megerősítésének céljából, az Alkotmány és
 az alkotmányos elvek, valamint a nemzetközi jogi és európai uniós normák tiszteletben tartásával, a technológiai fejlődés által
 előidézett körülmények figyelembevételével, megóvva a véleménynyilvánítás és a szólás, valamint a sajtó szabadságát, felismerve
 a médiaszolgáltatások kiemelkedő kulturális, társadalmi és gazdasági jelentőségét és a médiapiaci verseny biztosításának
 fontosságát, megalkotja a médiáról és a tömegkommunikációról szóló alábbi törvényt:
-ELSŐ RÉSZ ÁLTALÁNOS RENDELKEZÉSEK I. FEJEZET A TÖRVÉNY HATÁLYA
+ELSŐ RÉSZ
+ÁLTALÁNOS RENDELKEZÉSEK I. FEJEZET A TÖRVÉNY HATÁLYA
 1. § (1) A törvény hatálya kiterjed a Magyar Köztársaságban letelepedett médiatartalom-szolgáltató által nyújtott
 médiaszolgáltatásra és kiadott sajtótermékre. (2) A törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül a Magyar Köztársaság területén
 letelepedettnek, ha: a) az általa nyújtott médiaszolgáltatás terjesztése a Magyar Köztársaság tulajdonában álló frekvencia
@@ -27,7 +28,7 @@ más tagállam joghatósága alá tartozik-e, a médiatartalom-szolgáltató azo
 az Európai Unió működéséről szóló szerződés 49–55. cikke alapján letelepedettnek minősül.
 (5) A törvény hatálya az (1)–(4) bekezdés alá nem eső, de a Magyar Köztársaság területére irányuló, illetve a Magyar
 Köztársaság területén terjesztett vagy közzétett médiaszolgáltatásra és sajtótermékre a 176–180. §-ban foglalt
-feltételekkel terjed ki. * A törvényt az Országgyűlés a 2010. december 20-i ülésnapján fogadta el.
+feltételekkel terjed ki. A törvényt az Országgyűlés a 2010. december 20-i ülésnapján fogadta el.
 (6) A törvény hatálya kiterjed azon médiatartalom-szolgáltató Magyar Köztársaság területére irányuló, illetve a Magyar
 Köztársaság területén terjesztett vagy közzétett médiaszolgáltatására és sajtótermékére, amely egyetlen tagállamban
 sem minősül letelepedettnek, és amelynek médiaszolgáltatása vagy sajtóterméke felett egyik tagállam joghatósága
@@ -66,7 +67,8 @@ kapcsolat létesítéséhez, a szolgáltatás nyújtásához közvetlenül, vagy
 berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkossanak. 8. § A médiaszabályozás területén, illetve az e törvényben foglaltak alkalmazásában, betartatásában fontos szerepet
 látnak el a médiaszolgáltatókat, a sajtótermékek kiadóit, a közvetítő szolgáltatókat valamint a műsorterjesztőket
 tömörítő szakmai önszabályozó testületek és a különböző ön- és társszabályozó eljárások. E törvény alkalmazása során
-ezek tiszteletben tartásával kell eljárni. MÁSODIK RÉSZ A MÉDIASZOLGÁLTATÁSOKRA ÉS A SAJTÓTERMÉKEKRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
+ezek tiszteletben tartásával kell eljárni. MÁSODIK RÉSZ
+A MÉDIASZOLGÁLTATÁSOKRA ÉS A SAJTÓTERMÉKEKRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 I. FEJEZET A MÉDIASZOLGÁLTATÁSOK TARTALMÁRA VONATKOZÓ ELŐÍRÁSOK A gyermekek és a kiskorúak védelme
 9. § (1) A lineáris médiaszolgáltatást nyújtó médiaszolgáltató – a hírműsorszám, a politikai tájékoztató műsorszám,
 a sportműsorszám, a műsorelőzetes, valamint a reklám, a politikai reklám, a televíziós vásárlás, a társadalmi célú reklám
@@ -413,6 +415,7 @@ vagy műsorkészítő vállalkozás készített vagy rendelt meg. (6) Nem lehet 
 közzétett műsorszámban, amely a) politikai hírt vagy politikai tájékoztatást tartalmaz, és időtartama nem haladja meg a harminc percet,
 b) tizennégy év alatti kiskorúakhoz szól, és időtartama nem haladja meg a harminc percet,
 c) nemzeti ünnepek hivatalos eseményeiről tudósít, d) vallási, illetve egyházi tartalmú, vagy
+e) dokumentumfilm, és időtartama nem haladja meg a harminc percet.
 (7) Az osztott képernyős reklámot a lineáris audiovizuális médiaszolgáltatásban a műsorszámtól vizuális
 megjelenítésében jól felismerhetően elkülönítve, legfeljebb a képernyő területének felén, a reklám jellegének
 a képernyőn való, jól látható feltüntetése mellett lehet közzétenni.
@@ -1287,7 +1290,8 @@ jogszerűségének, illetve az egyenlő elbánás kötelezettségnek megfelelő 
 valamennyi szerződését, illetve azok módosításait – a megkötést vagy a módosítást követő harminc napon belül –
 a Hivatal részére megküldeni, valamint e szerződések megszűnéséről a Hivatalt – a megszűnést követő harminc napon
 belül – tájékoztatni. (2) A 78–79. §-ban meghatározott kötelezettséggel kapcsolatban a kötelezett médiaszolgáltatók és a műsorterjesztők
-kötelesek a Hatóság felhívására adatot szolgáltatni. HARMADIK RÉSZ A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS
+kötelesek a Hatóság felhívására adatot szolgáltatni. HARMADIK RÉSZ
+A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS
 I. FEJEZET A KÖZSZOLGÁLATI MÉDIASZOLGÁLTATÁS ALAPVETŐ ELVEI ÉS CÉLJAI
 A közszolgálati médiaszolgáltatás alapvető elvei 82. § A közszolgálati médiaszolgáltatás
 a) az államtól és a gazdasági szereplőktől függetlenül működik, a közszolgálati médiaszolgáltató vezetői és
@@ -1719,7 +1723,8 @@ a közbeszerzésekről szóló törvény alkalmazási körébe. (13) A 109/2010.
 hasznosításának, a vagyonnal történő gazdálkodásnak a részletes szabályait, ideértve, hogy az egyes vagyonelemeket,
 vagyontárgyakat, eszközöket – közszolgálati feladataik teljesítése céljából – milyen feltételekkel vehetik igénybe
 a közszolgálati médiaszolgáltatók. (14) A közszolgálati médiaszolgáltatók gazdálkodását az Állami Számvevőszék ellenőrzi.
-NEGYEDIK RÉSZ A MÉDIASZOLGÁLTATÁSOK ÉS A SAJTÓTERMÉKEK FELÜGYELETE
+NEGYEDIK RÉSZ
+A MÉDIASZOLGÁLTATÁSOK ÉS A SAJTÓTERMÉKEK FELÜGYELETE
 I. FEJEZET A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG
 Általános szabályok 109. § (1) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) autonóm államigazgatási szerv, amely kizárólag
 a törvényeknek van alárendelve. (2) A Hatóság a frekvenciagazdálkodás és a hírközlés területén részt vesz a Kormány – jogszabályokban meghatározott –
@@ -2170,7 +2175,8 @@ reklámbevételének két és fél százalékát új, magyar filmalkotás támog
 részére befizetett pénzösszeggel, vagy az Alap és a médiaszolgáltató közötti megállapodásban meghatározott új
 filmalkotás pénzbeli támogatásával teljesítendő. A médiaszolgáltató az így befizetett, illetve támogatásra fordított
 pénzösszeget társasági adóalapjából levonhatja. (9) Az Alapba történő önkéntes befizetés közérdekű kötelezettségvállalásnak minősül. Amennyiben az Alapba történő
-önkéntes befizetés a Hatósággal vagy a Médiatanáccsal kötött hatósági szerződésben foglalt vállaláson vagy a Médiaés Hírközlési Biztossal kötött megállapodáson alapul, az önkéntes befizetést az e megállapodásokban foglaltaknak
+önkéntes befizetés a Hatósággal vagy a Médiatanáccsal kötött hatósági szerződésben foglalt vállaláson vagy a Média
+és Hírközlési Biztossal kötött megállapodáson alapul, az önkéntes befizetést az e megállapodásokban foglaltaknak
 megfelelően kell felhasználni. (10) Az Alap támogatáspolitikáját, éves tervét és éves beszámolóját a Médiatanács fogadja el. Az Alap pénzügyi forrásainak
 és nyilvántartásaiban szereplő eszközeinek a támogatáspolitikában, illetve éves tervben nem szereplő
 felhasználásához, illetve az ezek terhére történő, a támogatáspolitikában, illetve éves tervben nem szereplő
@@ -3102,7 +3108,8 @@ a döntés tárgykörében hatósági eljárást indít. 202. § Az önszabályo
 de legalább évente, az önszabályozási eljárásainak menetéről, tartalmáról, alanyairól, döntéseinek típusairól,
 tartalmáról, érvényesüléséről pedig legalább félévente írásban benyújtott beszámolót készít a Médiatanács számára.
 A Médiatanács a beszámolót – döntésében – értékeli.
-ÖTÖDIK RÉSZ ÉRTELMEZŐ RENDELKEZÉSEK 203. § 1. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket tartalmazó műsorszámokat bemutató
+ÖTÖDIK RÉSZ
+ÉRTELMEZŐ RENDELKEZÉSEK 203. § 1. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket tartalmazó műsorszámokat bemutató
 médiaszolgáltatás. 2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki
 eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez
 – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez,
@@ -3324,7 +3331,8 @@ c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások
 előfizetett vagy az adott médiaszolgáltatást tartalmazó műsorterjesztési szolgáltatásra előfizetett háztartások
 száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata.
 72. Virtuális reklám: digitális technikával vagy más módon a műsorjelbe, illetve a műsorszámba utólagosan beillesztett
-reklám. HATODIK RÉSZ ZÁRÓ RENDELKEZÉSEK I. FEJEZET HATÁLYBALÉPÉS
+reklám. HATODIK RÉSZ
+ZÁRÓ RENDELKEZÉSEK I. FEJEZET HATÁLYBALÉPÉS
 204. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2011. január 1. napján lép hatályba.
 (2) E törvény 222. §-a és 228. § (3) bekezdése 2011. január 2-án lép hatályba. A 229. § azon a napon lép hatályba, amikor
 az Alkotmánynak a Nemzeti Média- és Hírközlési Hatóság Elnökének rendeletalkotási jogot biztosító rendelkezése
@@ -3628,7 +3636,8 @@ lép. (17) A Dtv. 43. §-ának (5) bekezdése hatályát veszti.
 „(6) A (2)–(3) foglalt jogosultságok pályázati kiírási dokumentációjának elkészítésére, a pályázati eljárására és
 a pályáztatásra a 39–43. §-ok megfelelően alkalmazandók.” (19) A Dtv. a 43. § után kiegészül az alábbi új alcímmel:
 „A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális
-műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás” (20) A Dtv. kiegészül az alábbi új 43/A–43/M. §-okkal:
+műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás”
+(20) A Dtv. kiegészül az alábbi új 43/A–43/M. §-okkal:
 „43/A. § (1) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró
 adó üzemeltetési jogosultságokat a digitális átállás által lehetővé tett ütemben kell pályáztatni.
 (2) A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó
@@ -3864,9 +3873,11 @@ eljárásra vonatkozó szabályai szerint járhat el, és alkalmazhat jogkövetk
 (3) Az Smtv. 18. §-a helyébe az alábbi rendelkezés lép:
 „18. § A médiatartalom nem lehet alkalmas a magánélet megsértésére.”
 (4) Az Smtv. a következő X. Címmel és 24. §-sal egészül ki:
-„X. Cím A törvény rövidített megjelölése 24. § E törvényt más jogszabályban „Smtv.” rövidítéssel kell megjelölni.”
+„X. Cím A törvény rövidített megjelölése
+24. § E törvényt más jogszabályban „Smtv.” rövidítéssel kell megjelölni.”
 (5) Az Smtv. a következő XI. Címmel és 25. §-sal egészül ki:
-„XI. Cím Az Európai Unió jogának való megfelelés 25. § Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+„XI. Cím Az Európai Unió jogának való megfelelés
+25. § Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 a) az Európai Parlament és a Tanács 2010/13/EU irányelve (2010. március 10.) a tagállamok audiovizuális
 médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek
 összehangolásáról (kodifikált változat) (Audiovizuális médiaszolgáltatásokról szóló irányelv), b) Az Európai Parlament és a Tanács 2000/31/EK irányelve (2000. június 8.) a belső piacon az információs
@@ -3906,7 +3917,8 @@ a „médiaszolgáltató” szöveg, 2. 69. § (6) pontjában a „műsorszolgá
 3. 84. § (4) bekezdésében a „műsorszolgáltatási” szövegrész helyébe a „médiaszolgáltatási” szöveg,
 4. 188. § 77. pontjában a „műsorszolgáltatótól” szövegrész helyébe a „médiaszolgáltatótól” szöveg
 lép. (2) Az Eht. a következő új 63/A. §-sal egészül ki:
-„Hírközlési ágazati vizsgálat 63/A. § (1) Az Elnök az e törvényben foglalt rendelkezések érvényesülésének értékelése, illetve az e törvény szerinti
+„Hírközlési ágazati vizsgálat
+63/A. § (1) Az Elnök az e törvényben foglalt rendelkezések érvényesülésének értékelése, illetve az e törvény szerinti
 hatósági hatáskörök alkalmazása szükségességének feltárása érdekében, amennyiben az ármozgások vagy más piaci
 körülmények arra utalnak, hogy a hírközlési piacok valamelyikén a verseny torzul vagy korlátozódik, – a piaci
 folyamatok megismerése és értékelése céljából – végzéssel hatósági ellenőrzési eljárást indít.
@@ -4093,8 +4105,8 @@ a) törvény felhatalmazása alapján a Kormány vagy a Magyar Nemzeti Bank eln�
 b) törvény, eredeti jogalkotó hatáskörben kiadott kormányrendeletben létrehozott eljárás vagy szolgáltatás esetében
 az eljárást vagy szolgáltatást létrehozó kormányrendelet felhatalmazása alapján a szakmai tevékenység irányításáért
 felelős miniszter az adópolitikáért felelős miniszter egyetértésével rendeletben szabályozza. A lakosság széles körét érintő díjfizetési kötelezettséget csak törvény állapíthat meg.”
-229. § (1) E törvény 134. § (5) bekezdésében és 206. § (1)–(2) bekezdésében a „Kormány” szövegrész helyébe a „Nemzeti Médiaés Hírközlési Hatóság Elnöke” szövegrész lép.
-(2) Az illetékekről szóló 1990. évi XCIII. törvény 67. § (2) bekezdés a) pontjában a „Kormány” szövegrész helyébe
+229. § (1) E törvény 134. § (5) bekezdésében és 206. § (1)–(2) bekezdésében a „Kormány” szövegrész helyébe a „Nemzeti Média
+és Hírközlési Hatóság Elnöke” szövegrész lép. (2) Az illetékekről szóló 1990. évi XCIII. törvény 67. § (2) bekezdés a) pontjában a „Kormány” szövegrész helyébe
 a „Nemzeti Média- és Hírközlési Hatóság Elnöke” szövegrész lép.
 VII. FEJEZET AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 230. § (1) Ez a törvény a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
@@ -4117,4 +4129,5 @@ nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európa
 a kölcsönös jogsegély vonatkozásában való végrehajtásáról, c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős
 nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek
 a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról.
-Dr. Schmitt Pál s. k., Dr. Kövér László s. k., köztársasági elnök az Országgyűlés elnöke
+Dr. Schmitt Pál s. k., Dr. Kövér László s. k.,
+köztársasági elnök az Országgyűlés elnöke

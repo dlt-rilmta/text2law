@@ -1,13 +1,48 @@
-1235/2016. (V. 13.) Korm. határozata### az infokommunikációs tárgyú beszerzések, valamint az infokommunikációs infrastruktúra központi nyilvántartásáról.
-A Kormány egyetért az infokommunikációs tárgyú beszerzések, valamint az infokommunikációs infrastruktúra teljes körű nyilvántartásának szükségességével – ide nem értve a nemzetbiztonsági szolgálatokat, a Terrorelhárítási Központot, a törvényben meghatározott zárt célú elektronikus információs rendszert (a nemzetbiztonsági, honvédelmi, rendészeti, diplomáciai információs feladatok ellátását biztosító, rendeltetése szerint elkülönült elektronikus információs rendszer), valamint a minősített adatokat tartalmazó beszerzéseket és infokommunikációs infrastruktúrát –, és 1. felhívja a nemzeti fejlesztési minisztert, hogy működtesse és – szükség esetén – fejlessze tovább a Központi
-Informatikai Beszerzési Rendszert (a továbbiakban: KIBER), továbbá alakítsa ki a rendszerhez való hozzáférés jogosultsági rendszerét;
-Felelős: nemzeti fejlesztési miniszter Határidő: folyamatos a hozzáférési jogosultsági rendszer kialakítására 2016. május 31.
-2. felhívja a minisztereket, hogy gondoskodjanak arról, hogy az egyes minisztériumok és valamennyi, az irányításuk vagy felügyeletük alá tartozó költségvetési szerv, valamint az állam többségi befolyása alá tartozó gazdasági társaság az erre rendelkezésre bocsátott, egyedi azonosítást lehetővé tevő elektronikus felületen szolgáltasson adatot a KIBER-ben a tárgyévi infokommunikációs tárgyú beszerzési és közbeszerzési tervadatairól és a lezajlott beszerzéseiről;
-Felelős: miniszterek Határidő: 2016. június 15. 3. felhívja a minisztereket, hogy gondoskodjanak arról, hogy az egyes minisztériumok és valamennyi, az irányításuk vagy felügyeletük alá tartozó költségvetési szerv, valamint az állam többségi befolyása alá tartozó gazdasági társaság az erre rendelkezésre bocsátott, egyedi azonosítást lehetővé tevő elektronikus felületen szolgáltasson adatot a KIBER-ben meghatározott valamennyi, a 2. pont hatálya alá nem tartozó infokommunikációs adatáról;
-Felelős: miniszterek Határidő: 2016. szeptember 30. 4. felhívja a minisztereket, hogy gondoskodjanak arról, hogy az egyes minisztériumok és valamennyi, az irányításuk vagy felügyeletük alá tartozó költségvetési szerv, valamint az állam többségi befolyása alá tartozó gazdasági társaság az erre rendelkezésre bocsátott, egyedi azonosítást lehetővé tevő elektronikus felületen a) az első adatszolgáltatást követően évente, tárgyév február 15-éig a beszerzési tervadatairól szolgáltasson
-adatot, valamint b) a KIBER-ben rögzített adat megváltozása esetén a változást haladéktalanul, de legkésőbb 15 napon belül
-vezesse át; Felelős: miniszterek Határidő: folyamatos 5. felhívja a nemzeti fejlesztési minisztert, hogy a Kormányzati Informatikai Fejlesztési Ügynökséggel együttműködve készítsen jelentést a Kormány számára a KIBER működésének tapasztalatairól, a kötelezettek adatszolgáltatási fegyelméről, valamint a kötelezettek adatszolgáltatása révén az infokommunikációs beszerzések adatairól és egyéb infokommunikációval kapcsolatos összesített adatokról a) első alkalommal 2016. november 30-áig, b) az első jelentést követően évente tárgyév április 30-áig;
-Felelős: nemzeti fejlesztési miniszter Határidő: 2016. november 30.
-6. felhívja a Miniszterelnökséget vezető minisztert, a nemzetgazdasági minisztert, valamint a belügyminisztert, hogy a KIBER működésének tapasztalatai alapján vizsgálják felül a jogszabály alapján fennálló adatszolgáltatási kötelezettségek körét, és tegyenek javaslatot az adatszolgáltatási folyamatok egyszerűsítésére.
-Felelős: Miniszterelnökséget vezető miniszter nemzetgazdasági miniszter belügyminiszter Határidő: 2016. december 31.
-Orbán Viktor s. k., miniszterelnök
+1235/2016. (V. 13.) Korm. határozata az infokommunikációs tárgyú beszerzések, valamint az infokommunikációs infrastruktúra központi nyilvántartásáról.
+A Kormány egyetért az  infokommunikációs tárgyú beszerzések, valamint az  infokommunikációs infrastruktúra teljes 
+körű nyilvántartásának szükségességével – ide nem értve a  nemzetbiztonsági szolgálatokat, a  Terrorelhárítási Központot, 
+a  törvényben meghatározott zárt célú elektronikus információs rendszert (a  nemzetbiztonsági, honvédelmi, rendészeti, 
+diplomáciai információs feladatok ellátását biztosító, rendeltetése szerint elkülönült elektronikus információs rendszer), valamint 
+a minősített adatokat tartalmazó beszerzéseket és infokommunikációs infrastruktúrát –, és
+ 1. felhívja a  nemzeti fejlesztési minisztert, hogy működtesse és – szükség esetén – fejlessze tovább a  Központi
+Informatikai Beszerzési Rendszert (a  továbbiakban: KIBER), továbbá alakítsa ki a  rendszerhez való hozzáférés 
+jogosultsági rendszerét;
+Felelős: nemzeti fejlesztési miniszter
+Határidő: folyamatos
+ a hozzáférési jogosultsági rendszer kialakítására 2016. május 31.
+2. felhívja a  minisztereket, hogy gondoskodjanak arról, hogy az  egyes minisztériumok és valamennyi, az  irányításuk 
+vagy felügyeletük alá tartozó költségvetési szerv, valamint az  állam többségi befolyása alá tartozó gazdasági 
+társaság az  erre rendelkezésre bocsátott, egyedi azonosítást lehetővé tevő elektronikus felületen szolgáltasson 
+adatot a  KIBER-ben a  tárgyévi infokommunikációs tárgyú beszerzési és közbeszerzési tervadatairól és a  lezajlott 
+beszerzéseiről;
+Felelős: miniszterek
+Határidő: 2016. június 15. 3. felhívja a  minisztereket, hogy gondoskodjanak arról, hogy az  egyes minisztériumok és valamennyi, az  irányításuk 
+vagy felügyeletük alá tartozó költségvetési szerv, valamint az  állam többségi befolyása alá tartozó gazdasági 
+társaság az  erre rendelkezésre bocsátott, egyedi azonosítást lehetővé tevő elektronikus felületen szolgáltasson 
+adatot a KIBER-ben meghatározott valamennyi, a 2. pont hatálya alá nem tartozó infokommunikációs adatáról;
+Felelős: miniszterek
+Határidő: 2016. szeptember 30. 4. felhívja a  minisztereket, hogy gondoskodjanak arról, hogy az  egyes minisztériumok és valamennyi, az  irányításuk 
+vagy felügyeletük alá tartozó költségvetési szerv, valamint az  állam többségi befolyása alá tartozó gazdasági 
+társaság az erre rendelkezésre bocsátott, egyedi azonosítást lehetővé tevő elektronikus felületen
+a) az  első adatszolgáltatást követően évente, tárgyév február 15-éig a  beszerzési tervadatairól szolgáltasson
+adatot, valamint
+b) a  KIBER-ben rögzített adat megváltozása esetén a  változást haladéktalanul, de legkésőbb 15 napon belül
+vezesse át;
+Felelős: miniszterek
+Határidő: folyamatos 5. felhívja a nemzeti fejlesztési minisztert, hogy a Kormányzati Informatikai Fejlesztési Ügynökséggel együttműködve 
+készítsen jelentést a  Kormány számára a  KIBER működésének tapasztalatairól, a  kötelezettek adatszolgáltatási 
+fegyelméről, valamint a kötelezettek adatszolgáltatása révén az infokommunikációs beszerzések adatairól és egyéb 
+infokommunikációval kapcsolatos összesített adatokról
+a) első alkalommal 2016. november 30-áig,
+b) az első jelentést követően évente tárgyév április 30-áig;
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2016. november 30.
+6. felhívja a  Miniszterelnökséget vezető minisztert, a  nemzetgazdasági minisztert, valamint a  belügyminisztert, 
+hogy a  KIBER működésének tapasztalatai alapján vizsgálják felül a  jogszabály alapján fennálló adatszolgáltatási 
+kötelezettségek körét, és tegyenek javaslatot az adatszolgáltatási folyamatok egyszerűsítésére.
+Felelős: Miniszterelnökséget vezető miniszter
+ nemzetgazdasági miniszter
+ belügyminiszter
+Határidő: 2016. december 31.
+Orbán Viktor s. k.,
+ miniszterelnök

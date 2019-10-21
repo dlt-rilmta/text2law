@@ -1,4 +1,4 @@
-371/2010. (XII. 31.) Korm. rendelete### a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. XLIII. törvény 276/A. §-a szerinti távolléti díj iránti kérelem elbírálásának rendjéről.
+371/2010. (XII. 31.) Korm. rendelete a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. XLIII. törvény 276/A. §-a szerinti távolléti díj iránti kérelem elbírálásának rendjéről.
 A Kormány a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 342. § (1) bekezdés
 j) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva
 a következőket rendeli el: 1. § A rendelet alapján kell meghatározni a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló
@@ -24,6 +24,7 @@ illetmény figyelembevételével kell meghatározni. (3) A túlszolgálatra eső
 utolsó napján irányadó távolléti díj alapulvételével az illetmény számfejtési hely állapítja meg.
 4. § (1) A szolgálatteljesítési idő számítási módja:
 a) a hathavi munkaidőkeretben ledolgozható munkaidő 1248 óra,
+b) 2004. május 1-től június 30-ig terjedő időre 416 óra,
 c) ha a jogosult szolgálati viszonya év közben keletkezik vagy szűnik meg, vagy ha a jogosult év közben kerül
 beosztásra váltásos szolgálati rendben való munkavégzésre, a féléves munkaidőkeretet arányosítani kell,
 d) szabadság esetében szolgálati naponként 24 órát kell számításba venni,
@@ -33,4 +34,5 @@ e) egészségügyi szabadság és a felmentési idő esetében naponként 6,86 �
 szorozva a 3. § (3) bekezdése szerint számított, egy órára eső távolléti díj összegével.
 (3) A távolléti díj összegéből le kell vonni a túlszolgálat ellentételezéseként korábban már kifizetett összeget.
 5. § Ez a rendelet a kihirdetése napján lép hatályba.
-Dr. Navracsics Tibor s. k., miniszterelnök-helyettes
+Dr. Navracsics Tibor s. k.,
+miniszterelnök-helyettes
