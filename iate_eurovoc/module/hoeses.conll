@@ -1,0 +1,239 @@
+# newdoc id = hu-all_mk10188_92010xii11ovb
+# date = 2010
+# title = 9/2010. (XII.11.) OVB állásfoglalás
+# type = position
+# issuer = OVB
+# topic = a területi , illetve országos kisebbségi önkormányzati képviselők mandátumáról
+
+# sent_id = all_mk10188_92010xii11ovb-s1
+# text = 9/2010. ( XII. 11. ) OVB állásfoglalás a területi , illetve országos kisebbségi önkormányzati képviselők mandátumáról .
+1	9/2010.	9/2010.	ADJ	[/Num|Digit][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	7	ATT	_	_	_	_
+2	(	(	PUNCT	[Punct]	_	4	PUNCT	_	_	_	_
+3	XII.	XII.	ADJ	[/Num|Roman][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	4	ATT	_	_	_	_
+4	11.	11.	ADJ	[/Num|Digit][_Ord/Adj][Nom][Punct]	Case=Nom|Number=Sing|NumType=Ord	7	APPEND	_	_	_	_
+5	)	)	PUNCT	[Punct]	_	4	PUNCT	_	_	_	_
+6	OVB	OVB	PROPN	[/N][Nom]	Case=Nom|Number=Sing	7	ATT	_	_	_	_
+7	állásfoglalás	állásfoglalás	NOUN	[/N][Nom]	Case=Nom|Number=Sing	0	ROOT	_	_	1:48691-52×764096-1016,12,7606×3524624-0426,1006,1011×3532090-10,1006	_
+9	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	16	DET	_	_	_	_
+10	területi	területi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	16	ATT	_	_	_	_
+11	,	,	PUNCT	[Punct]	_	10	PUNCT	_	_	_	_
+12	illetve	illetve	CONJ	[/Cnj]	_	10	CONJ	_	_	_	_
+13	országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	12	COORD	_	_	_	_
+14	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	16	ATT	_	_	_	_
+15	önkormányzati	önkormányzati	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	16	ATT	_	_	_	_
+16	képviselők	képviselő	NOUN	[/N][Pl][Nom]	Case=Nom|Number=Plur	17	ATT	_	_	2:1239882-12,24	_
+17	mandátumáról	mandátum	NOUN	[/N][Poss.3Sg][Del]	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	OBL	_	_	_	_
+18	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s2
+# text = Az Országos Választási Bizottság – 2010. december 3-án megtartott ülésén – a választási eljárásról szóló 1997. évi C. törvény ( a továbbiakban : Ve. ) 115/I .
+1	Az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	4	DET	_	_	_	_
+2	Országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	4	ATT	_	_	_	_
+3	Választási	választási	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	4	ATT	_	_	_	_
+4	Bizottság	bizottság	NOUN	[/N][Nom]	Case=Nom|Number=Sing	11	SUBJ	_	_	_	_
+5	–		X	[Hyph:Dash]	_	11	ATT	_	_	_	_
+6	2010.	2010.	ADJ	[/Num|Digit][_Ord/Adj][Nom][Punct]	Case=Nom|Number=Sing|NumType=Ord	7	ATT	_	_	_	_
+7	december	december	NOUN	[/N][Nom]	Case=Nom|Number=Sing	10	ATT	_	_	_	_
+8	3-án	3	NOUN	[/Num|Digit][_OrdDate/N][Supe]	Case=Sup|Number=Sing	9	OBL	_	_	_	_
+9	megtartott	megtartott	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	10	ATT	_	_	_	_
+10	ülésén	ülés	NOUN	[/N][Poss.3Sg][Supe]	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	OBL	_	_	1:797834-1006×2227898-0426,1006	_
+11	–		X	[Hyph:Dash]	_	0	ROOT	_	_	_	_
+12	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	14	DET	_	_	_	_
+13	választási	választási	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	14	ATT	_	_	_	_
+14	eljárásról	eljárás	NOUN	[/N][Del]	Case=Del|Number=Sing	15	OBL	_	_	2:3549072-4826×3549073-4826	_
+15	szóló	szóló	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	19	ATT	_	_	_	_
+16	1997.	1997.	ADJ	[/Num|Digit][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	17	ATT	_	_	_	_
+17	évi	évi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	19	ATT	_	_	3:3535127-6811	_
+18	C.	C.	ADJ	[/Num|Roman][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	19	ATT	_	_	_	_
+19	törvény	törvény	NOUN	[/N][Nom]	Case=Nom|Number=Sing	11	COORD	_	_	_	1:1697
+20	(	(	PUNCT	[Punct]	_	24	PUNCT	_	_	_	_
+21	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	22	DET	_	_	4:846603-12	_
+22	továbbiakban	további	ADJ	[/Adj][Pl][Ine]	Case=Ine|Degree=Pos|Number=Plur	24	ATT	_	_	4	_
+23	:	:	PUNCT	[Punct]	_	22	PUNCT	_	_	4	_
+24	Ve.	Ve.	PROPN	[/N][Nom]	Case=Nom|Number=Sing	19	APPEND	_	_	_	_
+25	)	)	PUNCT	[Punct]	_	24	PUNCT	_	_	_	_
+26	115/I	115/I	NOUN	[/N][Nom]	Case=Nom|Number=Sing	19	COORD	_	_	_	_
+27	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s3
+# text = § ( 8) bekezdés a) pontjában foglalt hatáskörében az alábbi állásfoglalást adja ki .
+1	§	§	NOUN	[/N][Nom]	Case=Nom|Number=Sing	0	ROOT	_	_	_	_
+2	(	(	PUNCT	[Punct]	_	12	PUNCT	_	_	_	_
+3	8)	8	ADJ	[/Num|Digit][Nom][Punct]	Case=Nom|Number=Sing|NumType=Ord	4	ATT	_	_	_	_
+4	bekezdés	bekezdés	NOUN	[/N][Nom]	Case=Nom|Number=Sing	8	ATT	_	_	1:144037-1011	_
+5	a)	a	NOUN	[/N][Nom][Punct]	Case=Nom|Number=Sing	6	ATT	_	_	_	_
+6	pontjában	pont	NOUN	[/N][Poss.3Sg][Ine]	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	OBL	_	_	2:815964-1011×3573427-1011	_
+7	foglalt	foglalt	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	8	ATT	_	_	_	_
+8	hatáskörében	hatáskör	NOUN	[/N][Poss.3Sg][Ine]	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	OBL	_	_	3:767457-1226	_
+9	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	11	DET	_	_	_	_
+10	alábbi	alábbi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	11	ATT	_	_	_	_
+11	állásfoglalást	állásfoglalás	NOUN	[/N][Acc]	Case=Acc|Number=Sing	12	OBJ	_	_	4:48691-52×764096-1016,12,7606×3524624-0426,1006,1011×3532090-10,1006	_
+12	adja	ad	VERB	[/V][Prs.Def.3Sg]	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	APPEND	_	_	_	_
+13	ki	ki	ADV	[/Prev]	_	12	PREVERB	_	_	_	_
+14	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s4
+# text = A kisebbségi önkormányzati képviselők választásáról , valamint a nemzeti és etnikai kisebbségekre vonatkozó egyes törvények módosításáról szóló 2005. évi CXIV. törvény 12. §-a szerint a területi kisebbségi önkormányzati választásokon választó és választható , aki települési kisebbségi önkormányzat tagja ( elektor ) .
+1	A	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	4	DET	_	_	_	_
+2	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	4	ATT	_	_	_	_
+3	önkormányzati	önkormányzati	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	4	ATT	_	_	_	_
+4	képviselők	képviselő	NOUN	[/N][Pl][Nom]	Case=Nom|Number=Plur	5	ATT	_	_	1:1239882-12,24	_
+5	választásáról	választás	NOUN	[/N][Poss.3Sg][Del]	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	17	OBL	_	_	_	1:695
+6	,	,	PUNCT	[Punct]	_	5	PUNCT	_	_	_	_
+7	valamint	valamint	CONJ	[/Cnj]	_	5	CONJ	_	_	_	_
+8	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	12	DET	_	_	_	_
+9	nemzeti	nemzeti	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	12	ATT	_	_	_	_
+10	és	és	CONJ	[/Cnj]	_	9	CONJ	_	_	_	_
+11	etnikai	etnikai	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	10	COORD	_	_	2:1116804-04,2821×3556024-1236	_
+12	kisebbségekre	kisebbség	NOUN	[/N][Pl][Subl]	Case=Sub|Number=Plur	13	OBL	_	_	2;3:47674-1236,28,2821	_
+13	vonatkozó	vonatkozó	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	15	ATT	_	_	_	_
+14	egyes	egyes	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	15	ATT	_	_	_	_
+15	törvények	törvény	NOUN	[/N][Pl][Nom]	Case=Nom|Number=Plur	16	ATT	_	_	_	2:1697
+16	módosításáról	módosítás	NOUN	[/N][Poss.3Sg][Del]	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	COORD	_	_	4:796339-0806,12×3510047-2841×3519173-4026	3:1558
+17	szóló	szóló	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	21	ATT	_	_	_	_
+18	2005.	2005.	ADJ	[/Num|Digit][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	19	ATT	_	_	_	_
+19	évi	évi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	21	ATT	_	_	5:3535127-6811	_
+20	CXIV.	CXIV.	ADJ	[/Num|Roman][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	21	ATT	_	_	_	_
+21	törvény	törvény	NOUN	[/N][Nom]	Case=Nom|Number=Sing	23	ATT	_	_	_	4:1697
+22	12.	12.	ADJ	[/Num|Digit][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	23	ATT	_	_	_	_
+23	§-a	§	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	24	ATT	_	_	_	_
+24	szerint	szerint	ADP	[/Post]	_	30	MODE	_	_	_	_
+25	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	29	DET	_	_	_	_
+26	területi	területi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	29	ATT	_	_	_	_
+27	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	29	ATT	_	_	_	_
+28	önkormányzati	önkormányzati	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	29	ATT	_	_	_	_
+29	választásokon	választás	NOUN	[/N][Pl][Supe]	Case=Sup|Number=Plur	30	OBL	_	_	_	5:695
+30	választó	választó	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	0	ROOT	_	_	_	_
+31	és	és	CONJ	[/Cnj]	_	30	CONJ	_	_	_	_
+32	választható	választható	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	31	COORD	_	_	_	_
+33	,	,	PUNCT	[Punct]	_	30	PUNCT	_	_	_	_
+34	aki	aki	PRON	[/N|Pro|Rel][Nom]	Case=Nom|Number=Sing|Person=3|PronType=Rel	37	ATT	_	_	_	_
+35	települési	települési	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	37	ATT	_	_	_	_
+36	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	37	ATT	_	_	_	_
+37	önkormányzat	önkormányzat	NOUN	[/N][Nom]	Case=Nom|Number=Sing	38	ATT	_	_	_	_
+38	tagja	tag	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	30	COORD	_	_	6:2232936-1006	_
+39	(	(	PUNCT	[Punct]	_	40	PUNCT	_	_	_	_
+40	elektor	elektor	NOUN	[/N][Nom]	Case=Nom|Number=Sing	38	APPEND	_	_	_	_
+41	)	)	PUNCT	[Punct]	_	40	PUNCT	_	_	_	_
+42	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s5
+# text = A törvény 13. §-ában foglalt rendelkezés szerint „ a területi kisebbségi önkormányzat képviselő-testületének megbízatása a területi kisebbségi önkormányzatok következő választásának napjáig tart ” .
+1	A	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	2	DET	_	_	_	_
+2	törvény	törvény	NOUN	[/N][Nom]	Case=Nom|Number=Sing	4	ATT	_	_	_	1:1697
+3	13.	13.	ADJ	[/Num|Digit][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	4	ATT	_	_	_	_
+4	§-ában	§	NOUN	[/N][Poss.3Sg][Ine]	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBL	_	_	_	_
+5	foglalt	foglalt	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	6	ATT	_	_	_	_
+6	rendelkezés	rendelkezés	NOUN	[/N][Nom]	Case=Nom|Number=Sing	7	ATT	_	_	_	_
+7	szerint	szerint	ADP	[/Post]	_	22	MODE	_	_	_	_
+8	„	„	PUNCT	[Punct]	_	7	PUNCT	_	_	_	_
+9	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	12	DET	_	_	_	_
+10	területi	területi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	12	ATT	_	_	_	_
+11	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	12	ATT	_	_	_	_
+12	önkormányzat	önkormányzat	NOUN	[/N][Nom]	Case=Nom|Number=Sing	13	ATT	_	_	_	_
+13	képviselő-testületének	képviselő-testület	NOUN	[/N][Poss.3Sg][Dat]	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	ATT	_	_	1:3541169-0436	_
+14	megbízatása	megbízatás	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	22	SUBJ	_	_	2:773018-12×793816-1006,12	_
+15	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	18	DET	_	_	_	_
+16	területi	területi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	18	ATT	_	_	_	_
+17	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	18	ATT	_	_	_	_
+18	önkormányzatok	önkormányzat	NOUN	[/N][Pl][Nom]	Case=Nom|Number=Plur	20	ATT	_	_	_	_
+19	következő	következő	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	20	ATT	_	_	_	_
+20	választásának	választás	NOUN	[/N][Poss.3Sg][Dat]	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	21	ATT	_	_	_	2:695
+21	napjáig	nap	NOUN	[/N][Poss.3Sg][Ter]	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	22	OBL	_	_	_	_
+22	tart	tart	VERB	[/V][Prs.NDef.3Sg]	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_	_	_
+23	”	”	NOUN	[/N][Nom]	Case=Nom|Number=Sing	22	SUBJ	_	_	_	_
+24	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s6
+# text = A törvény 21. §-ában foglaltak értelmében fenti rendelkezések az országos kisebbségi önkormányzati képviselők választására is alkalmazandók .
+1	A	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	2	DET	_	_	_	_
+2	törvény	törvény	NOUN	[/N][Nom]	Case=Nom|Number=Sing	4	ATT	_	_	_	1:1697
+3	21.	21.	ADJ	[/Num|Digit][_Ord/Adj][Nom][]	Case=Nom|Number=Sing|NumType=Ord	4	ATT	_	_	_	_
+4	§-ában	§	NOUN	[/N][Poss.3Sg][Ine]	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	OBL	_	_	_	_
+5	foglaltak	foglalt	ADJ	[/Adj][Pl][Nom]	Case=Nom|Degree=Pos|Number=Plur	6	ATT	_	_	_	_
+6	értelmében	értelem	NOUN	[/N][Poss.3Sg][Ine]	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	OBL	_	_	_	_
+7	fenti	fenti	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	8	ATT	_	_	_	_
+8	rendelkezések	rendelkezés	NOUN	[/N][Pl][Nom]	Case=Nom|Number=Plur	16	SUBJ	_	_	_	_
+9	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	13	DET	_	_	_	_
+10	országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	13	ATT	_	_	_	_
+11	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	13	ATT	_	_	_	_
+12	önkormányzati	önkormányzati	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	13	ATT	_	_	_	_
+13	képviselők	képviselő	NOUN	[/N][Pl][Nom]	Case=Nom|Number=Plur	14	ATT	_	_	1:1239882-12,24	_
+14	választására	választás	NOUN	[/N][Poss.3Sg][Subl]	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	OBL	_	_	_	2:695
+15	is	is	ADV	[/Adv]	_	14	MODE	_	_	_	_
+16	alkalmazandók	alkalmazandó	ADJ	[/Adj][Pl][Nom]	Case=Nom|Degree=Pos|Number=Plur	0	ROOT	_	_	_	_
+17	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s7
+# text = Az Országos Választási Bizottság álláspontja szerint fentiekből az következik , hogy a területi , illetőleg az országos kisebbségi önkormányzati képviselő megbízatása nem szűnik meg abban az esetben , ha a képviselő az időközben lezajlott általános települési kisebbségi önkormányzati választáson nem szerzett mandátumot , hanem megbízatása az általános területi , illetve országos kisebbségi választás napjáig tart .
+1	Az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	4	DET	_	_	_	_
+2	Országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	4	ATT	_	_	_	_
+3	Választási	választási	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	4	ATT	_	_	_	_
+4	Bizottság	bizottság	NOUN	[/N][Nom]	Case=Nom|Number=Sing	5	ATT	_	_	_	_
+5	álláspontja	álláspont	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	ATT	_	_	_	_
+6	szerint	szerint	ADP	[/Post]	_	9	MODE	_	_	_	_
+7	fentiekből	fenti	ADJ	[/Adj][Pl][Ela]	Case=Ela|Degree=Pos|Number=Plur	9	OBL	_	_	_	_
+8	az	az	PRON	[/Det|Pro][Nom]	Case=Nom|Number=Sing|Person=3|PronType=Dem	9	SUBJ	_	_	_	_
+9	következik	következik	VERB	[/V][Prs.NDef.3Sg]	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	ROOT	_	_	_	_
+10	,	,	PUNCT	[Punct]	_	9	PUNCT	_	_	_	_
+11	hogy	hogy	SCONJ	[/Cnj]	_	9	CONJ	_	_	_	_
+12	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	13	DET	_	_	_	_
+13	területi	területi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	21	ATT	_	_	_	_
+14	,	,	PUNCT	[Punct]	_	13	PUNCT	_	_	_	_
+15	illetőleg	illetőleg	CONJ	[/Cnj]	_	13	CONJ	_	_	_	_
+16	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	20	DET	_	_	_	_
+17	országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	20	ATT	_	_	_	_
+18	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	20	ATT	_	_	_	_
+19	önkormányzati	önkormányzati	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	20	ATT	_	_	_	_
+20	képviselő	képviselő	NOUN	[/N][Nom]	Case=Nom|Number=Sing	15	COORD	_	_	1:1239882-12,24	_
+21	megbízatása	megbízatás	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	23	SUBJ	_	_	2:773018-12×793816-1006,12	_
+22	nem	nem	ADV	[/Adv]	PronType=Neg	23	NEG	_	_	_	_
+23	szűnik	szűnik	VERB	[/V][Prs.NDef.3Sg]	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	ATT	_	_	_	_
+24	meg	meg	PART	[/Prev]	_	23	PREVERB	_	_	_	_
+25	abban	az	PRON	[/Det|Pro][Ine]	Case=Ine|Number=Sing|Person=3|PronType=Dem	27	OBL	_	_	_	_
+26	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	27	DET	_	_	_	_
+27	esetben	eset	NOUN	[/N][Ine]	Case=Ine|Number=Sing	23	OBL	_	_	_	_
+28	,	,	PUNCT	[Punct]	_	23	PUNCT	_	_	_	_
+29	ha	ha	SCONJ	[/Cnj]	_	23	CONJ	_	_	_	_
+30	a	a	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	31	DET	_	_	_	_
+31	képviselő	képviselő	NOUN	[/N][Nom]	Case=Nom|Number=Sing	41	SUBJ	_	_	3:1239882-12,24	_
+32	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	39	DET	_	_	_	_
+33	időközben	időközben	ADV	[/Adv]	_	34	TLOCY	_	_	_	_
+34	lezajlott	lezajlott	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	39	ATT	_	_	_	_
+35	általános	általános	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	39	ATT	_	_	_	_
+36	települési	települési	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	39	ATT	_	_	_	_
+37	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	39	ATT	_	_	_	_
+38	önkormányzati	önkormányzati	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	39	ATT	_	_	_	_
+39	választáson	választás	NOUN	[/N][Supe]	Case=Sup|Number=Sing	41	OBL	_	_	_	1:695
+40	nem	nem	ADV	[/Adv]	PronType=Neg	41	NEG	_	_	_	_
+41	szerzett	szerez	VERB	[/V][Pst.NDef.3Sg]	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	ATT	_	_	_	_
+42	mandátumot	mandátum	NOUN	[/N][Acc]	Case=Acc|Number=Sing	41	OBJ	_	_	_	_
+43	,	,	PUNCT	[Punct]	_	41	PUNCT	_	_	_	_
+44	hanem	hanem	CONJ	[/Cnj]	_	41	CONJ	_	_	_	_
+45	megbízatása	megbízatás	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	55	SUBJ	_	_	4:773018-12×793816-1006,12	_
+46	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	53	DET	_	_	_	_
+47	általános	általános	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	53	ATT	_	_	_	_
+48	területi	területi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	53	ATT	_	_	_	_
+49	,	,	PUNCT	[Punct]	_	48	PUNCT	_	_	_	_
+50	illetve	illetve	CONJ	[/Cnj]	_	48	CONJ	_	_	_	_
+51	országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	50	COORD	_	_	_	_
+52	kisebbségi	kisebbségi	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	53	ATT	_	_	_	_
+53	választás	választás	NOUN	[/N][Nom]	Case=Nom|Number=Sing	54	ATT	_	_	_	2:695
+54	napjáig	nap	NOUN	[/N][Poss.3Sg][Ter]	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	55	OBL	_	_	_	_
+55	tart	tart	VERB	[/V][Prs.NDef.3Sg]	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	COORD	_	_	_	_
+56	.	.	PUNCT	[Punct]	_	0	PUNCT	_	_	_	_
+
+# sent_id = all_mk10188_92010xii11ovb-s8
+# text = Dr. Bordás Vilmos s. k. , az Országos Választási Bizottság elnöke
+1	Dr.	dr.	NOUN	[/N][Nom][Punct]	Case=Nom|Number=Sing	2	ATT	_	_	_	_
+2	Bordás	bordás	NOUN	[/N][Nom]	Case=Nom|Number=Sing	0	ROOT	_	_	_	_
+3	Vilmos	Vilmos	PROPN	[/N][Nom]	Case=Nom|Number=Sing	4	ATT	_	_	_	_
+4	s.	s	NOUN	[/N][Nom][Punct]	Case=Nom|Number=Sing	5	ATT	_	_	_	_
+5	k.	k	NOUN	[/N][Nom][Punct]	Case=Nom|Number=Sing	2	COORD	_	_	_	_
+6	,	,	PUNCT	[Punct]	_	5	PUNCT	_	_	_	_
+7	az	az	DET	[/Det|Art.Def]	Definite=Def|PronType=Art	10	DET	_	_	_	_
+8	Országos	országos	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	10	ATT	_	_	_	_
+9	Választási	választási	ADJ	[/Adj][Nom]	Case=Nom|Degree=Pos|Number=Sing	10	ATT	_	_	_	_
+10	Bizottság	bizottság	NOUN	[/N][Nom]	Case=Nom|Number=Sing	11	ATT	_	_	_	_
+11	elnöke	elnök	NOUN	[/N][Poss.3Sg][Nom]	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	COORD	_	_	1:1236520-10	_
+
