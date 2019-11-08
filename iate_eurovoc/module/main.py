@@ -9,6 +9,7 @@
 import csv
 import re
 import sys
+import os
 
 
 def get_termdict(path):
@@ -143,9 +144,16 @@ def main():
     - kétszer meghívja a dictionary-gyártó függvényt: először az IATE term-ök, aztán az Eurovoc descriptorok beolvasásához
     - a két dictionary-t átadja a korpusz-feldolgozó függvénynek
     """
-
-    iate_path = '../extract_terms/tokterms/iate.tsv'
-    eurovoc_path = '../extract_terms/tokterms/eurovoc.tsv'
+    
+    ## '../extract_terms/tokterms/{iate|eurovoc}.tsv'
+    dir_part = os.path.join(
+      os.path.dirname(__file__),
+      os.pardir,
+      'extract_terms',
+      'tokterms'
+    )
+    iate_path = os.path.join( dir_part, 'iate.tsv' )
+    eurovoc_path = os.path.join( dir_part, 'eurovoc.tsv' )
 
     iate_dict = get_termdict(iate_path)
     eurovoc_dict = get_termdict(eurovoc_path)
