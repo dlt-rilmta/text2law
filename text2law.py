@@ -21,12 +21,15 @@ pat_header = re.compile(r'\d+\.szám[^#]{,30}?(\d+)(?:$|###)|'
 
 pat_header_wo_pg = re.compile(r'.{,20}?\.szám\w+?(?:értesítő|közlöny|figyelő|tára|határozatai)|'
                               r'\w+?(?:értesítő|közlöny|figyelő|tára|határozatai).{,20}?\.szám', re.I)
+# pat_header_wo_pg = re.compile(r'.{,10}?\d+\.szám\w+?(?:értesítő|közlöny|figyelő|tára|határozatai)|'
+#                               r'\w+?(?:értesítő|közlöny|figyelő|tára|határozatai).{,10}?\d+\.szám', re.I)
 
 # regex to found non word chars
 pat_non_chars = re.compile(r'\W')
 
 # regex to find first page number of the content in the table of content
 pat_page_num = re.compile(r'[^0-9:]\s+(\d+)\s*$')
+# pat_page_num = re.compile(r'[^0-9:]\s+(\d+)$')
 
 
 def read(files):
@@ -144,7 +147,6 @@ def extract_titles(toc, cats=None):
     pat_rest_leg = re.compile(r'(\d+/\w/\d+\.|(?:\d+/\d+\.)\s(?:\((?:\w+\.?\s)+(?:\d+/)?\d+\.\)))'
                               r'\s((?:\w+(?:–|-\w+)?)+\.?)\s(\w+\.?)')
 
-
     # abbrievation dict to restore original forms
     abbr_dict = {"tv.": "törvény", " h.": " határozat", " r.": " rendelet", " ut.": " utasítás", " e.": " együttes",
                  " közl.": "közlemény", " v.": " végzés"}
@@ -171,7 +173,6 @@ def extract_titles(toc, cats=None):
                 # if a title was found the title will be the text from the index of found title in the gathered text
                 title = title[main_title.start():]
                 main_title = "{} {} {}".format(main_title.group(1), main_title.group(2), main_title.group(3))
-            # print("\n###title:", title)
 
         page = pat_page_num.search(cont)
         if page and current_page <= int(page.group(1)):
@@ -184,7 +185,6 @@ def extract_titles(toc, cats=None):
             title_parts = pat_dots.sub("", title[title.find(cat):]).strip().split()
 
             if title_parts:
-                # print(main_title)
                 page_num = title_parts[-1]
                 if main_title:
                     second_title = pat_dots.sub("", pat_split.sub("", " ".join(title_parts[1:-1])))
@@ -268,9 +268,10 @@ def find_leg(page_num, titles, raw_ps, next_page):
         from_main_title = raw_ps[start_main_title:]
         leg_type = title[1].lower().replace(" ", "")
 
+        # if the main title have at :least 4 elements and the first 3 is in the raw text
+        # then it should be the beggining of a legislation
 
         if title[-1] == page_num and start_main_title != -1 and leg_type in from_main_title:
-
             if title[2] != "":
                 try:
                     next_page = titles[i+1][-1]
@@ -315,7 +316,6 @@ def from_title(ps_cont, title, exact_match):
     # must replacing "évi" to "" in the text, because its not part of the toc title but it can be part of the text
     main_title = pat_wspace.sub(" ", ps_cont.replace("évi", ""))
     start = main_title.find(start_title)
-    # print("######\nmain:", main_title, "\nstart:", start_title) # 2
     if start == -1:
         return None
     # finding the beginning of the legislation title
@@ -348,6 +348,7 @@ def is_needed(legislation, leg_title, frag, after_signature, leg_name, found_leg
 
     if len(legislation) != 0 and not frag and after_signature and legislation[0] is not None and\
             leg_name not in found_legs and not re.match(r'mod', leg_title):
+        # print("almost accepted:", leg_name)
         if not strict:
             return True
         elif leg_title and "kuria" not in leg_title and \
@@ -390,10 +391,9 @@ def extract_legislation(titles, prefix_dict, fname, bs_divs, found_legs):
         header = pat_header.search(pat_wspace.sub("", div.text.replace("\n", "###")))
         if header:
             page_num = header.group(1) or header.group(2) or header.group(3) or "-1"
-
         if after_sign and int(page_num) < int(next_page):
             continue
-			
+
         for p in div.find_all('p'):
             p_cont = p.text.strip()
             raw_p = pat_wspace.sub("", p_cont.lower())
@@ -493,7 +493,6 @@ def get_toc_and_cont(div_tags):
             # if toc is not over then append div to the list of table of contents
             divs_toc.append(div.find_all('p'))
         else:
-
             divs.append(div)
 
     return divs_toc, divs
@@ -511,7 +510,7 @@ def get_args():
     parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
     parser.add_argument('-s', '--strict', help='To extract only enactment type documents, default is true')
     # the default folder where the output files will be written.
-    basp = 'text2law_output_'  # + strftime("%Y-%m-%d_%H%M%S", gmtime())
+    basp = 'text2law_output_'  + strftime("%Y-%m-%d_%H%M%S", gmtime())
     args = parser.parse_args()
     # list of filepathes that will be read
     files = []
@@ -553,7 +552,7 @@ def process(inp):
     for fl in inp:
         print(fl[0])
         txt = pat_split.sub(r'\1', replace_latin1(fl[1]).replace("*", "")
-                            .replace("•", "").replace("tör vény", "törvény")).replace("\n", "")
+                            .replace("•", "").replace("tör vény", "törvény"))
         # soup = BeautifulSoup(txt, 'lxml')
         soup = BeautifulSoup(txt, "html.parser")
         # extract table of contents and the content
@@ -568,7 +567,6 @@ def process(inp):
         # for checking titles
         # for title in titles:
         #     print(title)
-        # print(divs[:5])
 
         # extract legislations
         legislations = extract_legislation(titles, prefix_dict, fl[0], divs, found_legs)
