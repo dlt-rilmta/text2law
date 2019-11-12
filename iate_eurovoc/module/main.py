@@ -22,6 +22,7 @@ def get_termdict(path):
     """
 
     termdict = {}
+    maxlen = 0
 
     with open(path, encoding='utf-8') as fr:
         for line in fr:
@@ -31,8 +32,11 @@ def get_termdict(path):
             if term not in termdict.keys():
                 termdict[term] = []
             termdict[term].append(uid)
+            actlen = term.count('@') + 1
+            if maxlen < actlen:
+                maxlen = actlen
 
-    return termdict
+    return termdict, maxlen
 
 
 def canonical(ls):
@@ -69,7 +73,7 @@ def add_annotation(act_sent, i, r, hit_counter, ctoken, termdict):
     return act_sent
 
 
-def annotate_sent(act_sent, termdict):
+def annotate_sent(act_sent, termdict, maxlen):
     """
     - a találat-számlálót 1-re állítja minden új mondat esetén
     - a mondat minden tokenjéhez hozzáad egy új oszlopot (kezdetben csak dummy '_', aztán ez cserélődik valós értékekre, amikor vannak ilyenek)
@@ -86,12 +90,14 @@ def annotate_sent(act_sent, termdict):
 
     hit_counter = 1
     all_tokens = len(act_sent)
+    if all_tokens < maxlen:
+        maxlen = all_tokens
 
     for i, token in enumerate(act_sent):
         act_sent[i].append('_')
 
     for i, token in enumerate(act_sent):
-        for r in range(1, all_tokens+1):
+        for r in range(1, maxlen + 1):
             ctoken = canonical(act_sent[i:r])
             if ctoken in termdict.keys():
                 act_sent = add_annotation(act_sent, i, r, hit_counter, ctoken, termdict)
@@ -103,7 +109,7 @@ def annotate_sent(act_sent, termdict):
     return act_sent
 
 
-def process_corpus(iate_dict, eurovoc_dict):
+def process_corpus(iate_dict, eurovoc_dict, maxlen_iate, maxlen_eurovoc):
     """
     beolvassa a korpuszt soronként, és a sor típusától függően:
     - ha a sor hossza nulla, akkor egy régi mondat befejeződött, és új kezdődik -> a régi mondatot ezen a ponton dolgozza fel*
@@ -125,8 +131,8 @@ def process_corpus(iate_dict, eurovoc_dict):
 
         if len(line) == 0:
             if len(act_sent) != 0:
-                act_sent = annotate_sent(act_sent, iate_dict)
-                act_sent = annotate_sent(act_sent, eurovoc_dict)
+                act_sent = annotate_sent(act_sent, iate_dict, maxlen_iate)
+                act_sent = annotate_sent(act_sent, eurovoc_dict, maxlen_eurovoc)
                 for item in act_sent:
                     print('\t'.join(item), file=sys.stdout)
                 act_sent = []
@@ -145,20 +151,20 @@ def main():
     - a két dictionary-t átadja a korpusz-feldolgozó függvénynek
     """
     
-    ## '../extract_terms/tokterms/{iate|eurovoc}.tsv'
+    # '../extract_terms/tokterms/{iate|eurovoc}.tsv'
     dir_part = os.path.join(
       os.path.dirname(__file__),
       os.pardir,
       'extract_terms',
       'tokterms'
     )
-    iate_path = os.path.join( dir_part, 'iate.tsv' )
-    eurovoc_path = os.path.join( dir_part, 'eurovoc.tsv' )
+    iate_path = os.path.join( dir_part, 'iate.tsv')
+    eurovoc_path = os.path.join( dir_part, 'eurovoc.tsv')
 
-    iate_dict = get_termdict(iate_path)
-    eurovoc_dict = get_termdict(eurovoc_path)
+    iate_dict, maxlen_iate = get_termdict(iate_path)
+    eurovoc_dict, maxlen_eurovoc = get_termdict(eurovoc_path)
 
-    process_corpus(iate_dict, eurovoc_dict)
+    process_corpus(iate_dict, eurovoc_dict, maxlen_iate, maxlen_eurovoc)
 
 
 if __name__ == "__main__":
