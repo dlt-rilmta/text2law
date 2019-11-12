@@ -1,0 +1,71 @@
+0a, download_mk.py: letölti a legújabb közlönyöket
+0b, pdf2text.py: a letöltési mappát végigjárja, nevet az a közlönyöknek és html formátumra alakítja őket.
+
+1, text2law.py: html-->törvények
+2, txt_to_emtsv.py: emtsv elemzés
+3, convert2conll.py: emtsv kimenetét átkonvertálja conll formátumra
+4, add_metadata.py: metaadatok hozzáadása az emtsv kimenetéhez, conllup formátumra alakítás
+5a, iate_eurovoc modul: iate és eurovoc id-k hozzáadása a metaadatolt fájlokhoz (iate_eurovoc.sh scripten keresztül hívódik meg)
+5b, iate_eurovoc.sh: fájlok átadása a iate_eurovok main.py-nak
+
+
+1, text2law.py
+
+	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/text2law.py
+	- Mit csinál: a html formátumban lévő közlönyökből kinyeri az egyes jogi szövegeket és elmenti őket txt formátumban.
+		A pdf-ből átkonvertált html-ek a halda@oliphant.nytud.hu:/home/halda/marcell/kozlony_htmls mappában vannak
+	- output fájlok neve: típus_közlönyszám_törvénynév.txt
+		Ha 0-val van _-val kezdődik egy dokumentumnév az potenciálisan hibás kimenetet jelöl
+		
+	- Használata: python3 text2law.py <input útvonala> -d <output mappa>
+	  pl: python3 text2law.py kozlony_htmls/*.html -d text2law_output
+	  Ha nincs megadva, hogy hova írja ki az outputot, akkor automatikusan az text2law_output_<dátum> könyvtárba menti az outputot.
+	
+	
+2, txt_to_emtsv.py
+
+	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/txt_to_emtsv.py
+	- Mit csinál: futtatja az emtsv-t (/tok/morph/pos/conv-morph/dep/chunk/ner') megadott szövegeken
+		
+	- Használata: python3 txt_to_emtsv.py <input útvonala> -d <output mappa>
+	  pl: python3 txt_to_emtsv.py text2law_output/*.txt -d text2law_output
+	  Ha nincs megadva, hogy hova írja ki az outputot, akkor automatikusan az emtsv_outp könyvtárba írja ki.
+
+	
+3, convert2conll.py: emtsv kimenetét átkonvertálja conll formátumra
+	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/convert2conll.py
+	- Mit csinál: az emtsv kimenetét ConLL-u formátumra alakítja.
+		
+	- Használata: python3 convert2conll.py <input útvonala> -d <output mappa> -p<van-e dependencia-elemzés? [True / False]>
+	  pl: python3 convert2conll.py emtsv_outp/*.txt -d convert2conll_output
+	  Ha nincs megadva, hogy hova írja ki az outputot, akkor automatikusan a convert2conll_output könyvtárba írja ki.
+	  A -p kapcsoló: default=False, tehát nem számít a dependencia-elemzés oszlopaira.
+
+4, add_metadata.py: metaadatok hozzáadása az emtsv kimenetéhez
+
+	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/add_metadata.py
+	- Mit csinál: az emtsv conll táblázatban lévő kimenetéhez hozzáadja a törvények metaadatait:
+	  global.columns, newdoc id, date, title, entitle, type, issuer, topic(ha van), sent_id, new parid (ha van), text(egyben az elemzett mondatok)
+		
+	- Használata: python3 add_metadata.py <input útvonala> -d <output mappa>
+	  pl: python3 add_metadata.py emtsv_outp/*.txt -d corpus
+	  Ha nincs megadva, hogy hova írja ki az outputot, akkor automatikusan corpus_<dátum> íródik a kimenet.
+
+
+5a, iate_eurovoc modul (Noémi és Ági modulja)
+	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/iate_eurovoc/
+	- Mit tartalmaz: 
+		-modul könyvtár: benne a main.py és a iate_eurovoc.sh
+		-extract_terms könyvtár: a kinyert iate és az eurovoc terminológiákat és az ezeket kinyerő python fájlokat.
+	- Mit csinál: a 12 oszlopos conllup fájlokhoz 13. és 14. oszlopként hozzáadja a iate és eurovoc id-kat. A kimenetet a standard outputba kerül.
+	- Használata: cat <filename> | python3 main.py
+	
+5b, iate_eurovoc.sh: 
+	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/iate_eurovoc.sh
+	- Mit csinál: a bemeneti fájlokat átadja a iate_eurovoc modul main.py scriptjének és a standard outputot kiírja a kimeneti fájlokba.
+	  Argumentumként meg kell adni a bemeneti fájlok helyét és az output folder helyét. 
+	- Használata: sh iate_eurovoc.sh <input útvonala> <output mappa>
+	  pl. sh iate_eurovoc.sh /home/halda/marcell/iate_eurovoc/\*.conllup /home/halda/marcell/iate_eurovoc_output
+	  Ha nincs megadva kimeneti mappa, akkor a iate_eurovoc_output könyvtárba irja ki a kimenetet.
+
+
