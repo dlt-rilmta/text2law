@@ -1,6 +1,13 @@
 # Bálint
-out.investigate.SAMPLES
+out.investigate.*
 SAMPLES_rst*
+K[0-9]*_rst*
+K.html
+official_text2law_output
+kozlony_htmls
+old_experiments
+
+iate_eurovoc.old
 
 # -----
 
