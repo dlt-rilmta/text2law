@@ -120,3 +120,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Dávid
+side_codes/
+under_mod/
+text2law_output_2019-11-08_202441/
+bad_output_2019-11-08_202441/
+emtsv_outp/
+emtsv_outp_wo_dep/
+.idea/
+__pycache__/
+text2law_next.py
+stopwords.txt
+withouttoc.txt
