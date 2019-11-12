@@ -126,14 +126,12 @@ def main():
                 name = extract_name(replace_latin1(html))
 
                 if html is not None and name is not None and name + ".pdf" not in processed_files:
-                    pass
-                    #
-                    # move(os.path.join(root, fl), os.path.join(root, name + ".pdf"))
-                    # print(os.path.join(root, fl), "-->", os.path.join(root, name + ".pdf"))
-                    # write_output(html, 'new_mellek_kozlonyok_outp', 'html', name)
-                    # processed_files.append(name + ".pdf")
-                    # with open(os.path.join(os.getcwd(), "processed_files.txt"), "a", encoding="utf-8") as f:
-                    #     f.write(name + ".pdf,")
+                    move(os.path.join(root, fl), os.path.join(root, name + ".pdf"))
+                    print(os.path.join(root, fl), "-->", os.path.join(root, name + ".pdf"))
+                    write_output(html, 'new_mellek_kozlonyok_outp', 'html', name)
+                    processed_files.append(name + ".pdf")
+                    with open(os.path.join(os.getcwd(), "processed_files.txt"), "a", encoding="utf-8") as f:
+                        f.write(name + ".pdf,")
 
                 elif name is None:
                     print("nameNone", os.path.join(root, fl))
