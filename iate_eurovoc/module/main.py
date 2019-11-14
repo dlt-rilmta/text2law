@@ -32,7 +32,7 @@ def get_termdict(path):
             if term not in termdict.keys():
                 termdict[term] = []
             termdict[term].append(uid)
-            actlen = term.count('@') + 1
+            actlen = len(term.split('@'))
             if maxlen < actlen:
                 maxlen = actlen
 
@@ -97,7 +97,7 @@ def annotate_sent(act_sent, termdict, maxlen):
         act_sent[i].append('_')
 
     for i, token in enumerate(act_sent):
-        for r in range(1, maxlen + 1):
+        for r in range(i+1, min(maxlen+i, all_tokens+1)):
             ctoken = canonical(act_sent[i:r])
             if ctoken in termdict.keys():
                 act_sent = add_annotation(act_sent, i, r, hit_counter, ctoken, termdict)
