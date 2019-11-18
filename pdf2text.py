@@ -1,15 +1,13 @@
 #! /usr/bin/env python3
 
-from glob import glob
 from pathlib import Path
 import os.path
 import tika
-from shutil import move
 import re
-
-tika.initVM()
 from tika import parser
 from bs4 import BeautifulSoup
+
+tika.initVM()
 
 
 def write_output(output, module, ext, fname):
@@ -22,84 +20,12 @@ def write_output(output, module, ext, fname):
         print(output, file=f)
 
 
-def demo_tika_html(inp):
+def tika_html(inp):
     try:
         parsed = parser.from_file(inp, xmlContent=True)
         return parsed['content']
     except KeyError:
-        print("Nem sikerült a html kinyerése:", inp)
-
-
-def remove_accent(s):
-    """
-    Replacing accented chars to non accented chars in a string:
-    öüóőúéáűí -> ouooueaui
-
-    :param s: string
-    :return: string without accented chars
-    """
-    accent_dict = {"á": "a", "ü": "u", "ó": "o", "ö": "o", "ő": "o", "ú": "u", "é": "e", "ű": "u", "í": "i"}
-
-    for key in accent_dict:
-        if key in s:
-            s = s.replace(key, accent_dict[key])
-    return s
-
-
-def extract_name(htmltext):
-    htmltext = htmltext.lower().replace("•", "").replace("\t", " ")
-    soup = BeautifulSoup(htmltext, "lxml")
-    docname = [None, None, None]
-    titlepone = soup.find("meta", {"name": "date"})
-    if not titlepone:
-        return None
-
-    issuedate = str(titlepone).split()[1]
-    issuedate = issuedate[issuedate.find('"')+1: issuedate.find("-")]
-    docname[1] = issuedate[-2:]
-
-    pat_kozl_tp = re.compile(r'(([a-zöüóőúűáéí]+ +)+?)'
-                             r'(é *r *t *e *s *í *t *ő|'
-                             r'k *ö *z *l *ö *n *y|'
-                             r'f *i *g *y *e *l *ő|'
-                             r't *á *r *a|'
-                             r'h *a *t *á *r *o *z *a *t *a *i)')
-
-    pat_kozl_iss = re.compile(r'(\d+) *[.] +s *z *á *m')
-
-    pat_pagenum = re.compile(r'^(\d+)\s+(.+?$)|(^.+?)\s+(\d+)$')
-
-    for i, div in enumerate(soup.find_all('div')[1:]):
-        frstlstp = div.find_all('p')
-        if not frstlstp:
-            continue
-        frstlstp = [frstlstp[0].text or frstlstp[1].text, frstlstp[-1].text or frstlstp[-2].text]
-        header = pat_pagenum.search(frstlstp[0]) or pat_pagenum.search(frstlstp[1])
-        if header:
-            header = header.groups()[1] or header.groups()[2]
-            kozl_iss = pat_kozl_iss.search(header)
-            if kozl_iss:
-                docname[2] = kozl_iss.group().split(".")[0]
-            kozl_tp = pat_kozl_tp.search(header)
-            if kozl_tp:
-                docname[0] = kozl_tp.group()
-            if all(docname):
-                break
-
-    issuenum = docname[2]
-    converted_issuenum = ["0", "0", "0"]
-    i_converted_issuenum = len(converted_issuenum)-1
-    i_issuenum = len(issuenum)-1
-    while i_issuenum > -1:
-        converted_issuenum[i_converted_issuenum] = issuenum[i_issuenum]
-        i_converted_issuenum -= 1
-        i_issuenum -= 1
-        docname[2] = "".join(converted_issuenum)
-    kozl_tp = ""
-    for word in docname[0].split():
-        kozl_tp += word[:3]
-    docname[0] = kozl_tp
-    return "".join(docname)
+        print("Could not extract HTML:", inp)
 
 
 def replace_latin1(text):
@@ -111,9 +37,74 @@ def load_processed_files():
         return f.read().split(",")
 
 
-def main():
-    # files = glob('*.pdf')
-    # files = glob('C:/Users/SQUM/Dropbox/hiteles/*.pdf')
+def remove_accent(s):
+    accent_dict = {"á": "a", "ü": "u", "ó": "o", "ö": "o", "ő": "o", "ú": "u", "é": "e", "ű": "u", "í": "i"}
+
+    for key in accent_dict:
+        if key in s:
+            s = s.replace(key, accent_dict[key])
+    return s
+
+
+def extract_name(htmltext):
+    soup = BeautifulSoup(htmltext.lower().replace("•", "").replace("\t", " "), "lxml")
+    titlepone = soup.find("meta", {"name": "date"})
+
+    if not titlepone:
+        return None
+
+    docname = [None, None, None]
+    issuedate = str(titlepone).split()[1]
+    issuedate = issuedate[issuedate.find('"')+1: issuedate.find("-")]
+    docname[1] = issuedate[-2:]
+
+    pat_kozl_tp = re.compile(r'((?:[a-zöüóőúűáéí]+ +)+?)'
+                             r'(\w*é *r *t *e *s *í *t *ő|'
+                             r'k *ö *z *l *ö *n *y|'
+                             r'f *i *g *y *e *l *ő|'
+                             r't *á *r *a|'
+                             r'h *a *t *á *r *o *z *a *t *a *i)')
+
+    pat_kozl_iss = re.compile(r'(\d+ *[.] +s *z *á *m)')
+
+    pat_header = re.compile(r'^(\d+)\s+(.+?$)|(^.+?)\s+(\d+)$', re.M)
+    divs = soup.find_all('div')
+    for div in divs:
+        frstlstp = div.find_all('p')
+        if len(frstlstp) < 2 or len(pat_header.findall(div.text)) > 1:
+            continue
+        j = 1
+        header = pat_header.search(frstlstp[0].text or frstlstp[1].text)
+        while header is None and len(frstlstp) >= j:
+            header = pat_header.search(frstlstp[-j].text)
+            j += 1
+        if header:
+            header = header.groups()[1] or header.groups()[2]
+            kozl_iss = pat_kozl_iss.search(header)
+            if kozl_iss:
+                docname[2] = kozl_iss.group().split(".")[0]
+            kozl_tp = pat_kozl_tp.search(header)
+            if kozl_tp:
+                docname[0] = remove_accent(kozl_tp.groups()[0].replace("szám ", "").replace(" ", "") \
+                             + kozl_tp.groups()[1].replace(" ", "")[:3])
+            if all(docname):
+                break
+
+    if not all(docname):
+        return None
+    issuenum = docname[2]
+    converted_issuenum = ["0", "0", "0"]
+    i_converted_issuenum = len(converted_issuenum)-1
+    i_issuenum = len(issuenum)-1
+    while i_issuenum > -1:
+        converted_issuenum[i_converted_issuenum] = issuenum[i_issuenum]
+        i_converted_issuenum -= 1
+        i_issuenum -= 1
+        docname[2] = "".join(converted_issuenum)
+    return "".join(docname)
+
+
+def process():
     try:
         processed_files = load_processed_files()
     except FileNotFoundError:
@@ -122,11 +113,10 @@ def main():
         for fl in files:
             if os.path.join(root, fl).endswith(".pdf") and fl not in processed_files:
                 print("\n###", os.path.join(root, fl))
-                html = demo_tika_html(os.path.join(root, fl))
+                html = tika_html(os.path.join(root, fl))
                 name = extract_name(replace_latin1(html))
 
                 if html is not None and name is not None and name + ".pdf" not in processed_files:
-                    move(os.path.join(root, fl), os.path.join(root, name + ".pdf"))
                     print(os.path.join(root, fl), "-->", os.path.join(root, name + ".pdf"))
                     write_output(html, 'new_mellek_kozlonyok_outp', 'html', name)
                     processed_files.append(name + ".pdf")
@@ -134,10 +124,15 @@ def main():
                         f.write(name + ".pdf,")
 
                 elif name is None:
-                    print("nameNone", os.path.join(root, fl))
-
+                    print("Could not extract a name", os.path.join(root, fl))
                 elif html is None:
-                    print("htmlNone", os.path.join(root, fl))
+                    print("HTML is None", os.path.join(root, fl))
+                elif name + ".pdf" in processed_files:
+                    print("Already processed")
+
+
+def main():
+    process()
 
 
 if __name__ == "__main__":
