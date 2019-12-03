@@ -46,17 +46,30 @@ def remove_accent(s):
     return s
 
 
+def get_issuedate(tags):
+    pat_ws = re.compile(r'\s+')
+    pat_idate = re.compile(r'(\d{4})\.(?:január|február|március|április|május|június|július|'
+                          r'augusztus|szeptember|október|november|december)', re.IGNORECASE)
+    for t in tags:
+        rawp = pat_ws.sub("", t.text)
+        if rawp and not rawp[-1].isdigit():
+            issuedate = pat_idate.search(rawp)
+            if issuedate:
+                return issuedate.group(1)
+    return None
+
+
 def extract_name(htmltext):
     soup = BeautifulSoup(htmltext.lower().replace("•", "").replace("\t", " "), "lxml")
-    titlepone = soup.find("meta", {"name": "date"})
+    divs = soup.find_all('div')
+    issuedate = get_issuedate(divs[0].find_all('p'))
 
-    if not titlepone:
+    if not issuedate:
+        print("There's no issuedate")
         return None
 
     docname = [None, None, None]
-    issuedate = str(titlepone).split()[1]
-    issuedate = issuedate[issuedate.find('"')+1: issuedate.find("-")]
-    docname[1] = issuedate[-2:]
+    docname[1] = issuedate[2:]
 
     pat_kozl_tp = re.compile(r'((?:[a-zöüóőúűáéí]+ +)+?)'
                              r'(\w*é *r *t *e *s *í *t *ő|'
@@ -68,7 +81,6 @@ def extract_name(htmltext):
     pat_kozl_iss = re.compile(r'(\d+ *[.] +s *z *á *m)')
 
     pat_header = re.compile(r'^(\d+)\s+(.+?$)|(^.+?)\s+(\d+)$', re.M)
-    divs = soup.find_all('div')
     for div in divs:
         frstlstp = div.find_all('p')
         if len(frstlstp) < 2 or len(pat_header.findall(div.text)) > 1:
@@ -85,7 +97,7 @@ def extract_name(htmltext):
                 docname[2] = kozl_iss.group().split(".")[0]
             kozl_tp = pat_kozl_tp.search(header)
             if kozl_tp:
-                docname[0] = remove_accent(kozl_tp.groups()[0].replace("szám ", "").replace(" ", "") \
+                docname[0] = remove_accent(kozl_tp.groups()[0].replace("szám ", "").replace(" ", "")\
                              + kozl_tp.groups()[1].replace(" ", "")[:3])
             if all(docname):
                 break
@@ -125,10 +137,14 @@ def process():
 
                 elif name is None:
                     print("Could not extract a name", os.path.join(root, fl))
+                    with open("noname.txt", "a", encoding="utf-8") as f:
+                        f.write(os.path.join(root, fl) + "\n")
                 elif html is None:
                     print("HTML is None", os.path.join(root, fl))
                 elif name + ".pdf" in processed_files:
                     print("Already processed")
+                    with open("nameduplicate.txt", "a", encoding="utf-8") as f:
+                        f.write(os.path.join(root, fl) + "\n")
 
 
 def main():
