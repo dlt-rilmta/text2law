@@ -1,10 +1,10 @@
 #! /usr/bin/env python3
 
+# from pathlib import Path
 import argparse
 import os
 import re
 from glob import glob
-from pathlib import Path
 from bs4 import BeautifulSoup
 from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
@@ -517,28 +517,21 @@ def get_args():
 
     parser = argparse.ArgumentParser()
     parser.add_argument('filepath', help='Path to file', nargs="+")
-    parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
+    parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?',
+                        default='./text2law_output_' + strftime("%Y-%m-%d_%H%M%S", gmtime()))
     parser.add_argument('-s', '--strict', help='To extract only enactment type documents, default is true')
     # the default folder where the output files will be written.
-    basp = 'text2law_output_'  + strftime("%Y-%m-%d_%H%M%S", gmtime())
     args = parser.parse_args()
     # list of filepathes that will be read
     files = []
 
-    if args.filepath:
-        # saving the locacion(s) of input files
-        for p in args.filepath:
-            poss_files = glob(p)
-            poss_files = [os.path.abspath(x) for x in poss_files]
+    # saving the locacion(s) of input files
+    for p in args.filepath:
+        poss_files = glob(p)
+        poss_files = [os.path.abspath(x) for x in poss_files]
+        files += poss_files
 
-            files += poss_files
-    else:
-        files = glob(os.path.join(os.getcwd(), "*.html"))
-
-    if args.directory:
-        basp = os.path.abspath(args.directory)
-
-    return {'dir': basp, 'files': files}
+    return {'dir': args.directory, 'files': files}
 
 
 def process(inp):
