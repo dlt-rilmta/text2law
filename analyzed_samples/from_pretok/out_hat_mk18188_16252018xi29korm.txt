@@ -13,6 +13,7 @@ készfizető	" "
 kezesség	" "
 nyújtásáról	""
 .	"\n"
+
 A	" "
 Kormány	" "
 1.	" "

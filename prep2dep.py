@@ -13,8 +13,9 @@ def tokmod(ls):
     newls = [ls[0]]
     for i, sent in enumerate(ls[1:]):
         # print("sent:", sent)
+        first_word = sent[0].split("\t")[0]
         for char in sent[0]:
-            if char and (sent[0][0].islower() or sent[0].split("\t")[0].isupper() or sent[0][0] in "§("):
+            if char and (sent[0][0].islower() or (len(first_word) > 1 and first_word.isupper()) or sent[0][0] in "§("):
                 newls[-1].extend(sent)
                 break
         else:
