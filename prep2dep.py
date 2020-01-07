@@ -16,7 +16,7 @@ def tokmod(ls):
         first_word = sent[0].split("\t")[0]
         for char in sent[0]:
             # sent[0][0] in "§(" ez nem jó, mert ( -vel kezdődik a bekezdés is
-            if char and (sent[0][0].islower() or (len(first_word) > 1 and first_word.isupper()) or sent[0][0] in "§"):
+            if char and (sent[0][0].islower() or (len(first_word) > 1 and first_word.isupper()) or sent[0][0] == "§"):
                 newls[-1].extend(sent)
                 break
         else:
@@ -26,7 +26,8 @@ def tokmod(ls):
 
 def process(inps, outp):
     pat_num_listing = re.compile(r'(\n *\d{,3}\. +[^§])', re.M)
-    pat_abc_listing = re.compile(r'((?:: *a|(?:\n *[a-z]+)) *\) +(?!pontja).*?[,;.]) *\n', re.M | re.DOTALL)
+    pat_abc_listing = re.compile(r'((?:: *a|(?:(?:;|,|\n) *[a-z]+)) *\) +(?!pontja).*?[,;.])', re.M | re.DOTALL)
+    # pat_abc_listing = re.compile(r'((?:: *a|(?:\n *[a-z]+)) *\) +(?!pontja).*?[,;.]) *\n', re.M | re.DOTALL)
 
     for inp in inps:
         forparse, fl = inp[0], inp[1]
@@ -41,6 +42,7 @@ def process(inps, outp):
             new_sent = []
             new_sents = []
             for j in range(len(sent)-1, -1, -1):
+                # print(sent[j])
                 line = sent[j]
                 new_sent.insert(0, line)
                 elems = line.split("\t")
@@ -52,15 +54,21 @@ def process(inps, outp):
                 # TODO át kell majd adni paraméterben, hogy hány szónál hosszabb mondatokat szedjen szét
                 num_list = pat_num_listing.search(forparse)
                 abc_list = pat_abc_listing.search(forparse)
+                # print(forparse)
                 if num_list or abc_list:
+                    print("\n\n", forparse)
                     new_sent.append(last_line)
+                    print("\nlast_line", last_line)
+                    print(new_sent)
                     last_line = new_sent.pop(0)
                     new_sents.insert(0, new_sent)
                     new_sent = []
                     forparse = last_part
                 elif j == 0:
+                    new_sent.append(last_line)
                     new_txtls.append(new_sent)
                     new_txtls.extend(new_sents)
+            # print(forparse)
 
         # csak teszteléshez
         # count = 0

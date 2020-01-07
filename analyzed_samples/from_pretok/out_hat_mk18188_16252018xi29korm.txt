@@ -74,6 +74,7 @@ az	" "
 mellékletben	" "
 megjelölt	" "
 mértékben	""
+;	"\n"
 
 2.	" "
 úgy	" "
