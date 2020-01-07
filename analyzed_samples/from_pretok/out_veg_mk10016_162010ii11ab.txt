@@ -259,6 +259,7 @@ Ve.	""
 (	""
 2)	" "
 bekezdés	" "
+
 e)	" "
 pontjában	" "
 foglaltaknak	""

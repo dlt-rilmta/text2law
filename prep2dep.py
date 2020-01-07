@@ -25,8 +25,9 @@ def tokmod(ls):
 
 
 def process(inps, outp):
+    # TODO: ; szerint is szétv., de ezt azután lenne érdemes, hogy szám és abc pontok alapj. szét let választva egy rész
     pat_num_listing = re.compile(r'(\n *\d{,3}\. +[^§])', re.M)
-    pat_abc_listing = re.compile(r'((?:: *a|(?:(?:;|,|\n) *[a-z]+)) *\) +(?!pontja).*?[,;.])', re.M | re.DOTALL)
+    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]+)) *\) +(?!pontja).*?[,;.])', re.M | re.DOTALL)
     # pat_abc_listing = re.compile(r'((?:: *a|(?:\n *[a-z]+)) *\) +(?!pontja).*?[,;.]) *\n', re.M | re.DOTALL)
 
     for inp in inps:
