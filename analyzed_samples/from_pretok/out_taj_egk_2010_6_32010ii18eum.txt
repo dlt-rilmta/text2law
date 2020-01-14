@@ -3,7 +3,6 @@ form	wsafter
 (	""
 II.	" "
 18.	""
-
 )	" "
 EüM	" "
 tájékoztatója	" "
@@ -19,7 +18,6 @@ szóló	" "
 (	""
 IV.	" "
 2.	""
-
 )	" "
 NM	" "
 tájékoztató	" "
@@ -51,7 +49,6 @@ szóló	" "
 (	""
 IV.	" "
 2.	""
-
 )	" "
 NM	"\n"
 rendelet	" "

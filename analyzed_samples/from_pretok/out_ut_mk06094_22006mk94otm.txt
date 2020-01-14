@@ -256,7 +256,6 @@ szóló	" "
 (	""
 XII.	" "
 30.	""
-
 )	" "
 Korm.	" "
 rendelet	" "

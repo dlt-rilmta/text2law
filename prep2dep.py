@@ -24,13 +24,13 @@ def tokmod(ls):
             newls.append(sent)
     return newls
 
-
+# továbbiakban:	Ve.)
 def process(inps, outp):
     pat_dot_col = re.compile(r'[;] +[a-zöüóőúéáűí]+[^.)]', re.IGNORECASE)
     pat_rom_w_dot = re.compile(r'[;:.,]\s+[IVXLCDM]+ *\. *[A-ZÖÜÓŐÚÉÁŰÍa-zöüóőúéáűí]')
     pat_paragraph = re.compile(r'(:\s*\d+\. *§ *(?:\(\d+\) *)?[A-ZÖÜÓŐÚÉÁŰÍ])')
     pat_num_listing = re.compile(r'(\n *\d{,3}\. +[^§])', re.M)
-    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]{,3})) *\) +(?!pont).*?[,;.])', re.M | re.DOTALL)
+    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]{1,3})) *\) +(?!pont).*?[,;.])', re.M | re.DOTALL)
 
     for inp in inps:
         forparse, fl = inp[0], inp[1]
@@ -60,9 +60,6 @@ def process(inps, outp):
                 par = pat_paragraph.search(forparse)
                 rom_list = pat_rom_w_dot.search(forparse)
                 dot_col = pat_dot_col.search(forparse)
-                # if not rom_list and dot_col:
-                #     print("\n####", forparse)
-                # print(forparse)
 
                 if par or num_list or abc_list or rom_list or dot_col:
                     # print("\n\n", forparse, num_list, abc_list)
