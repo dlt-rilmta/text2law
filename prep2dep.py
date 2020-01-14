@@ -24,7 +24,7 @@ def tokmod(ls):
             newls.append(sent)
     return newls
 
-# továbbiakban:	Ve.)
+
 def process(inps, outp):
     pat_dot_col = re.compile(r'[;] +[a-zöüóőúéáűí]+[^.)]', re.IGNORECASE)
     pat_rom_w_dot = re.compile(r'[;:.,]\s+[IVXLCDM]+ *\. *[A-ZÖÜÓŐÚÉÁŰÍa-zöüóőúéáűí]')
@@ -77,10 +77,14 @@ def process(inps, outp):
             # print(forparse)
 
         new_txtls[0].extend(new_txtls.pop(1))
+
+        # teszt ellenőrzés: maradék hosszú mondatok eleje
         for sent in new_txtls:
             if len(sent) > 100:
                 with open("long_sents2.txt", "a", encoding="utf-8") as f:
                     print("###################\n", "\n".join(sent), file=f)
+        # teszt ellenőrzés vége
+
         with open(os.path.join(outp, fl), "w", encoding="utf-8", newline="\n") as f:
             for sent in new_txtls:
                 f.write("\n".join(sent).strip() + "\n\n")
