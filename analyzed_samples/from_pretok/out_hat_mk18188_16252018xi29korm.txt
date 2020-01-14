@@ -3,6 +3,7 @@ form	wsafter
 (	""
 XI.	" "
 29.	""
+
 )	" "
 Korm.	" "
 határozata	" "
@@ -35,6 +36,7 @@ továbbiakban	""
 :	"\n"
 MFB	" "
 Zrt.	""
+
 )	" "
 legfeljebb	" "
 55 000 000 000	" "
@@ -55,6 +57,7 @@ továbbiakban	""
 :	" "
 Garantiqa	" "
 Zrt.	""
+
 )	" "
 részére	" "
 az	" "

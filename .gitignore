@@ -128,6 +128,9 @@ from_pretok0113/
 under_mod/
 text2law_output_2019-11-08_202441/
 text2law_output_2020-01-13_153754/
+long_sents.txt
+long_sents2.txt
+rossz-elvalasztas.png
 bad_output_2019-11-08_202441/
 emtsv_outp/
 emtsv_outp_wo_dep/

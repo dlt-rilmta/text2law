@@ -25,25 +25,12 @@ def tokmod(ls):
     return newls
 
 
-# def get_roman_num(token):
-#     ronums = ("I", "V", "X", "L", "C", "D", "M")
-#     ronum = ""
-#     for char in token:
-#         if char in ronums:
-#             ronum += char
-#         elif ronums and char == ".":
-#             return ronum
-#     return None
-
-
 def process(inps, outp):
-    # TODO: ; szerint is szétv., de ezt azután lenne érdemes, hogy szám és abc pontok alapj. szét let választva egy rész
-    # TODO: római számok szerint is szét kéne választani: \.\n[római]\. *[nagybetűk]
-    pat_rom_w_dot = re.compile(r'[:.]\s+[IVXLCDM]+ *\. *[A-ZÖÜÓŐÚÉÁŰÍ]')
+    pat_dot_col = re.compile(r'[;] +[a-zöüóőúéáűí]+[^.)]', re.IGNORECASE)
+    pat_rom_w_dot = re.compile(r'[;:.,]\s+[IVXLCDM]+ *\. *[A-ZÖÜÓŐÚÉÁŰÍa-zöüóőúéáűí]')
     pat_paragraph = re.compile(r'(:\s*\d+\. *§ *(?:\(\d+\) *)?[A-ZÖÜÓŐÚÉÁŰÍ])')
     pat_num_listing = re.compile(r'(\n *\d{,3}\. +[^§])', re.M)
-    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]+)) *\) +(?!pont).*?[,;.])', re.M | re.DOTALL)
-    # pat_abc_listing = re.compile(r'((?:: *a|(?:\n *[a-z]+)) *\) +(?!pontja).*?[,;.]) *\n', re.M | re.DOTALL)
+    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]{,3})) *\) +(?!pont).*?[,;.])', re.M | re.DOTALL)
 
     for inp in inps:
         forparse, fl = inp[0], inp[1]
@@ -72,13 +59,13 @@ def process(inps, outp):
                 abc_list = pat_abc_listing.search(forparse)
                 par = pat_paragraph.search(forparse)
                 rom_list = pat_rom_w_dot.search(forparse)
+                dot_col = pat_dot_col.search(forparse)
+                # if not rom_list and dot_col:
+                #     print("\n####", forparse)
                 # print(forparse)
-                # if is_ronum and char == "." and ronum+".)" not in txt.replace(" ", ""):
-                #     return True
-                # token = sent[j].split("\t")[0]
-                # ronum = get_roman_num(token)
-                if par or num_list or abc_list or rom_list:  # or (ronum and ronum+".)" not in forparse.replace(" ", "")):
-                    # print("\n\n", forparse)
+
+                if par or num_list or abc_list or rom_list or dot_col:
+                    # print("\n\n", forparse, num_list, abc_list)
                     new_sent.append(last_line)
                     # print("\nlast_line", last_line)
                     # print(new_sent)
@@ -93,6 +80,10 @@ def process(inps, outp):
             # print(forparse)
 
         new_txtls[0].extend(new_txtls.pop(1))
+        for sent in new_txtls:
+            if len(sent) > 100:
+                with open("long_sents2.txt", "a", encoding="utf-8") as f:
+                    print("###################\n", "\n".join(sent), file=f)
         with open(os.path.join(outp, fl), "w", encoding="utf-8", newline="\n") as f:
             for sent in new_txtls:
                 f.write("\n".join(sent).strip() + "\n\n")
