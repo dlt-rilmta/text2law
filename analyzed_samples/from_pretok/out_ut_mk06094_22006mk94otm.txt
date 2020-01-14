@@ -6,6 +6,7 @@ form	wsafter
 MK	" "
 94.	""
 )	" "
+
 ÖTM	" "
 utasítása	" "
 az	" "

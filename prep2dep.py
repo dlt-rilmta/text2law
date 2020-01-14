@@ -13,10 +13,11 @@ def tokmod(ls):
     newls = [ls[0]]
     for i, sent in enumerate(ls[1:]):
         # print("sent:", sent)
-        first_word = sent[0].split("\t")[0]
+        # first_word = sent[0].split("\t")[0]
         for char in sent[0]:
             # sent[0][0] in "§(" ez nem jó, mert ( -vel kezdődik a bekezdés is
-            if char and (sent[0][0].islower() or (len(first_word) > 1 and first_word.isupper()) or sent[0][0] == "§"):
+            # (len(first_word) > 1 and first_word.isupper()) or ... -> out_ut_... "ÖTM utasítása" gond
+            if char and (sent[0][0].islower() or sent[0][0] == "§"):
                 newls[-1].extend(sent)
                 break
         else:
@@ -24,10 +25,24 @@ def tokmod(ls):
     return newls
 
 
+# def get_roman_num(token):
+#     ronums = ("I", "V", "X", "L", "C", "D", "M")
+#     ronum = ""
+#     for char in token:
+#         if char in ronums:
+#             ronum += char
+#         elif ronums and char == ".":
+#             return ronum
+#     return None
+
+
 def process(inps, outp):
     # TODO: ; szerint is szétv., de ezt azután lenne érdemes, hogy szám és abc pontok alapj. szét let választva egy rész
+    # TODO: római számok szerint is szét kéne választani: \.\n[római]\. *[nagybetűk]
+    pat_rom_w_dot = re.compile(r'[:.]\s+[IVXLCDM]+ *\. *[A-ZÖÜÓŐÚÉÁŰÍ]')
+    pat_paragraph = re.compile(r'(:\s*\d+\. *§ *(?:\(\d+\) *)?[A-ZÖÜÓŐÚÉÁŰÍ])')
     pat_num_listing = re.compile(r'(\n *\d{,3}\. +[^§])', re.M)
-    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]+)) *\) +(?!pontja).*?[,;.])', re.M | re.DOTALL)
+    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]+)) *\) +(?!pont).*?[,;.])', re.M | re.DOTALL)
     # pat_abc_listing = re.compile(r'((?:: *a|(?:\n *[a-z]+)) *\) +(?!pontja).*?[,;.]) *\n', re.M | re.DOTALL)
 
     for inp in inps:
@@ -55,12 +70,18 @@ def process(inps, outp):
                 # TODO át kell majd adni paraméterben, hogy hány szónál hosszabb mondatokat szedjen szét
                 num_list = pat_num_listing.search(forparse)
                 abc_list = pat_abc_listing.search(forparse)
+                par = pat_paragraph.search(forparse)
+                rom_list = pat_rom_w_dot.search(forparse)
                 # print(forparse)
-                if num_list or abc_list:
-                    print("\n\n", forparse)
+                # if is_ronum and char == "." and ronum+".)" not in txt.replace(" ", ""):
+                #     return True
+                # token = sent[j].split("\t")[0]
+                # ronum = get_roman_num(token)
+                if par or num_list or abc_list or rom_list:  # or (ronum and ronum+".)" not in forparse.replace(" ", "")):
+                    # print("\n\n", forparse)
                     new_sent.append(last_line)
-                    print("\nlast_line", last_line)
-                    print(new_sent)
+                    # print("\nlast_line", last_line)
+                    # print(new_sent)
                     last_line = new_sent.pop(0)
                     new_sents.insert(0, new_sent)
                     new_sent = []
@@ -71,18 +92,6 @@ def process(inps, outp):
                     new_txtls.extend(new_sents)
             # print(forparse)
 
-        # csak teszteléshez
-        # count = 0
-        # for sent in new_txtls:
-        #     forparse = ""
-        #     for line in sent:
-        #         count += 1
-        #         elems = line.split("\t")
-        #         if len(elems) == 2:
-        #             forparse += elems[0] + elems[1].replace("\"", "")
-        #     count += 1
-        #     print("\n", count, forparse)
-        # csak teszteléshez - vége
         new_txtls[0].extend(new_txtls.pop(1))
         with open(os.path.join(outp, fl), "w", encoding="utf-8", newline="\n") as f:
             for sent in new_txtls:
