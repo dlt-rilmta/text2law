@@ -9,9 +9,10 @@ def read(inp):
             yield f.read().replace(u'\xa0', u' ').replace("  ", " "), os.path.basename(fl)
 
 
-def tokmod(ls):
-    newls = [ls[0]]
-    for i, sent in enumerate(ls[1:]):
+def tokmod(txt):
+    txtls = [sent.split("\n") for sent in [sent for sent in txt.split("\n\n")]]
+    newls = [txtls[0]]
+    for i, sent in enumerate(txtls[1:]):
         # print("sent:", sent)
         # first_word = sent[0].split("\t")[0]
         for char in sent[0]:
@@ -22,72 +23,70 @@ def tokmod(ls):
                 break
         else:
             newls.append(sent)
-    return newls
+    return "\n\n".join(["\n".join(sent) for sent in newls])
+
+
+def replmatch(match):
+    punct = match.group(1)
+    replwith = match.group(2).strip()
+    return punct + "\n\n"+replwith
 
 
 def process(inps, outp):
-    pat_dot_col = re.compile(r'[;] +[a-zöüóőúéáűí]+[^.)]', re.IGNORECASE)
-    pat_rom_w_dot = re.compile(r'[;:.,]\s+[IVXLCDM]+ *\. *[A-ZÖÜÓŐÚÉÁŰÍa-zöüóőúéáűí]')
-    pat_paragraph = re.compile(r'(:\s*\d+\. *§ *(?:\(\d+\) *)?[A-ZÖÜÓŐÚÉÁŰÍ])')
-    pat_num_listing = re.compile(r'(\n *\d{,3}\. +[^§])', re.M)
-    pat_abc_listing = re.compile(r'((?:: *a|(?:\W *[a-z]{1,3})) *\) +(?!pont).*?[,;.])', re.M | re.DOTALL)
+    txtlists = []  # ellenőrzéshez
+
+    pat_paragraph = re.compile(r"""
+    ([^\n])(\n\d+\.\t.+?\n
+    §\t.+?\n
+    (?:\(\t.+?\n
+    \d+\)\t.+?\n)?
+    [A-ZÖÜÓŐÚÉÁŰÍ])
+    """, re.VERBOSE)
+
+    pat_num_listing = re.compile(r"""
+    ("\s*\\n\s*")\n
+    (\d{1,3}\.\t.+?\n
+    [^§)])
+    """, re.VERBOSE)
+
+    pat_abc_listing = re.compile(r"""
+    ([^\n])(\n[a-z]{1,3}
+    (?:(?:\)\t.+?\n)|(?:\t.+?\n\)\t.+?\n))
+    (?!pont))
+    """, re.VERBOSE)
+
+    pat_rom_w_dot = re.compile(r"""
+    ([^\n]\n[;:.,]\t.+?)\n
+    ([IVXLCDM]+\.\t.+?\n
+    [A-ZÖÜÓŐÚÉÁŰÍa-zöüóőúéáűí])
+    """, re.VERBOSE)
+
+    pat_dot_col = re.compile(r"""
+    ([^\n]\n[;]\t.+?)\n
+    ([a-zöüóőúéáűí]+[^.)])
+    """, re.VERBOSE | re.IGNORECASE)
 
     for inp in inps:
-        forparse, fl = inp[0], inp[1]
-        txtls = tokmod([sent.split("\n") for sent in [sent for sent in forparse.split("\n\n")]])
-        new_txtls = []
-        for i, sent in enumerate(txtls):
-            if i == 0:
-                new_txtls.append([sent.pop(0)])
-            forparse = last_line = ""
-            if len(sent) == 0:
-                continue
-            new_sent = []
-            new_sents = []
-            for j in range(len(sent)-1, -1, -1):
-                # print(sent[j])
-                line = sent[j]
-                new_sent.insert(0, line)
-                elems = line.split("\t")
-                if len(elems) != 2:
-                    continue
-                last_part = elems[0] + elems[1].replace("\\n", "\n").replace("\"", "")
-                forparse = last_part + forparse
-                # 50 <
-                # TODO át kell majd adni paraméterben, hogy hány szónál hosszabb mondatokat szedjen szét
-                num_list = pat_num_listing.search(forparse)
-                abc_list = pat_abc_listing.search(forparse)
-                par = pat_paragraph.search(forparse)
-                rom_list = pat_rom_w_dot.search(forparse)
-                dot_col = pat_dot_col.search(forparse)
+        forparse, fl = tokmod(inp[0]), inp[1]
 
-                if par or num_list or abc_list or rom_list or dot_col:
-                    # print("\n\n", forparse, num_list, abc_list)
-                    new_sent.append(last_line)
-                    # print("\nlast_line", last_line)
-                    # print(new_sent)
-                    last_line = new_sent.pop(0)
-                    new_sents.insert(0, new_sent)
-                    new_sent = []
-                    forparse = last_part
-                elif j == 0:
-                    new_sent.append(last_line)
-                    new_txtls.append(new_sent)
-                    new_txtls.extend(new_sents)
-            # print(forparse)
-
-        new_txtls[0].extend(new_txtls.pop(1))
-
-        # teszt ellenőrzés: maradék hosszú mondatok eleje
-        for sent in new_txtls:
-            if len(sent) > 100:
-                with open("long_sents2.txt", "a", encoding="utf-8") as f:
-                    print("###################\n", "\n".join(sent), file=f)
-        # teszt ellenőrzés vége
+        forparse = pat_paragraph.sub(replmatch, forparse)
+        forparse = pat_num_listing.sub(replmatch, forparse)
+        forparse = pat_abc_listing.sub(replmatch, forparse)
+        forparse = pat_rom_w_dot.sub(replmatch, forparse)
+        forparse = pat_dot_col.sub(replmatch, forparse)
 
         with open(os.path.join(outp, fl), "w", encoding="utf-8", newline="\n") as f:
-            for sent in new_txtls:
-                f.write("\n".join(sent).strip() + "\n\n")
+            f.write(forparse)
+
+    # teszt ellenőrzés: maradék hosszú mondatok
+        txtls = [sent.split("\n") for sent in [sent for sent in forparse.split("\n\n")]]
+        txtlists.append(txtls)
+    with open("long_sents2.txt", "w", encoding="utf-8") as f:
+        for txtls in txtlists:
+            for sent in txtls:
+                if len(sent) > 100:
+                    print("###################\n", "\n".join(sent), file=f)
+    # teszt ellenőrzés vége
 
 
 def main():

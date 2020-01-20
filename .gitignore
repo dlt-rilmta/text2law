@@ -142,6 +142,7 @@ reduce_emtsvoutp.py
 first_prep2dep.py
 tok_prep2dep.py
 simple_prep2dep.py
+prep2depmod.py
 stopwords.txt
 withouttoc.txt
 rovid_sampl
