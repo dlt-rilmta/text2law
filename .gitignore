@@ -135,6 +135,8 @@ bad_output_2019-11-08_202441/
 emtsv_outp/
 emtsv_outp_wo_dep/
 samples_for_first_prep2dep/
+pretok_convert2conll/
+before_convert2conll/
 .idea/
 __pycache__/
 text2law_next.py

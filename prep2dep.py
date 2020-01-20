@@ -28,7 +28,7 @@ def tokmod(txt):
 
 def replmatch(match):
     punct = match.group(1)
-    replwith = match.group(2).strip()
+    replwith = match.group(2)[1:] if match.group(2)[0] == "\n" else match.group(2)
     return punct + "\n\n"+replwith
 
 
