@@ -130,28 +130,4 @@ venv.bak/
 # Dávid
 .idea/
 __pycache__/
-<<<<<<< HEAD
 ignore/
-=======
-text2law_next.py
-reduce_emtsvoutp.py
-first_prep2dep.py
-tok_prep2dep.py
-simple_prep2dep.py
-prep2depmod.py
-stopwords.txt
-withouttoc.txt
-rovid_sampl
-felsorolasok.txt
-samp_hat_felsorolasok.txt
-samp_hat_mk18075_12532018v30korm.txt
-samp_trv_felsorolasok.txt
-samp_trv_mk17099_2017xc.txt
-samp_rnd_mk09187_2922009xii19korm.txt
-anl_samp_rnd_mk09187_2922009xii19korm.txt
-anl_out_samp_trv_mk17099_2017xc.txt
-anl_simple_out_samp_trv_mk17099_2017xc.txt
-anl_simple_rovid_sampl
-prep2dep_feladatok.txt
-notepad++
->>>>>>> bfbf27a617236c6aa88bc5510ba8df4496e99302
