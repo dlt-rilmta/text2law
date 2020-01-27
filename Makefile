@@ -9,6 +9,10 @@ CONLL_OUTPUT=conll_output
 METADATA_OUTPUT=metadata_output
 FINAL_OUTPUT=final_output
 
+# prep2dep kapcsán
+TOKENIZED_OUTPUT=tokenized_output
+PREP2DEP_OUTPUT=prep2dep_output
+
 EMTSV_REST_URL=http://oliphant.nytud.hu:10001
 
 EMTSV_MODULES=tok,morph,pos,conv-morph,dep,chunk,ner
@@ -23,6 +27,12 @@ EMTSV_MODULES_REST:=$(shell echo $(EMTSV_MODULES) | sed "s/,/\//g")
 # -----
 
 # az egyes dokumentumok elemzése
+# x. prep2dep -> $(PREP2DEP_OUTPUT)/out_$(FILE)
+# ha akarjuk: felvágdossa a hosszú mondatokat, kell neki előtte emtsv/tok
+x-prep2dep:
+	@echo "$(FILE) -- prep2dep"
+	python3 prep2dep.py $(TOKENIZED_OUTPUT)/out_$(FILE) -d $(PREP2DEP_OUTPUT)
+
 # 1. emtsv -> $(EMTSV_OUTPUT)/out_$(FILE)
 1-emtsv:
 	@echo "$(FILE) -- emtsv analysis"
@@ -129,7 +139,7 @@ EMTSV_MODULES_REST:=$(shell echo $(EMTSV_MODULES) | sed "s/,/\//g")
 # -----
 
 backup:
-	tar -czvf marcell-scripts.tar.gz out.investigate* *.sh Makefile *.py INFO marcell_kodok_hasznalata* backup_runnable_20191108
+	tar -czvf marcell-scripts.tar.gz out.investigate* *.sh Makefile *.py marcell_kodok_hasznalata*
 	scpc marcell-scripts.tar.gz
 	rm -f marcell-scripts.tar.gz
 
