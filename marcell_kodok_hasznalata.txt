@@ -36,7 +36,7 @@
 	- Elérési útvonal: halda@oliphant.nytud.hu:/home/halda/marcell/convert2conll.py
 	- Mit csinál: az emtsv kimenetét ConLL-u formátumra alakítja.
 		
-	- Használata: python3 convert2conll.py <input útvonala> -d <output mappa> -p<van-e dependencia-elemzés? [True / False]>
+	- Használata: python3 convert2conll.py <input útvonala> -d <output mappa> -p <van-e dependencia-elemzés? [True / False]>
 	  pl: python3 convert2conll.py emtsv_outp/*.txt -d convert2conll_output
 	  Ha nincs megadva, hogy hova írja ki az outputot, akkor automatikusan a convert2conll_output könyvtárba írja ki.
 	  A -p kapcsoló: default=False, tehát nem számít a dependencia-elemzés oszlopaira.

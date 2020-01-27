@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import re
 import os
 from text2law import get_args
@@ -10,11 +12,14 @@ def read(inp):
 
 
 def tokmod(txt):
+    """
+    :param txt: tokenized input
+
+    Function to merge separated but originally whole sentences in a legislation.
+    """
     txtls = [sent.split("\n") for sent in [sent for sent in txt.split("\n\n")]]
     newls = [txtls[0]]
     for i, sent in enumerate(txtls[1:]):
-        # print("sent:", sent)
-        # first_word = sent[0].split("\t")[0]
         for char in sent[0]:
             # sent[0][0] in "§(" ez nem jó, mert ( -vel kezdődik a bekezdés is
             # (len(first_word) > 1 and first_word.isupper()) or ... -> out_ut_... "ÖTM utasítása" gond
@@ -27,13 +32,29 @@ def tokmod(txt):
 
 
 def replmatch(match):
-    punct = match.group(1)
+    """
+    :param match: match of a regex
+    :return:
+
+    In case of match: cuts a sentence along the match without endmark by putting
+    extra enter in the input txt. So it makes two sentence out of one.
+    """
+    endmark = match.group(1)
     replwith = match.group(2)[1:] if match.group(2)[0] == "\n" else match.group(2)
-    return punct + "\n\n"+replwith
+    return endmark + "\n\n"+replwith
 
 
 def process(inps, outp):
-    txtlists = []  # ellenőrzéshez
+    """
+    :param inps: input files
+    :param outp: output folder
+
+    This function separates sentences along paragraphs and enumerations.
+    Too long sentences will be split avoiding later memory errors during dependency parsing
+    and also avoiding the parsing to take too much time.
+    """
+
+    # txtlists = []  # ellenőrzéshez
 
     pat_paragraph = re.compile(r"""
     ([^\n])(\n\d+\.\t.+?\n
@@ -79,13 +100,13 @@ def process(inps, outp):
             f.write(forparse)
 
     # teszt ellenőrzés: maradék hosszú mondatok
-        txtls = [sent.split("\n") for sent in [sent for sent in forparse.split("\n\n")]]
-        txtlists.append(txtls)
-    with open("long_sents2.txt", "w", encoding="utf-8") as f:
-        for txtls in txtlists:
-            for sent in txtls:
-                if len(sent) > 100:
-                    print("###################\n", "\n".join(sent), file=f)
+    #     txtls = [sent.split("\n") for sent in [sent for sent in forparse.split("\n\n")]]
+    #     txtlists.append(txtls)
+    # with open("long_sents2.txt", "w", encoding="utf-8") as f:
+    #     for txtls in txtlists:
+    #         for sent in txtls:
+    #             if len(sent) > 100:
+    #                 print("###################\n", "\n".join(sent), file=f)
     # teszt ellenőrzés vége
 
 

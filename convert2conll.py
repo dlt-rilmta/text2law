@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import os
 import argparse
 from glob import glob
@@ -26,7 +28,7 @@ def process(inp, is_with_dep):
             id_count = 0
             out_sent = []
             # from: form, anas, lemma, xpostag, upostag, feats, id, deprel, head, _, _, NP-BIO, NER-BIO
-            # to : id, form, lemma, upostag, xpostag, feats, head, deprel, deps, misc, NER-BIO, NP-BIO
+            # to: id, form, lemma, upostag, xpostag, feats, head, deprel, deps, misc, NER-BIO, NP-BIO
             for j, word_attrs in enumerate(sent.split("\n")):
                 col = [elem for elem in word_attrs.split('\t')]
                 if len(col) < {True: 10, False: 7}[is_with_dep]:
@@ -34,7 +36,7 @@ def process(inp, is_with_dep):
 
                 if i+j < 1:
                     # with dep: form, wsafter, anas, lemma, xpostag, upostag, feats, NP-BIO, NER-BIO
-                    # without dep:form, wsafter, anas, lemma, xpostag, upostag, feats, id, deprel, head, NP-BIO, NER-BIO
+                    # without dep: form, wsafter, anas, lemma, xpostag, upostag, feats, id, deprel, head, NP-BIO, NER-BIO
                     iden, form, lemma, upostag, xpostag, feats, head, deprel, deps, misc, ner, np, = \
                         "id", "form", "lemma", "upos", "xpos", "feats", "head", "deprel", \
                         "deps", "misc", "marcell:ne", "marcell:np"
@@ -63,6 +65,11 @@ def process(inp, is_with_dep):
 
 
 def get_args(basp):
+    """
+    :param basp: folder of output
+    :return: 1: folder of output, 2: folder of input, 3: does the input contains dependency parsing or not
+    """
+
     parser = argparse.ArgumentParser()
     parser.add_argument('filepath', help='Path to file', nargs="+")
     parser.add_argument('-d', '--directory', help='Path of output file(s)', nargs='?')
@@ -78,8 +85,6 @@ def get_args(basp):
             poss_files = [os.path.abspath(x) for x in poss_files]
             files += poss_files
             # files += p
-    else:
-        files = glob(os.path.join(os.getcwd(), "*.txt"))
 
     if args.directory:
         basp = os.path.abspath(args.directory)
@@ -88,6 +93,9 @@ def get_args(basp):
 
 
 def main():
+    """
+    usage: python3 convert2conll.py <input> -d <output> -p <does the input contains dependency parsing? [True / False (default)]>
+    """
     basp = 'convert2conll_output_'  # + strftime("%Y-%m-%d_%H%M%S", gmtime())
     args = get_args(basp)
     inp = read(args['files'])
