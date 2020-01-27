@@ -1,6 +1,6 @@
 # Bálint
 out.investigate.*
-SAMPLES_rst*
+SAMPLES*_rst*
 K[0-9]*_rst*
 K.html
 official_text2law_output
@@ -9,10 +9,9 @@ old_experiments
 
 iate_eurovoc.old
 
-SAMPLESp2d_rst*
-SAMPLESp2d0120_rst*
 hibas.txt
 javitott.txt
+long_sents2.txt
 
 # -----
 

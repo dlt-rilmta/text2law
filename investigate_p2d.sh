@@ -27,6 +27,10 @@ EMTSV_MODULES=$4
 # FROM=1
 FROM=$5
 
+# DEP_SWITCH= a "2. konverzió conll formátumra" lépéshez
+DEP_SWITCH=False
+if echo "$EMTSV_MODULES" | grep --silent dep ; then DEP_SWITCH="True" ; fi
+
 # ./investigate.sh official_text2law_output ELTE http://emtsv.duckdns.org:5000 16000
 
 (
@@ -89,6 +93,7 @@ DIR=${RUN_ID}_rst_conll
 echo
 date
 time make 2-conll FILE=$F \
+  DEP_SWITCH=$DEP_SWITCH \
   EMTSV_OUTPUT=$PREVDIR CONLL_OUTPUT=$DIR
 # itt nem kell ln, mert conll/OUT = metadata/IN = out_...conll
 PREVDIR=$DIR

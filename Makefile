@@ -9,6 +9,9 @@ CONLL_OUTPUT=conll_output
 METADATA_OUTPUT=metadata_output
 FINAL_OUTPUT=final_output
 
+# ha van dep elemzés, akkor "True" legyen az értéke
+DEP_SWITCH=False
+
 # prep2dep kapcsán
 TOKENIZED_OUTPUT=tokenized_output
 PREP2DEP_OUTPUT=prep2dep_output
@@ -51,7 +54,7 @@ x-prep2dep:
 # 2. konverzió conll formátumra -> $(CONLL_OUTPUT)/out_$(FILE)
 2-conll:
 	@echo "$(FILE) -- convert to conll"
-	python3 convert2conll.py $(EMTSV_OUTPUT)/out_$(FILE) -d $(CONLL_OUTPUT)
+	python3 convert2conll.py $(EMTSV_OUTPUT)/out_$(FILE) -d $(CONLL_OUTPUT) -p $(DEP_SWITCH)
 
 # 3. metaadatok hozzáadása -> $(METADATA_OUTPUT)/$(FILE:s/.txt/.conll/)
 3-metadata:
