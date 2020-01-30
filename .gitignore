@@ -13,6 +13,17 @@ hibas.txt
 javitott.txt
 long_sents2.txt
 
+hu-corpus-marcell-*
+hu-raw.zip
+hu-annotated.zip
+hu-xml.zip
+hu-stats-20200129.txt
+
+iate_eurovoc_futtatas_diff.sh
+ie_teszt
+marcell-scripts
+radovan_to_xml
+
 # -----
 
 # custom
