@@ -1,0 +1,51 @@
+
+# mindent 0-tól számolunk!!! :)
+
+mark[0] = 1. § 2. § 3. § 4. § ...
+mark[1] = (1) (2) (3) (4) ...
+mark[2] = a) b) c) d) ...
+mark[3] = I. II. III. IV. ...
+mark[4] = 1. 2. 3. 4. ...
+...
+
+level = 0                            # hányadik szinten vagyunk
+
+strc[l] = list                       # l-edik szinten milyen mark van
+
+cursor[l] = list                     # l-edik szinten lévő marktípus
+                                     # hányadik eleménél tartunk
+
+for w in (tokens separated by spaces):
+  if w = mark[m][0]:                 # adott marktípus 0. azaz első eleme!
+    level += 1
+    strc[level] = m
+    cursor[level] = 0
+    annotate( level -> s[l], c[l] )  # megjelöljük a szövegben a cuccot
+
+  elif w = mark[strc[level]][j>0]:   # akt szintű marktípus többedik eleme
+    if j = cursor[level] + 1:
+      cursor[level] += 1             # továbblépünk 1-gyel
+      annotate...
+    else:
+      pass                           # sima szó / itt: kimaradás kezelése XXX
+
+# még ez is összevonható a fölötte lévővel, ti. az az n=0 eset! :) XXX
+  elif w = mark[strc[L]][j>0]:       # MÁS (külsőbb) szintű marktípus többedik eleme
+    L = level - n>0:
+    if j = cursor[L] + 1:
+      level -= n                     # átállunk arra a szintre
+      cursor[level] += 1             # ott továbblépünk 1-gyel
+      cursor[level+k=1..n] = null    # a belsőbb szinteket nullázzuk, tán jó XXX
+      annotate...
+    else:                            # nincs strc-ben -> akkor sima szó!
+      pass                           # sima szó / itt: kimaradás kezelése XXX
+    
+  else:                              # sima szó
+    pass
+
+# #1 verzió: bárhol bármilyen szerkezetet megengedünk
+# #2 verzió: ellenőrizzük, h az egész dok-ban ua-e a szerkezet
+#    -- kell ez? XXX valszeg igen
+#       és a végén output: dok szerkezete
+#       = strc + cursor.history <- utóbbi az annotate-kből állhat össze! XXX :)
+
