@@ -115,12 +115,15 @@ def annotate( word, level, marktype, message ): # XXX lehet, hogy nem is kell a 
   """
   megjelöljük a szövegben a cuccot / vagy legalábbis kiírjuk :)
   """
-  print( "[[\"{}\"=type{}{}@{}={}]]".format(
+  print( "[[F:\"{}\"=type{}{}@{}={}]]".format( # F = full
     word,
     marktype,
     message,
     level,
     '+'.join( "t{}/{}".format( t, i ) for (t, i) in list( zip( strc, cursor ) ) )
+  ), end = ' ' )
+  print( "[[T:{}]]".format( # T = only types at levels
+    '+'.join( "t{}".format( t ) for (t, i) in list( zip( strc, cursor ) ) )
   ), end = ' ' )
 
 for line in sys.stdin:
@@ -138,7 +141,7 @@ for line in sys.stdin:
         cursor.append( 0 )             # XXX tutira a 'level'-edik elem legyen!
         annotate( w, level, m, "/1st" )
       else:
-        annotate( w, level, m, " [sima szó = 'a) a)' eset]" )
+        annotate( w, level, m, "/plainword?a)a)case" )
                                        # XXX kell: a rossz c) a) eset kezelése
 
     elif level > NOLEVEL:
@@ -156,7 +159,7 @@ for line in sys.stdin:
             msg = "/next" if n == 0 else "/next<-up" + str( n )
             annotate( w, level, strc[level], msg )
           else:
-            annotate( w, level, strc[level], " [sima szó? kimaradás?]" ) # nem a következő
+            annotate( w, level, strc[level], "/plainword?gap?" ) # nem a következő
                                        # XXX kell: kimaradás kezelése
                                        # XXX kell: a rossz c) b) eset kezelése
           break
