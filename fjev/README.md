@@ -9,8 +9,9 @@ Kétféle annotációt tartalmaz:
  * "full" = `[[F:...` (teljes leírás)
 
 Az annotációk sosem tartalmaz(hat)nak whitespace-t!
+Mindent 0-tól számozunk!
 
-### "type" leírás
+### "type" annotáció
 
  * `[[T:t0+t1+t2]]`
 azaz: `T:` mint "type" leírás,
@@ -18,6 +19,7 @@ azaz: `T:` mint "type" leírás,
 egy nullás típusú számozón (`t0`) belül
 egy 1-es típusú számozó (`t1`), és azon belül 
 egy 2-es típusú számozó (`t2`).
+Például: `1._§ / (1) / a)` vagy `4._§ / (3) / e)`.
 
 Lényeg:
 _A `[[T:...` leírásokból készített gyaklista egész jól mutatja
@@ -25,8 +27,7 @@ _A `[[T:...` leírásokból készített gyaklista egész jól mutatja
 
 Előállítása: `make freq` -> `out.types.freq`.
 
-
-### "full" leírás
+### "full" annotáció
 
  * `[[F:"b)"=type2/next@2=t0/1+t1/0+t2/1]]`
 azaz: `F:` mint "full" leírás,
@@ -38,10 +39,11 @@ egy "nem első" elem (`next`),
 1-es szinten egy 1-es típusú számozó nullás tagja (`t1/0`), és 
 2-es szinten pedig egy 2-es típusú számozó 1-es tagja (`t2/1`)
 ez a bizonyos `b` az aktuális.
-(Mindent 0-tól számozunk.)
+Azaz konkrétan: `2._§ / (1) / b)`.
 
  * `3._§ [[F:"3._§"=type0/next<-up2@0=t0/2]]`
 Itt annyi van pluszban, hogy a dokumentumban található
 ezt megelőző számozóhoz képest
 2 szintet, mélységet (`<-up2`) kijjebb jöttünk.
+Azaz konkrétan: `3._§`, ami egy `3._§ / (D) / L)` típusú számozó után jön.
 
