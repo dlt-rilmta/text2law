@@ -45,5 +45,5 @@ Azaz konkrétan: `2._§ / (1) / b)`.
 Itt annyi van pluszban, hogy a dokumentumban található
 ezt megelőző számozóhoz képest
 2 szintet, mélységet (`<-up2`) kijjebb jöttünk.
-Azaz konkrétan: `3._§`, ami egy `3._§ / (D) / L)` típusú számozó után jön.
+Azaz konkrétan: `3._§`, ami egy `2._§ / (D) / L)` típusú számozó után jön.
 
