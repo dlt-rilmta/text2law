@@ -1,6 +1,6 @@
 ## fjev = "formális jogi egységekre vagdosás"
 
-használat: `make` hatására előál' az `out` fájlt
+Használat: `make` hatására előál' az `out` fájlt
 a könyvtárban található `hu-*` fájlokból.
 Az `out`-ot lehet nézegetni.
 
@@ -22,6 +22,8 @@ egy 2-es típusú számozó (`t2`).
 Lényeg:
 _A `[[T:...` leírásokból készített gyaklista egész jól mutatja
  a dokumentum szerkezetét!_
+
+Előállítása: `make freq` -> `out.types.freq`.
 
 
 ### "full" leírás
