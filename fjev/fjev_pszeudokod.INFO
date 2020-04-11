@@ -26,27 +26,91 @@ def search_pos( stuff, pos ):
   return index if j-index == pos
   else: return None
   
-#  for ( m, sublist ) in enumerate( mark ):
-#    if sublist[pos] == stuff:
-#      return m
-#  return None
-
 # pl.: "(1)"
-def search_subl( stuff, index ):
+def search_ser( stuff, index ): # XXX XXX XXX
   """
   'stuff'-ot keressük 'mark' (list of lists) 'index'-edik allistájában
   return: az elem indexe (vagy None)
   """
-  rx = marktypes[index]
-  match rx to stuff -> get number -> get j-index (= number-1)
-  return j-index
-  else: return None
+  # XXX totál nem ciklussal kéne, hanem:
+  # XXX x = get_number_from( stuff )
+  # XXX get_mark( index, x )
+  # XXX sztem ez jelentősen gyorsítana!!!
+  for j in range( MAXITEMS ):
+    # XXX vhogy mindenképp le kell korlátozni asszem...
+    # XXX kül végtelen ciklus lesz...
+    # XXX -> kivéve, ha megcsinálom a ciklus nélküli verziót,
+    # XXX    akkor nem kell korlát!!! :)
+    mark = get_mark( index, j ) # XXX if not None...
+    if mark == stuff:
+      return j
+  return None
 
-#  if mark[index] is not None:
-#    for ( j, elem ) in enumerate( mark[index] ):
-#      if elem == stuff:
-#        return j
-#  return None
+-----
+
+# kísérletek a search_seg() gyorsítására/ciklusmentesítésére
+
+import re
+
+# task: get '1' from two peices of info below:
+
+#ptn = "({D})"
+#stf = "(72)"
+ptn = "zaz{R}._FEJEZET"
+stf = "zazXVIII._FEJEZET"
+
+ptn = re.escape( ptn )
+
+print( ptn )
+
+ptn = re.sub( "\\\\{[^}]*\\\\}", "(.*)", ptn )
+
+print( ptn )
+print( stf )
+
+# zaz(.*)\._FEJEZET
+# zazXVIII._FEJEZET
+
+res = re.match( ptn, stf )
+
+print ( res.groups()[0] )
+#print ( res.group() ) # ez nemtom, miért nem jó... :)
+
+exit( 0 )
+
+B = '{'
+E = '}'
+
+pb = 0
+sb = 0
+while True:
+  if ptn[pb] != B and stf[sb] != B:
+    print( ptn[pb] )
+    print( stf[sb] )
+    pb += 1
+    sb += 1
+  else:
+    print( pb )
+    print( sb )
+    # here: pb = sb
+    break
+
+pe = len(ptn)-1
+se = len(stf)-1
+while True:
+  if ptn[pe] != E and stf[se] != E:
+    print( ptn[pe] )
+    print( stf[se] )
+    pe -= 1
+    se -= 1
+  else:
+    print( pe )
+    print( se )
+    # here: len(ptn)-pe = len(stf)-se
+    break
+
+print( "'" + stf[sb:se+1] + "'" )
+
 
 -----
 

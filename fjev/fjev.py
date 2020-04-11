@@ -2,9 +2,9 @@
 import sys
 import re
 
-# mindent 0-tól számolunk!!! :)
-
 # jogszabályok (hierarchikus dokumentumok) szerkezetének feltárása
+
+# mindent 0-tól számolunk!!! :)
 
 NOLEVEL = -1
 level = NOLEVEL                        # hányadik szinten vagyunk
@@ -14,10 +14,29 @@ strc = []                              # l-edik szinten milyen mark van
 cursor = []                            # l-edik szinten lévő marktípus
                                        # hányadik eleménél tartunk
 
+DEBUG = False
+#DEBUG = True
+
+# util
+def dprint(*args, **kwargs):
+  if DEBUG:
+    print(*args, **kwargs)
+
+def eprint(*args, **kwargs):
+  print(*args, file=sys.stderr, **kwargs)
+
+def match_entire( ptn, s ):
+  return re.match( '^' + ptn + '$', s )
+
 # számozók elemeinek lekérdezése/generálása
 def get_D( n ): # 1 2 3 4 ...
   n += 1
   return str( n )
+
+def get_Di( m ):
+  m = int( m )
+  m -= 1
+  return m
 
 def get_L( n ): # a b c d ...
   n += 1
@@ -25,6 +44,12 @@ def get_L( n ): # a b c d ...
     return chr( ord( 'a' ) + n - 1 )
   else:
     return "{{letter#{}}}".format( n ) # XXX jobban? '{{' => '{'
+
+def get_Li( m ):
+  if m.isalpha(): # XXX ez lehet, h [a-z]-n kívül mást is megenged
+    return ord( m ) - ord( 'a' )
+  else:
+    return "{{letter#{}}}".format( m ) # XXX jobban? '{{' => '{'
 
 # XXX ennél azért lehetne jobban :) :)
 def get_R( n ): # I II III IV ...
@@ -41,23 +66,35 @@ def get_R( n ): # I II III IV ...
   if n == 10: return 'X'
   return "{{roman#{}}}".format( n ) # XXX jobban? '{{' => '{'
 
-# számozók
+def get_Ri( m ):
+  if m == 'I':    return 0
+  if m == 'II':   return 1
+  if m == 'III':  return 2
+  if m == 'IV':   return 3
+  if m == 'V':    return 4
+  if m == 'VI':   return 5
+  if m == 'VII':  return 6
+  if m == 'VIII': return 7
+  if m == 'IX':   return 8
+  if m == 'X':    return 9
+  return "{{roman#{}}}".format( m ) # XXX jobban? '{{' => '{'
+
+# számozók: get index -> szám ; get szám -> index
 ntools = {
-  '{D}': get_D,
-  '{L}': get_L,
-  '{R}': get_R
+  '{D}': { 'regex': '[0-9]{1,3}',     'get_mark': get_D, 'get_index': get_Di },
+  '{L}': { 'regex': '[a-z]{1}',       'get_mark': get_L, 'get_index': get_Li },
+  '{R}': { 'regex': '[CDILMVX]{1,8}', 'get_mark': get_R, 'get_index': get_Ri }
 }
-# '{D}': '[0-9]{1,3}'    # arab szám
-# '{L}': '[a-z]{1}'      # betű -- esetleg majd {1,2}
-# '{R}': '[CDILMVX]{1,8} # római szám -- sok számjegy kellhet!
-# XXX hm a regex-ek végül nem is kellenek -- hogyhogy? :)
-# XXX gondolom, mert a get_mark() -kal a konkrét mark-okat hozom elő
+# {D} = arab szám, 3 számjegy sztem elég
+# {L} = betű -- esetleg majd {1,2}
+# {R} = római szám -- sok számjegy kellhet!
 
 # '[(]' -- így tudom escape-elni, mert a '\' vmiért megduplázódik XXX
+# feltesszük, h csak 1 db '{.}' kód van ezekben!
 marktypecodes = [
   '{D}._§',      # 0 '1._§'
-  '({D})',       # 1 '(1)'  XXX hekk!
-  '{L})',        # 2 'a)'   XXX hekk!
+  '({D})',       # 1 '(1)'
+  '{L})',        # 2 'a)'
   '{R}.',        # 3 'I.'
   '{D}.',        # 4 '1.'
   '{D}._cikk',   # 5 '1._cikk'
@@ -67,13 +104,12 @@ marktypecodes = [
 # XXX csak 1 token lehet => preproc_marks.sed alakítja ilyenre
 # XXX egyéb mark-típusok jöhetnének...
 
-# XXX re.compile() által esetleg vhogy gyorsítani...
 def get_mark( m, n ):
   """
   visszaad egy konkrét 'mark'-ot: az 'm' indexű marktype 'n'-edik elemét
   """
   mark = marktypecodes[m]
-  for ( code, func ) in ntools.items():
+  for ( code, func ) in [( k, v['get_mark']) for ( k, v ) in ntools.items()]:
     mark = re.sub( code, func( n ), mark )
   return mark
 
@@ -83,13 +119,12 @@ def search_pos( stuff, pos ):
   'stuff'-ot keressük 'mark' (list of lists) allistáinak 'pos' pozíciójában
   return: az allista indexe (vagy None)
   """
+
   for ( m, c ) in enumerate( marktypecodes ): 
     mark = get_mark( m, pos )
     if mark == stuff:
       return m
   return None
-
-MAXITEMS = 4
 
 # pl.: "(1)"
 def search_ser( stuff, index ): # XXX XXX XXX
@@ -97,20 +132,37 @@ def search_ser( stuff, index ): # XXX XXX XXX
   'stuff'-ot keressük 'mark' (list of lists) 'index'-edik allistájában
   return: az elem indexe (vagy None)
   """
-  # XXX totál nem ciklussal kéne, hanem:
-  # XXX x = get_number_from( stuff )
-  # XXX get_mark( index, x )
-  # XXX sztem ez jelentősen gyorsítana!!!
-  for j in range( MAXITEMS ):
-    # XXX vhogy mindenképp le kell korlátozni asszem...
-    # XXX kül végtelen ciklus lesz...
-    # XXX -> kivéve, ha megcsinálom a ciklus nélküli verziót,
-    # XXX    akkor nem kell korlát!!! :)
-    mark = get_mark( index, j ) # XXX if not None...
-    if mark == stuff:
-      return j
+
+  # task: get 'mark_number' from ptn + stuff:
+  #  ptn                stuff      ->        mark_number
+  #  '({D})'            '(1)'                1
+  #  '({D})'            '(72)'               72
+  #  'zaz{R}._FEJEZET'  'zazXVIII._FEJEZET'  XVIII
+
+  ptn = marktypecodes[index]
+
+  rxptn = re.escape( ptn )
+
+  # a kódok (marktypecodes) miatt ezek visszacseréljük...
+  rxptn = rxptn.replace( "\\{", "{" )
+  rxptn = rxptn.replace( "\\}", "}" )
+
+  for ( code, regex ) in [( k, v['regex']) for ( k, v ) in ntools.items()]:
+    rxptn = re.sub( code, '(' + regex + ')', rxptn ) # XXX replace jobb?
+
+  res = match_entire( rxptn, stuff ) # pl.: \(([0-9]{1,3})\) -> (2)
+
+  if res is not None:
+    mark_number = res.groups()[0]
+
+    for ( code, func ) in [( k, v['get_index']) for ( k, v ) in ntools.items()]:
+      if re.search( code, ptn ): # pl.: {D} -> ({D})
+        # ha a kód megvan: ptn='{D}'code string='({D})'ptn
+        # feltesszük, h csak 1 db kód van benne!!!
+        return func( mark_number )
+
   return None
-       
+
 def annotate( word, level, marktype, message ): # XXX lehet, hogy nem is kell a 'level' param
   """
   megjelöljük a szövegben a cuccot / vagy legalábbis kiírjuk :)
