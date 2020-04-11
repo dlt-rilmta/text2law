@@ -83,7 +83,7 @@ numberers = {
   '{L}': { 'regex': '([a-z]{1})',       'get_mark': get_L, 'get_index': get_Li },
   '{R}': { 'regex': '([CDILMVX]{1,8})', 'get_mark': get_R, 'get_index': get_Ri }
 }
-# {D} = arab szám, 3 számjegy sztem elég
+# {D} = arab szám, 3 számjegy sztem elég, így évszám nem kerül bele :)
 # {L} = betű -- esetleg majd {1,2}
 # {R} = római szám -- sok számjegy kellhet!
 
@@ -190,40 +190,66 @@ for line in sys.stdin:
 
     print( w, end = ' ' )
 
+    found =False
+
     m = search_pos( w, 0 )             # => keres w @ mark-ok 0. helyein
+    # "0-s jelölő"
     if m is not None:                  # adott marktípus 0. azaz első eleme!
+      found = True
+      # "0-s jelölő és nem ua mint 1-gyel följebb"
       if not strc or strc[-1] != m:    # és nem ua marktípus mint 1-gyel följebb,
                                        # azaz nem "a) pont a) pontja" eset
         level += 1
         strc.append( m )               # XXX tutira a 'level'-edik elem legyen!
         cursor.append( 0 )             # XXX tutira a 'level'-edik elem legyen!
         annotate( w, level, m, "/1st" )
+      # "0-s jelölő, de ua mint 1-gyel följebb"
       else:
-        annotate( w, level, m, "/plainw?a)a)case", mode="empty" )
+        annotate( w, None, None, "mt1st2x", mode="empty" )
                                        # XXX kell: a rossz c) a) eset kezelése
 
+    # "nem 0-s jelölő és level>-1"
     elif level > NOLEVEL:
       for n in range( 0, level+1 ):  # akt(n=0) v külsőbb szintű köv elemeket nézzük
                                      # jó a 'level+1' :)
                                      # kb. mert 2-es level == 3 db level 
         L = level - n;
         j = search_ser( w, strc[L] ) # => keres w @ mark-ok adott típusán belül
+        # "megvan az adott mt-ben"
         if j is not None:            # akt(n=0) v külsőbb szintű marktípus többedik eleme
-          if j == cursor[L] + 1:     # és konkrétan a következő!
+          found = True
+          # "... és stimmel is: konkrétan a következő!"
+          if j == cursor[L] + 1:
             level -= n               # átállunk a megf külsőbb szintre
             del strc[level+1:]       # belsőbb szinteket nullázzuk
             del cursor[level+1:]
             cursor[level] += 1       # továbblépünk 1-gyel (a külső szinten)
             msg = "/next" if n == 0 else "/next<-up" + str( n )
             annotate( w, level, strc[level], msg )
+          # "ez a marktípus előfordult már, de az akt nem stimmel és level>-1"
+          # -> valszeg vmi ref lesz / esetleg gap
           else:
-            annotate( w, level, strc[level], "/plainw?gap?ref?", mode="empty" ) # nem a következő
+            annotate( w, None, None, "mt:ok_+_m!ok", mode="empty" ) # nem a következő
                                        # XXX kell: kimaradás kezelése
                                        # XXX kell: a rossz c) b) eset kezelése
           break
 
-    else:                              # sima szó
-      pass
+
+    # alábbit esetleg szebben for/else -zel XXX
+
+    # "nem 0-s jelölő és nincs az előfordult mt-k között"
+    if not found:
+      for ptn in rxptn_marktypes:
+        # "... és mt"
+        # -> valszeg vmi ref lesz XXX
+        if re.match( ptn, w ):
+          annotate( w, None, None, 'mt!first!occur', mode="empty" ) # sima szó??? XXX XXX XXX
+          break
+      # "... és nem is mt"
+      # -> valszeg sima szó lesz XXX
+      else:
+        pass
+        #annotate( w, None, None, '!mt', mode="empty" ) # sima szó
 
   print()
 
