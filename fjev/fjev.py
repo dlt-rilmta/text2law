@@ -1,8 +1,8 @@
 
+# jogszabályok (hierarchikus dokumentumok) szerkezetének feltárása
+
 import sys
 import re
-
-# jogszabályok (hierarchikus dokumentumok) szerkezetének feltárása
 
 # mindent 0-tól számolunk!!! :)
 
@@ -17,13 +17,7 @@ cursor = []                            # l-edik szinten lévő marktípus
 DEBUG = False
 #DEBUG = True
 
-# util
-def dprint(*args, **kwargs):
-  if DEBUG:
-    print(*args, **kwargs)
-
-def eprint(*args, **kwargs):
-  print(*args, file=sys.stderr, **kwargs)
+# ----- CONFIG
 
 # számozók elemeinek lekérdezése/generálása
 def get_D( n ): # 1 2 3 4 ...
@@ -102,7 +96,34 @@ marktypes = [
 # XXX csak 1 token lehet => preproc_marks.sed alakítja ilyenre
 # XXX egyéb mark-típusok jöhetnének...
 
-# megfelelő regexek belőle: '{L})' -> ([a-z]{1})\)
+# ha ez a követő szó, akkor nem vesszük figyelembe a 'mark'-ot, valszeg ref
+mayberef_if_nextword = {
+  'és',
+  'napjától',
+  'számú',
+  'bekezdés.*',
+  'pont.*',
+  'alpont.*',
+  'melléklet.*',
+  'fejezet.*',
+  'törvény.*',
+  'cikk.*'
+}
+
+# --- END OF CONFIG
+
+# util
+def dprint(*args, **kwargs):
+  if DEBUG:
+    print(*args, **kwargs)
+
+def eprint(*args, **kwargs):
+  print(*args, file=sys.stderr, **kwargs)
+
+# regex compile()
+def fsc( regex ): return re.compile( '^' + regex + '$' )
+
+# 'marktypes': '{L})' -> ([a-z]{1})\)
 rxptn_marktypes = []
 for ptn in marktypes:
   rxptn = re.escape( ptn )
@@ -111,8 +132,12 @@ for ptn in marktypes:
   rxptn = rxptn.replace( "\\}", "}" )
   for ( code, regex ) in [( k, v['regex']) for ( k, v ) in numberers.items()]:
     rxptn = rxptn.replace( code, regex )
-  rxptn_marktypes.append( re.compile( '^' + rxptn + '$' ) )
+  rxptn_marktypes.append( fsc( rxptn ) )
 
+# 'mayberef_if_nextword'
+rxptn_mayberef_if_nextword = list( map( fsc, mayberef_if_nextword ) )
+
+# függvények...
 def get_mark( m, n ):
   """
   visszaad egy konkrét 'mark'-ot: az 'm' indexű marktype 'n'-edik elemét
@@ -183,22 +208,6 @@ def annotate( word, level, marktype, message, mode='full' ):
       word,
       message
     ), end = ' ' )
-
-mayberef_if_nextword = {
-  'és',
-  'napjától',
-  'számú',
-  'bekezdés.*',
-  'pont.*',
-  'alpont.*',
-  'melléklet.*',
-  'fejezet.*',
-  'törvény.*',
-  'cikk.*'
-}
-
-def fsc( regex ): return re.compile( '^' + regex + '$' )
-rxptn_mayberef_if_nextword = list( map( fsc, mayberef_if_nextword ) )
 
 for line in sys.stdin:
 
