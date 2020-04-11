@@ -151,13 +151,13 @@ def search_ser( stuff, index ): # XXX XXX XXX
   ptn = marktypes[index]
 
   # compiled regex! :)
-  res = re.match( rxptn_marktypes[index], stuff ) # pl.: ^\(([0-9]{1,3})\)$ -> (2)
+  res = rxptn_marktypes[index].match( stuff ) # pl.: ^\(([0-9]{1,3})\)$ -> (2)
 
   if res is not None:
     mark_number = res.groups()[0]
 
     for ( code, func ) in [( k, v['get_index']) for ( k, v ) in numberers.items()]:
-      if ptn.find( code ) > -1: # pl.: "({D})".find( "{D}" )
+      if code in ptn: # pl.: "{D}" in "({D})" -- menő! :)
         # feltesszük, h csak 1 db kód van benne!!!
         return func( mark_number )
 
@@ -184,31 +184,80 @@ def annotate( word, level, marktype, message, mode='full' ):
       message
     ), end = ' ' )
 
+mayberef_if_nextword = {
+  'és',
+  'napjától',
+  'számú',
+  'bekezdés.*',
+  'pont.*',
+  'alpont.*',
+  'melléklet.*',
+  'fejezet.*',
+  'törvény.*',
+  'cikk.*'
+}
+
+def fsc( regex ): return re.compile( '^' + regex + '$' )
+rxptn_mayberef_if_nextword = list( map( fsc, mayberef_if_nextword ) )
+
 for line in sys.stdin:
 
-  for w in line.split():               # w = tokens sep by spaces
+  # iterate over bigrams to be able to see "next word"
+  ws = line.split()                    # ws = tokens sep by spaces
+  i = -1
+
+  while i < len(ws)-1:
+
+    i += 1
+    w = ws[i]
 
     print( w, end = ' ' )
 
-    found =False
+    nextw = ''
+    if i+1 < len(ws):
+      nextw = ws[i+1]
+
+    is_mark = False
+    if any( ptn.match( w ) for ptn in rxptn_marktypes ):
+      is_mark = True
+
+    # https://stackoverflow.com/questions/3040716
+    # "a köv szó ref-re utal"
+    if any( ptn.match( nextw ) for ptn in rxptn_mayberef_if_nextword ):
+
+      # XXX XXX nem szép, kódismétlés, pont ez van a végén is!!!
+      # "... és mark"
+      # -> valszeg vmi ref lesz XXX
+      if( is_mark ):
+        annotate( w, None, None, 'mayberef<-nextword', mode="empty" ) # köv szó tán ref
+
+      # "... és nem is mark"
+      # -> valszeg sima szó lesz XXX
+      else:
+        pass
+        #annotate( w, None, None, '!mt', mode="empty" ) # sima szó
+
+      continue
+
+    found = False
 
     m = search_pos( w, 0 )             # => keres w @ mark-ok 0. helyein
-    # "0-s jelölő"
+    # "0-s-jelölő"
     if m is not None:                  # adott marktípus 0. azaz első eleme!
       found = True
-      # "0-s jelölő és nem ua mint 1-gyel följebb"
+      # "0-s-jelölő és nem ua mint 1-gyel följebb"
       if not strc or strc[-1] != m:    # és nem ua marktípus mint 1-gyel följebb,
                                        # azaz nem "a) pont a) pontja" eset
         level += 1
         strc.append( m )               # XXX tutira a 'level'-edik elem legyen!
         cursor.append( 0 )             # XXX tutira a 'level'-edik elem legyen!
         annotate( w, level, m, "/1st" )
-      # "0-s jelölő, de ua mint 1-gyel följebb"
+      # "0-s-jelölő, de ua mint 1-gyel följebb"
       else:
         annotate( w, None, None, "mt1st2x", mode="empty" )
                                        # XXX kell: a rossz c) a) eset kezelése
 
-    # "nem 0-s jelölő és level>-1"
+    # "nem 0-s-jelölő és level>-1"
     elif level > NOLEVEL:
       for n in range( 0, level+1 ):  # akt(n=0) v külsőbb szintű köv elemeket nézzük
                                      # jó a 'level+1' :)
@@ -218,7 +267,7 @@ for line in sys.stdin:
         # "megvan az adott mt-ben"
         if j is not None:            # akt(n=0) v külsőbb szintű marktípus többedik eleme
           found = True
-          # "... és stimmel is: konkrétan a következő!"
+          # "... és stimmel is: konkrétan a rákövetkező mark!"
           if j == cursor[L] + 1:
             level -= n               # átállunk a megf külsőbb szintre
             del strc[level+1:]       # belsőbb szinteket nullázzuk
@@ -234,18 +283,17 @@ for line in sys.stdin:
                                        # XXX kell: a rossz c) b) eset kezelése
           break
 
+    # alábbit esetleg szebben for/else -zel XXX <- vmiért nem jó.. (miért?)
 
-    # alábbit esetleg szebben for/else -zel XXX
-
-    # "nem 0-s jelölő és nincs az előfordult mt-k között"
+    # "nem 0-s-jelölő és nincs az előfordult mt-k között"
     if not found:
-      for ptn in rxptn_marktypes:
-        # "... és mt"
-        # -> valszeg vmi ref lesz XXX
-        if re.match( ptn, w ):
-          annotate( w, None, None, 'mt!first!occur', mode="empty" ) # sima szó??? XXX XXX XXX
-          break
-      # "... és nem is mt"
+
+      # "... és mark"
+      # -> valszeg vmi ref lesz XXX
+      if is_mark:
+        annotate( w, None, None, 'mt!first!occur', mode="empty" ) # sima szó??? XXX XXX XXX
+
+      # "... és nem is mark"
       # -> valszeg sima szó lesz XXX
       else:
         pass
