@@ -25,9 +25,6 @@ def dprint(*args, **kwargs):
 def eprint(*args, **kwargs):
   print(*args, file=sys.stderr, **kwargs)
 
-def match_entire( ptn, s ):
-  return re.match( '^' + ptn + '$', s )
-
 # számozók elemeinek lekérdezése/generálása
 def get_D( n ): # 1 2 3 4 ...
   n += 1
@@ -80,10 +77,11 @@ def get_Ri( m ):
   return "{{roman#{}}}".format( m ) # XXX jobban? '{{' => '{'
 
 # számozók: get index -> szám ; get szám -> index
-ntools = {
-  '{D}': { 'regex': '[0-9]{1,3}',     'get_mark': get_D, 'get_index': get_Di },
-  '{L}': { 'regex': '[a-z]{1}',       'get_mark': get_L, 'get_index': get_Li },
-  '{R}': { 'regex': '[CDILMVX]{1,8}', 'get_mark': get_R, 'get_index': get_Ri }
+# mindig legyen benne '(...)', mert csoportként akarjuk felismerni!
+numberers = {
+  '{D}': { 'regex': '([0-9]{1,3})',     'get_mark': get_D, 'get_index': get_Di },
+  '{L}': { 'regex': '([a-z]{1})',       'get_mark': get_L, 'get_index': get_Li },
+  '{R}': { 'regex': '([CDILMVX]{1,8})', 'get_mark': get_R, 'get_index': get_Ri }
 }
 # {D} = arab szám, 3 számjegy sztem elég
 # {L} = betű -- esetleg majd {1,2}
@@ -91,7 +89,7 @@ ntools = {
 
 # '[(]' -- így tudom escape-elni, mert a '\' vmiért megduplázódik XXX
 # feltesszük, h csak 1 db '{.}' kód van ezekben!
-marktypecodes = [
+marktypes = [
   '{D}._§',      # 0 '1._§'
   '({D})',       # 1 '(1)'
   '{L})',        # 2 'a)'
@@ -104,13 +102,24 @@ marktypecodes = [
 # XXX csak 1 token lehet => preproc_marks.sed alakítja ilyenre
 # XXX egyéb mark-típusok jöhetnének...
 
+# megfelelő regexek belőle: '{L})' -> ([a-z]{1})\)
+rxptn_marktypes = []
+for ptn in marktypes:
+  rxptn = re.escape( ptn )
+  # a kódok (marktypes) miatt ezek visszacseréljük...
+  rxptn = rxptn.replace( "\\{", "{" )
+  rxptn = rxptn.replace( "\\}", "}" )
+  for ( code, regex ) in [( k, v['regex']) for ( k, v ) in numberers.items()]:
+    rxptn = rxptn.replace( code, regex )
+  rxptn_marktypes.append( re.compile( '^' + rxptn + '$' ) )
+
 def get_mark( m, n ):
   """
   visszaad egy konkrét 'mark'-ot: az 'm' indexű marktype 'n'-edik elemét
   """
-  mark = marktypecodes[m]
-  for ( code, func ) in [( k, v['get_mark']) for ( k, v ) in ntools.items()]:
-    mark = re.sub( code, func( n ), mark )
+  mark = marktypes[m]
+  for ( code, func ) in [( k, v['get_mark']) for ( k, v ) in numberers.items()]:
+    mark = mark.replace( code, func( n ) )
   return mark
 
 # pl.: "(1)"
@@ -120,7 +129,7 @@ def search_pos( stuff, pos ):
   return: az allista indexe (vagy None)
   """
 
-  for ( m, c ) in enumerate( marktypecodes ): 
+  for ( m, c ) in enumerate( marktypes ): 
     mark = get_mark( m, pos )
     if mark == stuff:
       return m
@@ -139,44 +148,41 @@ def search_ser( stuff, index ): # XXX XXX XXX
   #  '({D})'            '(72)'               72
   #  'zaz{R}._FEJEZET'  'zazXVIII._FEJEZET'  XVIII
 
-  ptn = marktypecodes[index]
+  ptn = marktypes[index]
 
-  rxptn = re.escape( ptn )
-
-  # a kódok (marktypecodes) miatt ezek visszacseréljük...
-  rxptn = rxptn.replace( "\\{", "{" )
-  rxptn = rxptn.replace( "\\}", "}" )
-
-  for ( code, regex ) in [( k, v['regex']) for ( k, v ) in ntools.items()]:
-    rxptn = re.sub( code, '(' + regex + ')', rxptn ) # XXX replace jobb?
-
-  res = match_entire( rxptn, stuff ) # pl.: \(([0-9]{1,3})\) -> (2)
+  # compiled regex! :)
+  res = re.match( rxptn_marktypes[index], stuff ) # pl.: ^\(([0-9]{1,3})\)$ -> (2)
 
   if res is not None:
     mark_number = res.groups()[0]
 
-    for ( code, func ) in [( k, v['get_index']) for ( k, v ) in ntools.items()]:
-      if re.search( code, ptn ): # pl.: {D} -> ({D})
-        # ha a kód megvan: ptn='{D}'code string='({D})'ptn
+    for ( code, func ) in [( k, v['get_index']) for ( k, v ) in numberers.items()]:
+      if ptn.find( code ) > -1: # pl.: "({D})".find( "{D}" )
         # feltesszük, h csak 1 db kód van benne!!!
         return func( mark_number )
 
   return None
 
-def annotate( word, level, marktype, message ): # XXX lehet, hogy nem is kell a 'level' param
+def annotate( word, level, marktype, message, mode='full' ):
   """
   megjelöljük a szövegben a cuccot / vagy legalábbis kiírjuk :)
   """
-  print( "[[F:\"{}\"=type{}{}@{}={}]]".format( # F = full
-    word,
-    marktype,
-    message,
-    level,
-    '+'.join( "t{}/{}".format( t, i ) for (t, i) in list( zip( strc, cursor ) ) )
-  ), end = ' ' )
-  print( "[[T:{}]]".format( # T = only types at levels
-    '+'.join( "t{}".format( t ) for (t, i) in list( zip( strc, cursor ) ) )
-  ), end = ' ' )
+  if mode == 'full':
+    print( "[[F:\"{}\"=type{}{}@{}={}]]".format( # F = full
+      word,
+      marktype,
+      message,
+      level,
+      '+'.join( "t{}/{}".format( t, i ) for (t, i) in list( zip( strc, cursor ) ) )
+    ), end = ' ' )
+    print( "[[T:{}]]".format( # T = only types at levels
+      '+'.join( "t{}".format( t ) for (t, i) in list( zip( strc, cursor ) ) )
+    ), end = ' ' )
+  elif mode == 'empty':
+    print( "[[X:\"{}\"{}]]".format(
+      word,
+      message
+    ), end = ' ' )
 
 for line in sys.stdin:
 
@@ -184,7 +190,7 @@ for line in sys.stdin:
 
     print( w, end = ' ' )
 
-    m = search_pos( w, 0 )             # => w-t keresem mark-ban a 0. helyeken
+    m = search_pos( w, 0 )             # => keres w @ mark-ok 0. helyein
     if m is not None:                  # adott marktípus 0. azaz első eleme!
       if not strc or strc[-1] != m:    # és nem ua marktípus mint 1-gyel följebb,
                                        # azaz nem "a) pont a) pontja" eset
@@ -193,7 +199,7 @@ for line in sys.stdin:
         cursor.append( 0 )             # XXX tutira a 'level'-edik elem legyen!
         annotate( w, level, m, "/1st" )
       else:
-        annotate( w, level, m, "/plainword?a)a)case" )
+        annotate( w, level, m, "/plainw?a)a)case", mode="empty" )
                                        # XXX kell: a rossz c) a) eset kezelése
 
     elif level > NOLEVEL:
@@ -201,7 +207,7 @@ for line in sys.stdin:
                                      # jó a 'level+1' :)
                                      # kb. mert 2-es level == 3 db level 
         L = level - n;
-        j = search_ser( w, strc[L] ) # => w-t keresem mark adott allistájában
+        j = search_ser( w, strc[L] ) # => keres w @ mark-ok adott típusán belül
         if j is not None:            # akt(n=0) v külsőbb szintű marktípus többedik eleme
           if j == cursor[L] + 1:     # és konkrétan a következő!
             level -= n               # átállunk a megf külsőbb szintre
@@ -211,7 +217,7 @@ for line in sys.stdin:
             msg = "/next" if n == 0 else "/next<-up" + str( n )
             annotate( w, level, strc[level], msg )
           else:
-            annotate( w, level, strc[level], "/plainword?gap?" ) # nem a következő
+            annotate( w, level, strc[level], "/plainw?gap?ref?", mode="empty" ) # nem a következő
                                        # XXX kell: kimaradás kezelése
                                        # XXX kell: a rossz c) b) eset kezelése
           break
