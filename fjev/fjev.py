@@ -82,7 +82,7 @@ numberers = {
 # {R} = római szám -- sok számjegy kellhet!
 
 # '[(]' -- így tudom escape-elni, mert a '\' vmiért megduplázódik XXX
-# feltesszük, h csak 1 db '{.}' kód van ezekben!
+# szigorúan feltesszük, h pontosan 1 db '{.}' numberer kód van ezekben!
 marktypes = [
   '{D}._§',      # 0 '1._§'
   '({D})',       # 1 '(1)'
@@ -95,6 +95,14 @@ marktypes = [
 ]
 # XXX csak 1 token lehet => preproc_marks.sed alakítja ilyenre
 # XXX egyéb mark-típusok jöhetnének...
+
+# most meghatározzuk a megfelelő számozókat a jelölőtípusokhoz! :)
+marktype_numberers = []
+for mt in marktypes:
+  for code in numberers:
+    if code in mt: # pl.: "{D}" in "({D})" -- menő! :)
+      marktype_numberers.append( code )
+      break
 
 # ha ez a követő szó, akkor nem vesszük figyelembe a 'mark'-ot, valszeg ref
 mayberef_if_nextword = {
@@ -138,53 +146,55 @@ for ptn in marktypes:
 rxptn_mayberef_if_nextword = list( map( fsc, mayberef_if_nextword ) )
 
 # függvények...
-def get_mark( m, n ):
+def get_mark( index, pos ): # 1, 2
   """
-  visszaad egy konkrét 'mark'-ot: az 'm' indexű marktype 'n'-edik elemét
+  visszaad egy konkrét 'mark'-ot: az 'index'-edik marktype 'pos'-odik elemét
   """
-  mark = marktypes[m]
-  for ( code, func ) in [( k, v['get_mark']) for ( k, v ) in numberers.items()]:
-    mark = mark.replace( code, func( n ) )
+  mt = marktypes[index] # "({D})"
+  mtn = marktype_numberers[index] # "{D}"
+
+  mark = mt.replace( mtn, numberers[mtn]['get_mark']( pos ) )
+  # "(3)" <= get_D( 2 ) = 3
+
   return mark
 
 # pl.: "(1)"
 def search_pos( stuff, pos ):
   """
-  'stuff'-ot keressük 'mark' (list of lists) allistáinak 'pos' pozíciójában
-  return: az allista indexe (vagy None)
+  'stuff'-ot keressük az összes 'marktype' 'pos'-odik pozíciójában
+  return: a marktype indexe (vagy None)
   """
 
-  for ( m, c ) in enumerate( marktypes ): 
-    mark = get_mark( m, pos )
+  for mti in range( len( marktypes ) ): 
+    mark = get_mark( mti, pos )
     if mark == stuff:
-      return m
+      return mti
   return None
 
 # pl.: "(1)"
-def search_ser( stuff, index ): # XXX XXX XXX
+def search_ser( stuff, index ): # "(2)", 1
   """
-  'stuff'-ot keressük 'mark' (list of lists) 'index'-edik allistájában
-  return: az elem indexe (vagy None)
+  'stuff'-ot keressük az 'index'-edik 'marktype'-ben
+  return: az elem indexe ('pos') (vagy None)
   """
 
-  # task: get 'mark_number' from ptn + stuff:
-  #  ptn                stuff      ->        mark_number
+  # task: get 'mark_number' from mt + stuff:
+  #  mt                 stuff      ->        mark_number
   #  '({D})'            '(1)'                1
   #  '({D})'            '(72)'               72
   #  'zaz{R}._FEJEZET'  'zazXVIII._FEJEZET'  XVIII
 
-  ptn = marktypes[index]
+  mt = marktypes[index] # "({D})"
+  mtn = marktype_numberers[index] # "{D}"
 
   # compiled regex! :)
-  res = rxptn_marktypes[index].match( stuff ) # pl.: ^\(([0-9]{1,3})\)$ -> (2)
+  res = rxptn_marktypes[index].match( stuff )
+  # 2 <= ^\(([0-9]{1,3})\)$.match( "(2)" )
 
   if res is not None:
-    mark_number = res.groups()[0]
-
-    for ( code, func ) in [( k, v['get_index']) for ( k, v ) in numberers.items()]:
-      if code in ptn: # pl.: "{D}" in "({D})" -- menő! :)
-        # feltesszük, h csak 1 db kód van benne!!!
-        return func( mark_number )
+    number = res.groups()[0] # 2
+    return numberers[mtn]['get_index']( number )
+    # 1 <= get_Di( 2 )
 
   return None
 
