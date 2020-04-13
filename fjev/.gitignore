@@ -9,7 +9,7 @@ hu___trv_mk17099_2017xc.txt
 
 a
 b
-out.r
+out.old
 out.1line1w
 err
 
@@ -18,6 +18,7 @@ err
 
 letter*
 
-# 0. verzió :)
+# older versions
 fjev_nemteljesenosszevont.py
+fjev_magyarkommentek.py
 
