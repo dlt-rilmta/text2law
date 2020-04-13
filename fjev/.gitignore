@@ -7,14 +7,13 @@ INFO
 
 hu___trv_mk17099_2017xc.txt
 
-a
-b
 out.old
 out.1line1w
 err
 
 *MAXITEMS4
 *unlimited
+out_config_*
 
 letter*
 
