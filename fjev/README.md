@@ -98,9 +98,10 @@ and does not fit into an existing marktype
 
 ### configuration
 
-Currently you have to edit the "CONFIG" part of the script.
+You have to edit `fjev_config.py`.
 
-To modify `marktypes` just edit / add / remove some lines.
+To modify `marktypes` (using existing numberers)
+just edit / add / remove some lines.
 
 To add a new numberer is somewhat more complicated.
 You should add it to the `numberer` dict,
@@ -109,6 +110,4 @@ and also add the corresponding `get_num` and `get_index` functions.
 To modify `mayberef_if_nextword` which contains "next words"
 -- which render current word a plain word
 even if it looks like a mark -- just edit this set.
-
-TODO make configuration a bit more convenient...
 
