@@ -21,14 +21,14 @@ This is something like identifying
 what kind of parts, chapters, sections, subsections are there. 
 It is based mainly on the idea that individual units have
 _consecutive_ numbering. That means, in practice,
-if we have had `Article\_1` yet, so we are inside the first article,
-the coming `Article\_2` will mark the next article,
-but if `Article\_42` is encountered in the text,
-that means something else, usually a reference to another unit. 
+if we have had `Article_1` yet, so we are inside the first article,
+the coming `Article_2` will mark the next article,
+but if `Article_42` is encountered in the text,
+that is probably something else, usually a reference to another unit. 
 The motivation for creating this script was to analyse legislation.
 
 A _mark_ is a token which marks the beginning of a structural unit.
-In law, it can be `Article\_1`, `1.\_§`, or `a)` or something like that.
+In law, it can be `Article_1`, `1._§`, or `a)` or something like that.
 Marks should not contain whitespaces, we use underscores.
 
 A _numberer_ is a kind of counter which numbers the particular units,
