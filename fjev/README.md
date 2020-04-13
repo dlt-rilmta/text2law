@@ -52,7 +52,7 @@ Everything are numbered from zero.
  * `[[T:t0+t1+t2]]`
 i.e. a `T:` = "type" description that says
 that we are currently at a point in the document which is 
-inside a `type2` mark (`t2`)
+inside a type 2 mark (`t2`)
 which is inside a type 1 mark (`t1`)
 which is inside a type 0 mark (`t0`) at last.
 E.g. `1._§ / (1) / a)` or `4._§ / (3) / e)`.
@@ -67,7 +67,7 @@ To create this list type: `make freq` and see `out.types.freq`.
 
  * `[[F:"b)"=type2/next@2=t0/1+t1/0+t2/1]]`
 i.e. a `F:` = "full" description that says
-that `b)` is a type 2 mark, a non-first item (`next`)
+that `b)` is a `type2` mark, a non-first item (`next`)
 at nested level 2 (`@2`)
 and that we are currently at a point in the document which is
 inside a #1 item of type 2 mark (`t2/1`) -- this particular `b)` -- at level 2,
