@@ -70,12 +70,42 @@ def get_Ri( m ):
   if m == 'X':    return 9
   return "{{roman#{}}}".format( m ) # XXX jobban? '{{' => '{'
 
+# XXX ennél azért lehetne jobban :) :)
+def get_T( n ): # ELSŐ MÁSODIK ...
+  n += 1
+  if n ==  1: return 'ELSŐ'
+  if n ==  2: return 'MÁSODIK'
+  if n ==  3: return 'HARMADIK'
+  if n ==  4: return 'NEGYEDIK'
+  if n ==  5: return 'ÖTÖDIK'
+  if n ==  6: return 'HATODIK'
+  if n ==  7: return 'HETEDIK'
+  if n ==  8: return 'NYOLCADIK'
+  if n ==  9: return 'KILENCEDIK'
+  if n == 10: return 'TIZEDIK'
+  return "{{text#{}}}".format( n ) # XXX jobban? '{{' => '{'
+
+def get_Ti( m ):
+  if m == 'ELSŐ':       return 0
+  if m == 'MÁSODIK':    return 1
+  if m == 'HARMADIK':   return 2
+  if m == 'NEGYEDIK':   return 3
+  if m == 'ÖTÖDIK':     return 4
+  if m == 'HATODIK':    return 5
+  if m == 'HETEDIK':    return 6
+  if m == 'NYOLCADIK':  return 7
+  if m == 'KILENCEDIK': return 8
+  if m == 'TIZEDIK':    return 9
+  return "{{text#{}}}".format( m ) # XXX jobban? '{{' => '{'
+
 # számozók: get index -> szám ; get szám -> index
 # mindig legyen benne '(...)', mert csoportként akarjuk felismerni!
 numberers = {
   '{D}': { 'regex': '([0-9]{1,3})',     'get_mark': get_D, 'get_index': get_Di },
   '{L}': { 'regex': '([a-z]{1})',       'get_mark': get_L, 'get_index': get_Li },
-  '{R}': { 'regex': '([CDILMVX]{1,8})', 'get_mark': get_R, 'get_index': get_Ri }
+  '{R}': { 'regex': '([CDILMVX]{1,8})', 'get_mark': get_R, 'get_index': get_Ri },
+  '{T}': { 'regex': '((?:TIZEN|HUSZON|HARMINC|NEGYVEN)?(?:ELSŐ|EGYEDIK|MÁSODIK|KETTEDIK|HARMADIK|NEGYEDIK|ÖTÖDIK|HATODIK|HETEDIK|NYOLCADIK|KILENCEDIK|TIZEDIK))',
+                                        'get_mark': get_T, 'get_index': get_Ti }
 }
 # {D} = arab szám, 3 számjegy sztem elég, így évszám nem kerül bele :)
 # {L} = betű -- esetleg majd {1,2}
@@ -84,13 +114,14 @@ numberers = {
 # '[(]' -- így tudom escape-elni, mert a '\' vmiért megduplázódik XXX
 # szigorúan feltesszük, h pontosan 1 db '{.}' numberer kód van ezekben!
 marktypes = [
-  '{D}._§',      # 0 '1._§'
-  '({D})',       # 1 '(1)'
-  '{L})',        # 2 'a)'
-  '{R}.',        # 3 'I.'
-  '{D}.',        # 4 '1.'
-  '{D}._cikk',   # 5 '1._cikk'
-  '{R}._FEJEZET' # 6 'I._FEJEZET'
+  '{D}._§',        # 0 '1._§'
+  '({D})',         # 1 '(1)'
+  '{L})',          # 2 'a)'
+  '{R}.',          # 3 'I.'
+  '{D}.',          # 4 '1.'
+  '{D}._cikk',     # 5 '1._cikk'
+  '{R}._FEJEZET',  # 6 'I._FEJEZET'
+#  '{T}_RÉSZ'       # 7 'ELSŐ_RÉSZ'
   # ...
 ]
 # XXX csak 1 token lehet => preproc_marks.sed alakítja ilyenre
