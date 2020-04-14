@@ -1,0 +1,48 @@
+
+ide szánt anyag:
+https://docs.google.com/document/d/1cnOF55AKfk36DslxJDJAS9Wu8ZmLWzru-MltIOcylJk
+
+-----
+
+HU
+
+Terminology: mark = a token (or several tokens put together by '_'s) which marks the beginning of a legal structural unit.
+
+Basic Hungarian structure is:
+1._§ / (1) / a)
+[= article ('paragrafus' in Hungarian) / paragraph / point]
+Most entype='law' and entype='regulation' and entype='ordinance' documents (which covers most of our corpus) have this structure.
+
+There can be higher level marks as well, but they are probably not needed for segmentation
+as they tend to be quite large:
+ELSŐ_RÉSZ / I._FEJEZET [= FIRST_PART / I._CHAPTER]
+
+(Hopefully) full list of Hungarian marks (with #n identifiers) is:
+#0 1._§
+#1 (1)
+#2 a)
+#3 I.
+#4 1.
+#5 1._cikk
+#6 I._FEJEZET
+#7 ELSŐ_RÉSZ
+
+Accordingly, the above basic structure is:
+(#7/#6/)#0/#1/#2
+
+There are several other variants beside the basic structure above.
+These variants are often correlated with specific document types.
+E.g. entype='law' and entype='regulaton' is generally: #0/#1/#2
+but can be #6/#1/#2 or #4/#1/#2 or #4/#0/#1;
+entype='ordinance' often has the basic structure as well,
+but can be #3/#1 or #3/#4 or #6/#4;
+entype='decree' has a different structure most of the time:
+#4/#2 or #4/#3 or #3/#4.
+
+Marks in Hungarian legislation can be nested in different ways as we saw above. Consequently, what seems to be the method to be followed is “to allow” any kinds of marks at any point of the text, take all marks into account and examine their nesting patterns.
+
+We investigated the Hungarian corpus using our 'fjev' tool which can separate real marks (which indicate the beginning of a unit) from fake marks (which are usually part of a legal reference) quite well. We think that thank to this tool the hierarchical structure of our corpus (including sub-article division) can be tackled quite reliably.
+See: https://github.com/dlt-rilmta/text2law/tree/master/fjev
+
+(Remark: we have the same confusing "paragraph" term as in Slovakia.)
+
