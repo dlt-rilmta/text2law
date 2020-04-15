@@ -2,7 +2,7 @@
 
 This script explores the structure of hierarchical documents (e.g. law).
 
-### getting started in 5 minutes
+### getting started in 2 minutes
 
 Usage: type `make`. A file called `out` is produced
 processing `hu-*` files in this directory.
@@ -14,11 +14,12 @@ It contains two main kinds of annotation:
 
 Tested on Debian 8.11, works maybe on other linuxes or linux-like environments.
 
-### concepts
+### how does it work
 
-This script attempts to reveal the hierarchical structure of texts.
+This script attempts to reveal the hierarchical structure of raw texts.
 This is something like identifying
 what kind of parts, chapters, sections, subsections are there. 
+A kind of _table-of-contents-generator_ if you like.
 It is based mainly on the idea that individual units have
 _consecutive_ numbering. That means, in practice,
 if we have had `Article_1` yet, so we are inside the first article,
@@ -26,6 +27,8 @@ the coming `Article_2` will mark the next article,
 but if `Article_42` is encountered in the text,
 that is probably something else, usually a reference to another unit. 
 The motivation for creating this script was to analyse legislation.
+
+### concepts
 
 A _mark_ is a token which marks the beginning of a structural unit.
 In law, it can be `Article_1`, `1._§`, or `a)` or something like that.
